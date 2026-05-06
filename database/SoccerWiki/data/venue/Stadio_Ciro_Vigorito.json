@@ -1,0 +1,33 @@
+{
+    "VENUE": "Stadio Ciro Vigorito",
+    "CITY": "Benevento",
+    "TEAM": "Benevento",
+    "CAPACITY": 25000,
+    "VENUE_URL": "https://wikipedia.org/wiki/Stadio_Ciro_Vigorito",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Benevento_BN%2C_Italy_-_panoramio_-_RobyP_%289%29.jpg/120px-Benevento_BN%2C_Italy_-_panoramio_-_RobyP_%289%29.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "ComuneofBenevento",
+            "Capacity": "25,000[1](canbelimitedto16,867forsafetyreasons)",
+            "Location": "Benevento,Italy",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}41°6′59″N14°46′52″E﻿/﻿41.11639°N14.78111°E﻿/41.11639;14.78111",
+            "Former names": "StadioSantaColomba"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "1979",
+            "Broke ground": "1976",
+            "Project manager": "CostantinoRozzi"
+        }
+    },
+    "CONTENT": {
+        "References": {},
+        "External links": "Media related to Stadio Ciro Vigorito at Wikimedia Commons"
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a3/Colosseum-2003-07-09.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7b/Curva_nord_Stadio_Vigorito.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg"
+    ],
+    "SUMMARY": "Stadio Ciro Vigorito (formerly Stadio Santa Colomba) is a multi-use stadium in Benevento, Italy.  It is currently used mostly for football matches and is the home stadium of Benevento Calcio. The stadium is able to hold 25,000 people and was opened in 1979.\nThe stadium was named after Ciro Vigorito, a sports executive, journalist and Italian entrepreneur working in the renewable energy sector."
+}

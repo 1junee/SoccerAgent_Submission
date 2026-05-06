@@ -1,0 +1,35 @@
+{
+    "VENUE": "Sheriff Arena",
+    "CITY": "Tiraspol",
+    "TEAM": "Sheriff Tiraspol",
+    "CAPACITY": 14000,
+    "VENUE_URL": "https://wikipedia.org/wiki/Sheriff_Arena",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Tiraspol_Sheriff_Stadion.JPG/250px-Tiraspol_Sheriff_Stadion.JPG",
+    "INFOBOX": {
+        "": {
+            "Owner": "SheriffTiraspol",
+            "Address": "1/2KarlLiebknechtStreetTiraspolMoldova",
+            "Surface": "Grass",
+            "Capacity": "12,746",
+            "Field size": "106x69m"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Built": "August2000–May2002",
+            "Opened": "July 2002;22 yearsago (2002-07)",
+            "Renovated": "2011;14 yearsago (2011)"
+        }
+    },
+    "CONTENT": {
+        "See also": "Malaya Sportivnaya ArenaSheriff (company)Lists of stadiums",
+        "References": {},
+        "External links": "Official Stadium website (in Russian, English, Romanian)"
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Star_full.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/53/Tiraspol_Sheriff_Stadion.JPG",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg"
+    ],
+    "SUMMARY": "Sheriff Arena (Russian: Главная арена спорткомплекса «Шериф») is home to Sheriff Tiraspol, a football team based in Tiraspol, capital of Transnistria, a breakaway region of Moldova. It is owned by the local Sheriff corporation. It has a capacity of 12,746.\nThe stadium occupies more than 40 hectares and consists of the main field plus five other fields, training fields, a covered indoor arena for winter use as well as a soccer school for children and on-site residences for the players of Sheriff Tiraspol. \nIn June 2022, UEFA ordered that no European games would be permitted to be played in Transnistria, as a direct consequence of the 2022 Russian invasion of Ukraine. Sheriff played all of their home fixtures in the 2022–23 UEFA Europa League and 2022–23 UEFA Europa Conference League at Zimbru Stadium in Chișinău.\n\n"
+}

@@ -1,0 +1,1053 @@
+[
+  {
+    "id": 1,
+    "Q": "How many appearances did this player make in the 2018 FIFA World Cup?",
+    "materials": [
+      "materials/q4/48/1.jpg"
+    ],
+    "O1": "1",
+    "O2": "2",
+    "O3": "3",
+    "O4": "4"
+  },
+  {
+    "id": 5,
+    "Q": "What’s the shirt number of the player in this photo?",
+    "materials": [
+      "materials/q5/1"
+    ],
+    "O1": 59,
+    "O2": 69,
+    "O3": 6,
+    "O4": 96
+  },
+  {
+    "id": 7,
+    "Q": "What is the score reflected in this image of the match?",
+    "materials": [
+      "materials/q6/007201.jpg"
+    ],
+    "O1": "1-2",
+    "O2": "3-4",
+    "O3": "0-4",
+    "O4": "2-1"
+  },
+  {
+    "id": 14,
+    "Q": "Can you tell me the jersey number of the player shown in this image?",
+    "materials": [
+      "materials/q5/6"
+    ],
+    "O1": 20,
+    "O2": 5,
+    "O3": 10,
+    "O4": 15
+  },
+  {
+    "id": 15,
+    "Q": "What time (MM:SS) is visible in the screenshot?",
+    "materials": [
+      "materials/q6/001313.jpg"
+    ],
+    "O1": "54:32",
+    "O2": "58:41",
+    "O3": "43:02",
+    "O4": "46:07"
+  },
+  {
+    "id": 20,
+    "Q": "When was this player born?",
+    "materials": [
+      "materials/q4/11/1.jpg",
+      "materials/q4/11/2.jpg"
+    ],
+    "O1": "17 October 1996",
+    "O2": "18 October 1997",
+    "O3": "17 November 1997",
+    "O4": "17 October 1997"
+  },
+  {
+    "id": 22,
+    "Q": "What is the score visible in this image of the match?",
+    "materials": [
+      "materials/q6/006329.jpg"
+    ],
+    "O1": "0-1",
+    "O2": "1-0",
+    "O3": "0-0",
+    "O4": "0-2"
+  },
+  {
+    "id": 35,
+    "Q": "What is this player's shirt number at América?",
+    "materials": [
+      "materials/q4/73/1.png",
+      "materials/q4/73/2.png"
+    ],
+    "O1": "15",
+    "O2": "20",
+    "O3": "18",
+    "O4": "26"
+  },
+  {
+    "id": 40,
+    "Q": "What exact time is visible in the match screenshot?",
+    "materials": [
+      "materials/q6/006947.jpg"
+    ],
+    "O1": "37:53",
+    "O2": "21:44",
+    "O3": "32:47",
+    "O4": "37:58"
+  },
+  {
+    "id": 43,
+    "Q": "What is this player's ethnic background?",
+    "materials": [
+      "materials/q4/52/1.jpg",
+      "materials/q4/52/2.jpg"
+    ],
+    "O1": "A Brazilian father and a Japanese mother",
+    "O2": "A Nigerian father and a Japanese mother",
+    "O3": "A Japanese father and a Korean mother",
+    "O4": "A Ghanaian father and a Chinese mother"
+  },
+  {
+    "id": 45,
+    "Q": "When did this player sign his first professional contract with Chelsea?",
+    "materials": [
+      "materials/q4/86/1.jpg",
+      "materials/q4/86/2.jpg"
+    ],
+    "O1": "March 2021",
+    "O2": "September 2020",
+    "O3": "June 2019",
+    "O4": "December 2020"
+  },
+  {
+    "id": 70,
+    "Q": "What's the precise minute and second shown here?",
+    "materials": [
+      "materials/q6/023580.jpg"
+    ],
+    "O1": "34:36",
+    "O2": "45:03",
+    "O3": "27:58",
+    "O4": "21:52"
+  },
+  {
+    "id": 71,
+    "Q": "Can you determine the score of the match from this image?",
+    "materials": [
+      "materials/q6/020010.jpg"
+    ],
+    "O1": "1-3",
+    "O2": "3-4",
+    "O3": "2-5",
+    "O4": "3-6"
+  },
+  {
+    "id": 90,
+    "Q": "What's the exact time (minutes:seconds) in the image?",
+    "materials": [
+      "materials/q6/011950.jpg"
+    ],
+    "O1": "47:19",
+    "O2": "65:56",
+    "O3": "61:56",
+    "O4": "70:54"
+  },
+  {
+    "id": 99,
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "materials/q5/2"
+    ],
+    "O1": 36,
+    "O2": 35,
+    "O3": 24,
+    "O4": 37
+  },
+  {
+    "id": 108,
+    "Q": "Which team did this player play for on loan from Sporting CP in 2018–2020?",
+    "materials": [
+      "materials/q4/31/1.jpg"
+    ],
+    "O1": "Porto",
+    "O2": "Braga",
+    "O3": "Benfica",
+    "O4": "Rio Ave"
+  },
+  {
+    "id": 117,
+    "Q": "Could you tell me the score of the match from this image?",
+    "materials": [
+      "materials/q6/021679.jpg"
+    ],
+    "O1": "2-1",
+    "O2": "4-1",
+    "O3": "2-3",
+    "O4": "2-0"
+  },
+  {
+    "id": 124,
+    "Q": "How many appearances did this player make for Serbia U19?",
+    "materials": [
+      "materials/q4/34/1.jpg",
+      "materials/q4/34/2.jpg"
+    ],
+    "O1": "10",
+    "O2": "12",
+    "O3": "18",
+    "O4": "15"
+  },
+  {
+    "id": 126,
+    "Q": "When did this player make his international debut for Austria?",
+    "materials": [
+      "materials/q4/21/1.jpg",
+      "materials/q4/21/2.jpg"
+    ],
+    "O1": "15 October 2019 in a friendly match against Slovenia",
+    "O2": "10 September 2019 in a Euro 2020 qualifier against Poland",
+    "O3": "7 June 2020 in a Nations League match against Romania",
+    "O4": "19 November 2019 in a Euro 2020 qualifier against Latvia"
+  },
+  {
+    "id": 132,
+    "Q": "Against which team did this player score a brace on 8 December 2020?",
+    "materials": [
+      "materials/q4/41/1.jpg",
+      "materials/q4/41/2.jpg"
+    ],
+    "O1": "Colo-Colo",
+    "O2": "Universidad de Chile",
+    "O3": "O'Higgins",
+    "O4": "Huachipato"
+  },
+  {
+    "id": 135,
+    "Q": "What was significant about this player's first game at Celta Vigo?",
+    "materials": [
+      "materials/q4/6/1.jpg",
+      "materials/q4/6/2.jpg"
+    ],
+    "O1": "He scored the winning goal against Real Madrid at Santiago Bernabéu.",
+    "O2": "He completed the entire 90 minutes against FC Barcelona at Camp Nou on 22 December 2018.",
+    "O3": "He made his debut as a substitute in a home match against Sevilla.",
+    "O4": "He received a red card in the 75th minute against Atlético Madrid."
+  },
+  {
+    "id": 157,
+    "Q": "What's the MM:SS time visible in this screenshot?",
+    "materials": [
+      "materials/q6/007776.jpg"
+    ],
+    "O1": "27:56",
+    "O2": "25:42",
+    "O3": "15:53",
+    "O4": "30:11"
+  },
+  {
+    "id": 163,
+    "Q": "How many appearances did this player make for Paykan in the 2017-2018 season?",
+    "materials": [
+      "materials/q4/38/1.jpg",
+      "materials/q4/38/2.jpg",
+      "materials/q4/38/3.jpg"
+    ],
+    "O1": "10",
+    "O2": "15",
+    "O3": "8",
+    "O4": "12"
+  },
+  {
+    "id": 165,
+    "Q": "How many La Liga goals did this player score in his career?",
+    "materials": [
+      "materials/q4/94/1.jpg"
+    ],
+    "O1": "15 goals",
+    "O2": "18 goals",
+    "O3": "22 goals",
+    "O4": "25 goals"
+  },
+  {
+    "id": 166,
+    "Q": "What is the score reflected in this image of the match?",
+    "materials": [
+      "materials/q6/003939.jpg"
+    ],
+    "O1": "1-2",
+    "O2": "2-1",
+    "O3": "1-0",
+    "O4": "3-2"
+  },
+  {
+    "id": 174,
+    "Q": "How many appearances did this player make for Eintracht Frankfurt?",
+    "materials": [
+      "materials/q4/70/1.JPG",
+      "materials/q4/70/2.JPG"
+    ],
+    "O1": "28 appearances",
+    "O2": "35 appearances",
+    "O3": "42 appearances",
+    "O4": "50 appearances"
+  },
+  {
+    "id": 184,
+    "Q": "Where was this player born?",
+    "materials": [
+      "materials/q4/75/1.jpg",
+      "materials/q4/75/2.jpg"
+    ],
+    "O1": "Kyiv, Ukraine",
+    "O2": "Andriivka, Poltava Oblast, Ukraine",
+    "O3": "Kharkiv, Ukraine",
+    "O4": "Lviv, Ukraine"
+  },
+  {
+    "id": 185,
+    "Q": "How many yellow cards have been shown so far in the image shows of the Ligue 1 match between Toulouse and Clermont where Clermont leads 1-0?",
+    "materials": [
+      "materials/q6/017210.jpg"
+    ],
+    "O1": "5 yellow cards.",
+    "O2": "3 yellow cards.",
+    "O3": "4 yellow cards.",
+    "O4": "6 yellow cards."
+  },
+  {
+    "id": 189,
+    "Q": "Which youth club did this player play for?",
+    "materials": [
+      "materials/q4/12/1.jpg",
+      "materials/q4/12/2.jpg"
+    ],
+    "O1": "AS Monaco",
+    "O2": "Olympique Lyonnais",
+    "O3": "Stade Rennais",
+    "O4": "Paris Saint-Germain"
+  },
+  {
+    "id": 191,
+    "Q": "At what time (MM:SS) was this screenshot taken?",
+    "materials": [
+      "materials/q6/022778.jpg"
+    ],
+    "O1": "72:52",
+    "O2": "49:47",
+    "O3": "64:36",
+    "O4": "77:15"
+  },
+  {
+    "id": 195,
+    "Q": "Which team did this player play for from 2017 to 2019?",
+    "materials": [
+      "materials/q4/84/1.jpg",
+      "materials/q4/84/2.jpg",
+      "materials/q4/84/3.jpg"
+    ],
+    "O1": "Dynamo Moscow",
+    "O2": "Zenit Saint Petersburg",
+    "O3": "CSKA Moscow",
+    "O4": "Lokomotiv Moscow"
+  },
+  {
+    "id": 196,
+    "Q": "Which team did this player play for before joining Celtic?",
+    "materials": [
+      "materials/q4/90/1.jpg"
+    ],
+    "O1": "FC Seoul",
+    "O2": "Jeonbuk Hyundai Motors",
+    "O3": "Ulsan Hyundai",
+    "O4": "Suwon Samsung Bluewings"
+  },
+  {
+    "id": 200,
+    "Q": "What was this player's first league match as manager of Schalke 04?",
+    "materials": [
+      "materials/q4/42/1.jpg",
+      "materials/q4/42/2.jpg",
+      "materials/q4/42/3.jpg"
+    ],
+    "O1": "A 2–1 loss to Bayern Munich",
+    "O2": "A 1–1 draw against Borussia Dortmund",
+    "O3": "A 2–0 win over VfB Stuttgart",
+    "O4": "A 3–0 win at SV Werder Bremen"
+  },
+  {
+    "id": 201,
+    "Q": "What was the reason for this player's absence after the UEFA Europa League semi-final in 2016?",
+    "materials": [
+      "materials/q4/99/1.JPG"
+    ],
+    "O1": "He suffered a hamstring injury",
+    "O2": "He underwent knee surgery",
+    "O3": "He was suspended due to a red card",
+    "O4": "He contracted a viral infection"
+  },
+  {
+    "id": 204,
+    "Q": "Which month did this player win Eredivisie Player of the Month in 2023?",
+    "materials": [
+      "materials/q4/82/1.jpg"
+    ],
+    "O1": "October 2023",
+    "O2": "November 2023",
+    "O3": "January 2024",
+    "O4": "December 2023"
+  },
+  {
+    "id": 207,
+    "Q": "From this image, can you tell the current score of the match?",
+    "materials": [
+      "materials/q6/015842.jpg"
+    ],
+    "O1": "2-0",
+    "O2": "0-0",
+    "O3": "0-2",
+    "O4": "1-0"
+  },
+  {
+    "id": 209,
+    "Q": "In which match did this player make his national team debut?",
+    "materials": [
+      "materials/q4/55/1.jpg",
+      "materials/q4/55/2.jpg",
+      "materials/q4/55/3.jpg"
+    ],
+    "O1": "The UEFA Nations League match against France on 14 November 2021",
+    "O2": "The World Cup qualifier against Sweden on 9 October 2021",
+    "O3": "The friendly match against Poland on 29 March 2022",
+    "O4": "The friendly match against Uzbekistan on 5 September 2021"
+  },
+  {
+    "id": 222,
+    "Q": "What number is the player wearing in the picture?",
+    "materials": [
+      "materials/q5/4"
+    ],
+    "O1": 5,
+    "O2": 6,
+    "O3": 8,
+    "O4": 7
+  },
+  {
+    "id": 225,
+    "Q": "Please tell me the current score of the match from this image.",
+    "materials": [
+      "materials/q6/000096.jpg"
+    ],
+    "O1": "1-2",
+    "O2": "0-2",
+    "O3": "2-0",
+    "O4": "0-0"
+  },
+  {
+    "id": 226,
+    "Q": "What's the precise minute and second shown here?",
+    "materials": [
+      "materials/q6/005069.jpg"
+    ],
+    "O1": "49:00",
+    "O2": "49:42",
+    "O3": "44:57",
+    "O4": "40:51"
+  },
+  {
+    "id": 228,
+    "Q": "When was this player born?",
+    "materials": [
+      "materials/q4/83/1.png"
+    ],
+    "O1": "14 March 1998",
+    "O2": "16 February 1999",
+    "O3": "12 January 2000",
+    "O4": "18 April 1997"
+  },
+  {
+    "id": 233,
+    "Q": "How many goals did this player score for Nice?",
+    "materials": [
+      "materials/q4/43/1.JPG",
+      "materials/q4/43/2.JPG"
+    ],
+    "O1": "3 goals",
+    "O2": "7 goals",
+    "O3": "5 goals",
+    "O4": "4 goals"
+  },
+  {
+    "id": 240,
+    "Q": "How many international youth appearances has this player made in total?",
+    "materials": [
+      "materials/q4/46/1.jpg",
+      "materials/q4/46/2.jpg"
+    ],
+    "O1": "15 (10 for Serbia U17 and 5 for Serbia U19)",
+    "O2": "18 (11 for Serbia U17 and 7 for Serbia U19)",
+    "O3": "20 (12 for Serbia U17 and 8 for Serbia U19)",
+    "O4": "16 (9 for Serbia U17 and 7 for Serbia U19)"
+  },
+  {
+    "id": 242,
+    "Q": "How many caps has this player earned for the England national team as of the provided information?",
+    "materials": [
+      "materials/q4/57/1.png"
+    ],
+    "O1": "3 caps",
+    "O2": "5 caps",
+    "O3": "7 caps",
+    "O4": "10 caps"
+  },
+  {
+    "id": 243,
+    "Q": "What's the current match minute in the image?",
+    "materials": [
+      "materials/q6/020626.jpg"
+    ],
+    "O1": "69 minutes",
+    "O2": "68 minutes",
+    "O3": "83 minutes",
+    "O4": "90 minutes"
+  },
+  {
+    "id": 252,
+    "Q": "Which club did this player join after leaving FC Luzern?",
+    "materials": [
+      "materials/q4/63/1.jpg",
+      "materials/q4/63/2.jpg",
+      "materials/q4/63/3.jpg"
+    ],
+    "O1": "FC Basel",
+    "O2": "Atalanta B.C.",
+    "O3": "Eintracht Frankfurt",
+    "O4": "Sevilla FC"
+  },
+  {
+    "id": 258,
+    "Q": "What is the player’s shirt number in this photo?",
+    "materials": [
+      "materials/q5/15"
+    ],
+    "O1": 8,
+    "O2": 5,
+    "O3": 7,
+    "O4": 10
+  },
+  {
+    "id": 261,
+    "Q": "How many corners have Aston Villa won so far in the image shows of their match against Leeds in the 2020-21 season where Anwar El-Ghazi scored the opening goal?",
+    "materials": [
+      "materials/q6/008636.jpg"
+    ],
+    "O1": "4",
+    "O2": "5",
+    "O3": "6",
+    "O4": "7"
+  },
+  {
+    "id": 272,
+    "Q": "What’s the player's jersey number in this picture?",
+    "materials": [
+      "materials/q5/7"
+    ],
+    "O1": 12,
+    "O2": 9,
+    "O3": 5,
+    "O4": 20
+  },
+  {
+    "id": 289,
+    "Q": "How many goals did this player score for Ipswich Town in the 2020–21 season?",
+    "materials": [
+      "materials/q4/92/1.jpeg",
+      "materials/q4/92/2.jpg",
+      "materials/q4/92/3.jpeg"
+    ],
+    "O1": "3",
+    "O2": "The text does not specify the number of goals Flynn Downes scored for Ipswich Town in the 2020–21 season.",
+    "O3": "1",
+    "O4": "5"
+  },
+  {
+    "id": 290,
+    "Q": "When was this player born?",
+    "materials": [
+      "materials/q4/64/1.jpg",
+      "materials/q4/64/2.jpg"
+    ],
+    "O1": "July 15, 1993",
+    "O2": "June 29, 1994",
+    "O3": "May 12, 1995",
+    "O4": "August 3, 1992"
+  },
+  {
+    "id": 294,
+    "Q": "From this image, can you determine the score of the match?",
+    "materials": [
+      "materials/q6/012972.jpg"
+    ],
+    "O1": "1-2",
+    "O2": "2-3",
+    "O3": "0-3",
+    "O4": "2-1"
+  },
+  {
+    "id": 295,
+    "Q": "How many goals did this player score for the Italy national team?",
+    "materials": [
+      "materials/q4/49/1.jpg"
+    ],
+    "O1": "5",
+    "O2": "3",
+    "O3": "7",
+    "O4": "10"
+  },
+  {
+    "id": 299,
+    "Q": "Could you tell me the score of the match from this image?",
+    "materials": [
+      "materials/q6/014312.jpg"
+    ],
+    "O1": "0-1",
+    "O2": "1-1",
+    "O3": "0-2",
+    "O4": "3-1"
+  },
+  {
+    "id": 303,
+    "Q": "Which competition did this player reach the final of with Oxford United in the 2015–16 season?",
+    "materials": [
+      "materials/q4/100/1.jpg",
+      "materials/q4/100/2.jpg"
+    ],
+    "O1": "FA Cup",
+    "O2": "League One Playoffs",
+    "O3": "EFL Cup",
+    "O4": "Football League Trophy"
+  },
+  {
+    "id": 305,
+    "Q": "In which match was this player sent off during his time at RB Leipzig?",
+    "materials": [
+      "materials/q4/50/1.jpg",
+      "materials/q4/50/2.jpg",
+      "materials/q4/50/3.jpg"
+    ],
+    "O1": "A match against Borussia Dortmund on 15 September 2018",
+    "O2": "A match against Bayern Munich on 19 December 2018",
+    "O3": "A match against Bayer Leverkusen on 10 November 2018",
+    "O4": "A match against Schalke 04 on 3 February 2019"
+  },
+  {
+    "id": 316,
+    "Q": "Based on this image, what is the current score of the match?",
+    "materials": [
+      "materials/q6/023361.jpg"
+    ],
+    "O1": "0-3",
+    "O2": "1-1",
+    "O3": "2-3",
+    "O4": "0-1"
+  },
+  {
+    "id": 317,
+    "Q": "What is the total number of senior appearances this player made in his career?",
+    "materials": [
+      "materials/q4/36/1.jpg",
+      "materials/q4/36/2.png",
+      "materials/q4/36/3.jpg",
+      "materials/q4/36/4.png",
+      "materials/q4/36/5.jpg",
+      "materials/q4/36/6.jpg"
+    ],
+    "O1": "582",
+    "O2": "601",
+    "O3": "635",
+    "O4": "618"
+  },
+  {
+    "id": 321,
+    "Q": "Which club did this player join after leaving Fenerbahçe?",
+    "materials": [
+      "materials/q4/4/1.jpg",
+      "materials/q4/4/2.jpg",
+      "materials/q4/4/3.jpg",
+      "materials/q4/4/4.JPG",
+      "materials/q4/4/5.jpg",
+      "materials/q4/4/6.jpg",
+      "materials/q4/4/7.jpg"
+    ],
+    "O1": "Galatasaray",
+    "O2": "İstanbul Başakşehir",
+    "O3": "Beşiktaş",
+    "O4": "Trabzonspor"
+  },
+  {
+    "id": 326,
+    "Q": "Which national youth teams did this player represent?",
+    "materials": [
+      "materials/q4/68/1.jpg",
+      "materials/q4/68/2.jpg"
+    ],
+    "O1": "Mexico U17 (2005–2006) and Mexico U20 (2006–2007)",
+    "O2": "Mexico U20 (2006–2007) and Mexico U23 (2007–2008)",
+    "O3": "Mexico U23 (2007–2008) and Mexico U21 (2008–2009)",
+    "O4": "Mexico U19 (2005–2006) and Mexico U22 (2007–2008)"
+  },
+  {
+    "id": 332,
+    "Q": "How many assists did this player provide in the 2014–15 Croatian First Football League?",
+    "materials": [
+      "materials/q4/93/1.jpg",
+      "materials/q4/93/2.jpg"
+    ],
+    "O1": "12",
+    "O2": "15",
+    "O3": "18",
+    "O4": "10"
+  },
+  {
+    "id": 335,
+    "Q": "What was this player's first goal for Spain's senior team?",
+    "materials": [
+      "materials/q4/8/1.jpg"
+    ],
+    "O1": "Against Portugal in November 2008",
+    "O2": "Against France in June 2010",
+    "O3": "Against Italy in March 2009",
+    "O4": "Against Estonia in September 2009"
+  },
+  {
+    "id": 337,
+    "Q": "Please judge the current score of the match based on this image.",
+    "materials": [
+      "materials/q6/019945.jpg"
+    ],
+    "O1": "3-1",
+    "O2": "1-0",
+    "O3": "2-0",
+    "O4": "3-2"
+  },
+  {
+    "id": 338,
+    "Q": "Can you tell me the number on the player's kit in this picture?",
+    "materials": [
+      "materials/q5/20"
+    ],
+    "O1": 8,
+    "O2": 10,
+    "O3": 11,
+    "O4": 9
+  },
+  {
+    "id": 343,
+    "Q": "What minute is the game in according to the image?",
+    "materials": [
+      "materials/q6/005317.jpg"
+    ],
+    "O1": "79 minutes",
+    "O2": "72 minutes",
+    "O3": "73 minutes",
+    "O4": "81 minutes"
+  },
+  {
+    "id": 348,
+    "Q": "How long was this player's contract with Zrinjski Mostar?",
+    "materials": [
+      "materials/q4/27/1.jpg",
+      "materials/q4/27/2.jpg"
+    ],
+    "O1": "One year",
+    "O2": "Three years",
+    "O3": "Six months",
+    "O4": "Two years"
+  },
+  {
+    "id": 350,
+    "Q": "What's the time in MM:SS format shown here?",
+    "materials": [
+      "materials/q6/007683.jpg"
+    ],
+    "O1": "61:45",
+    "O2": "73:25",
+    "O3": "68:55",
+    "O4": "77:29"
+  },
+  {
+    "id": 358,
+    "Q": "What’s the number displayed on the player's shirt in this picture?",
+    "materials": [
+      "materials/q5/13"
+    ],
+    "O1": 7,
+    "O2": 4,
+    "O3": 3,
+    "O4": 5
+  },
+  {
+    "id": 361,
+    "Q": "How many appearances did this player make for Al-Gharafa during his loan spell in 2018?",
+    "materials": [
+      "materials/q4/24/1.jpg",
+      "materials/q4/24/2.jpg",
+      "materials/q4/24/3.jpg"
+    ],
+    "O1": "5",
+    "O2": "7",
+    "O3": "10",
+    "O4": "12"
+  },
+  {
+    "id": 373,
+    "Q": "Which club did this player join on loan in 2011?",
+    "materials": [
+      "materials/q4/65/1.jpg"
+    ],
+    "O1": "Walsall",
+    "O2": "Shrewsbury Town",
+    "O3": "Crewe Alexandra",
+    "O4": "Port Vale"
+  },
+  {
+    "id": 385,
+    "Q": "What jersey number did this player choose upon returning to Montpellier in 2023?",
+    "materials": [
+      "materials/q4/78/1.jpg",
+      "materials/q4/78/2.JPG",
+      "materials/q4/78/3.jpg"
+    ],
+    "O1": "30",
+    "O2": "40",
+    "O3": "16",
+    "O4": "1"
+  },
+  {
+    "id": 394,
+    "Q": "In which year did this player mutually terminate his contract with Troyes?",
+    "materials": [
+      "materials/q4/88/1.png",
+      "materials/q4/88/2.png"
+    ],
+    "O1": "July 2022",
+    "O2": "December 2022",
+    "O3": "May 2023",
+    "O4": "August 2023"
+  },
+  {
+    "id": 396,
+    "Q": "Which senior team has this player been a part of since 2015?",
+    "materials": [
+      "materials/q4/58/1.jpg",
+      "materials/q4/58/2.jpg"
+    ],
+    "O1": "Bayern Munich",
+    "O2": "Borussia Dortmund",
+    "O3": "VfB Stuttgart",
+    "O4": "TSG Hoffenheim"
+  },
+  {
+    "id": 400,
+    "Q": "Which Romanian club did this player return to in 2023?",
+    "materials": [
+      "materials/q4/74/1.jpg",
+      "materials/q4/74/2.jpg",
+      "materials/q4/74/3.jpg",
+      "materials/q4/74/4.jpg"
+    ],
+    "O1": "Dinamo București",
+    "O2": "FCSB",
+    "O3": "CFR Cluj",
+    "O4": "Universitatea Craiova"
+  },
+  {
+    "id": 406,
+    "Q": "Where was this player born?",
+    "materials": [
+      "materials/q4/80/1.jpg",
+      "materials/q4/80/2.jpg"
+    ],
+    "O1": "Salzburg, Austria",
+    "O2": "Linz, Austria",
+    "O3": "Vienna, Austria",
+    "O4": "Graz, Austria"
+  },
+  {
+    "id": 411,
+    "Q": "What is the score of the match displayed in this image?",
+    "materials": [
+      "materials/q6/009803.jpg"
+    ],
+    "O1": "0-1",
+    "O2": "0-0",
+    "O3": "1-2",
+    "O4": "1-0"
+  },
+  {
+    "id": 413,
+    "Q": "When did this player make his senior career debut for Schalke 04?",
+    "materials": [
+      "materials/q4/10/1.jpg",
+      "materials/q4/10/2.jpg",
+      "materials/q4/10/3.jpg"
+    ],
+    "O1": "2005",
+    "O2": "2006",
+    "O3": "2007",
+    "O4": "2008"
+  },
+  {
+    "id": 418,
+    "Q": "How many shots on target has VfB Stuttgart had so far in the image shows during their Bundesliga match against Borussia Monchengladbach where the score is currently 1-2?",
+    "materials": [
+      "materials/q6/012982.jpg"
+    ],
+    "O1": "9",
+    "O2": "6",
+    "O3": "8",
+    "O4": "7"
+  },
+  {
+    "id": 420,
+    "Q": "When did this player make his international debut for Poland?",
+    "materials": [
+      "materials/q4/44/1.jpg",
+      "materials/q4/44/2.jpg",
+      "materials/q4/44/3.jpg"
+    ],
+    "O1": "12 October 2016",
+    "O2": "15 November 2017",
+    "O3": "4 September 2017",
+    "O4": "23 March 2018"
+  },
+  {
+    "id": 426,
+    "Q": "What number is the player wearing in the picture?",
+    "materials": [
+      "materials/q5/11"
+    ],
+    "O1": 42,
+    "O2": 34,
+    "O3": 28,
+    "O4": 37
+  },
+  {
+    "id": 427,
+    "Q": "What's the current time in minutes:seconds format?",
+    "materials": [
+      "materials/q6/003441.jpg"
+    ],
+    "O1": "26:14",
+    "O2": "13:12",
+    "O3": "21:08",
+    "O4": "23:23"
+  },
+  {
+    "id": 439,
+    "Q": "When did this player score his first UEFA Champions League goal?",
+    "materials": [
+      "materials/q4/13/1.jpg",
+      "materials/q4/13/2.jpg"
+    ],
+    "O1": "15 September 2019",
+    "O2": "20 October 2019",
+    "O3": "5 November 2019",
+    "O4": "1 October 2019"
+  },
+  {
+    "id": 451,
+    "Q": "How many corners have Eintracht Frankfurt and Dortmund had so far in the game as the image shows, where Dortmund's Mats Hummels scored to make it 1-1 before halftime?",
+    "materials": [
+      "materials/q6/012927.jpg"
+    ],
+    "O1": "Eintracht Frankfurt: 5 corners, Dortmund: 5 corners.",
+    "O2": "Eintracht Frankfurt: 3 corners, Dortmund: 7 corners.",
+    "O3": "Eintracht Frankfurt: 1 corners, Dortmund: 6 corners.",
+    "O4": "Eintracht Frankfurt: 1 corners, Dortmund: 5 corners."
+  },
+  {
+    "id": 456,
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "materials/q5/19"
+    ],
+    "O1": 5,
+    "O2": 9,
+    "O3": 7,
+    "O4": 3
+  },
+  {
+    "id": 457,
+    "Q": "Which club did this player join on loan in 2007–2008?",
+    "materials": [
+      "materials/q4/98/1.jpg",
+      "materials/q4/98/2.jpg"
+    ],
+    "O1": "Salernitana",
+    "O2": "Avellino",
+    "O3": "Crotone",
+    "O4": "Virtus Lanciano"
+  },
+  {
+    "id": 467,
+    "Q": "What time is represented in this match screenshot?",
+    "materials": [
+      "materials/q6/014986.jpg"
+    ],
+    "O1": "77:22",
+    "O2": "80:24",
+    "O3": "82:29",
+    "O4": "78:29"
+  },
+  {
+    "id": 475,
+    "Q": "What is the score reflected in this image of the match?",
+    "materials": [
+      "materials/q6/005870.jpg"
+    ],
+    "O1": "3-1",
+    "O2": "5-0",
+    "O3": "3-0",
+    "O4": "4-2"
+  },
+  {
+    "id": 483,
+    "Q": "From this image, what is the score of the football match?",
+    "materials": [
+      "materials/q6/000664.jpg"
+    ],
+    "O1": "2-0",
+    "O2": "0-1",
+    "O3": "3-1",
+    "O4": "4-1"
+  },
+  {
+    "id": 495,
+    "Q": "How many appearances did this player make for Levante during his senior career?",
+    "materials": [
+      "materials/q4/67/1.jpg",
+      "materials/q4/67/2.jpg"
+    ],
+    "O1": "52 appearances",
+    "O2": "48 appearances",
+    "O3": "56 appearances",
+    "O4": "44 appearances"
+  },
+  {
+    "id": 499,
+    "Q": "Which team did this player play for in 2017?",
+    "materials": [
+      "materials/q4/16/1.jpg",
+      "materials/q4/16/2.jpg"
+    ],
+    "O1": "Union Douala",
+    "O2": "Rainbow Bamenda",
+    "O3": "Canon Yaoundé",
+    "O4": "Coton Sport"
+  }
+]

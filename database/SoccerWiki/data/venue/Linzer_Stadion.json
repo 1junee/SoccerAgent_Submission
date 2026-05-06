@@ -1,0 +1,29 @@
+{
+    "VENUE": "Linzer Stadion",
+    "CITY": "Linz",
+    "TEAM": "LASK",
+    "CAPACITY": 21005,
+    "VENUE_URL": "https://wikipedia.org/wiki/Linzer_Stadion",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gugl.jpg/120px-Gugl.jpg",
+    "INFOBOX": {
+        "": {
+            "Closed": "2021",
+            "Opened": "28June1952",
+            "Capacity": "21,005[1]",
+            "Location": "Linz,Austria"
+        }
+    },
+    "CONTENT": {
+        "History": "The stadium was opened on 28 July 1952, on the grounds of the former Froschberg-Brickworks. The stadium is also known as \"Auf der Gugl\", the name of the hill on which it is situated.The stadium hosted motorcycle speedway until the early 1970s and hosted significant speedway events including a qualifying round of the Speedway World Championship in 1961.It was used for association football matches and hosted most matches of FC Blau-Weiß Linz and the top matches of LASK Linz.In July 2020, LASK presented their plans to build a new stadium on the site of the old stadium, with groundbreaking planned for early 2021 and completion scheduled for February 2023.",
+        "Concerts": "Pink Floyd performed there on 23 June 1989 as part of their A Momentary Lapse of Reason Tour.Genesis performed at the Stadium on 19 June 2007 during their reunion tour Turn It On Again: The Tour.Pink performed at the venue on 8 July 2010 during The Funhouse Summer Carnival.Bon Jovi performed at the venue on 15 May 2006 during their Have a Nice Day Tour.Michael Jackson performed at the venue on 6 September 1988 during his Bad World Tour in front of 40,000 people.",
+        "References": {}
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gugl.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg"
+    ],
+    "SUMMARY": "Linzer Stadion was a multi-purpose stadium, in Linz, Austria. Originally built in 1952, the stadium was last modified in 2012 and now has a capacity of 21,005. The 2012 modifications included the installation of rail seats for safe standing.\n\n"
+}

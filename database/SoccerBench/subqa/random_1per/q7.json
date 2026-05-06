@@ -1,0 +1,62 @@
+[
+  {
+    "Q": "In this image, how many referees are visible (including the main and assistant referees)?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q7/SNGS-125/img1/000229.jpg"
+    ],
+    "openA": "2",
+    "closeA": "O3",
+    "O1": "4",
+    "O2": "3",
+    "O3": "2",
+    "O4": "1"
+  },
+  {
+    "Q": "How many players are there in this image (excluding the goalkeeper)?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q7/SNGS-189/img1/000472.jpg"
+    ],
+    "openA": "10",
+    "closeA": "O4",
+    "O1": "8",
+    "O2": "11",
+    "O3": "9",
+    "O4": "10"
+  },
+  {
+    "Q": "Count the number of referees (including the main and assistant referees) in this image.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q7/SNGS-187/img1/000476.jpg"
+    ],
+    "openA": "1",
+    "closeA": "O4",
+    "O1": "0",
+    "O2": "2",
+    "O3": "3",
+    "O4": "1"
+  },
+  {
+    "Q": "Count the number of players who are attacking from left to right (excluding the goalkeeper).",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q7/SNGS-128/img1/000578.jpg"
+    ],
+    "openA": "8",
+    "closeA": "O1",
+    "O1": "8",
+    "O2": "6",
+    "O3": "9",
+    "O4": "7"
+  },
+  {
+    "Q": "In this image, how many players are moving from left to right (goalkeeper not included)?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q7/SNGS-127/img1/000530.jpg"
+    ],
+    "openA": "9",
+    "closeA": "O3",
+    "O1": "8",
+    "O2": "11",
+    "O3": "9",
+    "O4": "10"
+  }
+]

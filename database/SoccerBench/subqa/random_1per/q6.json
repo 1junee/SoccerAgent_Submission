@@ -1,0 +1,74 @@
+[
+  {
+    "Q": "How many yellow cards have been shown so far in the game as the image shows between Liverpool and Southampton in the 2014-15 season?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/007272.jpg"
+    ],
+    "openA": "3 yellow cards.",
+    "closeA": "O4",
+    "O1": "4 yellow cards.",
+    "O2": "2 yellow cards.",
+    "O3": "5 yellow cards.",
+    "O4": "3 yellow cards."
+  },
+  {
+    "Q": "Please tell me the current score of the match from this image.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/002805.jpg"
+    ],
+    "openA": "0-2",
+    "closeA": "O3",
+    "O1": "1-2",
+    "O2": "1-0",
+    "O3": "0-2",
+    "O4": "1-4"
+  },
+  {
+    "Q": "What's the current time in minutes:seconds in the image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/019607.jpg"
+    ],
+    "openA": "77:24",
+    "closeA": "O1",
+    "O1": "77:24",
+    "O2": "85:49",
+    "O3": "79:51",
+    "O4": "68:30"
+  },
+  {
+    "Q": "At what minute was this image captured?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/003881.jpg"
+    ],
+    "openA": "45 minutes",
+    "closeA": "O1",
+    "O1": "45 minutes",
+    "O2": "36 minutes",
+    "O3": "43 minutes",
+    "O4": "32 minutes"
+  },
+  {
+    "Q": "How many corners have Augsburg won so far in the game as the screenshot shows in the Bundesliga match against Bayern Munich where Lewandowski scored a penalty?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/016694.jpg"
+    ],
+    "openA": "4",
+    "closeA": "O3",
+    "O1": "5",
+    "O2": "2",
+    "O3": "4",
+    "O4": "6"
+  },
+  {
+    "Q": "What's the current minute of the match in this screenshot?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/006080.jpg"
+    ],
+    "openA": "87 minutes",
+    "closeA": "O2",
+    "O1": "80 minutes",
+    "O2": "87 minutes",
+    "O3": "83 minutes",
+    "O4": "89 minutes"
+  }
+]

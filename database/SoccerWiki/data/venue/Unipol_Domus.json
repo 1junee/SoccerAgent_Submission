@@ -1,0 +1,34 @@
+{
+    "VENUE": "Unipol Domus",
+    "CITY": "Cagliari",
+    "TEAM": "Cagliari",
+    "CAPACITY": 16416,
+    "VENUE_URL": "https://wikipedia.org/wiki/Unipol_Domus",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/SardegnaArena.jpeg/300px-SardegnaArena.jpeg",
+    "INFOBOX": {
+        "": {
+            "Owner": "CagliariCalcio",
+            "Surface": "Grass",
+            "Capacity": "16,416",
+            "Location": "Cagliari,Sardinia,Italy",
+            "Field size": "105x65m",
+            "Former names": "SardegnaArena(2017–21)"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Built": "2017",
+            "Opened": "10September2017",
+            "Renovated": "2018",
+            "Broke ground": "2017",
+            "Construction cost": "€8,000,000"
+        }
+    },
+    "CONTENT": {
+        "References": {}
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/SardegnaArena.jpeg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg"
+    ],
+    "SUMMARY": "The Unipol Domus is a football stadium in Cagliari, Sardinia, Italy. Built in 2017 as Sardegna Arena, it hosts Cagliari Calcio football matches from 2017–18, since Stadio Sant'Elia was closed and partially demolished in order to build a new stadium. It was used as a provisional stadium until 2021 when the construction was fully completed and name changed to Unipol Domus."
+}

@@ -1,0 +1,327 @@
+[
+  {
+    "id": 9,
+    "Q": "How many players are visible in this image (not including the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-123/img1/000314.jpg"
+    ],
+    "openA": "14",
+    "closeA": "O1",
+    "O1": "14",
+    "O2": "16",
+    "O3": "13",
+    "O4": "15"
+  },
+  {
+    "id": 40,
+    "Q": "How many referees are there in this image (including the main and assistant referees)?",
+    "materials": [
+      "materials/q7/SNGS-129/img1/000264.jpg"
+    ],
+    "openA": "2",
+    "closeA": "O4",
+    "O1": "3",
+    "O2": "1",
+    "O3": "0",
+    "O4": "2"
+  },
+  {
+    "id": 49,
+    "Q": "How many players are on the left side and attacking rightward (goalkeeper excluded)?",
+    "materials": [
+      "materials/q7/SNGS-199/img1/000694.jpg"
+    ],
+    "openA": "7",
+    "closeA": "O2",
+    "O1": "5",
+    "O2": "7",
+    "O3": "6",
+    "O4": "8"
+  },
+  {
+    "id": 67,
+    "Q": "How many players in this image are moving from left to right (without counting the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-139/img1/000668.jpg"
+    ],
+    "openA": "2",
+    "closeA": "O2",
+    "O1": "3",
+    "O2": "2",
+    "O3": "1",
+    "O4": "0"
+  },
+  {
+    "id": 102,
+    "Q": "How many players are visible in this image (not including the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-130/img1/000706.jpg"
+    ],
+    "openA": "10",
+    "closeA": "O4",
+    "O1": "9",
+    "O2": "8",
+    "O3": "11",
+    "O4": "10"
+  },
+  {
+    "id": 103,
+    "Q": "How many players are playing from left to right (not including the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-129/img1/000344.jpg"
+    ],
+    "openA": "4",
+    "closeA": "O3",
+    "O1": "5",
+    "O2": "2",
+    "O3": "4",
+    "O4": "3"
+  },
+  {
+    "id": 106,
+    "Q": "How many players are advancing from left to right (excluding the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-118/img1/000497.jpg"
+    ],
+    "openA": "5",
+    "closeA": "O3",
+    "O1": "7",
+    "O2": "4",
+    "O3": "5",
+    "O4": "6"
+  },
+  {
+    "id": 183,
+    "Q": "How many players are advancing from left to right (excluding the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-190/img1/000654.jpg"
+    ],
+    "openA": "8",
+    "closeA": "O2",
+    "O1": "6",
+    "O2": "8",
+    "O3": "9",
+    "O4": "7"
+  },
+  {
+    "id": 187,
+    "Q": "What is the total number of players moving from left to right (excluding the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-197/img1/000720.jpg"
+    ],
+    "openA": "8",
+    "closeA": "O1",
+    "O1": "8",
+    "O2": "7",
+    "O3": "10",
+    "O4": "9"
+  },
+  {
+    "id": 204,
+    "Q": "How many referees are present in this image (including the main and assistant referees)?",
+    "materials": [
+      "materials/q7/SNGS-196/img1/000018.jpg"
+    ],
+    "openA": "1",
+    "closeA": "O4",
+    "O1": "0",
+    "O2": "3",
+    "O3": "2",
+    "O4": "1"
+  },
+  {
+    "id": 208,
+    "Q": "Find the number of players attacking from right to left (goalkeeper not counted).",
+    "materials": [
+      "materials/q7/SNGS-145/img1/000424.jpg"
+    ],
+    "openA": "4",
+    "closeA": "O1",
+    "O1": "4",
+    "O2": "5",
+    "O3": "3",
+    "O4": "2"
+  },
+  {
+    "id": 213,
+    "Q": "How many players are attacking from right to left in this image (excluding the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-199/img1/000129.jpg"
+    ],
+    "openA": "10",
+    "closeA": "O1",
+    "O1": "10",
+    "O2": "11",
+    "O3": "12",
+    "O4": "9"
+  },
+  {
+    "id": 245,
+    "Q": "How many players in this image are moving from left to right (without counting the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-132/img1/000279.jpg"
+    ],
+    "openA": "5",
+    "closeA": "O1",
+    "O1": "5",
+    "O2": "4",
+    "O3": "7",
+    "O4": "6"
+  },
+  {
+    "id": 252,
+    "Q": "What is the total count of players in this image (excluding the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-194/img1/000589.jpg"
+    ],
+    "openA": "20",
+    "closeA": "O3",
+    "O1": "19",
+    "O2": "21",
+    "O3": "20",
+    "O4": "22"
+  },
+  {
+    "id": 254,
+    "Q": "Find the number of players in this image (goalkeeper not counted).",
+    "materials": [
+      "materials/q7/SNGS-191/img1/000256.jpg"
+    ],
+    "openA": "16",
+    "closeA": "O2",
+    "O1": "17",
+    "O2": "16",
+    "O3": "15",
+    "O4": "18"
+  },
+  {
+    "id": 258,
+    "Q": "How many players are advancing from left to right (excluding the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-147/img1/000412.jpg"
+    ],
+    "openA": "3",
+    "closeA": "O2",
+    "O1": "5",
+    "O2": "3",
+    "O3": "4",
+    "O4": "2"
+  },
+  {
+    "id": 285,
+    "Q": "How many players are playing from left to right (not including the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-130/img1/000108.jpg"
+    ],
+    "openA": "7",
+    "closeA": "O1",
+    "O1": "7",
+    "O2": "5",
+    "O3": "6",
+    "O4": "8"
+  },
+  {
+    "id": 376,
+    "Q": "What is the total count of players in this image (excluding the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-133/img1/000609.jpg"
+    ],
+    "openA": "12",
+    "closeA": "O1",
+    "O1": "12",
+    "O2": "13",
+    "O3": "11",
+    "O4": "10"
+  },
+  {
+    "id": 387,
+    "Q": "How many referees are present in this image (including the main and assistant referees)?",
+    "materials": [
+      "materials/q7/SNGS-145/img1/000700.jpg"
+    ],
+    "openA": "0",
+    "closeA": "O4",
+    "O1": "1",
+    "O2": "2",
+    "O3": "3",
+    "O4": "0"
+  },
+  {
+    "id": 416,
+    "Q": "Count the number of players who are attacking from left to right (excluding the goalkeeper).",
+    "materials": [
+      "materials/q7/SNGS-132/img1/000132.jpg"
+    ],
+    "openA": "7",
+    "closeA": "O1",
+    "O1": "7",
+    "O2": "5",
+    "O3": "8",
+    "O4": "6"
+  },
+  {
+    "id": 418,
+    "Q": "How many players are advancing from right to left (excluding the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-200/img1/000235.jpg"
+    ],
+    "openA": "8",
+    "closeA": "O3",
+    "O1": "7",
+    "O2": "9",
+    "O3": "8",
+    "O4": "10"
+  },
+  {
+    "id": 435,
+    "Q": "How many players are attacking from left to right in this image (excluding the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-127/img1/000350.jpg"
+    ],
+    "openA": "8",
+    "closeA": "O2",
+    "O1": "7",
+    "O2": "8",
+    "O3": "9",
+    "O4": "10"
+  },
+  {
+    "id": 448,
+    "Q": "How many players are playing from right to left (not including the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-197/img1/000631.jpg"
+    ],
+    "openA": "3",
+    "closeA": "O1",
+    "O1": "3",
+    "O2": "4",
+    "O3": "1",
+    "O4": "2"
+  },
+  {
+    "id": 491,
+    "Q": "Count the number of referees (including the main and assistant referees) in this image.",
+    "materials": [
+      "materials/q7/SNGS-138/img1/000577.jpg"
+    ],
+    "openA": "2",
+    "closeA": "O1",
+    "O1": "2",
+    "O2": "1",
+    "O3": "0",
+    "O4": "3"
+  },
+  {
+    "id": 493,
+    "Q": "How many players are playing from left to right (not including the goalkeeper)?",
+    "materials": [
+      "materials/q7/SNGS-136/img1/000221.jpg"
+    ],
+    "openA": "8",
+    "closeA": "O4",
+    "O1": "9",
+    "O2": "7",
+    "O3": "6",
+    "O4": "8"
+  }
+]

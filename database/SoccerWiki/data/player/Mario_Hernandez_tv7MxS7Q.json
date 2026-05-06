@@ -1,0 +1,35 @@
+{
+    "FULL_NAME": "Mario Hernandez",
+    "UNICODE": "tv7MxS7Q",
+    "PLAYER_URL": "https://wikipedia.org/wiki/Mario_Hern%C3%A1ndez_(footballer,_born_1957)",
+    "PLAYER_IMAGE_URL": null,
+    "INFOBOX": {
+        "Senior career*": {
+            "Years": "Team    Apps    (Gls)",
+            "1978–1982": "Zacatepec    103    (46)",
+            "1982–1985": "Atlante    102    (20)",
+            "1986–1987": "ÁngelesdePuebla    34    (2)",
+            "1988–1989": "TampicoMadero    32    (8)",
+            "1989–1992": "UANL    107    (2)"
+        },
+        "Managerial career": {
+            "2017": "Cuautla",
+            "2007–2016": "SelvaCañera"
+        },
+        "Personal information": {
+            "Full name": "MarioHernándezCalderón",
+            "Position(s)": "Forward",
+            "Date of birth": "(1957-10-20)20October1957(age 66)",
+            "Place of birth": "MexicoCity,Mexico"
+        }
+    },
+    "CONTENT": {
+        "References": {}
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+        "https://upload.wikimedia.org/wikipedia/en/b/b4/Ambox_important.svg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4e/Soccerball_mask.svg"
+    ],
+    "SUMMARY": "Mario Hernández Calderón (born October 20, 1957) is a Mexican football manager and former player."
+}

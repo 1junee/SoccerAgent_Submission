@@ -1,0 +1,32 @@
+{
+    "VENUE": "Holstein-Stadion",
+    "CITY": "Kiel",
+    "TEAM": "Holstein Kiel",
+    "CAPACITY": 15034,
+    "VENUE_URL": "https://wikipedia.org/wiki/Holstein-Stadion",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Holstein-Stadion_Luftbild_2019.jpg/120px-Holstein-Stadion_Luftbild_2019.jpg",
+    "INFOBOX": {
+        "": {
+            "Capacity": "15,034(sincemostrecentrenovationworks)",
+            "Location": "Westring501,24106Kiel",
+            "Full name": "Holstein-Stadion",
+            "Field size": "104×68m"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Built": "15October1911",
+            "Renovated": "1922,1927,1949,1957,1975,2004,2006,2009,2011,2013,2015,2017,2019"
+        }
+    },
+    "CONTENT": {
+        "References": {},
+        "Stadium renovation": "The most significant changes included the removal of the dilapidated concrete steps that formerly encircled the playing field which were in danger of collapsing and unsafe for large capacity crowds. In their place, two new covered grandstands were constructed along the former backstretch and behind the west goal. The \"Nordtribüne,\" measuring 119 meters long, now has 954 seats, surrounded by two blocks that each provide standing room for 1,200 additional fans. The 81 meter long \"Westtribüne\" replaced the former fan curve and provides standing room for an additional 3,380 spectators. In an attempt to improve sightlines and provide for a better fan experience, both grandstands were constructed only 8 meters from the playing field. Additional upgrades include separated entrances for players, referees and other officials, new kiosks and concession stands, improved restroom facilities, and an on-site police trailer.The new stadium had a crowd capacity of 10,200. The majority of the work was completed just hours before it opened on August 9, 2006 to a 5:0 Holstein Kiel victory over 1. FC Magdeburg. After promotion to the 2. Bundesliga in 2017 the stadium was expanded to 15,000. The desired construction finished in spring 2019."
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e6/Alte_Gegengerade.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/Holstein-Stadion_Luftbild_2019.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg"
+    ],
+    "SUMMARY": "Holstein-Stadion is a stadium in the port city of Kiel in northern Germany. It is the home of football club Holstein Kiel, who currently play in Germany's Bundesliga.\nIn 2005, the DFB ruled that the old stadium did not meet the body's minimal stadium requirements, claiming the stadium was no longer fit for football and was in desperate need of a substantial makeover. Failure to make the required upgrades would rule the club ineligible to play in the 2. Bundesliga or potentially result in the DFB revoking Holstein Kiel's license entirely. In 2006, the city government and team officials subsequently developed a plan to provide €1.6 million towards the renovation of the stadium.\n\n"
+}

@@ -1,0 +1,70 @@
+{
+    "VENUE": "Castelão",
+    "CITY": "Fortaleza",
+    "TEAM": null,
+    "CAPACITY": 60326,
+    "VENUE_URL": "https://wikipedia.org/wiki/Castel%C3%A3o_(Cear%C3%A1)",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Castel%C3%A3o_Arena_%285%29.jpg/150px-Castel%C3%A3o_Arena_%285%29.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "StateofCeará",
+            "Surface": "Grass",
+            "Capacity": "57,867[1]",
+            "Location": "Fortaleza,Ceará,Brazil",
+            "Operator": "StateofCeará",
+            "Full name": "EstádioGovernadorPlácidoCastelo",
+            "Field size": "105x68m",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}3°48′26″S38°31′21″W﻿/﻿3.80722°S38.52250°W﻿/-3.80722;-38.52250",
+            "Record attendance": "118,496"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Built": "1969–1973",
+            "Opened": "November11,1973",
+            "Expanded": "1980",
+            "Architect": "JoséLiberaldeCastroGehardErnstBormanReginaldoMendesRangelMarcílioDiasdeLunaIvandaSilvaBritto",
+            "Renovated": "2002and2013",
+            "Broke ground": "1969",
+            "Structural engineer": "HugoAlcântaraMota"
+        }
+    },
+    "CONTENT": {
+        "Gallery": "Castelão Stadium",
+        "History": "Castelão was constructed from 1969 to 1973 and was inaugurated on November 11 of that year.In May 2000, the Ceará state government started to renovate the stadium. The renovations were divided in three stages, and started on May 16, 2001. The first stage consisted in the recovery of the ditches, and of the bleachers junctions, as well as the recovery of the low walls. The second stage of the reformation started on July 20, 2001, and consisted in the recovery and strengthening of the stadium's physical structure. The third stage consisted in the recovery of the electrical, hydraulic, sanitary, and electronic installations.The inaugural match was played on November 11, 1973, when Ceará and Fortaleza drew 0–0. The stadium's first goal was scored on November 18, 1973, by Ceará's Erandy, when Ceará beat Vitória 1–0.The re-inaugural match was played on March 23, 2002, when the Brazil national team beat the Yugoslavia national team 1–0. The stadium's first goal after the re-inauguration was scored by Brazil's Luizão.The stadium's attendance record currently stands at 118,496, set on August 27, 1980, when the Brazil national team beat the Uruguay national team 1–0.The stadium was reopened on December 16, 2012, in a ceremony attended by former president Dilma Rousseff and Mayor of Ceara, Cid Gomes. There was also a concert from Raimundo Fagner.",
+        "Concerts": {},
+        "See also": "List of football stadiums in BrazilLists of stadiums",
+        "References": {},
+        "Other events": "On July 9, 1980, the 10th National Eucharistic Congress was opened in Fortaleza. Pope John Paul II participated in the celebrations of the Congress and the Estádio Castelão received the largest public of its history: 120,000 people. On this occasion, during Virgílio Távora's government, the stadium was renovated, and the bleachers of the lower section were finished.Another religious celebration happened on August 13, 1995. On this occasion, the farewell mass of the archbishop of Fortaleza Dom Aloísio Lorscheider  gathered 50 thousand people.Several artistic shows were made at the stadium.On December 9, 2007, Castelão hosted the MotoCross Freestyle World Championship . More than 700 tons of sand and metal ramps, almost 6 meters long and 2.7 meters high were used in the event.",
+        "External links": "Official Website at archive.today (archived June 27, 2013)FIFA Profile",
+        "2014 FIFA World Cup": "Castelão was one of the venues of the 2014 FIFA World Cup, which took place in Brazil. The stadium was redeveloped for the tournament; the reconstruction project, led by Uruguayan architect Héctor Vigliecca, involved the addition of a larger roof, the construction of an underground car park with 4,200 spaces, and a new lower tier. After the redevelopment, the stadium now has an all-seater capacity of 63,903. The stadium closed on March 31, 2011, for the reconstruction project, which was officially completed in December 2012. Castelão was the first of 12 stadiums being built or redeveloped for the 2014 World Cup to be completed.",
+        "2013 FIFA Confederations Cup": "Estadio Castelão hosted 3 games of the 2013 FIFA Confederations Cup: two group games and one of the semi-finals."
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d6/Castel%C3%A3o_Arena_%282%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/24/Castel%C3%A3o_Arena_%283%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/29/Castel%C3%A3o_Arena_%284%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d6/Castel%C3%A3o_Arena_%286%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/75/Castel%C3%A3o_Arena_%287%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f0/Castel%C3%A3o_Stadium%2C_Fortaleza%2CBrazil_6.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ac/Fortaleza_Arena_on_March_2014..jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/71/Fortaleza_aerea_arenacastelao.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Star_full.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+        "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+        "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg"
+    ],
+    "SUMMARY": "Estádio Governador Plácido Castelo, also known as the Castelão (Portuguese pronunciation: [kasteˈlɐ̃w], Portuguese for \"Big Castle\") or Gigante da Boa Vista, is a football stadium that was inaugurated on November 11, 1973, in Fortaleza, Ceará, Brazil. With a maximum capacity of 57,867 spectators it is the sixth largest stadium in the country. The stadium is owned by the Ceará state Government, and is the home ground of Ceará Sporting Club and Fortaleza Esporte Clube. Its formal name honors Plácido Aderaldo Castelo (1906–1979), who served as the governor of Ceará from September 12, 1966, to March 15, 1971, and was a leader in getting the stadium built.\n\n"
+}

@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "Q": "What kind of football event is depicted in this video?",
+    "materials": [
+      "materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich/2_25_28.mp4"
+    ],
+    "openA": "yellow card",
+    "closeA": "O1",
+    "O1": "yellow card",
+    "O2": "substitution",
+    "O3": "free kick",
+    "O4": "shot off target"
+  },
+  {
+    "id": 13,
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2019-2020/2020-01-23_wolverhampton-wanderers-liverpool-fc-premier-league/1_31_24.mp4"
+    ],
+    "openA": "injury",
+    "closeA": "O1",
+    "O1": "injury",
+    "O2": "off side",
+    "O3": "var",
+    "O4": "second yellow card"
+  },
+  {
+    "id": 20,
+    "Q": "Classify the football event in this video.",
+    "materials": [
+      "materials/q10/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-09-10 - 19-30 RB Leipzig 1 - 0 Dortmund/2_25_27.mp4"
+    ],
+    "openA": "substitution",
+    "closeA": "O3",
+    "O1": "free kick",
+    "O2": "ball possession",
+    "O3": "substitution",
+    "O4": "yellow card"
+  },
+  {
+    "id": 47,
+    "Q": "What category does the football action in this video fall under?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/italy_serie-a_2020-2021/2021-02-06_genoa-cfc-ssc-napoli-serie-a-2020-2021/1_17_29.mp4"
+    ],
+    "openA": "saved by goal-keeper",
+    "closeA": "O1",
+    "O1": "saved by goal-keeper",
+    "O2": "ball out of play",
+    "O3": "injury",
+    "O4": "penalty"
+  },
+  {
+    "id": 59,
+    "Q": "Classify the football action in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/germany_bundesliga_2016-2017/2017-01-21 - 17-30 SV Werder Bremen 1 - 2 Dortmund/1_24_43.mp4"
+    ],
+    "openA": "free kick",
+    "closeA": "O4",
+    "O1": "lead to corner",
+    "O2": "foul with no card",
+    "O3": "shot off target",
+    "O4": "free kick"
+  },
+  {
+    "id": 65,
+    "Q": "Please label the football event in this video with a category.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2017-2018/2017-12-28_crystal-palace-arsenal-fc-premier-league/2_29_20.mp4"
+    ],
+    "openA": "substitution",
+    "closeA": "O2",
+    "O1": "injury",
+    "O2": "substitution",
+    "O3": "ball possession",
+    "O4": "foul lead to penalty"
+  },
+  {
+    "id": 66,
+    "Q": "What category can the football event in this video be classified into?",
+    "materials": [
+      "materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2015-2016/2015-11-25 - 22-45 Shakhtar Donetsk 3 - 4 Real Madrid/1_17_19.mp4"
+    ],
+    "openA": "goal",
+    "closeA": "O4",
+    "O1": "show added time",
+    "O2": "var",
+    "O3": "second yellow card",
+    "O4": "goal"
+  },
+  {
+    "id": 74,
+    "Q": "Can you classify the football event in this video?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/italy_serie-a_2020-2021/2020-12-19_parma-calcio-juventus-fc-serie-a-2020-2021/1_04_06.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O1",
+    "O1": "corner",
+    "O2": "show added time",
+    "O3": "throw in",
+    "O4": "penalty"
+  },
+  {
+    "id": 75,
+    "Q": "Identify and classify the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/europe_champions-league_2022-2023/2022-09-07_club-brugge-bayer-leverkusen/2_20_14.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O3",
+    "O1": "red card",
+    "O2": "free kick",
+    "O3": "corner",
+    "O4": "lead to corner"
+  },
+  {
+    "id": 89,
+    "Q": "What type of football event is shown in this video?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2018-2019/2019-01-29_newcastle-united-manchester-city-premier-league/2_04_46.mp4"
+    ],
+    "openA": "saved by goal-keeper",
+    "closeA": "O1",
+    "O1": "saved by goal-keeper",
+    "O2": "off side",
+    "O3": "corner",
+    "O4": "foul lead to penalty"
+  },
+  {
+    "id": 95,
+    "Q": "What type of football event is shown in this video clip?",
+    "materials": [
+      "materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/2_12_14.mp4"
+    ],
+    "openA": "substitution",
+    "closeA": "O2",
+    "O1": "lead to corner",
+    "O2": "substitution",
+    "O3": "free kick",
+    "O4": "ball possession"
+  },
+  {
+    "id": 137,
+    "Q": "What type of football match event is recorded in this video?",
+    "materials": [
+      "materials/q10/SN-Caption-test-align/england_epl_2016-2017/2016-08-27 - 14-30 Tottenham 1 - 1 Liverpool/2_00_01.mp4"
+    ],
+    "openA": "start of half game",
+    "closeA": "O3",
+    "O1": "red card",
+    "O2": "lead to corner",
+    "O3": "start of half game",
+    "O4": "foul with no card"
+  },
+  {
+    "id": 148,
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/europe_uefa-champions-league_2015-2016/2015-11-03 - 22-45 Real Madrid 1 - 0 Paris SG/2_27_59.mp4"
+    ],
+    "openA": "saved by goal-keeper",
+    "closeA": "O2",
+    "O1": "second yellow card",
+    "O2": "saved by goal-keeper",
+    "O3": "var",
+    "O4": "goal"
+  },
+  {
+    "id": 203,
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2019-2020/2019-11-24_sheffield-united-manchester-united/2_29_30.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O3",
+    "O1": "injury",
+    "O2": "foul with no card",
+    "O3": "clearance",
+    "O4": "penalty"
+  },
+  {
+    "id": 206,
+    "Q": "Choose a category for the football scene in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/europe_uefa-champions-league_2015-2016/2016-04-05 - 21-45 Bayern Munich 1 - 0 Benfica/2_25_59.mp4"
+    ],
+    "openA": "foul (no card)",
+    "closeA": "O3",
+    "O1": "lead to corner",
+    "O2": "clearance",
+    "O3": "foul (no card)",
+    "O4": "injury"
+  },
+  {
+    "id": 207,
+    "Q": "Assign a category to the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/europe_uefa-champions-league_2016-2017/2016-11-01 - 22-45 Manchester City 3 - 1 Barcelona/1_14_26.mp4"
+    ],
+    "openA": "free kick",
+    "closeA": "O4",
+    "O1": "foul with no card",
+    "O2": "ball out of play",
+    "O3": "shot off target",
+    "O4": "free kick"
+  },
+  {
+    "id": 211,
+    "Q": "What kind of football event is depicted in this video?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/france_league-1_2020-2021/2021-01-06_olympique-lyonnais-rc-lens-ligue-1/1_12_30.mp4"
+    ],
+    "openA": "lead to corner",
+    "closeA": "O4",
+    "O1": "foul lead to penalty",
+    "O2": "var",
+    "O3": "second yellow card",
+    "O4": "lead to corner"
+  },
+  {
+    "id": 224,
+    "Q": "Which category does the football event in this clip belong to?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2021-2022/2022-03-20_tottenham-hotspur-west-ham-united-premier-league-2021-2022/1_44_30.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O3",
+    "O1": "injury",
+    "O2": "var",
+    "O3": "corner",
+    "O4": "show added time"
+  },
+  {
+    "id": 230,
+    "Q": "Please label the football event in this video with a category.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2022-2023/2023-03-04_manchester-city-newcastle-united-premier-league-2022-2023/2_41_07.mp4"
+    ],
+    "openA": "substitution",
+    "closeA": "O3",
+    "O1": "goal",
+    "O2": "lead to corner",
+    "O3": "substitution",
+    "O4": "saved by goal-keeper"
+  },
+  {
+    "id": 234,
+    "Q": "What category can the football event in this video be classified as?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/england_epl_2015-2016/2015-11-07 - 20-30 Stoke City 1 - 0 Chelsea/2_24_47.mp4"
+    ],
+    "openA": "substitution",
+    "closeA": "O4",
+    "O1": "show added time",
+    "O2": "saved by goal-keeper",
+    "O3": "start of half game",
+    "O4": "substitution"
+  },
+  {
+    "id": 243,
+    "Q": "Provide a classification for the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/italy_serie-a_2020-2021/2020-12-15_benevento-calcio-ss-lazio/1_02_40.mp4"
+    ],
+    "openA": "ball possession",
+    "closeA": "O3",
+    "O1": "throw in",
+    "O2": "red card",
+    "O3": "ball possession",
+    "O4": "saved by goal-keeper"
+  },
+  {
+    "id": 255,
+    "Q": "Please label the football event in this video with a category.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/europe_champions-league_2017-2018/2017-11-01_besiktas-jk-as-monaco/1_02_35.mp4"
+    ],
+    "openA": "off side",
+    "closeA": "O1",
+    "O1": "off side",
+    "O2": "penalty",
+    "O3": "foul with no card",
+    "O4": "ball possession"
+  },
+  {
+    "id": 260,
+    "Q": "Identify and classify the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/europe_uefa-champions-league_2015-2016/2015-09-29 - 21-45 Bayern Munich 5 - 0 D. Zagreb/2_27_26.mp4"
+    ],
+    "openA": "throw in",
+    "closeA": "O1",
+    "O1": "throw in",
+    "O2": "corner",
+    "O3": "substitution",
+    "O4": "show added time"
+  },
+  {
+    "id": 267,
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/europe_champions-league_2018-2019/2018-10-23_shakhtar-donetsk-manchester-city-champions-league/1_33_47.mp4"
+    ],
+    "openA": "lead to corner",
+    "closeA": "O2",
+    "O1": "free kick",
+    "O2": "lead to corner",
+    "O3": "end of half game",
+    "O4": "start of half game"
+  },
+  {
+    "id": 284,
+    "Q": "Choose a category for the football scene in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/germany_bundesliga_2016-2017/2016-09-10 - 19-30 RB Leipzig 1 - 0 Dortmund/2_39_58.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O3",
+    "O1": "penalty",
+    "O2": "free kick",
+    "O3": "ball out of play",
+    "O4": "off side"
+  },
+  {
+    "id": 288,
+    "Q": "Which category should the football event in this video be placed in?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/germany_bundesliga_2016-2017/2016-09-10 - 19-30 RB Leipzig 1 - 0 Dortmund/1_32_04.mp4"
+    ],
+    "openA": "throw in",
+    "closeA": "O4",
+    "O1": "penalty",
+    "O2": "foul with no card",
+    "O3": "ball out of play",
+    "O4": "throw in"
+  },
+  {
+    "id": 302,
+    "Q": "Can you classify the football event in this video?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/europe_champions-league_2022-2023/2022-09-07_tottenham-hotspur-olympique-de-marseille/2_09_40.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O4",
+    "O1": "off side",
+    "O2": "saved by goal-keeper",
+    "O3": "var",
+    "O4": "clearance"
+  },
+  {
+    "id": 307,
+    "Q": "Provide a classification for the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/italy_serie-a_2016-2017/2016-09-11 - 16-00 AC Milan 0 - 1 Udinese/2_44_05.mp4"
+    ],
+    "openA": "off side",
+    "closeA": "O1",
+    "O1": "off side",
+    "O2": "clearance",
+    "O3": "goal",
+    "O4": "show added time"
+  },
+  {
+    "id": 316,
+    "Q": "Identify and classify the football event in this video.",
+    "materials": [
+      "materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2016-11-23 - 22-45 Arsenal 2 - 2 Paris SG/2_00_26.mp4"
+    ],
+    "openA": "off side",
+    "closeA": "O1",
+    "O1": "off side",
+    "O2": "penalty",
+    "O3": "shot off target",
+    "O4": "ball possession"
+  },
+  {
+    "id": 317,
+    "Q": "Identify and classify the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/italy_serie-a_2016-2017/2016-12-04 - 17-00 Lazio 0 - 2 AS Roma/2_27_09.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O3",
+    "O1": "show added time",
+    "O2": "clearance",
+    "O3": "shot off target",
+    "O4": "lead to corner"
+  },
+  {
+    "id": 329,
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "materials/q10/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-11-19 - 20-30 Dortmund 1 - 0 Bayern Munich/1_43_54.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O3",
+    "O1": "var",
+    "O2": "saved by goal-keeper",
+    "O3": "shot off target",
+    "O4": "ball possession"
+  },
+  {
+    "id": 339,
+    "Q": "What type of football event is shown in this video clip?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/spain_laliga_2015-2016/2015-12-05 - 18-00 Real Madrid 4 - 1 Getafe/2_21_46.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O1",
+    "O1": "ball out of play",
+    "O2": "ball possession",
+    "O3": "lead to corner",
+    "O4": "clearance"
+  },
+  {
+    "id": 340,
+    "Q": "Please classify the scene in this football video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/england_epl_2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea/2_43_14.mp4"
+    ],
+    "openA": "free kick",
+    "closeA": "O4",
+    "O1": "penalty",
+    "O2": "red card",
+    "O3": "second yellow card",
+    "O4": "free kick"
+  },
+  {
+    "id": 350,
+    "Q": "What type of football match event is recorded in this video?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/europe_champions-league_2019-2020/2019-10-22_club-brugge-paris-saint-germain/2_26_28.mp4"
+    ],
+    "openA": "substitution",
+    "closeA": "O1",
+    "O1": "substitution",
+    "O2": "shot off target",
+    "O3": "second yellow card",
+    "O4": "show added time"
+  },
+  {
+    "id": 377,
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/italy_serie-a_2022-2023/2023-02-13_uc-sampdoria-fc-internazionale-serie-a-2022-2023/2_41_57.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O4",
+    "O1": "corner",
+    "O2": "start of half game",
+    "O3": "penalty",
+    "O4": "clearance"
+  },
+  {
+    "id": 389,
+    "Q": "Please classify the scene in this football video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/england_epl_2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester/1_44_12.mp4"
+    ],
+    "openA": "throw in",
+    "closeA": "O3",
+    "O1": "end of half game",
+    "O2": "ball out of play",
+    "O3": "throw in",
+    "O4": "yellow card"
+  },
+  {
+    "id": 391,
+    "Q": "What type of football event is shown in this video clip?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/italy_serie-a_2019-2020/2020-01-25_torino-fc-atalanta-bc-serie-a-2019-2020/1_39_56.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O1",
+    "O1": "corner",
+    "O2": "throw in",
+    "O3": "goal",
+    "O4": "substitution"
+  },
+  {
+    "id": 400,
+    "Q": "What type of football event is shown in this video clip?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/france_league-1_2020-2021/2021-01-06_olympique-lyonnais-rc-lens-ligue-1/1_28_30.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O2",
+    "O1": "ball possession",
+    "O2": "corner",
+    "O3": "lead to corner",
+    "O4": "penalty"
+  },
+  {
+    "id": 408,
+    "Q": "What category should the football event in this clip be marked as?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2019-2020/2020-01-19_liverpool-fc-manchester-united-premier-league-2019-2020/2_26_26.mp4"
+    ],
+    "openA": "yellow card",
+    "closeA": "O3",
+    "O1": "free kick",
+    "O2": "injury",
+    "O3": "yellow card",
+    "O4": "off side"
+  },
+  {
+    "id": 409,
+    "Q": "Which category does the football event in this clip belong to?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2019-2020/2019-11-24_sheffield-united-manchester-united/2_22_08.mp4"
+    ],
+    "openA": "injury",
+    "closeA": "O4",
+    "O1": "show added time",
+    "O2": "red card",
+    "O3": "shot off target",
+    "O4": "injury"
+  },
+  {
+    "id": 411,
+    "Q": "Please label the football event in this video with a category.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2020-2021/2020-12-11_leeds-united-west-ham-united-premier-league/2_23_50.mp4"
+    ],
+    "openA": "lead to corner",
+    "closeA": "O2",
+    "O1": "show added time",
+    "O2": "lead to corner",
+    "O3": "red card",
+    "O4": "foul lead to penalty"
+  },
+  {
+    "id": 417,
+    "Q": "Please categorize the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/italy_serie-a_2016-2017/2016-12-04 - 17-00 Lazio 0 - 2 AS Roma/2_06_16.mp4"
+    ],
+    "openA": "throw in",
+    "closeA": "O3",
+    "O1": "red card",
+    "O2": "penalty",
+    "O3": "throw in",
+    "O4": "substitution"
+  },
+  {
+    "id": 420,
+    "Q": "Can you classify the football event in this video?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/europe_uefa-champions-league_2014-2015/2015-05-05 - 21-45 Juventus 2 - 1 Real Madrid/2_09_37.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O3",
+    "O1": "shot off target",
+    "O2": "var",
+    "O3": "ball out of play",
+    "O4": "start of half game"
+  },
+  {
+    "id": 443,
+    "Q": "Which category should the football event in this video be placed in?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/italy_serie-a_2022-2023/2022-10-23_as-roma-ssc-napoli-serie-a-2022-2023/1_16_08.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O4",
+    "O1": "red card",
+    "O2": "show added time",
+    "O3": "clearance",
+    "O4": "corner"
+  },
+  {
+    "id": 444,
+    "Q": "Assign a category to the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/europe_uefa-champions-league_2014-2015/2015-05-05 - 21-45 Juventus 2 - 1 Real Madrid/2_24_41.mp4"
+    ],
+    "openA": "throw in",
+    "closeA": "O2",
+    "O1": "saved by goal-keeper",
+    "O2": "throw in",
+    "O3": "shot off target",
+    "O4": "substitution"
+  },
+  {
+    "id": 457,
+    "Q": "Which category does the football event in this video belong to?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/germany_bundesliga_2016-2017/2016-11-19 - 20-30 Dortmund 1 - 0 Bayern Munich/2_18_59.mp4"
+    ],
+    "openA": "throw in",
+    "closeA": "O1",
+    "O1": "throw in",
+    "O2": "start of half game",
+    "O3": "goal",
+    "O4": "clearance"
+  },
+  {
+    "id": 461,
+    "Q": "What category can the football event in this video be classified as?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/italy_serie-a_2016-2017/2017-04-01 - 21-45 AS Roma 2 - 0 Empoli/1_31_14.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O3",
+    "O1": "substitution",
+    "O2": "red card",
+    "O3": "shot off target",
+    "O4": "corner"
+  },
+  {
+    "id": 463,
+    "Q": "Choose a category for the football scene in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/france_league-1_2018-2019/2018-11-11_as-monaco-paris-saint-germain-ligue-1-2018-2019/1_00_45.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O2",
+    "O1": "penalty",
+    "O2": "shot off target",
+    "O3": "end of half game",
+    "O4": "ball possession"
+  },
+  {
+    "id": 481,
+    "Q": "Can you classify the football event in this video?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2022-2023/2022-11-12_tottenham-hotspur-leeds-united-premier-league/1_18_09.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O3",
+    "O1": "clearance",
+    "O2": "foul lead to penalty",
+    "O3": "shot off target",
+    "O4": "lead to corner"
+  },
+  {
+    "id": 486,
+    "Q": "Provide a classification for the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/europe_champions-league_2023-2024/2023-11-07_atletico-de-madrid-celtic-fc-champions-league/2_27_10.mp4"
+    ],
+    "openA": "ball possession",
+    "closeA": "O4",
+    "O1": "saved by goal-keeper",
+    "O2": "second yellow card",
+    "O3": "substitution",
+    "O4": "ball possession"
+  }
+]

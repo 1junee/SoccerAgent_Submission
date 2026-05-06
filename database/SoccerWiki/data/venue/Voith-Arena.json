@@ -1,0 +1,39 @@
+{
+    "VENUE": "Voith-Arena",
+    "CITY": "Heidenheim",
+    "TEAM": "Heidenheim",
+    "CAPACITY": 15000,
+    "VENUE_URL": "https://wikipedia.org/wiki/Voith-Arena",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/GAGFAH-ARENA_Heidenheim.jpg/120px-GAGFAH-ARENA_Heidenheim.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "CityofHeidenheimanderBrenz",
+            "Address": "Schloßhaustraße162",
+            "Surface": "Hybridgrass",
+            "Capacity": "15,000",
+            "Location": "89522Heidenheim",
+            "Operator": "1.FCHeidenheim",
+            "Field size": "105mx68m",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}48°40′7″N10°8′22″E﻿/﻿48.66861°N10.13944°E﻿/48.66861;10.13944",
+            "Former names": "GAGFAH-Arena",
+            "Executive suites": "37"
+        },
+        "Tenants": {},
+        "Website": {},
+        "Construction": {
+            "Built": "1972",
+            "Renovated": "2013"
+        }
+    },
+    "CONTENT": {
+        "See also": "List of football stadiums in GermanyLists of stadiums",
+        "References": {}
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c4/GAGFAH-ARENA_Heidenheim.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Sports_and_games.png"
+    ],
+    "SUMMARY": "Voith-Arena (formerly GAGFAH-Arena, Albstadion) is a multi-use stadium in Heidenheim, Germany.  It is currently used for football matches and is the home stadium of the Bundesliga side 1. FC Heidenheim.  The stadium has a capacity of 15,000 people after its most recent expansion.\n\n"
+}

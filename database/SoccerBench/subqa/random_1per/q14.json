@@ -1,0 +1,38 @@
+[
+  {
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed. Was physical contact present in this foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_184/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_184/clip_1.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O2",
+    "O1": "Without contact",
+    "O2": "With contact"
+  },
+  {
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Main behind the goal lens at 1.0x speed. Did this foul occur during an offensive play?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_42/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_42/clip_1.mp4"
+    ],
+    "openA": "Offence",
+    "closeA": "O3",
+    "O1": "Between",
+    "O2": "No offence",
+    "O3": "Offence"
+  },
+  {
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. What's the gravity of this football offence?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_18/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_18/clip_1.mp4"
+    ],
+    "openA": "No card",
+    "closeA": "O3",
+    "O1": "Yellow card",
+    "O2": "Red card",
+    "O3": "No card",
+    "O4": "No card or yellow card"
+  }
+]

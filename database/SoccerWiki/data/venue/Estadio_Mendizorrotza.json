@@ -1,0 +1,40 @@
+{
+    "VENUE": "Estadio Mendizorrotza",
+    "CITY": "Vitoria-Gasteiz",
+    "TEAM": "Alaves",
+    "CAPACITY": 19840,
+    "VENUE_URL": "https://wikipedia.org/wiki/Mendizorrotza_Stadium",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mendizorrotza.jpg/180px-Mendizorrotza.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "AyuntamientodeVitoria-Gasteiz",
+            "Surface": "Grass",
+            "Capacity": "19,840[1]",
+            "Location": "Vitoria-Gasteiz,Spain",
+            "Operator": "DeportivoAlavés",
+            "Field size": "105x68m",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}42°50′14″N2°41′17″W﻿/﻿42.83722°N2.68806°W﻿/42.83722;-2.68806"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "27April1924",
+            "Expanded": "1999"
+        }
+    },
+    "CONTENT": {
+        "Gallery": {},
+        "History": "Opened on 27 April 1924, it is currently the third oldest football stadium in the Spanish Professional Football, behind El Molinón and Mestalla.During its history, the stadium had several renovations. The most important one was the expansion made in 1999, making new stands in the corners for increasing the capacity of the stadium to the current 19,840 seats.In December 2016, the club president Josean Querejeta announced a plan of  modernisation and expansion of the stadium, possibly bringing its capacity to 28,000. Due to the economic problems caused by the COVID-19 pandemic in Spain, in June 2020 the club confirmed the project would be delayed for at least a year.",
+        "References": {},
+        "External links": "Estadios de España: Vitoria – Estadio Mendizorroza (in English)"
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Alav%C3%A9s2-2Lega2018.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3d/Iraultza_2016-17.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mendizorrotza_diciembre_2021.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6d/Vitoria_-_Estadio_de_Mendizorroza_02.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d6/Vitoria_-_Mendizorrotza_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+    ],
+    "SUMMARY": "Mendizorrotza or Mendizorroza is a football stadium in Vitoria-Gasteiz, Spain. The stadium is the home ground of Deportivo Alavés.\n\n"
+}

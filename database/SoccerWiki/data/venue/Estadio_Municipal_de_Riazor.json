@@ -1,0 +1,53 @@
+{
+    "VENUE": "Estadio Municipal de Riazor",
+    "CITY": "La Coruña",
+    "TEAM": "Dep. La Coruna",
+    "CAPACITY": 34889,
+    "VENUE_URL": "https://wikipedia.org/wiki/Estadio_Riazor",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Homenajeascaloni.jpg/120px-Homenajeascaloni.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "ConcellodeACoruña",
+            "Surface": "Grass",
+            "Capacity": "32,490[1]",
+            "Location": "ACoruña,Spain",
+            "Operator": "DeportivodeLaCoruña",
+            "Full name": "EstadioMunicipaldeRiazor",
+            "Field size": "105 m× 68 m(344 ft× 223 ft)[1]",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}43°22′07″N8°25′03″W﻿/﻿43.3687°N8.4175°W﻿/43.3687;-8.4175﻿(EstadioMunicipaldeRiazor)"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Built": "1940",
+            "Opened": "28October1944",
+            "Architect": "SantiagoReyPedreira",
+            "Renovated": "1982,1995–1998,2015–2018",
+            "Broke ground": "1939",
+            "Project manager": "JoséMartínAlonso",
+            "Structural engineer": "JoséMartínAlonso"
+        }
+    },
+    "CONTENT": {
+        "History": "Although the stadium has hosted home games for Deportivo since its establishment in 1906, it wasn't until 1944 that essential facilities such as stands and changing rooms were installed . The initial field size was 105x74 meters, comparing to current 105x68. That year, the stadium was officially adopted as Deportivo's ground. The opening game was against Valencia on 28 October 1944, which saw Depor lose 3–2. Also, this asset made Riazor favorable for a Copa del Rey final between Real Madrid and Espanyol in 1947, which saw the capital's side claim their ninth cup title.The stadium was renovated in time to host three games during the 1982 FIFA World Cup finals.On 29 June 2017, the stadium was renamed as Abanca-Riazor after the sign of a sponsorship agreement between Abanca and Deportivo de La Coruña until 2025.",
+        "See also": "List of stadiums in SpainLists of stadiums",
+        "References": {},
+        "External links": "Riazor at rcdeportivo.esEstadios de Espana (in English)",
+        "International matches": "The stadium held three matches of Group 1, one of six groups in the group stage of the 1982 FIFA World Cup. The other Group 1 games were also held in Galicia, at Balaídos, Vigo."
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_Peru_%28state%29.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1e/Homenajeascaloni.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Soccerball_shade.svg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/6/63/Estadio_Riazor_-_Logo.png",
+        "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg",
+        "https://upload.wikimedia.org/wikipedia/en/e/e2/Symbol_portal_class.svg"
+    ],
+    "SUMMARY": "Estadio Municipal de Riazor (Galician pronunciation: [eʃˈtaðjʊ muniθiˈpal de riaˈθoɾ]) is an all-seater stadium in A Coruña, Galicia, Spain which is the home stadium of Deportivo de La Coruña. Currently known as Estadio Abanca-Riazor for sponsorship reasons, its name derives from the nearby beach of the same name.\nIt has a capacity of 32,490, making it the 13th-largest in Spain and the largest in the region. It holds the record for the most-attended match in the third tier with 29,079 spectators. \nThe stadium hosted matches at the 1982 FIFA World Cup and is due to hold matches at the upcoming 2030 FIFA World Cup. It has also hosted international friendlies and qualifying matches of the Spain national football team.\n\n"
+}

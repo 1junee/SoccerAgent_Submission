@@ -1,0 +1,522 @@
+[
+  {
+    "id": 15,
+    "Q": "Which youth teams did the Dinamo Zagreb midfielder who headed the cross over the bar in this video play for?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2022-2023/2022-10-11_dinamo-zagreb-red-bull-salzburg-champions-league/1_46_30.mp4"
+    ],
+    "openA": "Luka Ivanusec played for Novi Marof, Varaždin, and Lokomotiva in his youth career.",
+    "closeA": "O4",
+    "O1": "Dinamo Zagreb, Hajduk Split, and Rijeka",
+    "O2": "Varaždin, Lokomotiva, and Dinamo Zagreb",
+    "O3": "Novi Marof, Hajduk Split, and Rijeka",
+    "O4": "Novi Marof, Varaždin, and Lokomotiva"
+  },
+  {
+    "id": 73,
+    "Q": "How many appearances did the Burnley defender who made the unfair holding challenge in this video make for Aston Villa?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2018-2019/2018-10-20_manchester-city-burnley-fc-premier-league-2018-2019/2_31_50.mp4"
+    ],
+    "openA": "Matthew Lowton made 72 appearances for Aston Villa.",
+    "closeA": "O3",
+    "O1": "65",
+    "O2": "58",
+    "O3": "72",
+    "O4": "81"
+  },
+  {
+    "id": 85,
+    "Q": "On what date was the Bayer Leverkusen player who raced towards goal before being challenged by a defender born?",
+    "materials": [
+      "materials/q12/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen/2_07_40.mp4"
+    ],
+    "openA": "Karim Bellarabi was born on April 8, 1990.",
+    "closeA": "O2",
+    "O1": "April 10, 1990",
+    "O2": "April 8, 1990",
+    "O3": "March 8, 1990",
+    "O4": "April 8, 1991"
+  },
+  {
+    "id": 93,
+    "Q": "Which club did the Monaco player who took the corner kick in this video score against in the 2016–17 Coupe de France round of 16?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2017-2018/2017-11-01_besiktas-jk-as-monaco/1_14_00.mp4"
+    ],
+    "openA": "Thomas Lemar scored against Marseille in the 2016–17 Coupe de France round of 16.",
+    "closeA": "O2",
+    "O1": "Paris Saint-Germain",
+    "O2": "Marseille",
+    "O3": "Lyon",
+    "O4": "Monaco"
+  },
+  {
+    "id": 98,
+    "Q": "How much was the transfer fee for the Strasbourg defender who committed the reckless tackle in this video when they joined Lorient?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/france_league-1_2018-2019/2019-01-19_as-monaco-rc-strasbourg/2_01_09.mp4"
+    ],
+    "openA": "The transfer fee was priced at €1 million.",
+    "closeA": "O2",
+    "O1": "€500,000",
+    "O2": "€1 million",
+    "O3": "€2.5 million",
+    "O4": "€750,000"
+  },
+  {
+    "id": 114,
+    "Q": "How many goals did the manager who substituted Andreas Skov Olsen with Cisse Sandra in this video score in their entire senior career?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2022-2023/2022-09-07_club-brugge-bayer-leverkusen/2_37_29.mp4"
+    ],
+    "openA": "Carl Hoefkens scored 19 goals in his entire senior career.",
+    "closeA": "O4",
+    "O1": "15",
+    "O2": "22",
+    "O3": "17",
+    "O4": "19"
+  },
+  {
+    "id": 120,
+    "Q": "What was the result for France at the 2022 FIFA World Cup with the player who missed the volley from the edge of the box in this video?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2023-2024/2023-11-07_atletico-de-madrid-celtic-fc-champions-league/2_12_30.mp4"
+    ],
+    "openA": "Runners-up.",
+    "closeA": "O2",
+    "O1": "Champions",
+    "O2": "Runners-up",
+    "O3": "Third place",
+    "O4": "Quarter-finalists"
+  },
+  {
+    "id": 144,
+    "Q": "How many goals did the Manchester City player who received a yellow card for fouling an opponent in this video score in the 2021–22 season?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2018-2019/2019-01-03_manchester-city-liverpool-fc-premier-league-2018-2019/2_43_47.mp4"
+    ],
+    "openA": "13.",
+    "closeA": "O2",
+    "O1": "9",
+    "O2": "13",
+    "O3": "17",
+    "O4": "11"
+  },
+  {
+    "id": 149,
+    "Q": "Who was the opponent when the Manchester City attacker who scored with a low shot into the bottom left corner after receiving Phil Foden's pass scored their first senior competitive goal for Liverpool?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2019-2020/2020-07-02_manchester-city-liverpool-fc-premier-league-2019-2020/1_34_00.mp4"
+    ],
+    "openA": "The opponent was Reading when Raheem Sterling scored his first senior competitive goal for Liverpool.",
+    "closeA": "O4",
+    "O1": "Manchester City",
+    "O2": "Chelsea",
+    "O3": "Arsenal",
+    "O4": "Reading"
+  },
+  {
+    "id": 151,
+    "Q": "What was the date of the Dortmund defender who received a yellow card for the hard tackle in this video's return to Real Betis in 2023?",
+    "materials": [
+      "materials/q12/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-09-10 - 19-30 RB Leipzig 1 - 0 Dortmund/2_13_19.mp4"
+    ],
+    "openA": "Marc Bartra returned to Real Betis on 24 July 2023.",
+    "closeA": "O2",
+    "O1": "15 August 2023",
+    "O2": "24 July 2023",
+    "O3": "10 June 2023",
+    "O4": "31 July 2023"
+  },
+  {
+    "id": 171,
+    "Q": "Which award did the Arsenal midfielder who delivered the dangerous corner kick in this video win at Vitesse in 2019?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2021-2022/2021-12-02_manchester-united-arsenal-fc-premier-league-2021-2022/2_28_40.mp4"
+    ],
+    "openA": "Martin Odegaard was voted Vitesse's Player of the Year by the fans in 2019.",
+    "closeA": "O2",
+    "O1": "Vitesse's Top Goal Scorer of the Year",
+    "O2": "Vitesse's Player of the Year by the fans",
+    "O3": "Eredivisie Young Player of the Year",
+    "O4": "Vitesse's Most Valuable Player of the Season"
+  },
+  {
+    "id": 193,
+    "Q": "Which team did the Atalanta player who took the corner kick in this video score a brace against in the 2012–13 season?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/italy_serie-a_2019-2020/2020-01-25_torino-fc-atalanta-bc-serie-a-2019-2020/1_22_47.mp4"
+    ],
+    "openA": "Josip Ilicic scored a brace against Catania in the 2012–13 season.",
+    "closeA": "O2",
+    "O1": "Napoli",
+    "O2": "Catania",
+    "O3": "Lazio",
+    "O4": "Fiorentina"
+  },
+  {
+    "id": 194,
+    "Q": "How many goals did the Union Berlin midfielder who committed the foul in this video score for Voluntari?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/germany_bundesliga_2022-2023/2023-02-19_union-berlin-schalke-04/2_03_14.mp4"
+    ],
+    "openA": "Aissa Laidouni scored 7 goals for Voluntari.",
+    "closeA": "O4",
+    "O1": "5",
+    "O2": "10",
+    "O3": "3",
+    "O4": "7"
+  },
+  {
+    "id": 196,
+    "Q": "Which club did the winger who delivered the dangerous cross from the left flank in this video join after leaving Grêmio Barueri?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2018-2019/2019-04-13_liverpool-fc-chelsea-fc-premier-league-2018-2019/2_34_10.mp4"
+    ],
+    "openA": "Willian Jose joined São Paulo after leaving Grêmio Barueri.",
+    "closeA": "O4",
+    "O1": "Palmeiras",
+    "O2": "Flamengo",
+    "O3": "Santos",
+    "O4": "São Paulo"
+  },
+  {
+    "id": 202,
+    "Q": "What was the first senior club of the Liverpool attacker who scored with a superb strike from inside the box after a solo run in this video?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2018-2019/2018-08-20_crystal-palace-liverpool-fc/2_47_40.mp4"
+    ],
+    "openA": "Metz B.",
+    "closeA": "O4",
+    "O1": "FC Basel",
+    "O2": "Red Bull Salzburg",
+    "O3": "Genk",
+    "O4": "Metz B"
+  },
+  {
+    "id": 215,
+    "Q": "How many goals did the attacking midfielder who played for Real Madrid and delivered the quick through ball near the offside line in this video score for Valencia B?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/spain_laliga_2021-2022/2021-09-22_real-madrid-rcd-mallorca-liga-1-division-2021-2022/2_42_30.mp4"
+    ],
+    "openA": "16.",
+    "closeA": "O2",
+    "O1": "12",
+    "O2": "16",
+    "O3": "20",
+    "O4": "24"
+  },
+  {
+    "id": 217,
+    "Q": "How tall is the Bayern Munich player who was positioned to receive a promising pass before the defensive clearance led to a corner kick?",
+    "materials": [
+      "materials/q12/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich/2_41_21.mp4"
+    ],
+    "openA": "Juan Bernat is 1.77 meters (5 feet 10 inches) tall.",
+    "closeA": "O2",
+    "O1": "1.80 meters (5 feet 11 inches)",
+    "O2": "1.77 meters (5 feet 10 inches)",
+    "O3": "1.75 meters (5 feet 9 inches)",
+    "O4": "1.82 meters (6 feet 0 inches)"
+  },
+  {
+    "id": 220,
+    "Q": "How many Supercopa de España titles has the left-back who delivered the cross into the box in this video won?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2019-2020/2019-09-17_borussia-dortmund-fc-barcelona-champions-league/1_29_00.mp4"
+    ],
+    "openA": "Jordi Alba has won four Supercopa de España titles.",
+    "closeA": "O2",
+    "O1": "3",
+    "O2": "4",
+    "O3": "5",
+    "O4": "2"
+  },
+  {
+    "id": 251,
+    "Q": "Against which team did the midfielder who narrowly headed over from a close-range corner in this video score his first goal for Paris Saint-Germain?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2019-2020/2019-12-29_liverpool-fc-wolverhampton-wanderers-premier-league-2019-2020/2_07_36.mp4"
+    ],
+    "openA": "Georginio Wijnaldum scored his first goal for Paris Saint-Germain against RB Leipzig.",
+    "closeA": "O4",
+    "O1": "Bayern Munich",
+    "O2": "Manchester City",
+    "O3": "FC Barcelona",
+    "O4": "RB Leipzig"
+  },
+  {
+    "id": 257,
+    "Q": "What was the Swansea player who continued playing despite apparent injury's last club before retiring?",
+    "materials": [
+      "materials/q12/SN-Caption-test-align/england_epl_2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea/2_15_44.mp4"
+    ],
+    "openA": "Fernando Llorente's last club before retiring was Eibar.",
+    "closeA": "O2",
+    "O1": "Athletic Bilbao",
+    "O2": "Eibar",
+    "O3": "Juventus",
+    "O4": "Tottenham Hotspur"
+  },
+  {
+    "id": 261,
+    "Q": "When was the Napoli defender who was booked after visibly arguing with the referee born?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/italy_serie-a_2020-2021/2021-04-22_ssc-napoli-ss-lazio-serie-a-2020-2021/1_14_30.mp4"
+    ],
+    "openA": "Konstantinos Manolas was born on 14 June 1991.",
+    "closeA": "O4",
+    "O1": "15 June 1990",
+    "O2": "12 July 1991",
+    "O3": "14 May 1992",
+    "O4": "14 June 1991"
+  },
+  {
+    "id": 286,
+    "Q": "Which MLS team did the Arsenal left-back whose attempted pass into the box was intercepted join in 2021?",
+    "materials": [
+      "materials/q12/SN-Caption-test-align/england_epl_2015-2016/2015-11-08 - 19-00 Arsenal 1 - 1 Tottenham/2_41_12.mp4"
+    ],
+    "openA": "Inter Miami.",
+    "closeA": "O2",
+    "O1": "LA Galaxy",
+    "O2": "Inter Miami",
+    "O3": "Atlanta United",
+    "O4": "Seattle Sounders"
+  },
+  {
+    "id": 292,
+    "Q": "Which club did the midfielder who delivered the beautiful cross into the penalty area in this video score their first UEFA Champions League goal for?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2019-2020/2020-01-01_manchester-city-everton-fc-premier-league-2019-2020/1_16_24.mp4"
+    ],
+    "openA": "Kevin De Bruyne scored his first UEFA Champions League goal for Manchester City.",
+    "closeA": "O4",
+    "O1": "Chelsea",
+    "O2": "Wolfsburg",
+    "O3": "Genk",
+    "O4": "Manchester City"
+  },
+  {
+    "id": 304,
+    "Q": "Which youth team did the winger who delivered the dangerous cross into the penalty area in this video join after leaving Châteauroux?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/italy_serie-a_2018-2019/2018-12-16_cagliari-calcio-ssc-napoli-serie-a-2018-2019/1_05_50.mp4"
+    ],
+    "openA": "After leaving Châteauroux, Adam Ounas joined Football Club Ouest Tourangeau 37.",
+    "closeA": "O2",
+    "O1": "FC Girondins de Bordeaux",
+    "O2": "Football Club Ouest Tourangeau 37",
+    "O3": "AS Nancy",
+    "O4": "Le Havre AC"
+  },
+  {
+    "id": 306,
+    "Q": "What injury did the Southampton midfielder who sent the cross into the box in this video sustain during his Chelsea debut?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2022-2023/2023-03-18_southampton-fc-tottenham-hotspur-premier-league-2022-2023/1_10_06.mp4"
+    ],
+    "openA": "A thigh injury.",
+    "closeA": "O2",
+    "O1": "Ankle sprain",
+    "O2": "Thigh injury",
+    "O3": "Hamstring strain",
+    "O4": "Knee ligament tear"
+  },
+  {
+    "id": 318,
+    "Q": "How many goals did the Napoli winger who expertly controlled the pass and shot inside the penalty area in this video score for Georgia U17?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/italy_serie-a_2023-2024/2023-09-02_ssc-napoli-ss-lazio-serie-a-2023-2024/1_46_40.mp4"
+    ],
+    "openA": "15 goals",
+    "closeA": "O2",
+    "O1": "12 goals",
+    "O2": "15 goals",
+    "O3": "18 goals",
+    "O4": "10 goals"
+  },
+  {
+    "id": 334,
+    "Q": "Which national team did the left-back who delivered the corner kick in this video represent?",
+    "materials": [
+      "materials/q12/SN-Caption-test-align/italy_serie-a_2016-2017/2017-02-25 - 20-00 Napoli 0 - 2 Atalanta/2_43_43.mp4"
+    ],
+    "openA": "Faouzi Ghoulam represented the Algeria national team.",
+    "closeA": "O4",
+    "O1": "Morocco",
+    "O2": "Tunisia",
+    "O3": "Egypt",
+    "O4": "Algeria"
+  },
+  {
+    "id": 349,
+    "Q": "When did the defensive midfielder wearing the armband who failed to complete the through ball in this video extend his contract with Wolfsburg until 2012?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/germany_bundesliga_2020-2021/2021-01-17_eintracht-frankfurt-schalke-04/1_40_40.mp4"
+    ],
+    "openA": "Makoto Hasebe extended his contract with Wolfsburg on 29 April 2010.",
+    "closeA": "O2",
+    "O1": "15 March 2010",
+    "O2": "29 April 2010",
+    "O3": "12 May 2010",
+    "O4": "20 June 2010"
+  },
+  {
+    "id": 353,
+    "Q": "Which Premier League clubs did the Monaco striker who delivered the promising cross in this video join on loan after a major injury?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/france_league-1_2018-2019/2019-01-19_as-monaco-rc-strasbourg/2_15_10.mp4"
+    ],
+    "openA": "Radamel Falcao joined Manchester United and Chelsea on loan after his injury.",
+    "closeA": "O2",
+    "O1": "Arsenal and Tottenham",
+    "O2": "Manchester United and Chelsea",
+    "O3": "Liverpool and Manchester City",
+    "O4": "Leicester City and Everton"
+  },
+  {
+    "id": 363,
+    "Q": "At what age did the Liverpool right-back who took the unsuccessful corner in this video make their senior debut for the club?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2019-2020/2019-12-14_liverpool-fc-watford-fc-premier-league/2_01_50.mp4"
+    ],
+    "openA": "18 years old.",
+    "closeA": "O4",
+    "O1": "17 years old",
+    "O2": "19 years old",
+    "O3": "20 years old",
+    "O4": "18 years old"
+  },
+  {
+    "id": 365,
+    "Q": "Which senior team did the midfielder who took the unsuccessful corner kick in this video join in 2011?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/france_league-1_2019-2020/2019-09-28_olympique-lyonnais-fc-nantes-ligue-1-2019-2020/2_07_16.mp4"
+    ],
+    "openA": "Mehdi Abeid joined Newcastle United in 2011.",
+    "closeA": "O2",
+    "O1": "Paris Saint-Germain",
+    "O2": "Newcastle United",
+    "O3": "Olympique Lyonnais",
+    "O4": "AS Monaco"
+  },
+  {
+    "id": 368,
+    "Q": "How many appearances did the red-haired goalkeeper who cleared the danger from Raheem Sterling's through ball make for Stockport County on loan?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2020-2021/2021-03-07_manchester-city-manchester-united-premier-league-2020-2021/1_35_50.mp4"
+    ],
+    "openA": "Dean Henderson made 9 appearances for Stockport County during his loan spell.",
+    "closeA": "O2",
+    "O1": "12",
+    "O2": "9",
+    "O3": "7",
+    "O4": "15"
+  },
+  {
+    "id": 384,
+    "Q": "How many goals did the midfielder who took a powerful shot from the edge of the box in this video score for Sporting CP in the 2018–19 season?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2019-2020/2020-06-19_tottenham-hotspur-manchester-united-premier-league-2019-2020/1_47_22.mp4"
+    ],
+    "openA": "Bruno Fernandes scored 33 goals in the 2018–19 season with Sporting CP.",
+    "closeA": "O2",
+    "O1": "28",
+    "O2": "33",
+    "O3": "25",
+    "O4": "30"
+  },
+  {
+    "id": 419,
+    "Q": "What is the full name of the FC Porto player who was flagged for offside after getting behind the last defender in this video?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2018-2019/2019-03-06_fc-porto-as-roma/1_44_50.mp4"
+    ],
+    "openA": "Nicolas Pépé",
+    "closeA": "O4",
+    "O1": "Nicolas Perez",
+    "O2": "Nicolas Pedro",
+    "O3": "Nicolas Pinto",
+    "O4": "Nicolas Pépé"
+  },
+  {
+    "id": 447,
+    "Q": "Who was the opponent when the Manchester City attacker denied by a fantastic save after a solo strike from the edge of the box scored their first UEFA Champions League goal for the club?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2020-2021/2021-03-07_manchester-city-manchester-united-premier-league-2020-2021/2_06_25.mp4"
+    ],
+    "openA": "The opponent was Sevilla when Raheem Sterling scored his first UEFA Champions League goal for Manchester City.",
+    "closeA": "O2",
+    "O1": "Bayern Munich",
+    "O2": "Sevilla",
+    "O3": "Paris Saint-Germain",
+    "O4": "Borussia Dortmund"
+  },
+  {
+    "id": 451,
+    "Q": "How many appearances did the manager who made the substitution replacing Kamal Sowah with Eduard Sobol in this video make for Lommel?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2022-2023/2022-09-07_club-brugge-bayer-leverkusen/2_43_27.mp4"
+    ],
+    "openA": "Carl Hoefkens made 54 appearances for Lommel.",
+    "closeA": "O2",
+    "O1": "48",
+    "O2": "54",
+    "O3": "62",
+    "O4": "50"
+  },
+  {
+    "id": 452,
+    "Q": "Which club did the midfielder who received the clever through ball in this video make his Ligue 1 debut for?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2022-2023/2022-08-06_everton-fc-chelsea-fc-premier-league-2022-2023/1_37_47.mp4"
+    ],
+    "openA": "Rennes.",
+    "closeA": "O4",
+    "O1": "Lille",
+    "O2": "Monaco",
+    "O3": "Lyon",
+    "O4": "Rennes"
+  },
+  {
+    "id": 466,
+    "Q": "When did the midfielder who took the long-range shot from a central position in this video play for Bayern Munich II?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/spain_laliga_2022-2023/2022-08-14_ud-almeria-real-madrid-liga-1-division-2022-2023/2_00_39.mp4"
+    ],
+    "openA": "2007–2008.",
+    "closeA": "O2",
+    "O1": "2005–2006",
+    "O2": "2007–2008",
+    "O3": "2009–2010",
+    "O4": "2011–2012"
+  },
+  {
+    "id": 485,
+    "Q": "Which tournament did the Chelsea midfielder who received a yellow card in this video participate in with Serbia in 2018?",
+    "materials": [
+      "materials/q12/SN-Caption-test-align/england_epl_2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea/1_16_06.mp4"
+    ],
+    "openA": "FIFA World Cup",
+    "closeA": "O4",
+    "O1": "UEFA European Championship",
+    "O2": "Copa America",
+    "O3": "FIFA Confederations Cup",
+    "O4": "FIFA World Cup"
+  },
+  {
+    "id": 495,
+    "Q": "Which school did the AC Milan defender who received a needless yellow card after arguing vehemently with the referee attend?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/italy_serie-a_2021-2022/2021-10-31_as-roma-ac-milan-serie-a-2021-2022/2_19_24.mp4"
+    ],
+    "openA": "Fikayo Tomori attended Gravesend Grammar School in Gravesham.",
+    "closeA": "O4",
+    "O1": "Dartford Grammar School",
+    "O2": "King's School, Rochester",
+    "O3": "Wilmington Grammar School for Boys",
+    "O4": "Gravesend Grammar School in Gravesham"
+  }
+]

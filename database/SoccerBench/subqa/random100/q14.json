@@ -1,0 +1,1181 @@
+[
+  {
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.0x speed. Where did the foul make contact on the body?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_152/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_152/clip_1.mp4"
+    ],
+    "openA": "Under body",
+    "closeA": "O2",
+    "O1": "Upper body",
+    "O2": "Under body"
+  },
+  {
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Which action category does this foul belong to?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_33/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_33/clip_1.mp4"
+    ],
+    "openA": "Challenge",
+    "closeA": "O4",
+    "O1": "Dive",
+    "O2": "Holding",
+    "O3": "Pushing",
+    "O4": "Challenge"
+  },
+  {
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.2x speed. What intensity level does this foul have?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_265/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_265/clip_1.mp4"
+    ],
+    "openA": "Yellow card",
+    "closeA": "O1",
+    "O1": "Yellow card",
+    "O2": "No card or yellow card",
+    "O3": "No card",
+    "O4": "Yellow card or red card"
+  },
+  {
+    "Q": "3 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed. Did the player make a play for the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_171/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_171/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_171/clip_2.mp4"
+    ],
+    "openA": "Yes",
+    "closeA": "O2",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed. Where did the physical contact occur?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_192/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_192/clip_1.mp4"
+    ],
+    "openA": "Under body",
+    "closeA": "O1",
+    "O1": "Under body",
+    "O2": "Upper body"
+  },
+  {
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Is this a multi-foul situation?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_140/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_140/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O2",
+    "O1": "Yes",
+    "O2": "No"
+  },
+  {
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.2x speed. Does this situation contain more than one foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_164/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_164/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O2",
+    "O1": "Yes",
+    "O2": "No"
+  },
+  {
+    "Q": "3 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed, Close-up player or field referee lens at 2.6x speed. Where exactly on the upper body did the foul occur?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_230/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_230/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_230/clip_2.mp4"
+    ],
+    "openA": "Use of arms",
+    "closeA": "O3",
+    "O1": "Arms",
+    "O2": "Shoulder",
+    "O3": "Use of arms"
+  },
+  {
+    "Q": "There are 3 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.0x speed, Close-up player or field referee lens at 2.0x speed. Did the player touch the ball while fouling?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_166/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_166/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_166/clip_2.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.0x speed. Did the player try to reach the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_94/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_94/clip_1.mp4"
+    ],
+    "openA": "Yes",
+    "closeA": "O1",
+    "O1": "Yes",
+    "O2": "No"
+  },
+  {
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed. Was there an intention to play the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_235/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_235/clip_1.mp4"
+    ],
+    "openA": "Yes",
+    "closeA": "O2",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.4x speed. Did the offence occur in the attacking phase?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_219/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_219/clip_1.mp4"
+    ],
+    "openA": "Offence",
+    "closeA": "O3",
+    "O1": "No offence",
+    "O2": "Between",
+    "O3": "Offence"
+  },
+  {
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.0x speed. What category does this offence fall under?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_194/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_194/clip_1.mp4"
+    ],
+    "openA": "Standing tackling",
+    "closeA": "O1",
+    "O1": "Standing tackling",
+    "O2": "Holding",
+    "O3": "Tackling",
+    "O4": "Elbowing"
+  },
+  {
+    "Q": "This football foul has been captured from 3 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed, Close-up player or field referee lens at 3.4x speed. What part of the body was affected by this offence?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_49/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_49/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_49/clip_2.mp4"
+    ],
+    "openA": "Upper body",
+    "closeA": "O1",
+    "O1": "Upper body",
+    "O2": "Under body"
+  },
+  {
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.0x speed. Which body area was the focus of this foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_51/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_51/clip_1.mp4"
+    ],
+    "openA": "Upper body",
+    "closeA": "O2",
+    "O1": "Under body",
+    "O2": "Upper body"
+  },
+  {
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up behind the goal lens at 1.8x speed. Was the player's hand/arm involved in the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_142/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_142/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "3 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.2x speed, Close-up player or field referee lens at 2.2x speed. Was the ball touched during the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_214/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_214/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_214/clip_2.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed. Was physical contact present in this foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_184/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_184/clip_1.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O2",
+    "O1": "Without contact",
+    "O2": "With contact"
+  },
+  {
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed. Was the foul committed during an attacking move?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_203/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_203/clip_1.mp4"
+    ],
+    "openA": "Offence",
+    "closeA": "O2",
+    "O1": "Between",
+    "O2": "Offence",
+    "O3": "No offence"
+  },
+  {
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed. Does this incident include several fouls?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_117/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_117/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Did the players collide in this foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_38/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_38/clip_1.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O2",
+    "O1": "Without contact",
+    "O2": "With contact"
+  },
+  {
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. What kind of foul action is being committed?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_130/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_130/clip_1.mp4"
+    ],
+    "openA": "Standing tackling",
+    "closeA": "O6",
+    "O1": "Elbowing",
+    "O2": "Holding",
+    "O3": "Pushing",
+    "O4": "St. tackling"
+  },
+  {
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed. Did the fouling player touch the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_236/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_236/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O2",
+    "O1": "Yes",
+    "O2": "No"
+  },
+  {
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.0x speed. Did the foul occur due to a handball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_10/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_10/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O3": "Yes"
+  },
+  {
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed. Was the ball involved in the physical contact?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_16/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_16/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O2",
+    "O1": "Yes",
+    "O2": "No"
+  },
+  {
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Was there a deliberate attempt to play the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_283/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_283/clip_1.mp4"
+    ],
+    "openA": "Yes",
+    "closeA": "O1",
+    "O1": "Yes",
+    "O2": "No"
+  },
+  {
+    "Q": "There are 3 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.2x speed, Close-up player or field referee lens at 1.4x speed. What is the specific foul type shown?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_249/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_249/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_249/clip_2.mp4"
+    ],
+    "openA": "Holding",
+    "closeA": "O2",
+    "O1": "Dive",
+    "O2": "Holding",
+    "O3": "High leg",
+    "O4": "Tackling"
+  },
+  {
+    "Q": "3 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.2x speed, Close-up player or field referee lens at 3.0x speed. Did the players collide in this foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_27/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_27/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_27/clip_2.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O1",
+    "O1": "With contact",
+    "O2": "Without contact"
+  },
+  {
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.2x speed. Was there any contact during this offence?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_196/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_196/clip_1.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O2",
+    "O1": "Without contact",
+    "O2": "With contact"
+  },
+  {
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.0x speed. Was there any contact during this offence?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_104/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_104/clip_1.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O1",
+    "O1": "With contact",
+    "O2": "Without contact"
+  },
+  {
+    "Q": "This football foul has been captured from 3 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed, Close-up player or field referee lens at 4.0x speed. Was there an intention to play the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_278/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_278/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_278/clip_2.mp4"
+    ],
+    "openA": "Yes",
+    "closeA": "O2",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.8x speed. Was there any contact during this offence?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_231/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_231/clip_1.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O1",
+    "O1": "With contact",
+    "O2": "Without contact"
+  },
+  {
+    "Q": "This football foul has been captured from 3 different angles: Main camera center lens at 1.0x speed, Main behind the goal lens at 1.4x speed, Close-up player or field referee lens at 1.8x speed. Which part of the player's body was involved?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_266/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_266/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_266/clip_2.mp4"
+    ],
+    "openA": "Upper body",
+    "closeA": "O2",
+    "O1": "Under body",
+    "O2": "Upper body"
+  },
+  {
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed. Did the player handle the ball deliberately?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_19/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_19/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Does this situation contain more than one foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_75/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_75/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed. Are multiple rule violations occurring here?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_125/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_125/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O2",
+    "O1": "Yes",
+    "O2": "No"
+  },
+  {
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed. Where did the foul make contact on the body?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_235/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_235/clip_1.mp4"
+    ],
+    "openA": "Under body",
+    "closeA": "O1",
+    "O1": "Under body",
+    "O2": "Upper body"
+  },
+  {
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed. How would you assess the foul's severity?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_146/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_146/clip_1.mp4"
+    ],
+    "openA": "Yellow card",
+    "closeA": "O3",
+    "O1": "Yellow card or red card",
+    "O2": "Red card",
+    "O3": "Yellow card",
+    "O4": "No card"
+  },
+  {
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. What category does this offence fall under?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_105/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_105/clip_1.mp4"
+    ],
+    "openA": "Standing tackling",
+    "closeA": "O2",
+    "O1": "High leg",
+    "O2": "Standing tackling",
+    "O3": "Pushing",
+    "O4": "Challenge"
+  },
+  {
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Which foul type is displayed in the videos?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_157/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_157/clip_1.mp4"
+    ],
+    "openA": "Elbowing",
+    "closeA": "O4",
+    "O1": "Holding",
+    "O2": "Pushing",
+    "O3": "Challenge",
+    "O4": "Elbowing"
+  },
+  {
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.2x speed. What upper body zone was involved in the offence?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_216/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_216/clip_1.mp4"
+    ],
+    "openA": "Use of shoulder",
+    "closeA": "O1",
+    "O1": "Use of shoulder",
+    "O2": "Arms",
+    "O3": "Shoulder"
+  },
+  {
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed. Was there an effort to control the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_257/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_257/clip_1.mp4"
+    ],
+    "openA": "Yes",
+    "closeA": "O2",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.6x speed. Was this foul part of an offensive action?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_300/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_300/clip_1.mp4"
+    ],
+    "openA": "Offence",
+    "closeA": "O3",
+    "O1": "Between",
+    "O2": "No offence",
+    "O3": "Offence"
+  },
+  {
+    "Q": "There are 3 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed, Close-up player or field referee lens at 3.4x speed. Is this a case of multiple fouls?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_73/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_73/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_73/clip_2.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Did the foul involve physical contact?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_33/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_33/clip_1.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O2",
+    "O1": "Without contact",
+    "O2": "With contact"
+  },
+  {
+    "Q": "3 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.2x speed, Close-up player or field referee lens at 1.4x speed. Was there a handball offence here?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_249/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_249/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_249/clip_2.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.6x speed. Where exactly on the upper body did the foul occur?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_37/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_37/clip_1.mp4"
+    ],
+    "openA": "Use of shoulder",
+    "closeA": "O2",
+    "O1": "Arms",
+    "O2": "Use of shoulder",
+    "O3": "Shoulder"
+  },
+  {
+    "Q": "This football foul has been captured from 3 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed, Close-up player or field referee lens at 4.4x speed. What is the specific foul type shown?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_25/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_25/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_25/clip_2.mp4"
+    ],
+    "openA": "Standing tackling",
+    "closeA": "O5",
+    "O1": "Dive",
+    "O2": "Pushing",
+    "O3": "Challenge",
+    "O4": "Tackling"
+  },
+  {
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed. Was there an attempt to play the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_192/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_192/clip_1.mp4"
+    ],
+    "openA": "Yes",
+    "closeA": "O2",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed. Did the offender make contact with the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_217/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_217/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "This football foul has been captured from 4 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed, Close-up player or field referee lens at 2.4x speed, Close-up behind the goal lens at 2.0x speed. Was this a handball-related offence?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_97/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_97/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_97/clip_2.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_97/clip_3.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O3",
+    "O1": "Yes",
+    "O3": "No"
+  },
+  {
+    "Q": "There are 3 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed, Close-up player or field referee lens at 2.6x speed. Was there intentional hand contact?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_87/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_87/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_87/clip_2.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O2",
+    "O2": "No",
+    "O3": "Yes"
+  },
+  {
+    "Q": "3 camera angles captured this football foul: Main camera center lens at 1.0x speed, Main behind the goal lens at 1.0x speed, Close-up player or field referee lens at 2.2x speed. Was there contact between the players in this foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_53/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_53/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_53/clip_2.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O2",
+    "O1": "Without contact",
+    "O2": "With contact"
+  },
+  {
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed. Did the attacking team commit this foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_40/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_40/clip_1.mp4"
+    ],
+    "openA": "Offence",
+    "closeA": "O2",
+    "O1": "Between",
+    "O2": "Offence",
+    "O3": "No offence"
+  },
+  {
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed. What's the classification of this foul action?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_155/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_155/clip_1.mp4"
+    ],
+    "openA": "Standing tackling",
+    "closeA": "O8",
+    "O1": "Elbowing",
+    "O2": "St. tackling",
+    "O3": "Challenge",
+    "O4": "Dive"
+  },
+  {
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up behind the goal lens at 1.8x speed. Which body zone was the point of contact?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_258/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_258/clip_1.mp4"
+    ],
+    "openA": "Under body",
+    "closeA": "O2",
+    "O1": "Upper body",
+    "O2": "Under body"
+  },
+  {
+    "Q": "There are 3 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.2x speed, Close-up player or field referee lens at 3.0x speed. Did the offence occur in the attacking phase?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_55/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_55/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_55/clip_2.mp4"
+    ],
+    "openA": "Offence",
+    "closeA": "O1",
+    "O1": "Offence",
+    "O2": "Between",
+    "O3": "No offence"
+  },
+  {
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed. Was the player's hand/arm involved in the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_40/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_40/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O3",
+    "O2": "Yes",
+    "O3": "No"
+  },
+  {
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.0x speed. Did this foul involve a handball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_194/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_194/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O3",
+    "O1": "Yes",
+    "O3": "No"
+  },
+  {
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed. Was there an attempt to play the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_225/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_225/clip_1.mp4"
+    ],
+    "openA": "Yes",
+    "closeA": "O1",
+    "O1": "Yes",
+    "O2": "No"
+  },
+  {
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Where did the physical contact occur?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_296/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_296/clip_1.mp4"
+    ],
+    "openA": "Under body",
+    "closeA": "O2",
+    "O1": "Upper body",
+    "O2": "Under body"
+  },
+  {
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.8x speed. Which upper body area was the contact made?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_103/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_103/clip_1.mp4"
+    ],
+    "openA": "Use of arms",
+    "closeA": "O1",
+    "O1": "Use of arms",
+    "O2": "Arms",
+    "O3": "Shoulder"
+  },
+  {
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Did the player have ball contact during the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_130/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_130/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O2",
+    "O1": "Yes",
+    "O2": "No"
+  },
+  {
+    "Q": "3 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.2x speed, Close-up player or field referee lens at 1.4x speed. What intensity level does this foul have?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_249/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_249/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_249/clip_2.mp4"
+    ],
+    "openA": "Yellow card",
+    "closeA": "O4",
+    "O1": "No card or yellow card",
+    "O2": "Red card",
+    "O3": "No card",
+    "O4": "Yellow card"
+  },
+  {
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up behind the goal lens at 1.0x speed. Is there more than one foul in this play?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_71/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_71/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O2",
+    "O1": "Yes",
+    "O2": "No"
+  },
+  {
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.2x speed. Was physical contact present in this foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_197/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_197/clip_1.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O1",
+    "O1": "With contact",
+    "O2": "Without contact"
+  },
+  {
+    "Q": "There are 3 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.2x speed, Close-up player or field referee lens at 3.0x speed. Was the foul committed during an offensive situation?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_27/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_27/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_27/clip_2.mp4"
+    ],
+    "openA": "Offence",
+    "closeA": "O2",
+    "O1": "Between",
+    "O2": "Offence",
+    "O3": "No offence"
+  },
+  {
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.4x speed. How severe is this football offence?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_56/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_56/clip_1.mp4"
+    ],
+    "openA": "No card",
+    "closeA": "O5",
+    "O1": "No card or yellow card",
+    "O2": "Yellow card or red card",
+    "O3": "Red card",
+    "O4": "Yellow card"
+  },
+  {
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.0x speed. Is this a case of multiple fouls?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_93/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_93/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.0x speed. Did the foul occur due to a handball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_209/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_209/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O2",
+    "O1": "Yes",
+    "O2": "No"
+  },
+  {
+    "Q": "3 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed, Close-up player or field referee lens at 2.0x speed. Did the fouling player touch the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_183/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_183/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_183/clip_2.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed. What is the specific foul type shown?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_137/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_137/clip_1.mp4"
+    ],
+    "openA": "Standing tackling",
+    "closeA": "O1",
+    "O1": "Standing tackling",
+    "O2": "Tackling",
+    "O3": "Elbowing",
+    "O4": "St. tackling"
+  },
+  {
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Was the ball part of the foul contact?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_123/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_123/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed. Where was the foul committed on the body?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_218/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_218/clip_1.mp4"
+    ],
+    "openA": "Upper body",
+    "closeA": "O1",
+    "O1": "Upper body",
+    "O2": "Under body"
+  },
+  {
+    "Q": "There are 3 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed. Did this foul involve any physical interaction?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_14/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_14/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_14/clip_2.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O2",
+    "O1": "Without contact",
+    "O2": "With contact"
+  },
+  {
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed. Are there concurrent offences in this play?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_192/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_192/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "There are 3 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Was there intentional hand contact?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_35/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_35/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_35/clip_2.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O2",
+    "O2": "No",
+    "O3": "Yes"
+  },
+  {
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.2x speed. Are there several offences in this incident?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_163/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_163/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O2",
+    "O1": "Yes",
+    "O2": "No"
+  },
+  {
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.6x speed. Did the player try to reach the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_255/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_255/clip_1.mp4"
+    ],
+    "openA": "Yes",
+    "closeA": "O1",
+    "O1": "Yes",
+    "O2": "No"
+  },
+  {
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.2x speed. What's the severity level of this offence?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_196/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_196/clip_1.mp4"
+    ],
+    "openA": "Yellow card",
+    "closeA": "O3",
+    "O1": "No card",
+    "O2": "Yellow card or red card",
+    "O3": "Yellow card",
+    "O4": "Red card"
+  },
+  {
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.0x speed. What's the severity level of this offence?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_28/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_28/clip_1.mp4"
+    ],
+    "openA": "Yellow card",
+    "closeA": "O4",
+    "O1": "No card",
+    "O2": "Yellow card or red card",
+    "O3": "No card or yellow card",
+    "O4": "Yellow card"
+  },
+  {
+    "Q": "There are 3 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.0x speed, Close-up player or field referee lens at 3.6x speed. How should this foul be categorized?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_44/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_44/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_44/clip_2.mp4"
+    ],
+    "openA": "Challenge",
+    "closeA": "O8",
+    "O1": "Holding",
+    "O2": "Tackling",
+    "O3": "Dive",
+    "O4": "Pushing"
+  },
+  {
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.6x speed. Did the player attempt to play the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_260/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_260/clip_1.mp4"
+    ],
+    "openA": "Yes",
+    "closeA": "O2",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "There are 3 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed, Close-up player or field referee lens at 4.0x speed. What part of the body was affected by this offence?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_278/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_278/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_278/clip_2.mp4"
+    ],
+    "openA": "Under body",
+    "closeA": "O1",
+    "O1": "Under body",
+    "O2": "Upper body"
+  },
+  {
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed. Did the foul involve physical contact?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_217/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_217/clip_1.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O2",
+    "O1": "Without contact",
+    "O2": "With contact"
+  },
+  {
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed. How should this foul be categorized?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_112/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_112/clip_1.mp4"
+    ],
+    "openA": "Challenge",
+    "closeA": "O5",
+    "O1": "Pushing",
+    "O2": "High leg",
+    "O3": "Tackling",
+    "O4": "Dive"
+  },
+  {
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed. Was a handball committed in this play?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_237/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_237/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Which body part was involved in this foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_139/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_139/clip_1.mp4"
+    ],
+    "openA": "Upper body",
+    "closeA": "O2",
+    "O1": "Under body",
+    "O2": "Upper body"
+  },
+  {
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed. Did the player use their hand/arm to commit the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_60/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_60/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O3": "Yes"
+  },
+  {
+    "Q": "3 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed, Close-up player or field referee lens at 2.6x speed. How would you classify this foul action?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_124/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_124/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_124/clip_2.mp4"
+    ],
+    "openA": "Tackling",
+    "closeA": "O8",
+    "O1": "Elbowing",
+    "O2": "High leg",
+    "O3": "Challenge",
+    "O4": "St. tackling"
+  },
+  {
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.0x speed. Are there several offences in this incident?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_209/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_209/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "3 camera angles captured this football foul: Main camera center lens at 1.0x speed, Main camera right lens at 1.6x speed, Close-up player or field referee lens at 3.2x speed. Which part of the upper body was affected?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_215/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_215/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_215/clip_2.mp4"
+    ],
+    "openA": "Use of arms",
+    "closeA": "O3",
+    "O1": "Shoulder",
+    "O2": "Arms",
+    "O3": "Use of arms"
+  },
+  {
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.4x speed. What specific action constitutes this foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_272/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_272/clip_1.mp4"
+    ],
+    "openA": "Standing tackling",
+    "closeA": "O1",
+    "O1": "Standing tackling",
+    "O2": "Elbowing",
+    "O3": "Holding",
+    "O4": "High leg"
+  },
+  {
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.2x speed. Did the attacking move result in this foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_164/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_164/clip_1.mp4"
+    ],
+    "openA": "Offence",
+    "closeA": "O2",
+    "O1": "No offence",
+    "O2": "Offence",
+    "O3": "Between"
+  },
+  {
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.4x speed. Where was the foul committed on the body?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_77/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_77/clip_1.mp4"
+    ],
+    "openA": "Under body",
+    "closeA": "O1",
+    "O1": "Under body",
+    "O2": "Upper body"
+  },
+  {
+    "Q": "This football foul has been captured from 3 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed, Close-up player or field referee lens at 3.4x speed. Was this foul part of an offensive action?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_73/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_73/clip_1.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_73/clip_2.mp4"
+    ],
+    "openA": "Offence",
+    "closeA": "O1",
+    "O1": "Offence",
+    "O2": "Between",
+    "O3": "No offence"
+  },
+  {
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed. Was there contact between the players in this foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_180/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_180/clip_1.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O1",
+    "O1": "With contact",
+    "O2": "Without contact"
+  },
+  {
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed. Did the offence happen while attacking?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_192/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_192/clip_1.mp4"
+    ],
+    "openA": "Offence",
+    "closeA": "O3",
+    "O1": "Between",
+    "O2": "No offence",
+    "O3": "Offence"
+  },
+  {
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.6x speed. Did the player attempt to intercept the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_300/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_300/clip_1.mp4"
+    ],
+    "openA": "Yes",
+    "closeA": "O2",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 4.4x speed. Are multiple offences being committed here?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_85/clip_0.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q14/action_85/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O2",
+    "O1": "Yes",
+    "O2": "No"
+  }
+]

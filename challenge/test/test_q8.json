@@ -1,0 +1,262 @@
+[
+  {
+    "id": 28,
+    "Q": "Can you describe how the camera switches between shots in the video?",
+    "materials": [
+      "materials/q8/2.mp4"
+    ],
+    "openA": "From Close-up behind the goal to Close-up corner.",
+    "closeA": "O2",
+    "O1": "From Close-up player or field referee to Main camera left.",
+    "O2": "From Close-up behind the goal to Close-up corner.",
+    "O3": "From Main behind the goal to Other.",
+    "O4": "From Main camera center to Other."
+  },
+  {
+    "id": 54,
+    "Q": "What type of camera switch is used in the video?",
+    "materials": [
+      "materials/q8/37.mp4"
+    ],
+    "openA": "From Main camera center to Public.",
+    "closeA": "O4",
+    "O1": "From Other to Close-up behind the goal.",
+    "O2": "From Main behind the goal to Main camera right.",
+    "O3": "From Spider camera to Main camera left.",
+    "O4": "From Main camera center to Public."
+  },
+  {
+    "id": 63,
+    "Q": "What type of camera switch is used in the video?",
+    "materials": [
+      "materials/q8/25.mp4"
+    ],
+    "openA": "From Main camera center to Public.",
+    "closeA": "O3",
+    "O1": "From Goal line technology camera to Spider camera.",
+    "O2": "From Close-up behind the goal to Main camera right.",
+    "O3": "From Main camera center to Public.",
+    "O4": "From Inside the goal to Close-up player or field referee."
+  },
+  {
+    "id": 69,
+    "Q": "How does the camera position change in the video?",
+    "materials": [
+      "materials/q8/10.mp4"
+    ],
+    "openA": "From Main camera center to Inside the goal.",
+    "closeA": "O1",
+    "O1": "From Main camera center to Inside the goal.",
+    "O2": "From Inside the goal to Goal line technology camera.",
+    "O3": "From Close-up player or field referee to Close-up corner.",
+    "O4": "From Close-up player or field referee to Main camera right."
+  },
+  {
+    "id": 80,
+    "Q": "How does the camera position change in the video?",
+    "materials": [
+      "materials/q8/1.mp4"
+    ],
+    "openA": "From Public to Spider camera.",
+    "closeA": "O3",
+    "O1": "From Close-up behind the goal to Main camera right.",
+    "O2": "From Main camera left to Close-up behind the goal.",
+    "O3": "From Public to Spider camera.",
+    "O4": "From Public to Goal line technology camera."
+  },
+  {
+    "id": 100,
+    "Q": "How is the camera positioned in different parts of the video?",
+    "materials": [
+      "materials/q8/39.mp4"
+    ],
+    "openA": "From Goal line technology camera to Close-up side staff.",
+    "closeA": "O4",
+    "O1": "From Main camera left to Public.",
+    "O2": "From Close-up corner to Main camera right.",
+    "O3": "From Main behind the goal to Public.",
+    "O4": "From Goal line technology camera to Close-up side staff."
+  },
+  {
+    "id": 108,
+    "Q": "How does the camera move in the video?",
+    "materials": [
+      "materials/q8/31.mp4"
+    ],
+    "openA": "From Public to Main camera center.",
+    "closeA": "O2",
+    "O1": "From Close-up corner to Spider camera.",
+    "O2": "From Public to Main camera center.",
+    "O3": "From Main camera right to Public.",
+    "O4": "From Main camera right to Other."
+  },
+  {
+    "id": 130,
+    "Q": "How is the camera positioned in different parts of the video?",
+    "materials": [
+      "materials/q8/30.mp4"
+    ],
+    "openA": "From Close-up behind the goal to Public.",
+    "closeA": "O3",
+    "O1": "From Main camera center to Main camera left.",
+    "O2": "From Inside the goal to Main behind the goal.",
+    "O3": "From Close-up behind the goal to Public.",
+    "O4": "From Main camera right to Main camera right."
+  },
+  {
+    "id": 154,
+    "Q": "How does the viewpoint of the camera shift in the video?",
+    "materials": [
+      "materials/q8/3.mp4"
+    ],
+    "openA": "From Goal line technology camera to Close-up side staff.",
+    "closeA": "O4",
+    "O1": "From Inside the goal to Close-up player or field referee.",
+    "O2": "From Public to Other.",
+    "O3": "From Main camera center to Main camera center.",
+    "O4": "From Goal line technology camera to Close-up side staff."
+  },
+  {
+    "id": 170,
+    "Q": "How does the camera move in the video?",
+    "materials": [
+      "materials/q8/24.mp4"
+    ],
+    "openA": "From Close-up player or field referee to Main camera center.",
+    "closeA": "O3",
+    "O1": "From Close-up corner to Close-up side staff.",
+    "O2": "From Main behind the goal to Spider camera.",
+    "O3": "From Close-up player or field referee to Main camera center.",
+    "O4": "From Main behind the goal to Main camera center."
+  },
+  {
+    "id": 182,
+    "Q": "What kind of changes in camera positioning are there in the video?",
+    "materials": [
+      "materials/q8/8.mp4"
+    ],
+    "openA": "From Main behind the goal to Other.",
+    "closeA": "O4",
+    "O1": "From Close-up behind the goal to Close-up behind the goal.",
+    "O2": "From Close-up behind the goal to Main camera left.",
+    "O3": "From Other to Main behind the goal.",
+    "O4": "From Main behind the goal to Other."
+  },
+  {
+    "id": 236,
+    "Q": "How is the camera positioned in different parts of the video?",
+    "materials": [
+      "materials/q8/16.mp4"
+    ],
+    "openA": "From Other to Spider camera.",
+    "closeA": "O2",
+    "O1": "From Close-up side staff to Close-up behind the goal.",
+    "O2": "From Other to Spider camera.",
+    "O3": "From Goal line technology camera to Close-up corner.",
+    "O4": "From Public to Main camera right."
+  },
+  {
+    "id": 280,
+    "Q": "What type of shot changes occur with the camera in the video?",
+    "materials": [
+      "materials/q8/22.mp4"
+    ],
+    "openA": "From Close-up side staff to Close-up behind the goal.",
+    "closeA": "O3",
+    "O1": "From Main camera left to Main camera left.",
+    "O2": "From Close-up side staff to Other.",
+    "O3": "From Close-up side staff to Close-up behind the goal.",
+    "O4": "From Main camera right to Main camera right."
+  },
+  {
+    "id": 319,
+    "Q": "How is the camera positioned in different parts of the video?",
+    "materials": [
+      "materials/q8/27.mp4"
+    ],
+    "openA": "From Main behind the goal to Main camera right.",
+    "closeA": "O2",
+    "O1": "From Close-up side staff to Public.",
+    "O2": "From Main behind the goal to Main camera right.",
+    "O3": "From Main camera left to Main camera right.",
+    "O4": "From Main camera left to Other."
+  },
+  {
+    "id": 326,
+    "Q": "How does the camera position change in the video?",
+    "materials": [
+      "materials/q8/4.mp4"
+    ],
+    "openA": "From Main camera left to Goal line technology camera.",
+    "closeA": "O4",
+    "O1": "From Main behind the goal to Close-up behind the goal.",
+    "O2": "From Goal line technology camera to Main camera center.",
+    "O3": "From Inside the goal to Main camera left.",
+    "O4": "From Main camera left to Goal line technology camera."
+  },
+  {
+    "id": 423,
+    "Q": "How does the camera perspective change in the video?",
+    "materials": [
+      "materials/q8/20.mp4"
+    ],
+    "openA": "From Main camera center to Main behind the goal.",
+    "closeA": "O3",
+    "O1": "From Goal line technology camera to Close-up corner.",
+    "O2": "From Close-up player or field referee to Main camera left.",
+    "O3": "From Main camera center to Main behind the goal.",
+    "O4": "From Spider camera to Inside the goal."
+  },
+  {
+    "id": 425,
+    "Q": "How does the camera position change in the video?",
+    "materials": [
+      "materials/q8/34.mp4"
+    ],
+    "openA": "From Public to Main camera left.",
+    "closeA": "O4",
+    "O1": "From Close-up player or field referee to Close-up side staff.",
+    "O2": "From Goal line technology camera to Close-up corner.",
+    "O3": "From Public to Inside the goal.",
+    "O4": "From Public to Main camera left."
+  },
+  {
+    "id": 468,
+    "Q": "How does the viewpoint of the camera shift in the video?",
+    "materials": [
+      "materials/q8/15.mp4"
+    ],
+    "openA": "From Close-up player or field referee to Inside the goal.",
+    "closeA": "O3",
+    "O1": "From Main camera center to Spider camera.",
+    "O2": "From Main camera left to Main behind the goal.",
+    "O3": "From Close-up player or field referee to Inside the goal.",
+    "O4": "From Goal line technology camera to Main camera left."
+  },
+  {
+    "id": 473,
+    "Q": "Can you describe how the camera switches between shots in the video?",
+    "materials": [
+      "materials/q8/9.mp4"
+    ],
+    "openA": "From Close-up player or field referee to Main camera right.",
+    "closeA": "O3",
+    "O1": "From Main camera center to Inside the goal.",
+    "O2": "From Goal line technology camera to Close-up player or field referee.",
+    "O3": "From Close-up player or field referee to Main camera right.",
+    "O4": "From Goal line technology camera to Other."
+  },
+  {
+    "id": 475,
+    "Q": "How does the camera perspective change in the video?",
+    "materials": [
+      "materials/q8/26.mp4"
+    ],
+    "openA": "From Goal line technology camera to Close-up player or field referee.",
+    "closeA": "O3",
+    "O1": "From Public to Inside the goal.",
+    "O2": "From Close-up side staff to Close-up corner.",
+    "O3": "From Goal line technology camera to Close-up player or field referee.",
+    "O4": "From Main camera left to Main camera center."
+  }
+]

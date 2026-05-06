@@ -1,0 +1,26 @@
+[
+  {
+    "Q": "What is the player’s shirt number in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/256"
+    ],
+    "openA": 50,
+    "closeA": "O4",
+    "O1": 49,
+    "O2": 55,
+    "O3": 51,
+    "O4": 50
+  },
+  {
+    "Q": "Which jersey number is the player sporting in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/678"
+    ],
+    "openA": 33,
+    "closeA": "O4",
+    "O1": 44,
+    "O2": 34,
+    "O3": 32,
+    "O4": 33
+  }
+]

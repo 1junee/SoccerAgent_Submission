@@ -1,0 +1,122 @@
+[
+  {
+    "Q": "Assign an appropriate category to the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/spain_laliga_2015-2016/2015-08-29 - 23-30 Real Madrid 5 - 0 Betis/2_28_38.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O2",
+    "O1": "throw in",
+    "O2": "ball out of play",
+    "O3": "start of half game",
+    "O4": "off side"
+  },
+  {
+    "Q": "Can you classify the football event in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/spain_laliga_2015-2016/2015-12-05 - 18-00 Real Madrid 4 - 1 Getafe/2_19_33.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O4",
+    "O1": "lead to corner",
+    "O2": "end of half game",
+    "O3": "free kick",
+    "O4": "clearance"
+  },
+  {
+    "Q": "Which category does the football event in this video belong to?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/england_epl_2015-2016/2016-02-03 - 22-45 Watford 0 - 0 Chelsea/2_28_16.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O3",
+    "O1": "yellow card",
+    "O2": "goal",
+    "O3": "clearance",
+    "O4": "ball possession"
+  },
+  {
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/spain_laliga_2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid/1_13_55.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O4",
+    "O1": "show added time",
+    "O2": "foul with no card",
+    "O3": "saved by goal-keeper",
+    "O4": "clearance"
+  },
+  {
+    "Q": "Could you assign a category to the football event in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen/1_35_38.mp4"
+    ],
+    "openA": "foul with no card",
+    "closeA": "O4",
+    "O1": "throw in",
+    "O2": "corner",
+    "O3": "goal",
+    "O4": "foul with no card"
+  },
+  {
+    "Q": "Choose a category for the football scene in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2015-2016/2015-11-03 - 22-45 Sevilla 1 - 3 Manchester City/2_26_53.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O2",
+    "O1": "ball out of play",
+    "O2": "shot off target",
+    "O3": "end of half game",
+    "O4": "goal"
+  },
+  {
+    "Q": "What category can the football event in this video be classified as?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln/1_39_55.mp4"
+    ],
+    "openA": "goal",
+    "closeA": "O2",
+    "O1": "ball out of play",
+    "O2": "goal",
+    "O3": "throw in",
+    "O4": "var"
+  },
+  {
+    "Q": "Classify the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/spain_laliga_2022-2023/2023-06-04_real-betis-valencia-cf-liga-1-division-2022-2023/2_42_26.mp4"
+    ],
+    "openA": "foul with no card",
+    "closeA": "O2",
+    "O1": "penalty",
+    "O2": "foul with no card",
+    "O3": "substitution",
+    "O4": "injury"
+  },
+  {
+    "Q": "What kind of football event is depicted in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/italy_serie-a_2016-2017/2016-10-02 - 21-45 AS Roma 2 - 1 Inter/2_15_27.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O3",
+    "O1": "second yellow card",
+    "O2": "shot off target",
+    "O3": "corner",
+    "O4": "saved by goal-keeper"
+  },
+  {
+    "Q": "What category does the football action in this video fall under?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/italy_serie-a_2016-2017/2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina/1_30_43.mp4"
+    ],
+    "openA": "saved by goal-keeper",
+    "closeA": "O2",
+    "O1": "off side",
+    "O2": "saved by goal-keeper",
+    "O3": "goal",
+    "O4": "yellow card"
+  }
+]

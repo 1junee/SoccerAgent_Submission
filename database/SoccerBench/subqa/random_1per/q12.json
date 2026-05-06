@@ -1,0 +1,98 @@
+[
+  {
+    "Q": "What was the final score of the match in which the Manchester City midfielder who required medical treatment after the referee stopped play scored his first goal for the club?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2018-2019/2018-11-24_west-ham-united-manchester-city-premier-league-2018-2019/1_37_30.mp4"
+    ],
+    "openA": "The final score of the match in which Fabian Delph scored his first goal for Manchester City was 3–1 against Southampton.",
+    "closeA": "O4",
+    "O1": "2–0 against Liverpool",
+    "O2": "1–1 against Chelsea",
+    "O3": "4–2 against Arsenal",
+    "O4": "3–1 against Southampton"
+  },
+  {
+    "Q": "Where was the Espanyol midfielder who came on as a substitute in this video born?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2014-2015/2015-04-25 - 17-00 Espanyol 0 - 2 Barcelona/2_15_04.mp4"
+    ],
+    "openA": "Yokohama, Japan",
+    "closeA": "O4",
+    "O1": "Tokyo, Japan",
+    "O2": "Osaka, Japan",
+    "O3": "Kobe, Japan",
+    "O4": "Yokohama, Japan"
+  },
+  {
+    "Q": "What individual award did the Bayern Munich player who opted for a short corner in this video win at the 2014 FIFA World Cup?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln/2_01_27.mp4"
+    ],
+    "openA": "Thomas Muller won the Silver Ball and the Silver Boot at the 2014 FIFA World Cup.",
+    "closeA": "O4",
+    "O1": "The Golden Ball and the Golden Boot",
+    "O2": "The Bronze Ball and the Bronze Boot",
+    "O3": "The Golden Glove and the Best Young Player Award",
+    "O4": "The Silver Ball and the Silver Boot"
+  },
+  {
+    "Q": "How many goals did the Barcelona player who took the first-time strike from inside the box in this video score in the 2023 Arab Club Champions Cup?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2016-2017/2017-04-26 - 20-30 Barcelona 7 - 1 Osasuna/1_25_27.mp4"
+    ],
+    "openA": "Lionel Messi did not score in the 2023 Arab Club Champions Cup.",
+    "closeA": "O4",
+    "O1": "1",
+    "O2": "2",
+    "O3": "3",
+    "O4": "Lionel Messi did not score in the 2023 Arab Club Champions Cup."
+  },
+  {
+    "Q": "How many appearances did the Bayern Munich winger who was penalized for a contested ball steal in this video make for France U21?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/germany_bundesliga_2020-2021/2021-04-10_bayern-munchen-union-berlin/1_40_12.mp4"
+    ],
+    "openA": "9.",
+    "closeA": "O2",
+    "O1": "7",
+    "O2": "9",
+    "O3": "11",
+    "O4": "13"
+  },
+  {
+    "Q": "In which competition did the Chelsea attacker whose shot was blocked by a defender in this video miss a penalty for Lyon?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/england_epl_2015-2016/2016-03-01 - 22-45 Norwich 1 - 2 Chelsea/1_26_22.mp4"
+    ],
+    "openA": "Bertrand Traore missed a penalty in the 2020 Coupe de la Ligue Final.",
+    "closeA": "O2",
+    "O1": "2020 UEFA Europa League Final",
+    "O2": "2020 Coupe de la Ligue Final",
+    "O3": "2021 Ligue 1 match against Paris Saint-Germain",
+    "O4": "2019 Coupe de France Semi-final"
+  },
+  {
+    "Q": "When was the Real Madrid defender who won the ball from a corner but shot over the bar in this video born?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2016-2017/2016-09-24 - 21-45 Las Palmas 2 - 2 Real Madrid/1_42_58.mp4"
+    ],
+    "openA": "24 January 1995.",
+    "closeA": "O2",
+    "O1": "15 March 1994",
+    "O2": "24 January 1995",
+    "O3": "12 December 1993",
+    "O4": "8 November 1996"
+  },
+  {
+    "Q": "Which international tournament did the Manchester United midfielder who received a yellow card in this video participate in with the Portugal under-21 team?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2021-2022/2021-08-22_southampton-fc-manchester-united-premier-league-2021-2022/1_30_30.mp4"
+    ],
+    "openA": "Bruno Fernandes participated in the 2017 UEFA European Under-21 Championship with the Portugal under-21 team.",
+    "closeA": "O2",
+    "O1": "2015 FIFA U-20 World Cup",
+    "O2": "2017 UEFA European Under-21 Championship",
+    "O3": "2019 UEFA Nations League",
+    "O4": "2016 Summer Olympics"
+  }
+]

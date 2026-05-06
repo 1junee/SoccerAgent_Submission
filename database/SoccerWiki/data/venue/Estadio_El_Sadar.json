@@ -1,0 +1,44 @@
+{
+    "VENUE": "Estadio El Sadar",
+    "CITY": "Pamplona",
+    "TEAM": "Osasuna",
+    "CAPACITY": 23516,
+    "VENUE_URL": "https://wikipedia.org/wiki/El_Sadar_Stadium",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Estadio_El_Sadar.jpg/150px-Estadio_El_Sadar.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "GovernmentofNavarra",
+            "Surface": "Grass",
+            "Capacity": "23,516[2]",
+            "Location": "Pamplona,Navarre,Spain",
+            "Operator": "Osasuna",
+            "Field size": "104 m× 67 m(341 ft× 220 ft)",
+            "Scoreboard": "Yes",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}42°47′48″N1°38′13″W﻿/﻿42.79667°N1.63694°W﻿/42.79667;-1.63694",
+            "Former names": "EstadioReynodeNavarra(2005–2011)"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "2September1967[1]",
+            "Architect": "TomásArrarás",
+            "Renovated": "1989,2003,2020",
+            "Construction cost": "61,000,000Pts",
+            "General contractor": "ConstruccionesCarlosErroz,S.A."
+        }
+    },
+    "CONTENT": {
+        "Name": "The stadium was known as El Sadar, after a river near the stadium,  from 1967 to 2005 and again since 2011. From 2005 to 2011 the stadium was called Reyno de Navarra by its sponsor, the Government of Navarre, using the medieval Spanish spelling reyno instead of the modern reino (\"kingdom\", derived from rey, \"king\") which lent it a somewhat archaic touch.",
+        "History": "The inauguration of the El Sadar Stadium took place on 2 September 1967 with a match between Real Zaragoza and Vitoria de Setúbal from Portugal.    The stadium replaced the San Juan stadium that was sold the previous year. The stadium accommodated a capacity of 25,000 spectators at its opening with only 7,000 of those seated. Its inaugural game was played on 2 September between Zaragoza and Portuguese side Vitoria de Setúbal and ended in a one-all draw. The following day Osasuna defeated Vitoria de Setúbal 3-0 for its first win in the new stadium. Osaba scored the first goal for Osasuna in El Sadar in the 28th minute.Bon Jovi performed at the stadium during their These Days Tour on June 5, 1996.In November 2014, Osasuna was forced to sell the stadium to the regional government of Navarre (Navarra) because of the club's huge economic crisis, threatening its continued existence. The measure was approved in the regional parliament with 31 votes in favour and 18 against.In the summer of 2015, the capacity of the stadium was reduced from 19,800 to 18,375 due to security-related renovation works.In early 2019, the club's members voted in favour of an expansion of the stadium to almost 24,000 seats (in preference to modest upgrading to meet league requirements with no increased capacity) and then chose their favourite from several projects submitted by firms the previous year.The work, including the addition of an extra tier of seats on the three smaller stands and corners to almost reach the height of the grandstand, the installation of 1,300 rail seating places at the south end of the ground, a new roof structure over the ring of the stands augmented by colour-coordinated external cladding, a club museum and improvements to the players' area, media and corporate facilities and hospitality, began in late 2019 and was completed in early 2021. It was hoped to coincide with Osasuna's centenary but this proved difficult due to the COVID-19 pandemic in Spain; however, the fact that all matches were played in empty stadia during the crisis allowed the work to carry on with minimal interruption, although at a slower pace than anticipated. The cost was also higher than projected (originally €16 million), eventually coming in at around €21 million.",
+        "References": {},
+        "External links": "Reyno de Navarra in CA Osasuna official websiteWorldStadiums.com entryEstadios de Espana (in English)"
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a4/Estadio_El_Sadar.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7d/Inside_Estadio_Reyno_de_Navarra.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/3/33/Sadar_futbol_zelaia.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Star_full.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Sports_and_games.png"
+    ],
+    "SUMMARY": "Estadio El Sadar (Spanish pronunciation: [esˈtaðjo el saˈðaɾ]; known as Estadio Reyno de Navarra from 2005 to 2011, [ˈrejno ðe naˈβara]) is a football stadium in Pamplona, Navarre, Spain. The stadium holds 23,516 people. It was built in 1967 and is the home of Osasuna."
+}

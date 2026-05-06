@@ -1,0 +1,1202 @@
+[
+  {
+    "Q": "How many goals did the defender who created space for and connected with a free-kick header in this video score for Málaga?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-02-24 - 22-45 Manchester City 1 - 2 Barcelona/2_12_02.mp4"
+    ],
+    "openA": "7.",
+    "closeA": "O2",
+    "O1": "5",
+    "O2": "7",
+    "O3": "9",
+    "O4": "11"
+  },
+  {
+    "Q": "Which club did the Dinamo Zagreb player who delivered the intercepted corner kick in this video join on a three-year deal in 2020?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/europe_champions-league_2019-2020/2019-12-11_dinamo-zagreb-manchester-city/2_13_27.mp4"
+    ],
+    "openA": "Damian Kadzior joined SD Eibar on a three-year deal in 2020.",
+    "closeA": "O4",
+    "O1": "Real Valladolid",
+    "O2": "Granada CF",
+    "O3": "Cádiz CF",
+    "O4": "SD Eibar"
+  },
+  {
+    "Q": "How many goals did the AC Milan midfielder who delivered the floated free kick in this video score in his first season with Fiorentina?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/italy_serie-a_2015-2016/2015-08-29 - 21-45 AC Milan 2 - 1 Empoli/2_22_43.mp4"
+    ],
+    "openA": "Giacomo Bonaventura scored six goals in his first season with Fiorentina.",
+    "closeA": "O4",
+    "O1": "4",
+    "O2": "8",
+    "O3": "5",
+    "O4": "6"
+  },
+  {
+    "Q": "Which club did the winger who delivered the overhit cross from the right flank in this video join in 2020?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2016-11-01 - 20-45 Besiktas 1 - 1 Napoli/2_43_37.mp4"
+    ],
+    "openA": "Vitória Guimarães",
+    "closeA": "O2",
+    "O1": "Sporting CP",
+    "O2": "Vitória Guimarães",
+    "O3": "FC Porto",
+    "O4": "Besiktas"
+  },
+  {
+    "Q": "Which team did the forward who was flagged offside before heading the ball in this video play for in 2014–2017?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/spain_laliga_2019-2020/2020-06-23_fc-barcelona-athletic-de-bilbao-liga-1-division-2019-2020/1_39_18.mp4"
+    ],
+    "openA": "Rasmus Thelander played for Panathinaikos during the 2015–2017 period.",
+    "closeA": "O4",
+    "O1": "FC Copenhagen",
+    "O2": "Olympiacos",
+    "O3": "Brøndby IF",
+    "O4": "Panathinaikos"
+  },
+  {
+    "Q": "When did the defender who delivered the perfect lofted assist for Real Madrid's headed goal score their first official goal for the club?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2016-2017/2016-11-26 - 18-15 Real Madrid 2 - 1 Gijon/1_17_41.mp4"
+    ],
+    "openA": "Nacho scored his first official goal for Real Madrid on 10 January 2015.",
+    "closeA": "O2",
+    "O1": "15 March 2014",
+    "O2": "10 January 2015",
+    "O3": "22 August 2016",
+    "O4": "5 December 2013"
+  },
+  {
+    "Q": "How many goals did the midfielder who delivered the corner cross in this video score for Spain U17?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/england_epl_2015-2016/2015-08-16 - 18-00 Manchester City 3 - 0 Chelsea/2_10_09.mp4"
+    ],
+    "openA": "7 goals.",
+    "closeA": "O4",
+    "O1": "5 goals",
+    "O2": "10 goals",
+    "O3": "3 goals",
+    "O4": "7 goals"
+  },
+  {
+    "Q": "Which team did the manager preparing to substitute Brennan Johnson for Moussa Niakhate in this video play for in 2000?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2023-2024/2023-08-18_nottingham-forest-sheffield-united-premier-league/2_45_58.mp4"
+    ],
+    "openA": "Rhyl",
+    "closeA": "O2",
+    "O1": "Bangor City",
+    "O2": "Rhyl",
+    "O3": "TNS",
+    "O4": "Connah's Quay Nomads"
+  },
+  {
+    "Q": "When did the left-back who received the ball inside the box from a free kick and had their shot blocked in this video make their debut for the France national team?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/italy_serie-a_2022-2023/2023-05-13_spezia-calcio-ac-milan-serie-a/1_19_50.mp4"
+    ],
+    "openA": "Theo Hernandez made his debut for the France national team on 7 September 2021.",
+    "closeA": "O2",
+    "O1": "12 June 2021",
+    "O2": "7 September 2021",
+    "O3": "15 November 2020",
+    "O4": "25 March 2022"
+  },
+  {
+    "Q": "When did the Chelsea attacker who took a snap shot from the edge of the area and forced a save to the right side of the goal score their first career hat-trick?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2020-2021/2020-09-26_west-bromwich-albion-chelsea-fc-premier-league/1_10_20.mp4"
+    ],
+    "openA": "Kai Havertz scored his first career hat-trick on 23 September 2020.",
+    "closeA": "O2",
+    "O1": "15 August 2020",
+    "O2": "23 September 2020",
+    "O3": "10 October 2020",
+    "O4": "5 December 2020"
+  },
+  {
+    "Q": "Which trophies did the striker who missed a headed chance from a corner near the penalty spot in this video win with Atlético Madrid?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/england_epl_2015-2016/2015-10-24 - 17-00 West Ham 2 - 1 Chelsea/1_13_53.mp4"
+    ],
+    "openA": "La Liga title, Copa del Rey title, and UEFA Super Cup.",
+    "closeA": "O4",
+    "O1": "UEFA Champions League, Copa del Rey, and UEFA Europa League",
+    "O2": "La Liga title, UEFA Champions League, and FIFA Club World Cup",
+    "O3": "Copa del Rey, UEFA Europa League, and UEFA Super Cup",
+    "O4": "La Liga title, Copa del Rey, and UEFA Super Cup"
+  },
+  {
+    "Q": "What health issues did the Liverpool defender who suffered an injury in this video face in 2011?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2018-2019/2018-09-21_liverpool-fc-southampton-fc-premier-league/2_07_37.mp4"
+    ],
+    "openA": "Virgil van Dijk faced advanced appendicitis, peritonitis, and kidney poisoning in 2011.",
+    "closeA": "O2",
+    "O1": "Torn ACL, knee inflammation, and a fractured rib",
+    "O2": "Advanced appendicitis, peritonitis, and kidney poisoning",
+    "O3": "Severe concussion, dehydration, and a sprained ankle",
+    "O4": "Chronic back pain, tendonitis, and a dislocated shoulder"
+  },
+  {
+    "Q": "What was the significance of the substituted player who wore Barcelona's number 6 jersey in this match's goal against HNK Rijeka in 2014?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2016-2017/2016-12-18 - 22-45 Barcelona 4 - 1 Espanyol/2_20_07.mp4"
+    ],
+    "openA": "Denis Suarez's goal against HNK Rijeka in 2014 sent Sevilla through to the next stage of the Europa League at the expense of their Croatian opponents.",
+    "closeA": "O2",
+    "O1": "It secured Sevilla's victory in the final of the Europa League.",
+    "O2": "It sent Sevilla through to the next stage of the Europa League at the expense of their Croatian opponents.",
+    "O3": "It eliminated HNK Rijeka from the Champions League qualifying rounds.",
+    "O4": "It marked Denis Suarez's first career goal in European competitions."
+  },
+  {
+    "Q": "How many goals has the forward who delivered the crossed ball in this video scored for Al-Ittihad so far?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2015-2016/2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF/1_11_51.mp4"
+    ],
+    "openA": "9",
+    "closeA": "O2",
+    "O1": "7",
+    "O2": "9",
+    "O3": "11",
+    "O4": "13"
+  },
+  {
+    "Q": "How many goals did the Union Berlin midfielder who delivered the unsuccessful lofted cross in this video score for VfB Stuttgart?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/germany_bundesliga_2022-2023/2022-10-09_vfb-stuttgart-union-berlin-bundesliga/1_04_30.mp4"
+    ],
+    "openA": "0 goals.",
+    "closeA": "O2",
+    "O1": "1 goal",
+    "O2": "0 goals",
+    "O3": "2 goals",
+    "O4": "3 goals"
+  },
+  {
+    "Q": "When did the left wing-back who delivered the hopeful cross from the flank in this video score their first professional goal?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/europe_champions-league_2019-2020/2019-10-01_atalanta-bc-shakhtar-donetsk/2_31_19.mp4"
+    ],
+    "openA": "Robin Gosens scored his first professional goal on 7 February 2014.",
+    "closeA": "O4",
+    "O1": "14 March 2013",
+    "O2": "22 November 2015",
+    "O3": "5 January 2014",
+    "O4": "7 February 2014"
+  },
+  {
+    "Q": "What was the score in the match where the AEK Athens player who took the short corner kick in this video scored a brace against Kerkyra?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/europe_champions-league_2018-2019/2018-10-02_aek-fc-sl-benfica/2_18_04.mp4"
+    ],
+    "openA": "The score was 5–0 in favor of AEK Athens.",
+    "closeA": "O2",
+    "O1": "3–1 in favor of AEK Athens",
+    "O2": "5–0 in favor of AEK Athens",
+    "O3": "4–2 in favor of AEK Athens",
+    "O4": "2–0 in favor of AEK Athens"
+  },
+  {
+    "Q": "Which Croatian player is the godfather of the Real Madrid midfielder's son, after the player earned a corner following a breakaway attempt in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2015-2016/2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF/1_12_31.mp4"
+    ],
+    "openA": "Mateo Kovačić is the godfather of Luka Modric's son.",
+    "closeA": "O2",
+    "O1": "Ivan Rakitić",
+    "O2": "Mateo Kovačić",
+    "O3": "Marcelo Brozović",
+    "O4": "Dejan Lovren"
+  },
+  {
+    "Q": "How many goals did the midfielder who swung in the cross from the right flank in this video score in the 2020–21 UEFA Champions League season?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2020-2021/2021-03-07_manchester-city-manchester-united-premier-league-2020-2021/1_39_10.mp4"
+    ],
+    "openA": "Kevin De Bruyne scored 3 goals in the 2020–21 UEFA Champions League season.",
+    "closeA": "O2",
+    "O1": "2",
+    "O2": "3",
+    "O3": "4",
+    "O4": "5"
+  },
+  {
+    "Q": "How many goals did the Manchester City player who tripped an opponent and drew a foul in this video score in the 2023–24 FA Cup?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2019-2020/2020-07-02_manchester-city-liverpool-fc-premier-league-2019-2020/1_14_20.mp4"
+    ],
+    "openA": "At least one.",
+    "closeA": "O4",
+    "O1": "Zero",
+    "O2": "Two",
+    "O3": "Three",
+    "O4": "At least one"
+  },
+  {
+    "Q": "Does the text mention the managerial philosophy of the coach who substituted Theodor Gebre Selassie for Felix Agu in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/germany_bundesliga_2020-2021/2021-03-13_werder-bremen-bayern-munchen-bundesliga-2020-2021/2_17_28.mp4"
+    ],
+    "openA": "The text does not mention Florian Kohfeldt's managerial philosophy.",
+    "closeA": "O2",
+    "O1": "The text describes Florian Kohfeldt's managerial philosophy in detail.",
+    "O2": "The text does not mention Florian Kohfeldt's managerial philosophy.",
+    "O3": "The text briefly references Florian Kohfeldt's managerial philosophy.",
+    "O4": "The text focuses on Florian Kohfeldt's tactical approach rather than his philosophy."
+  },
+  {
+    "Q": "When did the midfielder who delivered the dangerous cross cleared by the defense in this video score the game-winning goal in the Belgian Cup Final?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2022-2023/2023-03-18_southampton-fc-tottenham-hotspur-premier-league-2022-2023/2_21_53.mp4"
+    ],
+    "openA": "Theo Bongonda scored the game-winning goal in the Belgian Cup Final on 25 April 2021.",
+    "closeA": "O2",
+    "O1": "18 May 2021",
+    "O2": "25 April 2021",
+    "O3": "12 March 2021",
+    "O4": "30 May 2021"
+  },
+  {
+    "Q": "How many goals did the Sheffield United player being substituted in this video score for Leeds United in the 2014–15 season?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2019-2020/2020-01-21_sheffield-united-manchester-city/2_13_44.mp4"
+    ],
+    "openA": "Billy Sharp scored 4 goals for Leeds United in the 2014–15 season.",
+    "closeA": "O4",
+    "O1": "6",
+    "O2": "2",
+    "O3": "7",
+    "O4": "4"
+  },
+  {
+    "Q": "Which competition did the FC Porto player who sent a lofted mid-range free kick out of play win with the club in 2004?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich/2_17_12.mp4"
+    ],
+    "openA": "Intercontinental Cup.",
+    "closeA": "O2",
+    "O1": "UEFA Champions League",
+    "O2": "Intercontinental Cup",
+    "O3": "UEFA Cup",
+    "O4": "Primeira Liga"
+  },
+  {
+    "Q": "Where was the Barcelona player who clipped a neat pass into the box for Neymar born?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2016-2017/2016-12-18 - 22-45 Barcelona 4 - 1 Espanyol/2_15_37.mp4"
+    ],
+    "openA": "Rosario, Argentina.",
+    "closeA": "O2",
+    "O1": "Buenos Aires, Argentina",
+    "O2": "Rosario, Argentina",
+    "O3": "Córdoba, Argentina",
+    "O4": "Mendoza, Argentina"
+  },
+  {
+    "Q": "When did the AEK midfielder who attempted the long-range shot wide of the right post make his international debut?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/europe_champions-league_2018-2019/2018-10-02_aek-fc-sl-benfica/1_16_59.mp4"
+    ],
+    "openA": "Anastasios Bakasetas made his international debut on 4 June 2016.",
+    "closeA": "O2",
+    "O1": "15 October 2015",
+    "O2": "4 June 2016",
+    "O3": "12 November 2017",
+    "O4": "23 March 2018"
+  },
+  {
+    "Q": "Where was the midfielder who delivered the beautiful lofted cross leading to Liverpool's headed goal born?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/england_epl_2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea/2_09_18.mp4"
+    ],
+    "openA": "James Milner was born in Wortley, Leeds.",
+    "closeA": "O2",
+    "O1": "Manchester, England",
+    "O2": "Wortley, Leeds",
+    "O3": "Liverpool, England",
+    "O4": "Sheffield, England"
+  },
+  {
+    "Q": "How many goals did the Liverpool attacker who received a cross-box pass and had a low shot saved by Mathew Ryan score in the 2015–16 Premier League season?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2018-2019/2018-08-25_liverpool-fc-brighton-hove-albion-premier-league/2_23_38.mp4"
+    ],
+    "openA": "Roberto Firmino scored 10 goals in the 2015–16 Premier League season.",
+    "closeA": "O3",
+    "O1": "8",
+    "O2": "12",
+    "O3": "10",
+    "O4": "15"
+  },
+  {
+    "Q": "How many goals did the left-back who delivered the cross leading to a corner kick in this video score for Borussia Mönchengladbach II?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2017-2018/2018-03-05_crystal-palace-manchester-united-premier-league/1_04_33.mp4"
+    ],
+    "openA": "1 goal.",
+    "closeA": "O4",
+    "O1": "2 goals",
+    "O2": "3 goals",
+    "O3": "0 goals",
+    "O4": "1 goal"
+  },
+  {
+    "Q": "What was the reported transfer fee when the Bayern Munich player who stepped up to take the penalty in this video moved to the club?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen/2_24_48.mp4"
+    ],
+    "openA": "The reported transfer fee was around €25 million when Arjen Robben moved to Bayern Munich.",
+    "closeA": "O4",
+    "O1": "€15 million",
+    "O2": "€30 million",
+    "O3": "€20 million",
+    "O4": "€25 million"
+  },
+  {
+    "Q": "How many appearances did the midfielder who took the corner kick in this video make for Bayern Munich in the 2011–12 season?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid/1_24_22.mp4"
+    ],
+    "openA": "Toni Kroos made 51 appearances for Bayern Munich in the 2011–12 season.",
+    "closeA": "O4",
+    "O1": "45",
+    "O2": "48",
+    "O3": "53",
+    "O4": "51"
+  },
+  {
+    "Q": "Which club did the forward wearing Real Madrid's white kit who was aggressively racing towards goal before being challenged join in 2023?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2016-2017/2016-09-24 - 21-45 Las Palmas 2 - 2 Real Madrid/1_11_45.mp4"
+    ],
+    "openA": "Cristiano Ronaldo joined Al Nassr in 2023.",
+    "closeA": "O2",
+    "O1": "Paris Saint-Germain",
+    "O2": "Al Nassr",
+    "O3": "Manchester United",
+    "O4": "Inter Miami"
+  },
+  {
+    "Q": "Which club did the Juventus midfielder who took the corner in this video join after Boca Juniors?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/italy_serie-a_2019-2020/2020-07-23_udinese-juventus-fc-serie-a-2019-2020/2_37_08.mp4"
+    ],
+    "openA": "Rodrigo Bentancur joined Juventus after Boca Juniors.",
+    "closeA": "O2",
+    "O1": "Paris Saint-Germain",
+    "O2": "Juventus",
+    "O3": "Manchester United",
+    "O4": "Bayern Munich"
+  },
+  {
+    "Q": "How many appearances did the Real Madrid midfielder who received a yellow card in this video make for Croatia as of June 2024?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid/2_43_58.mp4"
+    ],
+    "openA": "Luka Modric made 177 appearances for Croatia as of June 2024.",
+    "closeA": "O2",
+    "O1": "165",
+    "O2": "177",
+    "O3": "182",
+    "O4": "170"
+  },
+  {
+    "Q": "Which club did the Sheffield United left-back whose attempted pass led to a corner return to after his first loan to Aberdeen ended?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2023-2024/2023-08-18_nottingham-forest-sheffield-united-premier-league/1_37_40.mp4"
+    ],
+    "openA": "Max Lowe returned to Derby County after his first loan to Aberdeen ended.",
+    "closeA": "O2",
+    "O1": "Nottingham Forest",
+    "O2": "Derby County",
+    "O3": "Sheffield United",
+    "O4": "Preston North End"
+  },
+  {
+    "Q": "What is the most notable previous club of the Barcelona player whose close-range strike was saved by the keeper in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2014-2015/2015-04-25 - 17-00 Espanyol 0 - 2 Barcelona/2_31_49.mp4"
+    ],
+    "openA": "FC Barcelona.",
+    "closeA": "O2",
+    "O1": "Manchester City",
+    "O2": "FC Barcelona",
+    "O3": "Real Madrid",
+    "O4": "Bayern Munich"
+  },
+  {
+    "Q": "Which club did the Barcelona attacker who missed a close-range chance by shooting straight at the goalkeeper in this video join in 2017?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2014-2015/2015-04-25 - 17-00 Espanyol 0 - 2 Barcelona/2_05_06.mp4"
+    ],
+    "openA": "Paris Saint-Germain.",
+    "closeA": "O2",
+    "O1": "Manchester City",
+    "O2": "Paris Saint-Germain",
+    "O3": "Bayern Munich",
+    "O4": "Chelsea"
+  },
+  {
+    "Q": "How many goals did the midfielder being substituted out for Luca Pellegrini in this video score for Argentina's national team?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/italy_serie-a_2018-2019/2018-10-20_as-roma-s-p-a-l-2013/2_32_49.mp4"
+    ],
+    "openA": "Nelson Weiper scored 13 goals for Germany U17.",
+    "closeA": "O4",
+    "O1": "10",
+    "O2": "15",
+    "O3": "8",
+    "O4": "13"
+  },
+  {
+    "Q": "What is the full name of the winger whose corner kick was cleared by the opposition's defence in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/england_epl_2015-2016/2015-10-03 - 19-30 Chelsea 1 - 3 Southampton/2_38_43.mp4"
+    ],
+    "openA": "Arthur Theate's full name is Arthur Nicolas Theate.",
+    "closeA": "O2",
+    "O1": "Arthur Jean Theate",
+    "O2": "Arthur Nicolas Theate",
+    "O3": "Arthur Louis Theate",
+    "O4": "Arthur Pierre Theate"
+  },
+  {
+    "Q": "Against which team did the midfielder who was substituted for Isco in this video score his first Champions League goal?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2016-2017/2016-11-26 - 18-15 Real Madrid 2 - 1 Gijon/2_35_08.mp4"
+    ],
+    "openA": "Itay Shechter scored his first Champions League goal against Schalke 04.",
+    "closeA": "O4",
+    "O1": "Bayern Munich",
+    "O2": "Borussia Dortmund",
+    "O3": "Bayer Leverkusen",
+    "O4": "Schalke 04"
+  },
+  {
+    "Q": "How many goals did the right-back who delivered the whipped cross into the penalty area in this video score for Italy U19?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2015-2016/2016-03-02 - 23-00 Levante 1 - 3 Real Madrid/2_18_27.mp4"
+    ],
+    "openA": "1",
+    "closeA": "O4",
+    "O1": "2",
+    "O2": "3",
+    "O3": "0",
+    "O4": "1"
+  },
+  {
+    "Q": "What is the FIFA player ID of the Cagliari attacker who delivered the lofted cross that was intercepted by the defense in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/italy_serie-a_2018-2019/2018-12-08_cagliari-calcio-as-roma/2_00_30.mp4"
+    ],
+    "openA": "263349.",
+    "closeA": "O2",
+    "O1": "263350",
+    "O2": "263349",
+    "O3": "263348",
+    "O4": "263347"
+  },
+  {
+    "Q": "What was the role of the Manchester City midfielder who fired just wide from inside the box after a splendid pass in the 2014 League Cup final?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/europe_uefa-champions-league_2015-2016/2015-11-03 - 22-45 Sevilla 1 - 3 Manchester City/2_25_35.mp4"
+    ],
+    "openA": "Yaya Toure scored the equalising goal in the 2014 League Cup final.",
+    "closeA": "O2",
+    "O1": "He provided the assist for the winning goal.",
+    "O2": "He scored the equalising goal.",
+    "O3": "He was named Man of the Match.",
+    "O4": "He saved a penalty in the shootout."
+  },
+  {
+    "Q": "When did the AS Roma player who attempted the forward pass that was intercepted by a defender marry Astrid Lentini?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/italy_serie-a_2021-2022/2021-10-31_as-roma-ac-milan-serie-a-2021-2022/1_31_32.mp4"
+    ],
+    "openA": "Rick Karsdorp married Astrid Lentini in June 2018.",
+    "closeA": "O2",
+    "O1": "September 2017",
+    "O2": "June 2018",
+    "O3": "March 2019",
+    "O4": "December 2016"
+  },
+  {
+    "Q": "How many international caps does the left-footed Dortmund player who took the direct free kick in this video have for Portugal as of 2023?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-10-01 - 19-30 Bayer Leverkusen 2 - 0 Dortmund/2_40_43.mp4"
+    ],
+    "openA": "Raphael Guerreiro has 65 international caps for Portugal.",
+    "closeA": "O2",
+    "O1": "58",
+    "O2": "65",
+    "O3": "72",
+    "O4": "49"
+  },
+  {
+    "Q": "How many League Cups did the West Brom midfielder who sent the pass into the box before it was cleared win with Manchester United?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/england_epl_2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea/2_28_39.mp4"
+    ],
+    "openA": "Darren Fletcher won two League Cups with Manchester United.",
+    "closeA": "O4",
+    "O1": "1",
+    "O2": "3",
+    "O3": "4",
+    "O4": "2"
+  },
+  {
+    "Q": "Which club did the left-back who took the corner kick in this video score against in consecutive league appearances in September 2019?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2018-2019/2018-11-24_west-ham-united-manchester-city-premier-league-2018-2019/2_30_17.mp4"
+    ],
+    "openA": "Aaron Cresswell scored against Manchester United and AFC Bournemouth in consecutive league appearances in September 2019.",
+    "closeA": "O2",
+    "O1": "Manchester City and Chelsea",
+    "O2": "Manchester United and AFC Bournemouth",
+    "O3": "Liverpool and Tottenham Hotspur",
+    "O4": "Arsenal and Leicester City"
+  },
+  {
+    "Q": "Who is the wife of the midfielder who delivered the fine lofted pass to Matthias Ginter in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-11-08 - 17-30 Dortmund 3 - 2 Schalke/1_10_15.mp4"
+    ],
+    "openA": "Ilkay Gundogan's wife is Sara Arfaoui.",
+    "closeA": "O2",
+    "O1": "Laura Celia Valk",
+    "O2": "Sara Arfaoui",
+    "O3": "Ann-Kathrin Brommel",
+    "O4": "Nina Weiss"
+  },
+  {
+    "Q": "How many assists did the Bayern Munich winger who slalomed past multiple challenges in this video provide in a 4-0 win at Emmen on 9 May 2021?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen/2_00_43.mp4"
+    ],
+    "openA": "Arjen Robben provided two assists in a 4-0 win at Emmen on 9 May 2021.",
+    "closeA": "O2",
+    "O1": "1",
+    "O2": "2",
+    "O3": "3",
+    "O4": "0"
+  },
+  {
+    "Q": "How did the midfielder who handled the ball in this video perform in his debut match for Tottenham?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/europe_champions-league_2018-2019/2018-09-18_fc-internazionale-tottenham-hotspur-champions-league-2018-2019/2_24_09.mp4"
+    ],
+    "openA": "Theo Walcott provided an assist in his debut match for Everton.",
+    "closeA": "O3",
+    "O1": "He scored a hat-trick.",
+    "O2": "He was sent off in the first half.",
+    "O3": "He provided an assist.",
+    "O4": "He kept a clean sheet as a goalkeeper."
+  },
+  {
+    "Q": "What injury did the Leicester player who was blocked during a solo run in this video suffer in December 2015?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/england_epl_2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester/2_16_08.mp4"
+    ],
+    "openA": "Jeffrey Schlupp suffered a hamstring injury in December 2015.",
+    "closeA": "O2",
+    "O1": "Ankle ligament damage",
+    "O2": "Hamstring injury",
+    "O3": "Knee cartilage tear",
+    "O4": "Groin strain"
+  },
+  {
+    "Q": "Which tournament did the AS Roma midfielder who stepped up to take the penalty in this video participate in 2013?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/europe_champions-league_2018-2019/2019-03-06_fc-porto-as-roma/1_35_50.mp4"
+    ],
+    "openA": "Daniele De Rossi participated in the 2013 FIFA Confederations Cup.",
+    "closeA": "O2",
+    "O1": "UEFA European Championship",
+    "O2": "2013 FIFA Confederations Cup",
+    "O3": "FIFA World Cup",
+    "O4": "Copa América"
+  },
+  {
+    "Q": "When did the left-back who delivered the dinked cross into the box in this video make their professional debut for 1860 Munich?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/england_epl_2015-2016/2016-02-03 - 22-45 Watford 0 - 0 Chelsea/1_30_15.mp4"
+    ],
+    "openA": "Jose Holebas made his professional debut for 1860 Munich on 21 September 2007.",
+    "closeA": "O4",
+    "O1": "15 August 2006",
+    "O2": "12 March 2008",
+    "O3": "30 October 2007",
+    "O4": "21 September 2007"
+  },
+  {
+    "Q": "Which club did the manager who substituted Shinji Kagawa for Sebastian Rode in this video manage before Borussia Dortmund?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-10-01 - 19-30 Bayer Leverkusen 2 - 0 Dortmund/2_25_25.mp4"
+    ],
+    "openA": "Mainz 05.",
+    "closeA": "O4",
+    "O1": "Bayer Leverkusen",
+    "O2": "Schalke 04",
+    "O3": "VfB Stuttgart",
+    "O4": "Mainz 05"
+  },
+  {
+    "Q": "Who is the wife of the Manchester City midfielder who took a mid-range shot that missed wide right after skipping past an opponent?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/europe_champions-league_2022-2023/2023-03-14_manchester-city-rb-leipzig-champions-league/1_36_56.mp4"
+    ],
+    "openA": "Ilkay Gundogan's wife is Sara Arfaoui.",
+    "closeA": "O2",
+    "O1": "Laura Celia Valk",
+    "O2": "Sara Arfaoui",
+    "O3": "Ann-Kathrin Brommel",
+    "O4": "Nina Weiss"
+  },
+  {
+    "Q": "Which trophy did the left-footed defender who missed the headed chance from a corner kick in this video win with Lazio in 2009 besides the Coppa Italia?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/europe_uefa-champions-league_2015-2016/2015-11-03 - 22-45 Sevilla 1 - 3 Manchester City/1_40_00.mp4"
+    ],
+    "openA": "Supercoppa Italiana.",
+    "closeA": "O2",
+    "O1": "Serie A title",
+    "O2": "Supercoppa Italiana",
+    "O3": "UEFA Europa League",
+    "O4": "Coppa delle Alpi"
+  },
+  {
+    "Q": "What is the heritage of the Espanyol player who received tactical orders from Sergio during the substitution in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2014-2015/2015-04-25 - 17-00 Espanyol 0 - 2 Barcelona/2_28_26.mp4"
+    ],
+    "openA": "Christophe Herelle is of Martiniquais descent.",
+    "closeA": "O2",
+    "O1": "Guadeloupean descent",
+    "O2": "Martiniquais descent",
+    "O3": "Haitian descent",
+    "O4": "Réunionese descent"
+  },
+  {
+    "Q": "What is the current club of the Bayern Munich player who committed the rule violation without protesting in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln/2_40_55.mp4"
+    ],
+    "openA": "Theo Hernandez's current club is AC Milan.",
+    "closeA": "O2",
+    "O1": "Paris Saint-Germain",
+    "O2": "AC Milan",
+    "O3": "Bayern Munich",
+    "O4": "Real Madrid"
+  },
+  {
+    "Q": "What was the result of the midfielder who took the unsuccessful corner kick in this video during their first Bundesliga start for Bayer Leverkusen?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/spain_laliga_2023-2024/2023-10-21_sevilla-fc-real-madrid-liga-1-division-2023-2024/2_11_37.mp4"
+    ],
+    "openA": "Toni Kroos' first Bundesliga start for Bayer Leverkusen ended in a 1–1 draw with Werder Bremen.",
+    "closeA": "O2",
+    "O1": "A 2–0 win against Bayern Munich",
+    "O2": "A 1–1 draw with Werder Bremen",
+    "O3": "A 3–1 victory over Schalke 04",
+    "O4": "A 0–0 tie with Borussia Dortmund"
+  },
+  {
+    "Q": "What was the aggregate score in the UEFA Europa Conference League match where the midfielder being substituted for Christian Eriksen in this video scored after his injury?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2022-2023/2023-04-27_tottenham-hotspur-manchester-united-premier-league-2022-2023/2_15_27.mp4"
+    ],
+    "openA": "The aggregate score was 3–2 in favor of Leicester City.",
+    "closeA": "O2",
+    "O1": "2–1 in favor of Leicester City",
+    "O2": "3–2 in favor of Leicester City",
+    "O3": "2–2 resulting in a draw",
+    "O4": "4–3 in favor of the opposing team"
+  },
+  {
+    "Q": "Which youth academy did the player who took the intercepted corner while at Real Madrid join in 2001?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2015-2016/2015-12-05 - 18-00 Real Madrid 4 - 1 Getafe/2_33_12.mp4"
+    ],
+    "openA": "Academia Tolimense de Fútbol.",
+    "closeA": "O2",
+    "O1": "Escuela de Fútbol Carlos Sarmiento Lora",
+    "O2": "Academia Tolimense de Fútbol",
+    "O3": "Club Deportivo Los Millonarios Academy",
+    "O4": "Atlético Nacional Youth Academy"
+  },
+  {
+    "Q": "How many goals did the player who took the corner kick in this video score in his first season with Real Zaragoza?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/england_epl_2015-2016/2016-02-03 - 22-45 Watford 0 - 0 Chelsea/2_32_41.mp4"
+    ],
+    "openA": "Willian Jose scored ten goals in his first season with Real Zaragoza.",
+    "closeA": "O4",
+    "O1": "8",
+    "O2": "12",
+    "O3": "15",
+    "O4": "10"
+  },
+  {
+    "Q": "On which date did the AS Roma forward who was flagged offside in this video score a header against AC Milan at the San Siro?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/italy_serie-a_2022-2023/2022-10-23_as-roma-ssc-napoli-serie-a-2022-2023/2_42_37.mp4"
+    ],
+    "openA": "Andrea Belotti scored a header against AC Milan at the San Siro on 21 August 2016.",
+    "closeA": "O2",
+    "O1": "15 September 2016",
+    "O2": "21 August 2016",
+    "O3": "12 October 2016",
+    "O4": "30 July 2016"
+  },
+  {
+    "Q": "Which club did the West Ham player who delivered the perfect cross from the right flank join on loan from Reading in 2012?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2018-2019/2018-11-24_west-ham-united-manchester-city-premier-league-2018-2019/2_28_27.mp4"
+    ],
+    "openA": "Michail Antonio joined Sheffield Wednesday on loan from Reading in 2012.",
+    "closeA": "O4",
+    "O1": "Nottingham Forest",
+    "O2": "West Ham United",
+    "O3": "Leeds United",
+    "O4": "Sheffield Wednesday"
+  },
+  {
+    "Q": "What was the result of the debut match for Nottingham Forest for the goalkeeper who wasn't tested by Jose Luis Morales' wide shot in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2015-2016/2016-03-02 - 23-00 Levante 1 - 3 Real Madrid/1_31_06.mp4"
+    ],
+    "openA": "1–0 win over Leeds United.",
+    "closeA": "O4",
+    "O1": "2–1 loss to Manchester United",
+    "O2": "1–1 draw with Aston Villa",
+    "O3": "3–2 win over Chelsea",
+    "O4": "1–0 win over Leeds United"
+  },
+  {
+    "Q": "How many goals did the player who is taking the penalty in this video while wearing Real Madrid's white kit score for Manchester United during their second stint?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga/2_21_06.mp4"
+    ],
+    "openA": "Cristiano Ronaldo scored 19 goals for Manchester United during his second stint.",
+    "closeA": "O3",
+    "O1": "15",
+    "O2": "24",
+    "O3": "19",
+    "O4": "21"
+  },
+  {
+    "Q": "How many goals did the AS Roma attacker who missed a close-range opportunity against Christian Puggioni score in the 2024–25 season?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/italy_serie-a_2016-2017/2017-01-29 - 17-00 Sampdoria 3 - 2 AS Roma/2_39_52.mp4"
+    ],
+    "openA": "Stephan El Shaarawy scored one goal in the 2024–25 season for Roma.",
+    "closeA": "O2",
+    "O1": "3",
+    "O2": "1",
+    "O3": "2",
+    "O4": "0"
+  },
+  {
+    "Q": "How many goals did the right-back who delivered the overhit cross from the flank in this video score for Trabzonspor?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2016-11-23 - 22-45 Arsenal 2 - 2 Paris SG/2_42_18.mp4"
+    ],
+    "openA": "1 goal.",
+    "closeA": "O2",
+    "O1": "0 goals",
+    "O2": "1 goal",
+    "O3": "2 goals",
+    "O4": "3 goals"
+  },
+  {
+    "Q": "Which club did the Bayern Munich attacker who narrowly missed connecting with the cross in this video play for from 2004 to 2013?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/germany_bundesliga_2018-2019/2019-02-15_fc-augsburg-bayern-munchen-bundesliga-2018-2019/2_27_30.mp4"
+    ],
+    "openA": "Paris Saint-Germain.",
+    "closeA": "O2",
+    "O1": "Olympique Lyonnais",
+    "O2": "Paris Saint-Germain",
+    "O3": "AS Monaco",
+    "O4": "FC Nantes"
+  },
+  {
+    "Q": "What was the first goal for Udinese by the substitute who replaced Cyril Thereau in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/italy_serie-a_2016-2017/2016-09-11 - 16-00 AC Milan 0 - 1 Udinese/2_14_46.mp4"
+    ],
+    "openA": "Theodor Gebre Selassie's first goal for Werder Bremen was a headed equaliser against Borussia Dortmund on 24 August 2012.",
+    "closeA": "O2",
+    "O1": "A penalty kick against Bayern Munich on 15 September 2012",
+    "O2": "A headed equaliser against Borussia Dortmund on 24 August 2012",
+    "O3": "A long-range strike against Hamburger SV on 1 September 2012",
+    "O4": "A tap-in finish against Eintracht Frankfurt on 10 November 2012"
+  },
+  {
+    "Q": "How many children does the midfielder who took the free kick outside the box resulting in a corner for Dortmund have?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-11-08 - 17-30 Dortmund 3 - 2 Schalke/1_36_22.mp4"
+    ],
+    "openA": "Ilkay Gundogan has one child.",
+    "closeA": "O3",
+    "O1": "Two",
+    "O2": "Three",
+    "O3": "One",
+    "O4": "None"
+  },
+  {
+    "Q": "When was the Atalanta player who delivered the intercepted pass into the penalty area in this video born?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/europe_champions-league_2019-2020/2019-10-01_atalanta-bc-shakhtar-donetsk/2_45_24.mp4"
+    ],
+    "openA": "Luis Muriel was born on April 16, 1991.",
+    "closeA": "O4",
+    "O1": "April 15, 1991",
+    "O2": "March 16, 1991",
+    "O3": "May 16, 1991",
+    "O4": "April 16, 1991"
+  },
+  {
+    "Q": "Which team did the manager who substituted Marius Bulter for Sidi Sane in this video manage from 2019 to 2022?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/germany_bundesliga_2022-2023/2022-11-12_schalke-04-bayern-munchen-bundesliga-2022-2023/2_19_53.mp4"
+    ],
+    "openA": "Thomas Reis managed VfL Bochum from 2019 to 2022.",
+    "closeA": "O4",
+    "O1": "FC Schalke 04",
+    "O2": "Hertha BSC",
+    "O3": "FC Augsburg",
+    "O4": "VfL Bochum"
+  },
+  {
+    "Q": "How many minutes did the Paris SG defender who conceded the foul leading to Club Brugge's free-kick opportunity play in the 2018 FIFA World Cup?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/europe_champions-league_2019-2020/2019-10-22_club-brugge-paris-saint-germain/1_03_45.mp4"
+    ],
+    "openA": "Presnel Kimpembe played a total of 90 minutes in the 2018 FIFA World Cup.",
+    "closeA": "O3",
+    "O1": "45 minutes",
+    "O2": "120 minutes",
+    "O3": "90 minutes",
+    "O4": "60 minutes"
+  },
+  {
+    "Q": "How many goals did the midfielder who delivered the pass into the box in this video score at the 2018 World Cup?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/england_epl_2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea/2_05_24.mp4"
+    ],
+    "openA": "Philippe Coutinho scored two goals at the 2018 World Cup.",
+    "closeA": "O3",
+    "O1": "1",
+    "O2": "3",
+    "O3": "2",
+    "O4": "4"
+  },
+  {
+    "Q": "What was the result of the first Championship match managed by the coach who substituted Luke Freeman for David McGoldrick in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2019-2020/2019-10-21_sheffield-united-arsenal-fc/2_32_34.mp4"
+    ],
+    "openA": "Chris Wilder's first game as Sheffield United manager in the Championship ended in a 1–0 win against Brentford.",
+    "closeA": "O2",
+    "O1": "A 2–1 loss to Fulham",
+    "O2": "A 1–0 win against Brentford",
+    "O3": "A 0–0 draw with Reading",
+    "O4": "A 3–2 victory over Leeds United"
+  },
+  {
+    "Q": "What is the name of the Paris SG striker whose header towards the bottom right corner was blocked by a defender in this video, and what is his daughter's name?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2016-11-23 - 22-45 Arsenal 2 - 2 Paris SG/1_14_43.mp4"
+    ],
+    "openA": "India.",
+    "closeA": "O2",
+    "O1": "Argentina",
+    "O2": "India",
+    "O3": "Brazil",
+    "O4": "Uruguay"
+  },
+  {
+    "Q": "When was the Real Madrid defender who won the ball from a corner but shot over the bar in this video born?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2016-2017/2016-09-24 - 21-45 Las Palmas 2 - 2 Real Madrid/1_42_58.mp4"
+    ],
+    "openA": "24 January 1995.",
+    "closeA": "O2",
+    "O1": "15 March 1994",
+    "O2": "24 January 1995",
+    "O3": "12 December 1993",
+    "O4": "8 November 1996"
+  },
+  {
+    "Q": "What is the jersey number at Almería for the Espanyol player who received a yellow card after a reckless challenge in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2014-2015/2015-04-25 - 17-00 Espanyol 0 - 2 Barcelona/2_26_54.mp4"
+    ],
+    "openA": "5",
+    "closeA": "O2",
+    "O1": "7",
+    "O2": "5",
+    "O3": "10",
+    "O4": "8"
+  },
+  {
+    "Q": "How many goals did the Atalanta right-back who angrily protested a handball foul call in this video score during their senior career with the club?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/italy_serie-a_2016-2017/2017-02-25 - 20-00 Napoli 0 - 2 Atalanta/1_17_25.mp4"
+    ],
+    "openA": "Andrea Conti scored 10 goals for Atalanta during his senior career.",
+    "closeA": "O2",
+    "O1": "7",
+    "O2": "10",
+    "O3": "12",
+    "O4": "15"
+  },
+  {
+    "Q": "What did the left-back whose attempted cross was cleared in this video say about Hajduk Split in their first interview as a Hajduk player?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga/2_40_32.mp4"
+    ],
+    "openA": "Antonio Jakolis stated, \"Sibenik is the club where I started my career and the one I will always support, but Hajduk, the club with the best fans in Croatia, are the best choice for me.\"",
+    "closeA": "O4",
+    "O1": "\"Hajduk Split is the club where I started my career, and I will always support them as my first choice.\"",
+    "O2": "\"Hajduk Split has the best fans in Croatia, but I believe my future lies with a different club.\"",
+    "O3": "\"Sibenik is the club with the best fans in Croatia, but Hajduk Split is where I want to play now.\"",
+    "O4": "\"Sibenik is the club where I started my career and the one I will always support, but Hajduk, the club with the best fans in Croatia, are the best choice for me.\""
+  },
+  {
+    "Q": "Which team did the midfielder who attempted the long-range shot over the crossbar in this video score his first goal for Frosinone against?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/italy_serie-a_2018-2019/2018-08-27_as-roma-atalanta-bc-serie-a/1_14_28.mp4"
+    ],
+    "openA": "Luca Valzania scored his first goal for Frosinone against Empoli.",
+    "closeA": "O2",
+    "O1": "Cagliari",
+    "O2": "Empoli",
+    "O3": "Parma",
+    "O4": "Benevento"
+  },
+  {
+    "Q": "How many appearances did the Schalke midfielder who slipped past a challenge before failing to complete a low pass make for the club's senior team?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/germany_bundesliga_2020-2021/2021-01-17_eintracht-frankfurt-schalke-04/2_26_10.mp4"
+    ],
+    "openA": "Can Bozdogan made 17 appearances for Schalke 04's senior team.",
+    "closeA": "O2",
+    "O1": "12",
+    "O2": "17",
+    "O3": "20",
+    "O4": "15"
+  },
+  {
+    "Q": "Against which team did the Manchester United left-back who conceded a free kick for a forceful tackle in this video make their England under-21 debut?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2018-2019/2019-01-02_newcastle-united-manchester-united-premier-league-2018-2019/1_20_16.mp4"
+    ],
+    "openA": "Luke Shaw made his England under-21 debut against Moldova.",
+    "closeA": "O4",
+    "O1": "Sweden",
+    "O2": "Germany",
+    "O3": "Portugal",
+    "O4": "Moldova"
+  },
+  {
+    "Q": "Which youth clubs did the midfielder who took the unsuccessful corner kick in this video play for before joining Arsenal?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/england_epl_2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea/1_37_01.mp4"
+    ],
+    "openA": "Mataró and Barcelona.",
+    "closeA": "O4",
+    "O1": "Espanyol and Real Madrid",
+    "O2": "Girona and Valencia",
+    "O3": "Sevilla and Atlético Madrid",
+    "O4": "Mataró and Barcelona"
+  },
+  {
+    "Q": "When did the Union Berlin player who received a red card for the reckless tackle in this video score his first goal for the Germany national team?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/germany_bundesliga_2022-2023/2022-10-09_vfb-stuttgart-union-berlin-bundesliga/2_20_13.mp4"
+    ],
+    "openA": "Hiroki Ito scored his first goal for the Japan national team on 20 June 2023 against Peru.",
+    "closeA": "O2",
+    "O1": "15 May 2023 against South Korea",
+    "O2": "20 June 2023 against Peru",
+    "O3": "10 July 2023 against Spain",
+    "O4": "5 September 2023 against Brazil"
+  },
+  {
+    "Q": "Which major tournament did the left-back who attempted the scooped cross leading to a corner in this video lead Scotland to in 2020?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2021-2022/2022-04-24_liverpool-fc-everton-fc-premier-league-2021-2022/2_01_49.mp4"
+    ],
+    "openA": "Andrew Robertson led Scotland to UEFA Euro 2020.",
+    "closeA": "O2",
+    "O1": "FIFA World Cup 2022",
+    "O2": "UEFA Euro 2020",
+    "O3": "UEFA Nations League 2021",
+    "O4": "CONMEBOL Copa América 2021"
+  },
+  {
+    "Q": "How many UEFA Champions League titles did the Real Madrid captain who received a yellow card in this video win with the club?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2016-2017/2016-09-21 - 21-00 Real Madrid 1 - 1 Villarreal/1_44_35.mp4"
+    ],
+    "openA": "Sergio Ramos won four UEFA Champions League titles with Real Madrid.",
+    "closeA": "O2",
+    "O1": "3",
+    "O2": "4",
+    "O3": "5",
+    "O4": "6"
+  },
+  {
+    "Q": "How many goals did the Bayern Munich winger who was flagged for offside in this video score for the Germany U21 team?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/europe_champions-league_2021-2022/2021-11-23_dynamo-kyiv-bayern-munchen-champions-league-2021-2022/1_06_52.mp4"
+    ],
+    "openA": "5 goals.",
+    "closeA": "O2",
+    "O1": "3 goals",
+    "O2": "5 goals",
+    "O3": "7 goals",
+    "O4": "9 goals"
+  },
+  {
+    "Q": "How many goals did the Liverpool forward who delivered the teasing cross intercepted by Michel Vorm score in the 2021–22 Premier League season?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/england_epl_2016-2017/2016-08-27 - 14-30 Tottenham 1 - 1 Liverpool/2_14_38.mp4"
+    ],
+    "openA": "The text does not specify the exact number of goals Sadio Mane scored in the 2021–22 Premier League season.",
+    "closeA": "O4",
+    "O1": "15",
+    "O2": "18",
+    "O3": "20",
+    "O4": "The text does not specify the exact number of goals Sadio Mane scored in the 2021–22 Premier League season."
+  },
+  {
+    "Q": "Which tournament did the Arsenal right-back who missed a crossing opportunity in this video compete in with the Finland U18 team?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2016-11-23 - 22-45 Arsenal 2 - 2 Paris SG/1_41_40.mp4"
+    ],
+    "openA": "Carl Jenkinson competed in the 2010 Granatkin Memorial tournament with the Finland U18 team.",
+    "closeA": "O2",
+    "O1": "Nordic Youth Championship",
+    "O2": "2010 Granatkin Memorial tournament",
+    "O3": "UEFA European Under-19 Championship",
+    "O4": "Toulon Tournament"
+  },
+  {
+    "Q": "Which club did the right-back who slalomed past multiple challenges before the ball went out for a Norwich throw-in join on 30 June 2013?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/england_epl_2015-2016/2016-03-01 - 22-45 Norwich 1 - 2 Chelsea/1_24_54.mp4"
+    ],
+    "openA": "GNK Dinamo Zagreb.",
+    "closeA": "O4",
+    "O1": "FC Porto",
+    "O2": "SL Benfica",
+    "O3": "Sporting CP",
+    "O4": "GNK Dinamo Zagreb"
+  },
+  {
+    "Q": "What was the issue the left-winger who forced a corner after being denied a breakaway faced during the 2018–19 season with A.S. Roma?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/italy_serie-a_2016-2017/2016-12-04 - 17-00 Lazio 0 - 2 AS Roma/1_26_51.mp4"
+    ],
+    "openA": "Diego Perotti was often sidelined with injury problems during the 2018–19 season with A.S. Roma.",
+    "closeA": "O3",
+    "O1": "He struggled with poor form and inconsistent performances.",
+    "O2": "He faced disciplinary issues and frequent suspensions.",
+    "O3": "He was often sidelined with injury problems.",
+    "O4": "He had conflicts with the coaching staff over tactics."
+  },
+  {
+    "Q": "How many goals did the Sevilla player who took the short corner in this video score in the 2016–17 Bundesliga season?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/europe_uefa-champions-league_2015-2016/2015-11-03 - 22-45 Sevilla 1 - 3 Manchester City/2_15_18.mp4"
+    ],
+    "openA": "Evgen Konoplyanka scored one goal in the 2016–17 Bundesliga season.",
+    "closeA": "O4",
+    "O1": "3",
+    "O2": "0",
+    "O3": "2",
+    "O4": "1"
+  },
+  {
+    "Q": "What was the score of the match in which the left-back who delivered the cross from the right flank in this video scored his only goal for FC Barcelona?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/spain_laliga_2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid/1_37_50.mp4"
+    ],
+    "openA": "The match ended in a 1–1 draw against Racing de Santander.",
+    "closeA": "O4",
+    "O1": "2–1 victory against Real Madrid",
+    "O2": "3–0 win over Sevilla",
+    "O3": "2–2 draw with Valencia",
+    "O4": "1–1 draw against Racing de Santander"
+  },
+  {
+    "Q": "When did the right-back who delivered the corner in this video begin senior football career?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/england_epl_2022-2023/2022-08-22_manchester-united-liverpool-fc-premier-league-2022-2023/1_30_35.mp4"
+    ],
+    "openA": "Rasmus Thelander began his senior football career in 2010.",
+    "closeA": "O4",
+    "O1": "2008",
+    "O2": "2012",
+    "O3": "2009",
+    "O4": "2010"
+  },
+  {
+    "Q": "When did the West Ham midfielder who received a yellow card for a foul in this video make his debut for the Senegal national team?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/england_epl_2015-2016/2015-10-24 - 17-00 West Ham 2 - 1 Chelsea/2_28_31.mp4"
+    ],
+    "openA": "Cheikhou Kouyate made his debut for the Senegal national team in 2012.",
+    "closeA": "O4",
+    "O1": "2010",
+    "O2": "2011",
+    "O3": "2013",
+    "O4": "2012"
+  },
+  {
+    "Q": "What position does the midfielder who received tactical orders from Rafael Benitez while substituting for Luka Modric in this video play?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/europe_uefa-champions-league_2015-2016/2015-11-25 - 22-45 Shakhtar Donetsk 3 - 4 Real Madrid/2_16_34.mp4"
+    ],
+    "openA": "Christophe Herelle plays as a defender.",
+    "closeA": "O4",
+    "O1": "Midfielder",
+    "O2": "Forward",
+    "O3": "Goalkeeper",
+    "O4": "Defender"
+  },
+  {
+    "Q": "What was the first match for AC Milan of the manager who substituted Justin Kluivert into this game for Valencia?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SoccerReplay-1988/spain_laliga_2022-2023/2023-01-29_real-valladolid-valencia-cf-liga-1-division-2022-2023/2_36_43.mp4"
+    ],
+    "openA": "Gennaro Gattuso's first match for AC Milan was a 0–0 away draw with Chelsea in the UEFA Champions League.",
+    "closeA": "O2",
+    "O1": "A 1–1 home draw with Juventus in Serie A",
+    "O2": "A 0–0 away draw with Chelsea in the UEFA Champions League",
+    "O3": "A 2–1 home win against Inter Milan in the Coppa Italia",
+    "O4": "A 3–0 away victory over Barcelona in the UEFA Champions League"
+  },
+  {
+    "Q": "How many goals did the Bayern Munich striker who was denied a breakaway opportunity before the corner was won score in the 2023 Supercopa de España final?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q12/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen/2_00_52.mp4"
+    ],
+    "openA": "Robert Lewandowski scored one goal in the 2023 Supercopa de España final.",
+    "closeA": "O2",
+    "O1": "0",
+    "O2": "1",
+    "O3": "2",
+    "O4": "3"
+  }
+]

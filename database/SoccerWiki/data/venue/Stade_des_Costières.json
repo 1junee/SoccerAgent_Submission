@@ -1,0 +1,37 @@
+{
+    "VENUE": "Stade des Costières",
+    "CITY": "Nîmes",
+    "TEAM": "Nimes",
+    "CAPACITY": 18364,
+    "VENUE_URL": "https://wikipedia.org/wiki/Stade_des_Costi%C3%A8res",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/N%C3%AEmes-Tours_septembre2008.JPG/120px-N%C3%AEmes-Tours_septembre2008.JPG",
+    "INFOBOX": {
+        "": {
+            "Owner": "RaniAssaf",
+            "Surface": "Grass",
+            "Capacity": "18,364",
+            "Location": "Nîmes,France",
+            "Field size": "105x68m",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}43°48′57.5″N4°21′33.4″E﻿/﻿43.815972°N4.359278°E﻿/43.815972;4.359278"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Closed": "5November2022",
+            "Opened": "15 May 1989 (1989-05-15)",
+            "Architect": "VittorioGregotti",
+            "Broke ground": "1 September 1987 (1987-09-01)",
+            "Construction cost": "160millionFRF"
+        }
+    },
+    "CONTENT": {
+        "References": {},
+        "Closure and redevelopment": "On 5 November 2022, Nîmes Olympique played its final match at the Stade des Costières, a 1–0 Ligue 2 victory over Bordeaux. The club would move into the Stade des Antonins on a temporary basis, before the demolition of the Stade des Costières would pave the way for the construction of the Stade Nemausus, with a projected completion in 2026."
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/04/N%C3%AEmes-Tours_septembre2008.JPG",
+        "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Sports_and_games.png"
+    ],
+    "SUMMARY": "The Stade des Costières was a football stadium in Nîmes, France. Having a capacity of 18,364 people, it was the home of Nîmes Olympique from 1989 to 2022.\nOn June 25, 2019, the stadium was sold by the city of Nîmes to club president Rani Assaf for €8 million. The stadium will be demolished and rebuilt by 2025, and will be able to accommodate 15,100 spectators, compared with the current 18,482.\n\n"
+}

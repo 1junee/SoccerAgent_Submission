@@ -1,0 +1,43 @@
+{
+    "VENUE": "Stadio Marc'Antonio Bentegodi",
+    "CITY": "Verona",
+    "TEAM": "Chievo",
+    "CAPACITY": 39211,
+    "VENUE_URL": "https://wikipedia.org/wiki/Stadio_Marcantonio_Bentegodi",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Italy_-_Verona_-_Stadio_Marcantonio_Bentegodi.jpg/150px-Italy_-_Verona_-_Stadio_Marcantonio_Bentegodi.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "MunicipalityofVerona",
+            "Surface": "Grass105x67m",
+            "Capacity": "39,211[1]",
+            "Location": "Verona,Italy",
+            "Scoreboard": "Megavision"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "15December1963",
+            "Renovated": "1989"
+        }
+    },
+    "CONTENT": {
+        "History": "Inaugurated as a state-of-the-art facility and as one of Italy's finest venues in 1963, the stadium appeared excessive for a team (Hellas) that had spent the best part of the previous 35 years in Serie B. For the 1990 FIFA World Cup renovations included an extra tier and a roof to cover all sections, improved visibility, public transport connections, an urban motorway connecting the city centre with the stadium and the Verona Nord motorway exit and services.A building-integrated PV system has been installed on the rooftop during a major renovation. The PV system has a rating of 999.5 kW. 13,321 \"FS 275\" thin-film cadmium telluride (CdTe) solar modules by First Solar Inc. have been mounted on the aluminum mounting system Riverclack by ISCOM SpA. The solar modules are connected to 141 Sunny Mini Central SMC 7000HV inverters by  SMA Solar Technology AG. The system was commissioned at the end of November 2009.The emergence of Chievo on the Serie A stage in the early 2000s has split the city into two groups of archrival fans, both very loyal to their respective cause.Despite playing two divisions lower than Chievo and missing out on travelling supporters from the large Serie A teams, Hellas Verona – the city's traditionally bigger team – still maintained higher average attendances than their rival during the 2009–10 season. In the 2013–14 season, Virtus Verona also played at the Bentegodi.",
+        "References": {},
+        "External links": "Stadium Journey Article",
+        "1990 FIFA World Cup": "The stadium was one of the venues of the 1990 FIFA World Cup, and held the following matches:",
+        "Average attendances": "Attendance figures taken from http://www.stadiapostcards.com/",
+        "Renovation projects": "The stadium was vying to participate in the Italian candidature for the 2016 European Championship, then awarded to France. On 2 December 2009, the municipal administration approved the restructuring plan, for a total amount of 40 million euros, with the aim of adapting the plant to the UEFA rules. The preliminary project includes the renovation of changing rooms and entrance tunnels, the expansion of the roof, the elimination of the athletics track, the modification of the external appearance of the structure (glass architecture) and the development of public services such as bars, stores and restaurants. As of now, the project has been shelved."
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_South_Korea_%281984%E2%80%931997%29.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/61/Flag_of_Yugoslavia_%281946-1992%29.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e5/Italy_-_Verona_-_Stadio_Marcantonio_Bentegodi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a2/Stadio_Marcantonio_Bentegodi_-_North_Side_2019.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c5/Stadio_Marcantonio_Bentegodi_2019.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg"
+    ],
+    "SUMMARY": "The Stadio Marcantonio Bentegodi is a stadium in Verona, Italy. It is the home of Hellas Verona of Serie A and was also the home of Chievo Verona, a former football club, until 2021. It also hosts matches of women's team Bardolino Verona, some youth team matches, rugby matches, athletics events and occasionally even musical concerts. With 39,211 total seats, of which only 31,045 are approved, it is the eighth-largest stadium in Italy by capacity. The stadium is named after the historic benefactor of Veronese sport, Marcantonio Bentegodi."
+}

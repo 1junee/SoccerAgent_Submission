@@ -1,0 +1,1202 @@
+[
+  {
+    "Q": "In the video showing a substitution, which color jersey does the incoming player wear?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2018-2019/2019-01-02_chelsea-fc-southampton-fc-premier-league/2_43_40.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O4",
+    "O1": "lavender",
+    "O2": "red",
+    "O3": "white",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video showing a corner kick, which color jersey is the attacking team wearing?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2020-2021/2020-09-26_west-bromwich-albion-chelsea-fc-premier-league/2_47_20.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O3",
+    "O1": "white",
+    "O2": "orange",
+    "O3": "red",
+    "O4": "black"
+  },
+  {
+    "Q": "In the video, which color jersey drills the ball towards the bottom left corner?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2019-2020/2019-09-17_afc-ajax-lille-osc/2_10_03.mp4"
+    ],
+    "openA": "yellow",
+    "closeA": "O3",
+    "O1": "white",
+    "O2": "red",
+    "O3": "yellow",
+    "O4": "indigo"
+  },
+  {
+    "Q": "In the video, which color jersey takes the first-time shot over the bar?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2021-2022/2022-04-12_real-madrid-chelsea-fc-champions-league-2021-2022/1_30_50.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O3",
+    "O1": "blue",
+    "O2": "coral",
+    "O3": "white",
+    "O4": "yellow"
+  },
+  {
+    "Q": "In the video, which color jersey takes the corner kick that goes out of play?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2022-2023/2022-10-11_fc-kobenhavn-manchester-city/2_02_20.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O1",
+    "O1": "white",
+    "O2": "black",
+    "O3": "gold",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video showing a substitution, which color jersey is worn by the player leaving the pitch?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2022-2023/2022-08-21_newcastle-united-manchester-city-premier-league-2022-2023/2_23_51.mp4"
+    ],
+    "openA": "black",
+    "closeA": "O2",
+    "O1": "blue",
+    "O2": "black",
+    "O3": "white",
+    "O4": "gray"
+  },
+  {
+    "Q": "In the video, which color jersey is worn by the player flagged for offside?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2019-2020/2019-09-28_juventus-fc-s-p-a-l-2013/1_24_44.mp4"
+    ],
+    "openA": "black and white",
+    "closeA": "O2",
+    "O1": "olive",
+    "O2": "black and white",
+    "O3": "blue",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video, which color jersey delivers the free kick into the box?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2019-2020/2020-01-23_wolverhampton-wanderers-liverpool-fc-premier-league/1_03_47.mp4"
+    ],
+    "openA": "yellow",
+    "closeA": "O3",
+    "O1": "blue",
+    "O2": "white",
+    "O3": "yellow",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video, which color jersey prepares to take the corner kick?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/germany_bundesliga_2022-2023/2022-10-29_bayern-munchen-mainz-05-bundesliga-2022-2023/1_19_40.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O2",
+    "O1": "blue",
+    "O2": "red",
+    "O3": "white",
+    "O4": "brown"
+  },
+  {
+    "Q": "In the video, which color jersey takes the long-range shot that misses wide?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2021-2022/2022-05-28_liverpool-fc-real-madrid-champions-league-2021-2022/2_28_47.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O1",
+    "O1": "red",
+    "O2": "teal",
+    "O3": "blue",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video showing a yellow card offense, which color jersey committed the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/germany_bundesliga_2021-2022/2022-05-14_union-berlin-vfl-bochum/1_23_50.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O3",
+    "O1": "gold",
+    "O2": "blue",
+    "O3": "red",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video showing a tactical foul, which color jersey commits the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2020-2021/2021-05-16_west-bromwich-albion-liverpool-fc-premier-league-2020-2021/1_19_30.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O4",
+    "O1": "gray",
+    "O2": "black",
+    "O3": "white",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video, which color jersey takes the free kick that results in a goal kick?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2022-2023/2022-10-30_torino-fc-ac-milan-serie-a-2022-2023/1_44_50.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O2",
+    "O1": "red",
+    "O2": "white",
+    "O3": "blue",
+    "O4": "indigo"
+  },
+  {
+    "Q": "In the video, which color jersey is pulled to cause the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2020-2021/2021-02-06_genoa-cfc-ssc-napoli-serie-a-2020-2021/2_37_49.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O1",
+    "O1": "blue",
+    "O2": "white",
+    "O3": "red",
+    "O4": "silver"
+  },
+  {
+    "Q": "In the video showing a substitution, which color jersey is the player wearing when entering the field?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2018-2019/2018-12-01_acf-fiorentina-juventus-fc-serie-a-2018-2019/2_42_58.mp4"
+    ],
+    "openA": "purple",
+    "closeA": "O3",
+    "O1": "blue",
+    "O2": "white",
+    "O3": "purple",
+    "O4": "black"
+  },
+  {
+    "Q": "In the video, which color jersey commits the foul leading to the referee's whistle?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2022-2023/2023-03-05_liverpool-fc-manchester-united-premier-league-2022-2023/1_31_18.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O2",
+    "O1": "blue",
+    "O2": "red",
+    "O3": "magenta",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video showing a red card incident, which color jersey must play with fewer players?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2022-2023/2022-10-04_olympique-de-marseille-sporting-cp/1_22_35.mp4"
+    ],
+    "openA": "black",
+    "closeA": "O4",
+    "O1": "blue",
+    "O2": "gray",
+    "O3": "white",
+    "O4": "black"
+  },
+  {
+    "Q": "In the video, which color jersey blocks the shot from outside the box?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2017-2018/2017-10-21_chelsea-fc-watford-fc/1_22_00.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O1",
+    "O1": "red",
+    "O2": "gold",
+    "O3": "white",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video showing an offside call, which color jersey is the team committing the offside wearing?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2019-2020/2020-07-28_fc-internazionale-ssc-napoli-serie-a-2019-2020/1_38_15.mp4"
+    ],
+    "openA": "light blue",
+    "closeA": "O3",
+    "O1": "white",
+    "O2": "dark blue",
+    "O3": "light blue",
+    "O4": "teal"
+  },
+  {
+    "Q": "In the video, which color jersey is worn by the player who commits the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2018-2019/2018-12-11_as-monaco-borussia-dortmund-champions-league/1_30_23.mp4"
+    ],
+    "openA": "yellow",
+    "closeA": "O2",
+    "O1": "blue",
+    "O2": "yellow",
+    "O3": "white",
+    "O4": "lavender"
+  },
+  {
+    "Q": "In the video, which color jersey intercepts the dangerous lofted cross?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2022-2023/2023-03-18_southampton-fc-tottenham-hotspur-premier-league-2022-2023/1_36_44.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O2",
+    "O1": "black",
+    "O2": "blue",
+    "O3": "brown",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video showing a yellow card offense, which color jersey makes the bad tackle?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2021-2022/2021-09-14_sevilla-fc-red-bull-salzburg/2_36_20.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O2",
+    "O1": "red",
+    "O2": "white",
+    "O3": "blue",
+    "O4": "green"
+  },
+  {
+    "Q": "In the video showing a cross into the box, which color jersey clears the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2020-2021/2021-02-16_rb-leipzig-liverpool-fc/2_38_42.mp4"
+    ],
+    "openA": "black",
+    "closeA": "O3",
+    "O1": "blue",
+    "O2": "white",
+    "O3": "black",
+    "O4": "maroon"
+  },
+  {
+    "Q": "In the video, which color jersey misses the open goal header?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/germany_bundesliga_2020-2021/2021-01-20_fc-augsburg-bayern-munchen-bundesliga-2020-2021/2_47_13.mp4"
+    ],
+    "openA": "black",
+    "closeA": "O3",
+    "O1": "blue",
+    "O2": "navy",
+    "O3": "black",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video, which color jersey is shown committing the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2021-2022/2022-05-28_liverpool-fc-real-madrid-champions-league-2021-2022/1_32_30.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O4",
+    "O1": "white",
+    "O2": "brown",
+    "O3": "blue",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video, which color jersey misses the header from the penalty spot?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2021-2022/2021-09-11_manchester-united-newcastle-united-premier-league-2021-2022/2_43_00.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O1",
+    "O1": "red",
+    "O2": "lime",
+    "O3": "white",
+    "O4": "black"
+  },
+  {
+    "Q": "In the video, which color jersey delivers the cross into the penalty area?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2022-2023/2022-10-23_tottenham-hotspur-newcastle-united-premier-league-2022-2023/1_14_50.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O1",
+    "O1": "white",
+    "O2": "black",
+    "O3": "blue",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video showing a powerful shot into the net, which color jersey scores the goal?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2022-2023/2023-02-18_nottingham-forest-manchester-city/1_40_47.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O1",
+    "O1": "red",
+    "O2": "yellow",
+    "O3": "black",
+    "O4": "lavender"
+  },
+  {
+    "Q": "In the video showing a substitution, which color jersey is worn by the player leaving the pitch?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/france_league-1_2020-2021/2021-01-31_fc-lorient-paris-saint-germain/2_00_20.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O2",
+    "O1": "blue",
+    "O2": "red",
+    "O3": "white",
+    "O4": "teal"
+  },
+  {
+    "Q": "In the video, which color jersey is worn by the player entering the field as a substitute?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2021-2022/2021-11-28_ssc-napoli-ss-lazio-serie-a-2021-2022/2_09_52.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O3",
+    "O1": "white",
+    "O2": "magenta",
+    "O3": "blue",
+    "O4": "black"
+  },
+  {
+    "Q": "In the video showing a rough foul, which color jersey does the player committing the foul wear?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/spain_laliga_2019-2020/2019-10-19_rcd-mallorca-real-madrid-liga-1-division/2_42_07.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O2",
+    "O1": "gold",
+    "O2": "red",
+    "O3": "blue",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video, which color jersey intercepts the set piece?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2019-2020/2020-02-03_uc-sampdoria-ssc-napoli-serie-a-2019-2020/1_17_54.mp4"
+    ],
+    "openA": "green",
+    "closeA": "O1",
+    "O1": "green",
+    "O2": "brown",
+    "O3": "white",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video showing a player receiving medical treatment, which color jersey does the injured player wear?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2022-2023/2023-04-30_fc-internazionale-ss-lazio-serie-a-2022-2023/2_39_10.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O1",
+    "O1": "blue",
+    "O2": "red",
+    "O3": "lavender",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video showing the player returning to play, which color jersey is visible?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/france_league-1_2019-2020/2019-10-26_olympique-lyonnais-fc-metz-ligue-1/1_02_45.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O1",
+    "O1": "white",
+    "O2": "red",
+    "O3": "blue",
+    "O4": "coral"
+  },
+  {
+    "Q": "In the video, which color jersey takes the corner kick?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2021-2022/2021-11-23_chelsea-fc-juventus-fc-champions-league/2_49_05.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O3",
+    "O1": "white",
+    "O2": "magenta",
+    "O3": "blue",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video, which color jersey commits the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/germany_bundesliga_2021-2022/2022-03-19_bayern-munchen-union-berlin-bundesliga-2021-2022/1_35_15.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O3",
+    "O1": "white",
+    "O2": "brown",
+    "O3": "red",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video, which color jersey commits the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2020-2021/2020-10-04_arsenal-fc-sheffield-united-premier-league/1_37_32.mp4"
+    ],
+    "openA": "green",
+    "closeA": "O1",
+    "O1": "green",
+    "O2": "white",
+    "O3": "blue",
+    "O4": "purple"
+  },
+  {
+    "Q": "Which color jersey clears the ball from the corner kick in the video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/germany_bundesliga_2018-2019/2019-05-11_rb-leipzig-bayern-munchen-bundesliga-2018-2019/1_34_50.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O3",
+    "O1": "indigo",
+    "O2": "red",
+    "O3": "blue",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video, which color jersey crosses the ball into the box?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2017-2018/2018-01-20_manchester-city-newcastle-united-premier-league/2_09_51.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O4",
+    "O1": "white",
+    "O2": "green",
+    "O3": "black",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video, which color jersey commits the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2021-2022/2022-03-06_ssc-napoli-ac-milan-serie-a-2021-2022/1_33_58.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O4",
+    "O1": "red",
+    "O2": "white",
+    "O3": "violet",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video, which color jersey intercepts the cross?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2019-2020/2020-02-24_liverpool-fc-west-ham-united-premier-league-2019-2020/2_27_16.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O1",
+    "O1": "white",
+    "O2": "gold",
+    "O3": "red",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video, which color jersey intercepts the pass before the corner?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2017-2018/2018-02-11_huddersfield-town-afc-bournemouth/1_22_19.mp4"
+    ],
+    "openA": "black",
+    "closeA": "O1",
+    "O1": "black",
+    "O2": "turquoise",
+    "O3": "blue",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video showing a foul, which color jersey commits the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2020-2021/2021-04-14_borussia-dortmund-manchester-city-champions-league-2020-2021/1_28_28.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O2",
+    "O1": "yellow",
+    "O2": "blue",
+    "O3": "white",
+    "O4": "teal"
+  },
+  {
+    "Q": "In the video, which color jersey is called offside?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2019-2020/2019-12-02_cagliari-calcio-uc-sampdoria/2_12_15.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O2",
+    "O1": "purple",
+    "O2": "red",
+    "O3": "blue",
+    "O4": "lavender"
+  },
+  {
+    "Q": "In the video, which color jersey delivers the dangerous cross from the corner kick?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-08-26_manchester-united-nottingham-forest-premier-league/2_28_10.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O4",
+    "O1": "blue",
+    "O2": "white",
+    "O3": "olive",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video showing a yellow card incident, which color jersey receives the booking?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2022-2023/2022-10-16_ssc-napoli-bologna-fc-serie-a-2022-2023/2_46_03.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O4",
+    "O1": "red",
+    "O2": "white",
+    "O3": "brown",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video, which color jersey is in an offside position when the flag is raised?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2020-2021/2020-09-23_olympiacos-fc-ac-omonia-nicosia/1_13_21.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O4",
+    "O1": "white",
+    "O2": "green",
+    "O3": "blue",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video showing a short corner kick, which color jersey initiates the play?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2021-2022/2021-11-23_villarreal-cf-manchester-united-champions-league/2_42_32.mp4"
+    ],
+    "openA": "yellow",
+    "closeA": "O4",
+    "O1": "black",
+    "O2": "white",
+    "O3": "blue",
+    "O4": "yellow"
+  },
+  {
+    "Q": "In the video, which color jersey takes the corner kick?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2020-2021/2020-12-20_tottenham-hotspur-leicester-city-premier-league-2020-2021/2_25_28.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O4",
+    "O1": "red",
+    "O2": "blue",
+    "O3": "magenta",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video showing a substitution, which color jersey is worn by the player coming onto the pitch?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2022-2023/2022-10-30_empoli-fc-atalanta-bc/2_09_30.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O3",
+    "O1": "blue",
+    "O2": "orange",
+    "O3": "white",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video, which color jersey scores the goal?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2017-2018/2018-03-10_manchester-united-liverpool-fc-premier-league-2017-2018/1_13_36.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O4",
+    "O1": "white",
+    "O2": "blue",
+    "O3": "yellow",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video showing the game interruption, which color jersey does the injured player wear?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/germany_bundesliga_2020-2021/2021-03-20_eintracht-frankfurt-union-berlin/1_32_48.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O1",
+    "O1": "red",
+    "O2": "white",
+    "O3": "pink",
+    "O4": "black"
+  },
+  {
+    "Q": "In the substitution video, which color jersey leaves the field?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2018-2019/2018-12-05_manchester-united-arsenal-fc-premier-league-2018-2019/2_29_46.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O4",
+    "O1": "yellow",
+    "O2": "blue",
+    "O3": "cyan",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video, which color jersey receives the yellow card?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/germany_bundesliga_2020-2021/2020-12-12_union-berlin-bayern-munchen-bundesliga/1_29_50.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O4",
+    "O1": "orange",
+    "O2": "black",
+    "O3": "blue",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video, which color jersey heads the corner kick out of the penalty area?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2022-2023/2022-11-01_olympique-de-marseille-tottenham-hotspur/1_46_02.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O1",
+    "O1": "blue",
+    "O2": "maroon",
+    "O3": "red",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video showing the injured player, which color jersey requires medical attention?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2019-2020/2020-02-02_tottenham-hotspur-manchester-city-premier-league-2019-2020/1_11_51.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O2",
+    "O1": "red",
+    "O2": "white",
+    "O3": "blue",
+    "O4": "black"
+  },
+  {
+    "Q": "In the video, which color jersey commits the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/france_league-1_2022-2023/2022-08-21_toulouse-fc-fc-lorient/1_10_57.mp4"
+    ],
+    "openA": "black",
+    "closeA": "O4",
+    "O1": "blue",
+    "O2": "white",
+    "O3": "turquoise",
+    "O4": "black"
+  },
+  {
+    "Q": "In the video, which color jersey team earns a corner after the defensive clearance?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2021-2022/2022-02-26_everton-fc-manchester-city-premier-league-2021-2022/1_16_58.mp4"
+    ],
+    "openA": "darkblue",
+    "closeA": "O2",
+    "O1": "lightblue",
+    "O2": "darkblue",
+    "O3": "silver",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video, which color jersey team is controlling possession with short passes?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/france_league-1_2022-2023/2022-10-16_toulouse-fc-angers-sco/1_07_15.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O2",
+    "O1": "lime",
+    "O2": "white",
+    "O3": "blue",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video showing precise passing sequences, which color jersey maintains possession effectively?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2022-2023/2023-06-10_manchester-city-fc-internazionale/1_33_40.mp4"
+    ],
+    "openA": "lightblue",
+    "closeA": "O4",
+    "O1": "darkblue",
+    "O2": "black",
+    "O3": "yellow",
+    "O4": "lightblue"
+  },
+  {
+    "Q": "In the video, which color jersey takes the corner kick that is overhit?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/germany_bundesliga_2018-2019/2019-02-24_borussia-dortmund-bayer-leverkusen/1_14_38.mp4"
+    ],
+    "openA": "yellow",
+    "closeA": "O3",
+    "O1": "white",
+    "O2": "lavender",
+    "O3": "yellow",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video showing a goal scored from a rebound, which color jersey is the scoring team wearing?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2022-2023/2023-01-01_nottingham-forest-chelsea-fc-premier-league/1_16_10.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O3",
+    "O1": "silver",
+    "O2": "red",
+    "O3": "blue",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video, which color jersey produces the cross that leads to a corner kick?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/spain_laliga_2017-2018/2018-05-12_deportivo-de-la-coruna-villarreal-cf/1_29_10.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O2",
+    "O1": "yellow",
+    "O2": "blue",
+    "O3": "white",
+    "O4": "turquoise"
+  },
+  {
+    "Q": "In the video, which color jersey makes the unsuccessful attacking pass?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/germany_bundesliga_2021-2022/2022-03-19_bayern-munchen-union-berlin-bundesliga-2021-2022/2_15_00.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O4",
+    "O1": "red",
+    "O2": "indigo",
+    "O3": "blue",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video showing a missed long-range shot, which color jersey collects the rebound and takes the shot?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2018-2019/2018-11-25_ss-lazio-ac-milan-serie-a-2018-2019/2_13_30.mp4"
+    ],
+    "openA": "black",
+    "closeA": "O2",
+    "O1": "white",
+    "O2": "black",
+    "O3": "blue",
+    "O4": "lavender"
+  },
+  {
+    "Q": "In the video showing a yellow card incident, which color jersey receives the caution?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/france_league-1_2022-2023/2023-02-01_toulouse-fc-troyes-ac/2_28_41.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O4",
+    "O1": "cyan",
+    "O2": "red",
+    "O3": "blue",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video, which color jersey takes the corner kick?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2022-2023/2022-11-12_tottenham-hotspur-leeds-united-premier-league/1_02_04.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O3",
+    "O1": "yellow",
+    "O2": "violet",
+    "O3": "white",
+    "O4": "black"
+  },
+  {
+    "Q": "In the video, which color jersey scores from the rebound?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/spain_laliga_2022-2023/2022-11-08_ca-osasuna-fc-barcelona-liga-1-division-2022-2023/2_02_25.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O4",
+    "O1": "white",
+    "O2": "blue",
+    "O3": "black",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video, which color jersey takes the corner kick that goes out of play?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/germany_bundesliga_2020-2021/2021-04-03_rb-leipzig-bayern-munchen-bundesliga-2020-2021/2_18_17.mp4"
+    ],
+    "openA": "black",
+    "closeA": "O1",
+    "O1": "black",
+    "O2": "maroon",
+    "O3": "blue",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video, which color jersey heads the corner kick out of the penalty area?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2019-2020/2020-02-01_liverpool-fc-southampton-fc-premier-league-2019-2020/1_29_56.mp4"
+    ],
+    "openA": "yellow and black",
+    "closeA": "O3",
+    "O1": "red",
+    "O2": "lavender",
+    "O3": "yellow and black",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video, which color jersey clears the ball from the corner?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2022-2023/2022-08-14_chelsea-fc-tottenham-hotspur-premier-league-2022-2023/2_08_51.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O1",
+    "O1": "white",
+    "O2": "blue",
+    "O3": "red",
+    "O4": "olive"
+  },
+  {
+    "Q": "In the video, which color jersey delivers the cross into the box?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2018-2019/2018-11-28_ssc-napoli-crvena-zvezda/2_14_42.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O1",
+    "O1": "blue",
+    "O2": "red",
+    "O3": "white",
+    "O4": "orange"
+  },
+  {
+    "Q": "In the video showing a substitution, which color jersey is the player coming off the field wearing?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/germany_bundesliga_2018-2019/2018-09-22_schalke-04-bayern-munchen-bundesliga-2018-2019/2_08_03.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O3",
+    "O1": "white",
+    "O2": "red",
+    "O3": "blue",
+    "O4": "gray"
+  },
+  {
+    "Q": "In the video, which color jersey strikes the rebound towards the target?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/spain_laliga_2021-2022/2022-04-20_atletico-de-madrid-granada-cf-liga-1-division-2021/2_15_01.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O1",
+    "O1": "red",
+    "O2": "white",
+    "O3": "indigo",
+    "O4": "green"
+  },
+  {
+    "Q": "In the video, which color jersey attempts to dribble past an opponent before the ball is cleared?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2023-2024/2023-11-28_manchester-city-rb-leipzig-champions-league-2023-2024/1_08_10.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O4",
+    "O1": "blue",
+    "O2": "white",
+    "O3": "pink",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video, which color jersey commits the foul leading to a free kick?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2018-2019/2019-04-28_manchester-united-chelsea-fc-premier-league-2018-2019/2_15_36.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O2",
+    "O1": "blue",
+    "O2": "red",
+    "O3": "lime",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video, which color jersey fails to control the through ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2021-2022/2021-10-20_manchester-united-atalanta-bc/2_21_50.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O2",
+    "O1": "coral",
+    "O2": "white",
+    "O3": "red",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video, which color jersey clears the ball from the corner kick?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2019-2020/2019-08-24_liverpool-fc-arsenal-fc-premier-league-2019-2020/2_18_08.mp4"
+    ],
+    "openA": "black",
+    "closeA": "O2",
+    "O1": "navy",
+    "O2": "black",
+    "O3": "red",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video, which color jersey commits the foul by pulling an opponent?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2020-2021/2021-03-07_manchester-city-manchester-united-premier-league-2020-2021/1_41_14.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O1",
+    "O1": "red",
+    "O2": "lavender",
+    "O3": "white",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video, which color jersey loses possession before the corner is earned?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2017-2018/2017-12-23_ac-milan-atalanta-bc/2_01_20.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O2",
+    "O1": "olive",
+    "O2": "red",
+    "O3": "white",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video, which color jersey takes the shot from the corner that goes over the bar?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2019-2020/2019-11-05_liverpool-fc-racing-genk/1_09_13.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O2",
+    "O1": "blue",
+    "O2": "red",
+    "O3": "green",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video showing a substitution, which color jersey is worn by the incoming player?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2022-2023/2022-11-01_bayern-munchen-fc-internazionale-champions-league-2022-2023/2_14_29.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O1",
+    "O1": "red",
+    "O2": "violet",
+    "O3": "blue",
+    "O4": "yellow"
+  },
+  {
+    "Q": "In the video, which color jersey clears the attempted cross?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2017-2018/2017-11-29_manchester-city-southampton-fc-premier-league/1_25_50.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O2",
+    "O1": "blue",
+    "O2": "white",
+    "O3": "green",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video showing a substitution, which color jersey is the player coming onto the pitch wearing?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2021-2022/2021-08-13_brentford-fc-arsenal-fc/2_40_42.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O2",
+    "O1": "white",
+    "O2": "blue",
+    "O3": "red",
+    "O4": "coral"
+  },
+  {
+    "Q": "In the video, which color jersey commits the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2022-2023/2023-02-04_everton-fc-arsenal-fc-premier-league-2022-2023/2_47_41.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O2",
+    "O1": "turquoise",
+    "O2": "blue",
+    "O3": "red",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video, which color jersey scores the goal with a snap shot?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2019-2020/2020-01-12_aston-villa-manchester-city-premier-league/1_23_30.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O1",
+    "O1": "red",
+    "O2": "black",
+    "O3": "white",
+    "O4": "brown"
+  },
+  {
+    "Q": "In the video showing quick passing play, which color jersey team is building up to attack?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2021-2022/2022-04-23_arsenal-fc-manchester-united-premier-league-2021-2022/2_40_46.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O3",
+    "O1": "blue",
+    "O2": "gold",
+    "O3": "red",
+    "O4": "white"
+  },
+  {
+    "Q": "Which color jersey leaves the pitch during the substitution in the video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2017-2018/2017-12-16_stoke-city-west-ham-united/2_34_01.mp4"
+    ],
+    "openA": "purple",
+    "closeA": "O4",
+    "O1": "red",
+    "O2": "white",
+    "O3": "black",
+    "O4": "purple"
+  },
+  {
+    "Q": "In the video, which color jersey takes the shot from the edge of the box?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2019-2020/2020-01-06_ssc-napoli-fc-internazionale-serie-a-2019-2020/1_07_29.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O3",
+    "O1": "black",
+    "O2": "white",
+    "O3": "blue",
+    "O4": "magenta"
+  },
+  {
+    "Q": "In the video, which color jersey is worn by the team whose goal is being reviewed by VAR?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2019-2020/2020-01-01_west-ham-united-afc-bournemouth-premier-league/2_20_50.mp4"
+    ],
+    "openA": "blue and red",
+    "closeA": "O4",
+    "O1": "yellow",
+    "O2": "coral",
+    "O3": "white",
+    "O4": "blue and red"
+  },
+  {
+    "Q": "In the video, which color jersey receives the yellow card?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/spain_laliga_2017-2018/2017-10-14_getafe-cf-real-madrid-liga-1-division-2017-2018/1_32_40.mp4"
+    ],
+    "openA": "dark blue",
+    "closeA": "O4",
+    "O1": "white",
+    "O2": "light blue",
+    "O3": "red",
+    "O4": "dark blue"
+  },
+  {
+    "Q": "In the video showing a foul, which color jersey wins the free kick?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2022-2023/2022-08-24_dinamo-zagreb-f-k-bodo-glimt/2_35_18.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O4",
+    "O1": "white",
+    "O2": "yellow",
+    "O3": "navy",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video showing the booking, which color jersey makes the harsh tackle?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/spain_laliga_2017-2018/2017-11-20_sd-eibar-real-betis/1_10_24.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O3",
+    "O1": "red",
+    "O2": "purple",
+    "O3": "white",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video, which color jersey clears the ball to safety after thwarting the attack?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2020-2021/2021-01-03_juventus-fc-udinese-serie-a-2020-2021/1_42_34.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O3",
+    "O1": "coral",
+    "O2": "red",
+    "O3": "blue",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video, which color jersey takes the long-range free kick that goes over the bar?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/spain_laliga_2021-2022/2022-02-12_atletico-de-madrid-getafe-cf-liga-1-division-2021-2022/1_28_57.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O4",
+    "O1": "gray",
+    "O2": "blue",
+    "O3": "white",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video, which color jersey takes the corner kick?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/germany_bundesliga_2018-2019/2018-09-28_hertha-bsc-bayern-munchen-bundesliga-2018-2019/2_33_29.mp4"
+    ],
+    "openA": "grey",
+    "closeA": "O3",
+    "O1": "lime",
+    "O2": "blue",
+    "O3": "grey",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video showing a foul, which color jersey commits the challenge?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/spain_laliga_2020-2021/2021-04-05_fc-barcelona-real-valladolid-liga-1-division-2020-2021/2_29_21.mp4"
+    ],
+    "openA": "yellow",
+    "closeA": "O4",
+    "O1": "white",
+    "O2": "blue",
+    "O3": "cyan",
+    "O4": "yellow"
+  },
+  {
+    "Q": "In the video showing a foul, which color jersey commits the foul?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2021-2022/2021-09-23_uc-sampdoria-ssc-napoli-serie-a-2021-2022/1_21_11.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O4",
+    "O1": "navy",
+    "O2": "white",
+    "O3": "red",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video, which color jersey takes the mid-range shot that leads to a corner?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/france_league-1_2022-2023/2023-02-26_stade-de-reims-toulouse-fc/1_13_42.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O1",
+    "O1": "red",
+    "O2": "white",
+    "O3": "black",
+    "O4": "olive"
+  },
+  {
+    "Q": "In the video, which color jersey serves the cross that gets cleared by the defense?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2021-2022/2021-12-07_rb-leipzig-manchester-city/2_21_50.mp4"
+    ],
+    "openA": "blue",
+    "closeA": "O2",
+    "O1": "red",
+    "O2": "blue",
+    "O3": "brown",
+    "O4": "white"
+  }
+]

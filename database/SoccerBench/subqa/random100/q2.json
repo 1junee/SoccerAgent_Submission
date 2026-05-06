@@ -1,0 +1,1002 @@
+[
+  {
+    "Q": "In the December 30, 2020 La Liga match, which Real Madrid player missed a header from an inch-perfect cross in the first half?",
+    "materials": null,
+    "openA": "Lucas missed a header from a cross, sending it over the bar.",
+    "closeA": "O3",
+    "O1": "Casemiro missed a header from a cross, sending it wide of the post.",
+    "O2": "Ramos missed a header from a cross, hitting the crossbar.",
+    "O3": "Lucas missed a header from a cross, sending it over the bar.",
+    "O4": "Benzema missed a header from a cross, directing it straight at the keeper."
+  },
+  {
+    "Q": "What unconventional formation did Union Berlin deploy when they beat RB Leipzig 2-1 on February 11, 2023?",
+    "materials": null,
+    "openA": "3-3-2-2",
+    "closeA": "O3",
+    "O1": "3-4-1-2",
+    "O2": "4-2-2-2",
+    "O3": "3-3-2-2",
+    "O4": "3-5-2"
+  },
+  {
+    "Q": "Which formation did Leeds United deploy in their 2-1 victory over Newcastle in January 2021?",
+    "materials": null,
+    "openA": "Leeds used a 4-1-4-1 formation.",
+    "closeA": "O3",
+    "O1": "4-4-2",
+    "O2": "3-5-2",
+    "O3": "4-1-4-1",
+    "O4": "4-3-3"
+  },
+  {
+    "Q": "Which Everton player assisted Dominic Calvert-Lewin's opening goal against Arsenal on February 23, 2020?",
+    "materials": null,
+    "openA": "Not explicitly stated in commentary",
+    "closeA": "Not explicitly stated in commentary",
+    "O1": "Richarlison",
+    "O2": "Gylfi Sigurðsson",
+    "O3": "Lucas Digne",
+    "O4": "Not explicitly stated in commentary"
+  },
+  {
+    "Q": "How many saves did Diego Lopez (Espanyol) make in the first half of their La Liga match against Celta Vigo on August 18, 2018?",
+    "materials": null,
+    "openA": "Diego Lopez made 2 saves in the first half.",
+    "closeA": "O3",
+    "O1": "1",
+    "O2": "3",
+    "O3": "2",
+    "O4": "0"
+  },
+  {
+    "Q": "What was the attendance at Stadio Olimpico for Roma's 3-0 win over Bologna?",
+    "materials": null,
+    "openA": "24,600 spectators attended the match.",
+    "closeA": "O3",
+    "O1": "32,500 spectators attended the match.",
+    "O2": "18,200 spectators attended the match.",
+    "O3": "24,600 spectators attended the match.",
+    "O4": "28,900 spectators attended the match."
+  },
+  {
+    "Q": "Which Sampdoria player received a yellow card in the second half of their Serie A match against Cagliari on December 2, 2019?",
+    "materials": null,
+    "openA": "Omar Colley received a yellow card for Sampdoria.",
+    "closeA": "O3",
+    "O1": "Fabio Quagliarella",
+    "O2": "Jakub Jankto",
+    "O3": "Omar Colley",
+    "O4": "Albin Ekdal"
+  },
+  {
+    "Q": "What was the jersey color of FC Porto when they faced Liverpool in the Champions League match at Anfield on November 24, 2021?",
+    "materials": null,
+    "openA": "FC Porto wore blue jerseys.",
+    "closeA": "O3",
+    "O1": "White jerseys",
+    "O2": "Red jerseys",
+    "O3": "Blue jerseys",
+    "O4": "Black jerseys"
+  },
+  {
+    "Q": "Which two players were missing for Union Berlin in their Bundesliga clash against Eintracht Frankfurt?",
+    "materials": null,
+    "openA": "Union Berlin was missing Keita Endo, Christian Gentner, Joel Pohjanpalo, Nico Schlotterbeck, and Anthony Ujah.",
+    "closeA": "O3",
+    "O1": "Sheraldo Becker, Taiwo Awoniyi, Grischa Prömel, and Max Kruse",
+    "O2": "Christopher Trimmel, Marvin Friedrich, Robert Andrich, and Andreas Luthe",
+    "O3": "Keita Endo, Christian Gentner, Joel Pohjanpalo, Nico Schlotterbeck, and Anthony Ujah",
+    "O4": "Marcus Ingvartsen, Julian Ryerson, Cedric Teuchert, and Rani Khedira"
+  },
+  {
+    "Q": "What was the attendance figure at Turf Moor when Liverpool won 3-0 against Burnley in the early 2019-20 season match?",
+    "materials": null,
+    "openA": "21,762 spectators attended the match.",
+    "closeA": "O3",
+    "O1": "19,845 spectators attended the match.",
+    "O2": "22,546 spectators attended the match.",
+    "O3": "21,762 spectators attended the match.",
+    "O4": "20,318 spectators attended the match."
+  },
+  {
+    "Q": "Which RB Leipzig player received a yellow card for tripping in the 72nd minute of their 1-0 loss to Dortmund?",
+    "materials": null,
+    "openA": "Dayot Upamecano",
+    "closeA": "O3",
+    "O1": "Marcel Sabitzer",
+    "O2": "Yussuf Poulsen",
+    "O3": "Dayot Upamecano",
+    "O4": "Emil Forsberg"
+  },
+  {
+    "Q": "Which Nigerian forward started for Union Berlin in their heavy defeat to Bayern Munich?",
+    "materials": null,
+    "openA": "Taiwo Awoniyi",
+    "closeA": "O3",
+    "O1": "Victor Osimhen",
+    "O2": "Kelechi Iheanacho",
+    "O3": "Taiwo Awoniyi",
+    "O4": "Paul Onuachu"
+  },
+  {
+    "Q": "Which two Hertha Berlin players were substituted during their September 2017 match against Werder Bremen?",
+    "materials": null,
+    "openA": "Salomon Kalou and Valentin Stocker were substituted.",
+    "closeA": "O3",
+    "O1": "Vedad Ibišević and Mitchell Weiser",
+    "O2": "Niklas Stark and Marvin Plattenhardt",
+    "O3": "Salomon Kalou and Valentin Stocker",
+    "O4": "Genki Haraguchi and Alexander Esswein"
+  },
+  {
+    "Q": "What was the jersey color combination for AC Milan when they hosted Inter in the Champions League semifinal on May 10, 2023?",
+    "materials": null,
+    "openA": "AC Milan wore red and black jerseys.",
+    "closeA": "O3",
+    "O1": "Blue and black jerseys",
+    "O2": "White and red jerseys",
+    "O3": "Red and black jerseys",
+    "O4": "Black and gold jerseys"
+  },
+  {
+    "Q": "How many players were missing for Hellas Verona in their December 2019 away match against Atalanta?",
+    "materials": null,
+    "openA": "Six players were missing.",
+    "closeA": "O3",
+    "O1": "Four players were missing.",
+    "O2": "Eight players were missing.",
+    "O3": "Six players were missing.",
+    "O4": "Two players were missing."
+  },
+  {
+    "Q": "What was the final score in the Atl. Madrid vs. Sevilla match on January 12, 2021?",
+    "materials": null,
+    "openA": "2-0 (Atl. Madrid won)",
+    "closeA": "O3",
+    "O1": "1-1 (Draw)",
+    "O2": "1-0 (Atl. Madrid won)",
+    "O3": "2-0 (Atl. Madrid won)",
+    "O4": "0-1 (Sevilla won)"
+  },
+  {
+    "Q": "How many Brazilian defenders were missing for Arsenal in their December 2020 clash against Chelsea?",
+    "materials": null,
+    "openA": "Two Brazilian defenders (David Luiz and Gabriel) were missing.",
+    "closeA": "O3",
+    "O1": "One Brazilian defender (Gabriel)",
+    "O2": "Three Brazilian defenders (David Luiz, Gabriel, and Willian)",
+    "O3": "Two Brazilian defenders (David Luiz and Gabriel)",
+    "O4": "No Brazilian defenders were missing"
+  },
+  {
+    "Q": "Which Barcelona player had a header attempt from a corner saved by the goalkeeper in the December 4, 2021 La Liga match against Betis?",
+    "materials": null,
+    "openA": "Clement Lenglet",
+    "closeA": "O3",
+    "O1": "Gerard Piqué",
+    "O2": "Ronald Araújo",
+    "O3": "Clement Lenglet",
+    "O4": "Sergio Busquets"
+  },
+  {
+    "Q": "Which FC Porto player was substituted in the 14th minute of the second half during their Champions League match against Schalke on September 18, 2018?",
+    "materials": null,
+    "openA": "Vincent Aboubakar was substituted and replaced by Jesus Manuel Corona.",
+    "closeA": "O3",
+    "O1": "Yacine Brahimi",
+    "O2": "Héctor Herrera",
+    "O3": "Vincent Aboubakar",
+    "O4": "Danilo Pereira"
+  },
+  {
+    "Q": "What was the final score when Atalanta hosted Sassuolo at Gewiss Stadium on May 26, 2019?",
+    "materials": null,
+    "openA": "3 - 1",
+    "closeA": "O3",
+    "O1": "2 - 1",
+    "O2": "3 - 2",
+    "O3": "3 - 1",
+    "O4": "2 - 0"
+  },
+  {
+    "Q": "How many yellow cards were shown in the second half of the Chelsea vs Nottingham Forest Premier League match on May 13, 2023?",
+    "materials": null,
+    "openA": "3",
+    "closeA": "O3",
+    "O1": "2",
+    "O2": "4",
+    "O3": "3",
+    "O4": "1"
+  },
+  {
+    "Q": "Which Bayern Munich players received yellow cards during the match against Hamburger SV on March 10, 2018?",
+    "materials": null,
+    "openA": "Arturo Vidal and Franck Ribery",
+    "closeA": "O3",
+    "O1": "Thomas Müller and Robert Lewandowski",
+    "O2": "Javi Martínez and Arjen Robben",
+    "O3": "Arturo Vidal and Franck Ribery",
+    "O4": "Joshua Kimmich and David Alaba"
+  },
+  {
+    "Q": "How many Spanish players were in Atlético Madrid's starting lineup against Sevilla?",
+    "materials": null,
+    "openA": "Four Spanish players started - Mario Hermoso, Koke, Marcos Llorente, and Stefan Savic.",
+    "closeA": "O3",
+    "O1": "Three Spanish players started - Mario Hermoso, Koke, and Marcos Llorente.",
+    "O2": "Five Spanish players started - Mario Hermoso, Koke, Marcos Llorente, Stefan Savic, and Jan Oblak.",
+    "O3": "Four Spanish players started - Mario Hermoso, Koke, Marcos Llorente, and Stefan Savic.",
+    "O4": "Two Spanish players started - Koke and Marcos Llorente."
+  },
+  {
+    "Q": "Which Spanish referee officiated the Celta Vigo vs Granada CF match that ended 1-0 in September 2021?",
+    "materials": null,
+    "openA": "Grado C. S.",
+    "closeA": "O3",
+    "O1": "Mateu Lahoz",
+    "O2": "José María Sánchez Martínez",
+    "O3": "Grado C. S.",
+    "O4": "Carlos del Cerro Grande"
+  },
+  {
+    "Q": "Which Turkish midfielder scored the highest rating (8.5) for Istanbul Basaksehir in their 3-4 loss to RB Leipzig?",
+    "materials": null,
+    "openA": "Irfan Can Kahveci",
+    "closeA": "O3",
+    "O1": "Hakan Calhanoglu",
+    "O2": "Ozan Tufan",
+    "O3": "Irfan Can Kahveci",
+    "O4": "Mahmut Tekdemir"
+  },
+  {
+    "Q": "In the Serie A match between AS Roma and Lazio on January 26, 2020, which player scored the equalizing goal for Lazio in the first half and how was the goal created?",
+    "materials": null,
+    "openA": "Francesco Acerbi scored the equalizing goal for Lazio after capitalizing on a huge error from Pau Lopez.",
+    "closeA": "O3",
+    "O1": "Ciro Immobile scored the equalizing goal for Lazio after converting a penalty won by Luis Alberto.",
+    "O2": "Sergej Milinkovic-Savic scored the equalizing goal for Lazio with a powerful header from a corner kick.",
+    "O3": "Francesco Acerbi scored the equalizing goal for Lazio after capitalizing on a huge error from Pau Lopez.",
+    "O4": "Joaquin Correa scored the equalizing goal for Lazio following a quick counterattack initiated by Manuel Lazzari."
+  },
+  {
+    "Q": "What was the minute of the first substitution in the Real Madrid vs Granada CF La Liga match on December 23, 2020, and who was replaced?",
+    "materials": null,
+    "openA": "37:54, Rodrygo was replaced by Marco Asensio",
+    "closeA": "O3",
+    "O1": "25:12, Eden Hazard was replaced by Lucas Vázquez",
+    "O2": "42:30, Karim Benzema was replaced by Luka Jović",
+    "O3": "37:54, Rodrygo was replaced by Marco Asensio",
+    "O4": "31:45, Ferland Mendy was replaced by Marcelo"
+  },
+  {
+    "Q": "Which two players received second-half yellow cards for Manchester United in their Champions League match against Paris SG on February 12, 2019?",
+    "materials": null,
+    "openA": "Victor Lindelof and Luke Shaw",
+    "closeA": "O3",
+    "O1": "Paul Pogba and Marcus Rashford",
+    "O2": "Ashley Young and Ander Herrera",
+    "O3": "Victor Lindelof and Luke Shaw",
+    "O4": "Nemanja Matic and Jesse Lingard"
+  },
+  {
+    "Q": "Which Real Madrid substitute scored a goal in the 86th minute of their La Liga match against Real Sociedad?",
+    "materials": null,
+    "openA": "Lucas Vazquez scored in the 86th minute after coming on as a substitute.",
+    "closeA": "O3",
+    "O1": "Marco Asensio",
+    "O2": "Dani Ceballos",
+    "O3": "Lucas Vazquez",
+    "O4": "Rodrygo"
+  },
+  {
+    "Q": "What minute did Leroy Sane score Bayern Munich's equalizer against B. Monchengladbach in this Bundesliga match?",
+    "materials": null,
+    "openA": "12:43 (second half)",
+    "closeA": "O3",
+    "O1": "34:12 (first half)",
+    "O2": "8:56 (second half)",
+    "O3": "12:43 (second half)",
+    "O4": "23:17 (first half)"
+  },
+  {
+    "Q": "Which Chelsea player had a powerful shot blocked by a defender in the 33rd minute of the first half during the October 24, 2020 match against Manchester United?",
+    "materials": null,
+    "openA": "Christian Pulisic",
+    "closeA": "O3",
+    "O1": "Mason Mount",
+    "O2": "Timo Werner",
+    "O3": "Christian Pulisic",
+    "O4": "Kai Havertz"
+  },
+  {
+    "Q": "What was the final score in the February 19, 2022 Serie A match between AS Roma and Verona?",
+    "materials": null,
+    "openA": "2-2 draw.",
+    "closeA": "O3",
+    "O1": "3-1 to AS Roma",
+    "O2": "1-0 to Verona",
+    "O3": "2-2 draw",
+    "O4": "2-1 to AS Roma"
+  },
+  {
+    "Q": "Which Leicester City player was substituted due to injury in the second half of their Premier League match against Manchester City on December 21, 2019, and who replaced them?",
+    "materials": null,
+    "openA": "Harvey Barnes was substituted due to injury and was replaced by Marc Albrighton.",
+    "closeA": "O3",
+    "O1": "James Maddison was substituted due to injury and was replaced by Demarai Gray",
+    "O2": "Jamie Vardy was substituted due to injury and was replaced by Kelechi Iheanacho",
+    "O3": "Harvey Barnes was substituted due to injury and was replaced by Marc Albrighton",
+    "O4": "Youri Tielemans was substituted due to injury and was replaced by Dennis Praet"
+  },
+  {
+    "Q": "Which two key Barcelona players were missing from the squad that beat Villarreal 1-0 in February 2023?",
+    "materials": null,
+    "openA": "Sergio Busquets and Ousmane Dembele were missing.",
+    "closeA": "O3",
+    "O1": "Pedri and Ansu Fati",
+    "O2": "Robert Lewandowski and Frenkie de Jong",
+    "O3": "Sergio Busquets and Ousmane Dembele",
+    "O4": "Gavi and Ronald Araujo"
+  },
+  {
+    "Q": "Which CSKA Moscow player was substituted at halftime during their Champions League match against Wolfsburg?",
+    "materials": null,
+    "openA": "Sergey Ignashevich",
+    "closeA": "O3",
+    "O1": "Alan Dzagoev",
+    "O2": "Igor Akinfeev",
+    "O3": "Sergey Ignashevich",
+    "O4": "Mario Fernandes"
+  },
+  {
+    "Q": "What time did the Chelsea vs. Leicester Premier League match kick off on December 22, 2018?",
+    "materials": null,
+    "openA": "The match started at 23:00:00 local time.",
+    "closeA": "O3",
+    "O1": "20:45:00",
+    "O2": "21:30:00",
+    "O3": "23:00:00",
+    "O4": "22:15:00"
+  },
+  {
+    "Q": "Which player scored Dortmund's first goal in their 3-2 victory over Schalke, and who provided the assist?",
+    "materials": null,
+    "openA": "Shinji Kagawa scored Dortmund's first goal, assisted by Matthias Ginter.",
+    "closeA": "O3",
+    "O1": "Marco Reus scored, assisted by Lukasz Piszczek",
+    "O2": "Pierre-Emerick Aubameyang scored, assisted by Marcel Schmelzer",
+    "O3": "Shinji Kagawa scored, assisted by Matthias Ginter",
+    "O4": "Henrikh Mkhitaryan scored, assisted by Sokratis Papastathopoulos"
+  },
+  {
+    "Q": "In the Champions League match between Bayern Munich and Chelsea on February 25, 2020, how many corner kicks did each team have in the first half?",
+    "materials": null,
+    "openA": "Bayern Munich had 4 corner kicks, Chelsea had 2 corner kicks in the first half.",
+    "closeA": "O3",
+    "O1": "Bayern Munich had 3 corner kicks, Chelsea had 3 corner kicks in the first half.",
+    "O2": "Bayern Munich had 5 corner kicks, Chelsea had 1 corner kick in the first half.",
+    "O3": "Bayern Munich had 4 corner kicks, Chelsea had 2 corner kicks in the first half.",
+    "O4": "Bayern Munich had 2 corner kicks, Chelsea had 4 corner kicks in the first half."
+  },
+  {
+    "Q": "What was the sequence of events leading to Bayern Munich's penalty in the first half against Dortmund on March 6, 2021?",
+    "materials": null,
+    "openA": "After a VAR review at 42:10, a penalty was awarded to Bayern Munich at 42:03, which Robert Lewandowski converted at 43:45.",
+    "closeA": "O3",
+    "O1": "After a handball call at 41:55, a penalty was awarded to Bayern Munich at 42:20, which Thomas Müller converted at 43:30.",
+    "O2": "After a foul at 42:05, a penalty was awarded to Bayern Munich at 42:15, which Robert Lewandowski converted at 43:50.",
+    "O3": "After a VAR review at 42:10, a penalty was awarded to Bayern Munich at 42:03, which Robert Lewandowski converted at 43:45.",
+    "O4": "After an offside call at 42:00, a penalty was awarded to Bayern Munich at 42:25, which Serge Gnabry converted at 43:40."
+  },
+  {
+    "Q": "Which Valladolid players required medical attention during the first half of the August 28, 2022 match, and were they able to continue?",
+    "materials": null,
+    "openA": "Joaquin Fernandez (38:45) and Javier Sanchez (38:47) both received treatment but continued playing (40:11 and 40:20 respectively).",
+    "closeA": "O3",
+    "O1": "Anuar Tuhami (38:45) and Kike Perez (38:47) both received treatment but continued playing (40:11 and 40:20 respectively).",
+    "O2": "Joaquin Fernandez (38:45) and Ivan Sanchez (38:47) both received treatment but were substituted shortly after (40:11 and 40:20 respectively).",
+    "O3": "Joaquin Fernandez (38:45) and Javier Sanchez (38:47) both received treatment but continued playing (40:11 and 40:20 respectively).",
+    "O4": "Sergio Escudero (38:45) and Javier Sanchez (38:47) both received treatment but continued playing (40:11 and 40:20 respectively)."
+  },
+  {
+    "Q": "Which Liverpool player received a yellow card for unsportsmanlike conduct just before halftime in the 2015-16 Premier League match against West Ham?",
+    "materials": null,
+    "openA": "Philippe Coutinho",
+    "closeA": "O3",
+    "O1": "Adam Lallana",
+    "O2": "James Milner",
+    "O3": "Philippe Coutinho",
+    "O4": "Roberto Firmino"
+  },
+  {
+    "Q": "What was the final score when Tottenham hosted Southampton in their Premier League clash on February 9, 2022?",
+    "materials": null,
+    "openA": "The final score was 2-3 in favor of Southampton.",
+    "closeA": "O3",
+    "O1": "3-2 to Tottenham",
+    "O2": "1-1 draw",
+    "O3": "2-3 in favor of Southampton",
+    "O4": "2-1 to Tottenham"
+  },
+  {
+    "Q": "What was the final score when Arsenal hosted Everton at Emirates Stadium on March 1, 2023 in the Premier League?",
+    "materials": null,
+    "openA": "Arsenal won 4-0 against Everton.",
+    "closeA": "O3",
+    "O1": "Everton won 2-1 against Arsenal",
+    "O2": "The match ended in a 1-1 draw",
+    "O3": "Arsenal won 4-0 against Everton",
+    "O4": "Arsenal won 3-2 against Everton"
+  },
+  {
+    "Q": "How many times did Atalanta fail to capitalize on corner kicks in the entire match against AS Roma on January 27, 2019?",
+    "materials": null,
+    "openA": "5",
+    "closeA": "O3",
+    "O1": "3",
+    "O2": "7",
+    "O3": "5",
+    "O4": "4"
+  },
+  {
+    "Q": "How many shots on target did Valencia have in the first half of their La Liga match against Atlético Madrid on September 16, 2023?",
+    "materials": null,
+    "openA": "2 shots on target",
+    "closeA": "O2",
+    "O1": "1 shot on target",
+    "O2": "2 shots on target",
+    "O3": "3 shots on target",
+    "O4": "0 shots on target"
+  },
+  {
+    "Q": "How many corner kicks did Ajax have in their Champions League match against Benfica on March 15, 2022?",
+    "materials": null,
+    "openA": "Ajax had 9 corner kicks.",
+    "closeA": "O3",
+    "O1": "5",
+    "O2": "7",
+    "O3": "9",
+    "O4": "11"
+  },
+  {
+    "Q": "Which Leganes substitute had the highest rating in their match against Real Madrid on July 19, 2020?",
+    "materials": null,
+    "openA": "Roger Assale had the highest substitute rating of 7.5.",
+    "closeA": "O3",
+    "O1": "Roque Mesa",
+    "O2": "Aitor Ruibal",
+    "O3": "Roger Assale",
+    "O4": "Jonathan Silva"
+  },
+  {
+    "Q": "Which player received the highest rating (8.5) in Manchester City's 3-1 win over Leeds?",
+    "materials": null,
+    "openA": "Erling Haaland",
+    "closeA": "O3",
+    "O1": "Kevin De Bruyne",
+    "O2": "Phil Foden",
+    "O3": "Erling Haaland",
+    "O4": "Rodri"
+  },
+  {
+    "Q": "Which Brazilian defender was substituted into AS Roma's losing effort against Napoli?",
+    "materials": null,
+    "openA": "Juan Jesus",
+    "closeA": "O3",
+    "O1": "Marquinhos",
+    "O2": "Thiago Silva",
+    "O3": "Juan Jesus",
+    "O4": "David Luiz"
+  },
+  {
+    "Q": "Which Greek defenders started for Bochum in their lopsided loss to Bayern Munich on September 18?",
+    "materials": null,
+    "openA": "Vassilios Lampropoulos and Konstantinos Stafylidis both started.",
+    "closeA": "O3",
+    "O1": "Sokratis Papastathopoulos and Kostas Manolas",
+    "O2": "Kyriakos Papadopoulos and Kostas Tsimikas",
+    "O3": "Vassilios Lampropoulos and Konstantinos Stafylidis",
+    "O4": "Dimitris Siovas and Giorgos Tzavellas"
+  },
+  {
+    "Q": "Who was the referee for Manchester City's 2-1 home win against Leicester in the 2016-17 Premier League season?",
+    "materials": null,
+    "openA": "Robert Madley",
+    "closeA": "O2",
+    "O1": "Mike Dean",
+    "O2": "Robert Madley",
+    "O3": "Anthony Taylor",
+    "O4": "Martin Atkinson"
+  },
+  {
+    "Q": "Who was the fourth official overseeing Manchester United vs Liverpool at Old Trafford where the hosts won 2-1?",
+    "materials": null,
+    "openA": "Craig Pawson from England refereed the match.",
+    "closeA": "O3",
+    "O1": "Michael Oliver from England",
+    "O2": "Anthony Taylor from England",
+    "O3": "Craig Pawson from England",
+    "O4": "Martin Atkinson from England"
+  },
+  {
+    "Q": "How many substitutions did CSKA Moscow make during their Champions League match against AS Roma on November 7, 2018?",
+    "materials": null,
+    "openA": "3 (Schennikov for Fernandes, Chernov for Sigurdsson, Khosonov for Akhmetov).",
+    "closeA": "O3",
+    "O1": "2 (Schennikov for Fernandes, Chernov for Sigurdsson)",
+    "O2": "4 (Schennikov for Fernandes, Chernov for Sigurdsson, Khosonov for Akhmetov, Bijol for Vlasic)",
+    "O3": "3 (Schennikov for Fernandes, Chernov for Sigurdsson, Khosonov for Akhmetov)",
+    "O4": "1 (Schennikov for Fernandes)"
+  },
+  {
+    "Q": "Which VfB Stuttgart player took a corner kick that was cleared by Bayern Munich's defense in the first half of their Bundesliga match on March 20, 2021?",
+    "materials": null,
+    "openA": "Gonzalo Castro took the corner kick.",
+    "closeA": "O3",
+    "O1": "Silas Wamangituka",
+    "O2": "Wataru Endo",
+    "O3": "Gonzalo Castro",
+    "O4": "Borna Sosa"
+  },
+  {
+    "Q": "Which two Italian coaches faced each other when Juventus hosted Spal in September 2019?",
+    "materials": null,
+    "openA": "Maurizio Sarri (Juventus) and Leonardo Semplici (Spal) were the Italian coaches.",
+    "closeA": "O3",
+    "O1": "Antonio Conte (Juventus) and Gian Piero Gasperini (Spal)",
+    "O2": "Massimiliano Allegri (Juventus) and Claudio Ranieri (Spal)",
+    "O3": "Maurizio Sarri (Juventus) and Leonardo Semplici (Spal)",
+    "O4": "Carlo Ancelotti (Juventus) and Roberto De Zerbi (Spal)"
+  },
+  {
+    "Q": "How many yellow cards were shown in total during the Atlético Madrid vs Barcelona match on May 17, 2015?",
+    "materials": null,
+    "openA": "Six yellow cards were shown.",
+    "closeA": "O3",
+    "O1": "Four yellow cards were shown.",
+    "O2": "Eight yellow cards were shown.",
+    "O3": "Six yellow cards were shown.",
+    "O4": "Two yellow cards were shown."
+  },
+  {
+    "Q": "How many Senegalese players were missing from PSG's squad for the April 2021 Ligue 1 match against Saint-Etienne?",
+    "materials": null,
+    "openA": "2 (Idrissa Gueye and Abdou Diallo)",
+    "closeA": "O3",
+    "O1": "3 (Idrissa Gueye, Abdou Diallo, and Pape Matar Sarr)",
+    "O2": "1 (Kalidou Koulibaly)",
+    "O3": "2 (Idrissa Gueye and Abdou Diallo)",
+    "O4": "0 (All Senegalese players were available)"
+  },
+  {
+    "Q": "Which Barcelona player received a yellow card for a tactical foul in the first half against Paris SG in the Champions League on March 10, 2021?",
+    "materials": null,
+    "openA": "Oscar Mingueza",
+    "closeA": "O3",
+    "O1": "Jordi Alba",
+    "O2": "Gerard Piqué",
+    "O3": "Oscar Mingueza",
+    "O4": "Sergi Roberto"
+  },
+  {
+    "Q": "How many yellow cards were shown to Everton players during the match against Watford on October 23, 2021, and who received them?",
+    "materials": null,
+    "openA": "Three yellow cards were shown to Everton players: Lucas Digne, Allan, and Richarlison.",
+    "closeA": "O3",
+    "O1": "Two yellow cards: Lucas Digne and Richarlison",
+    "O2": "Four yellow cards: Lucas Digne, Allan, Richarlison, and Anthony Gordon",
+    "O3": "Three yellow cards: Lucas Digne, Allan, and Richarlison",
+    "O4": "One yellow card: Allan"
+  },
+  {
+    "Q": "How many minutes did Ferland Mendy spend off the pitch receiving treatment during Lyon's Champions League match against Hoffenheim on October 23, 2018?",
+    "materials": null,
+    "openA": "Approximately 2 minutes",
+    "closeA": "O3",
+    "O1": "Approximately 5 minutes",
+    "O2": "Approximately 10 minutes",
+    "O3": "Approximately 2 minutes",
+    "O4": "Approximately 7 minutes"
+  },
+  {
+    "Q": "Which Bayer Leverkusen player scored the opening goal in their 4-1 win over BATE?",
+    "materials": null,
+    "openA": "Admir Mehmedi",
+    "closeA": "O3",
+    "O1": "Kevin Volland",
+    "O2": "Julian Brandt",
+    "O3": "Admir Mehmedi",
+    "O4": "Karim Bellarabi"
+  },
+  {
+    "Q": "Which Italian coach led Real Madrid to victory against Granada in November 2021?",
+    "materials": null,
+    "openA": "Carlo Ancelotti was the Italian coach for Real Madrid.",
+    "closeA": "O3",
+    "O1": "Antonio Conte",
+    "O2": "Massimiliano Allegri",
+    "O3": "Carlo Ancelotti",
+    "O4": "Roberto Mancini"
+  },
+  {
+    "Q": "What was the shot attempt count at halftime in the LaLiga match between Atlético Madrid and Barcelona on January 8, 2023?",
+    "materials": null,
+    "openA": "The shot attempt count at halftime was 5 for Barcelona and 6 for Atlético Madrid.",
+    "closeA": "O3",
+    "O1": "4 for Barcelona and 7 for Atlético Madrid",
+    "O2": "6 for Barcelona and 5 for Atlético Madrid",
+    "O3": "5 for Barcelona and 6 for Atlético Madrid",
+    "O4": "7 for Barcelona and 4 for Atlético Madrid"
+  },
+  {
+    "Q": "Which Brighton player received the first yellow card in this January 2019 Premier League match against Fulham, and at what minute did it occur?",
+    "materials": null,
+    "openA": "Dale Stephens at 24:30",
+    "closeA": "O3",
+    "O1": "Lewis Dunk at 18:15",
+    "O2": "Glenn Murray at 24:30",
+    "O3": "Dale Stephens at 24:30",
+    "O4": "Shane Duffy at 32:45"
+  },
+  {
+    "Q": "How many corner kicks did Brighton have in their Premier League match against Manchester City on September 29, 2018?",
+    "materials": null,
+    "openA": "3",
+    "closeA": "O3",
+    "O1": "5",
+    "O2": "1",
+    "O3": "3",
+    "O4": "7"
+  },
+  {
+    "Q": "What color jerseys did PSG wear when they drew 1-1 with Lens at home?",
+    "materials": null,
+    "openA": "PSG wore blue jerseys.",
+    "closeA": "O3",
+    "O1": "Red jerseys",
+    "O2": "White jerseys",
+    "O3": "Blue jerseys",
+    "O4": "Black jerseys"
+  },
+  {
+    "Q": "What was the capacity of Stadio Ennio Tardini where Parma lost 3-4 to Crotone?",
+    "materials": null,
+    "openA": "27,906",
+    "closeA": "O3",
+    "O1": "22,525",
+    "O2": "25,000",
+    "O3": "27,906",
+    "O4": "30,123"
+  },
+  {
+    "Q": "Which formation did Augsburg use against Bayern Munich in their Bundesliga clash on September 25, 2018?",
+    "materials": null,
+    "openA": "Augsburg deployed a 3-4-3 formation.",
+    "closeA": "O3",
+    "O1": "4-2-3-1",
+    "O2": "4-4-2",
+    "O3": "3-4-3",
+    "O4": "5-3-2"
+  },
+  {
+    "Q": "Which Brighton player wasted a great chance from a corner with a header straight at the goalkeeper in their October 18, 2022 match against Nottingham Forest?",
+    "materials": null,
+    "openA": "Moises Caicedo",
+    "closeA": "O3",
+    "O1": "Alexis Mac Allister",
+    "O2": "Leandro Trossard",
+    "O3": "Moises Caicedo",
+    "O4": "Lewis Dunk"
+  },
+  {
+    "Q": "Who was Hamburger SV's head coach during their June 2023 Bundesliga match against Stuttgart?",
+    "materials": null,
+    "openA": "Tim Walter, a German coach, led Hamburger SV.",
+    "closeA": "O3",
+    "O1": "Daniel Thioune, a German coach, led Hamburger SV.",
+    "O2": "Markus Gisdol, a German coach, led Hamburger SV.",
+    "O3": "Tim Walter, a German coach, led Hamburger SV.",
+    "O4": "Dieter Hecking, a German coach, led Hamburger SV."
+  },
+  {
+    "Q": "At what minute did Bayern Munich's Dayot Upamecano score their second goal against Wolfsburg in the December 2021 Bundesliga fixture?",
+    "materials": null,
+    "openA": "11:21 (second half)",
+    "closeA": "O3",
+    "O1": "34:15 (first half)",
+    "O2": "52:08 (second half)",
+    "O3": "11:21 (second half)",
+    "O4": "18:40 (first half)"
+  },
+  {
+    "Q": "How many corner kicks did Liverpool take in total during their November 10, 2019 Premier League match against Manchester City?",
+    "materials": null,
+    "openA": "4",
+    "closeA": "O2",
+    "O1": "2",
+    "O2": "4",
+    "O3": "5",
+    "O4": "3"
+  },
+  {
+    "Q": "How many spectators attended the Serie A clash between Salernitana and Venezia at Stadio Arechi?",
+    "materials": null,
+    "openA": "The attendance was 22,200.",
+    "closeA": "O3",
+    "O1": "18,500",
+    "O2": "25,700",
+    "O3": "22,200",
+    "O4": "20,000"
+  },
+  {
+    "Q": "Which Real Madrid player wearing number 14 scored the winning goal against Athletic Bilbao in March 2017?",
+    "materials": null,
+    "openA": "Casemiro",
+    "closeA": "O3",
+    "O1": "Isco",
+    "O2": "Luka Modrić",
+    "O3": "Casemiro",
+    "O4": "Mateo Kovačić"
+  },
+  {
+    "Q": "Who was the referee for the Everton vs Newcastle match that ended 4-1 to the visitors?",
+    "materials": null,
+    "openA": "Andre Marriner from England officiated the game.",
+    "closeA": "O3",
+    "O1": "Michael Oliver from England",
+    "O2": "Anthony Taylor from England",
+    "O3": "Andre Marriner from England",
+    "O4": "Martin Atkinson from England"
+  },
+  {
+    "Q": "How many corner kicks did Paderborn have during their Bundesliga match against Bayern Munich on February 21, 2015?",
+    "materials": null,
+    "openA": "4 corner kicks.",
+    "closeA": "O3",
+    "O1": "5 corner kicks",
+    "O2": "2 corner kicks",
+    "O3": "4 corner kicks",
+    "O4": "3 corner kicks"
+  },
+  {
+    "Q": "Which Dortmund player came on as a substitute and immediately received a yellow card in their Champions League match against Atlético Madrid on October 24, 2018?",
+    "materials": null,
+    "openA": "Dan-Axel Zagadou.",
+    "closeA": "O3",
+    "O1": "Julian Weigl",
+    "O2": "Marco Reus",
+    "O3": "Dan-Axel Zagadou",
+    "O4": "Mario Götze"
+  },
+  {
+    "Q": "What was the attendance figure for the Liverpool vs Manchester City match that ended in a 2-2 stalemate?",
+    "materials": null,
+    "openA": "The attendance was 53,102 at Anfield.",
+    "closeA": "O3",
+    "O1": "48,765 at Anfield",
+    "O2": "51,890 at Anfield",
+    "O3": "53,102 at Anfield",
+    "O4": "55,217 at Anfield"
+  },
+  {
+    "Q": "What was the final score in the 2017-18 Champions League match between Sevilla and Spartak Moscow, and which Sevilla player scored their second goal?",
+    "materials": null,
+    "openA": "The final score was 2-1 to Sevilla, with Ever Banega scoring their second goal.",
+    "closeA": "O3",
+    "O1": "The final score was 3-1 to Sevilla, with Wissam Ben Yedder scoring their second goal.",
+    "O2": "The final score was 2-1 to Spartak Moscow, with Ever Banega scoring their second goal.",
+    "O3": "The final score was 2-1 to Sevilla, with Ever Banega scoring their second goal.",
+    "O4": "The final score was 1-1, with Pablo Sarabia scoring Sevilla's second goal."
+  },
+  {
+    "Q": "What unusual formation (3-4-3) did Arsenal use to defeat Tottenham 4-2 in December 2018?",
+    "materials": null,
+    "openA": "Arsenal deployed a 3-4-3 formation.",
+    "closeA": "O3",
+    "O1": "4-3-3",
+    "O2": "4-4-2",
+    "O3": "3-4-3",
+    "O4": "3-5-2"
+  },
+  {
+    "Q": "Which formation did Wolverhampton Wanderers use in their 3-2 loss to Everton in the 2019-20 Premier League season?",
+    "materials": null,
+    "openA": "Wolverhampton Wanderers used a 3-5-2 formation.",
+    "closeA": "O3",
+    "O1": "4-4-2",
+    "O2": "4-3-3",
+    "O3": "3-5-2",
+    "O4": "4-2-3-1"
+  },
+  {
+    "Q": "How many saves did Hoffenheim goalkeeper Oliver Baumann make against Bayern Munich in the first half of their January 30, 2021 Bundesliga match?",
+    "materials": null,
+    "openA": "2",
+    "closeA": "O2",
+    "O1": "4",
+    "O2": "2",
+    "O3": "1",
+    "O4": "3"
+  },
+  {
+    "Q": "Which two key players were missing from Atlético Madrid's squad in their La Liga clash against Villarreal that ended 2-2?",
+    "materials": null,
+    "openA": "Héctor Herrera and João Félix were missing from Atlético Madrid's squad.",
+    "closeA": "O3",
+    "O1": "Koke and Antoine Griezmann",
+    "O2": "Jan Oblak and José Giménez",
+    "O3": "Héctor Herrera and João Félix",
+    "O4": "Ángel Correa and Yannick Carrasco"
+  },
+  {
+    "Q": "Which two forwards did Espanyol substitute into the match against Celta Vigo?",
+    "materials": null,
+    "openA": "Sergio Garcia and Javi Puado were the substituted forwards.",
+    "closeA": "O3",
+    "O1": "Raúl de Tomás and Wu Lei",
+    "O2": "Adri Embarba and David López",
+    "O3": "Sergio Garcia and Javi Puado",
+    "O4": "Nicolás Melamed and Óscar Melendo"
+  },
+  {
+    "Q": "Which Paris SG player assisted Neymar's goal in the 39th minute of the second half during their Ligue 1 match against Montpellier on August 13, 2022?",
+    "materials": null,
+    "openA": "Lionel Messi assisted Neymar's goal.",
+    "closeA": "O3",
+    "O1": "Kylian Mbappé",
+    "O2": "Marco Verratti",
+    "O3": "Lionel Messi",
+    "O4": "Ángel Di María"
+  },
+  {
+    "Q": "How many yellow cards were shown to Sheffield United players in total during their Premier League match against Everton on September 21, 2019?",
+    "materials": null,
+    "openA": "3 yellow cards",
+    "closeA": "O3",
+    "O1": "2 yellow cards",
+    "O2": "4 yellow cards",
+    "O3": "3 yellow cards",
+    "O4": "1 yellow card"
+  },
+  {
+    "Q": "In the La Liga 2021-2022 match between Sevilla and Valencia on September 22, 2021, how many yellow cards were shown in the first half and to which players?",
+    "materials": null,
+    "openA": "5 yellow cards were shown in the first half to Erik Lamela (Sevilla), Toni Lato (Valencia), Omar Alderete (Valencia), Gonzalo Montiel (Sevilla), and Rafa Mir (Sevilla).",
+    "closeA": "O3",
+    "O1": "4 yellow cards were shown in the first half to Erik Lamela (Sevilla), Toni Lato (Valencia), Omar Alderete (Valencia), and Gonzalo Montiel (Sevilla).",
+    "O2": "5 yellow cards were shown in the first half to Erik Lamela (Sevilla), Toni Lato (Valencia), Omar Alderete (Valencia), Gonzalo Montiel (Sevilla), and Carlos Soler (Valencia).",
+    "O3": "5 yellow cards were shown in the first half to Erik Lamela (Sevilla), Toni Lato (Valencia), Omar Alderete (Valencia), Gonzalo Montiel (Sevilla), and Rafa Mir (Sevilla).",
+    "O4": "3 yellow cards were shown in the first half to Erik Lamela (Sevilla), Toni Lato (Valencia), and Omar Alderete (Valencia)."
+  },
+  {
+    "Q": "Which Qarabag Agdam player had two headers saved by Plzen's goalkeeper Jindrich Stanek in this Champions League fixture?",
+    "materials": null,
+    "openA": "Ramil Sheydayev.",
+    "closeA": "O3",
+    "O1": "Abdellah Zoubir",
+    "O2": "Kady Borges",
+    "O3": "Ramil Sheydayev",
+    "O4": "Marko Jankovic"
+  },
+  {
+    "Q": "Who was Brescia's head coach during their 1-2 loss to Juventus?",
+    "materials": null,
+    "openA": "Eugenio Corini was Brescia's head coach.",
+    "closeA": "O3",
+    "O1": "Massimiliano Allegri",
+    "O2": "Roberto De Zerbi",
+    "O3": "Eugenio Corini",
+    "O4": "Gian Piero Gasperini"
+  },
+  {
+    "Q": "How many shots on target did VfB Stuttgart have against Bayern Munich in their Bundesliga match on September 1, 2018?",
+    "materials": null,
+    "openA": "0 shots on target",
+    "closeA": "O3",
+    "O1": "2 shots on target",
+    "O2": "1 shot on target",
+    "O3": "0 shots on target",
+    "O4": "3 shots on target"
+  },
+  {
+    "Q": "Which formation did Club Brugge use against FC Porto in their 0-4 defeat at Jan Breydel Stadion?",
+    "materials": null,
+    "openA": "Club Brugge used a 4-3-3 formation.",
+    "closeA": "O3",
+    "O1": "4-4-2",
+    "O2": "3-5-2",
+    "O3": "4-3-3",
+    "O4": "5-3-2"
+  },
+  {
+    "Q": "How many spectators attended the Eintracht Frankfurt vs. Hoffenheim game at Deutsche Bank Park on March 2, 2019?",
+    "materials": null,
+    "openA": "49,500.",
+    "closeA": "O3",
+    "O1": "42,300",
+    "O2": "51,200",
+    "O3": "49,500",
+    "O4": "47,800"
+  },
+  {
+    "Q": "What was the attendance at Estadio El Sadar when Osasuna hosted Real Madrid on February 11, 2017?",
+    "materials": null,
+    "openA": "The attendance was 17,770 spectators.",
+    "closeA": "O3",
+    "O1": "19,450 spectators",
+    "O2": "15,230 spectators",
+    "O3": "17,770 spectators",
+    "O4": "18,560 spectators"
+  },
+  {
+    "Q": "What formation did Carlo Ancelotti's Napoli use against Liverpool in their 2-0 Champions League victory?",
+    "materials": null,
+    "openA": "4-4-2 formation.",
+    "closeA": "O3",
+    "O1": "4-3-3 formation",
+    "O2": "3-5-2 formation",
+    "O3": "4-4-2 formation",
+    "O4": "4-2-3-1 formation"
+  },
+  {
+    "Q": "What was the scoreline and goal scorer in the Manchester City vs Leicester City Premier League match on May 6, 2019?",
+    "materials": null,
+    "openA": "1-0 to Manchester City, goal scored by Vincent Kompany.",
+    "closeA": "O3",
+    "O1": "2-1 to Manchester City, goals scored by Sergio Agüero and Raheem Sterling",
+    "O2": "1-1 draw, goals scored by Jamie Vardy and Kevin De Bruyne",
+    "O3": "1-0 to Manchester City, goal scored by Vincent Kompany",
+    "O4": "2-0 to Leicester City, goals scored by James Maddison and Youri Tielemans"
+  },
+  {
+    "Q": "What was Leroy Sané's rating in Manchester City's 4-0 away win against West Ham during the 2018-19 Premier League season?",
+    "materials": null,
+    "openA": "Leroy Sané received a 9.7 rating.",
+    "closeA": "O3",
+    "O1": "8.4",
+    "O2": "7.9",
+    "O3": "9.7",
+    "O4": "8.8"
+  },
+  {
+    "Q": "How many corner kicks did AS Roma take during their 4-0 victory over Crotone in Serie A 2016-2017?",
+    "materials": null,
+    "openA": "AS Roma took 8 corner kicks.",
+    "closeA": "O2",
+    "O1": "5",
+    "O2": "8",
+    "O3": "11",
+    "O4": "3"
+  },
+  {
+    "Q": "Which Crystal Palace player received the highest rating in their 2-3 loss to Manchester United?",
+    "materials": null,
+    "openA": "Christian Benteke received the highest rating (8.8) for Crystal Palace.",
+    "closeA": "O3",
+    "O1": "Wilfried Zaha received the highest rating (8.5) for Crystal Palace.",
+    "O2": "Vicente Guaita received the highest rating (8.2) for Crystal Palace.",
+    "O3": "Christian Benteke received the highest rating (8.8) for Crystal Palace.",
+    "O4": "Conor Gallagher received the highest rating (8.1) for Crystal Palace."
+  },
+  {
+    "Q": "What time did the Crotone vs. Juventus Serie A match kick off on April 18, 2018?",
+    "materials": null,
+    "openA": "The match started at 02:45:00 local time.",
+    "closeA": "O3",
+    "O1": "20:45:00",
+    "O2": "18:30:00",
+    "O3": "02:45:00",
+    "O4": "15:00:00"
+  },
+  {
+    "Q": "Which unusual formation did Barcelona use in their historic 6-1 comeback against Paris SG?",
+    "materials": null,
+    "openA": "Barcelona deployed a 3-3-1-3 formation.",
+    "closeA": "O3",
+    "O1": "4-2-3-1",
+    "O2": "3-4-2-1",
+    "O3": "3-3-1-3",
+    "O4": "4-1-4-1"
+  }
+]

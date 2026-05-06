@@ -1,0 +1,48 @@
+{
+    "VENUE": "RZD Arena",
+    "CITY": "Moscow",
+    "TEAM": "Lokomotiv Moscow",
+    "CAPACITY": 27084,
+    "VENUE_URL": "https://wikipedia.org/wiki/Lokomotiv_Stadium_(Moscow)",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lokomotiv-stadium.jpg/120px-Lokomotiv-stadium.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "RussianRailways",
+            "Surface": "Grass",
+            "Capacity": "27,320[4]",
+            "Location": "Moscow,Russia",
+            "Operator": "LokomotivMoscow",
+            "Field size": "104m×68m",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}55°48′13″N37°44′28″E﻿/﻿55.80361°N37.74111°E﻿/55.80361;37.74111",
+            "Former names": "Stalinets,Lokomotiv",
+            "Public transit": "CherkizovskayaLokomotiv"
+        },
+        "Tenants": {},
+        "Website": {},
+        "Construction": {
+            "Opened": "5July2002",
+            "Architect": "DmitryBush",
+            "Broke ground": "2000",
+            "Construction cost": "$150–170 million[2][3]"
+        }
+    },
+    "CONTENT": {
+        "History": "In 1935, at the site where the Lokomotiv Stadium resides today, an electric workers union decided to build a stadium which was named \"Stalinets\" or \"Stalinist Stadium\". At the time, Stalinets held about 30,000 spectators.After holding several matches, Stalinets was demolished to make way for a more modern stadium. Thus, Lokomotiv stadium was built. It was opened on 17 August 1966 with a capacity of 30,000 people. However, in the mid-1990s the capacity of the stadium was reduced by 6,000 to 24,000, as the wooden benches were replaced by plastic seats.The inaugural match played at Lokomotiv Stadium was between Lokomotiv Moscow and Dynamo Kiev. As years rolled on, Lokomotiv held several important matches such as Russian National team home matches, Lokomotiv matches and others. The stadium also played host to a European Cup Qualifier between FC Spartak Moscow and Swiss club FC Sion. The match finished 2-2; however, the Swiss club then had UEFA to measure the posts for compliance with international standards. Indeed, the size of the posts were shown to infringe international standards. Eventually, UEFA ordered a replay, which Spartak won 5-1.The Lokomotiv Moscow board felt that a new stadium would be the best option. The construction was backed by the Russian Transport Ministry. The new stadium held its first match on July 5, 2002.On 5 August 2017, Lokomotiv announced that the stadium has been renamed to RZD Arena following a deal with Russian Railways.",
+        "Concerts": "Depeche Mode performed at the stadium on 22 June 2013 during their Delta Machine Tour.",
+        "See also": "List of football stadiums in RussiaList of European stadia by capacity",
+        "References": {},
+        "Description": "Lokomotiv was designed solely for football matches and thus has no running tracks. In all the stadium holds 30,000 people. Moreover, beside the stadium one can find the Minor Sports Arena Lokomotiv.",
+        "External links": "RZD Arena(in Russian) Article about the stadium"
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/74/Lokomotiv-stadium.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lokomotiv_Stadium.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Moskwa_Metro_Line_1.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/57/Moskwa_Metro_Line_14.svg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/2/27/LOKOSTADIUMPLAN.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+        "https://upload.wikimedia.org/wikipedia/en/e/ec/Soccer_ball.svg"
+    ],
+    "SUMMARY": "RZD Arena (Russian: «РЖД Арена») is a football stadium in Moscow, Russia. Formerly known as Lokomotiv Stadium, it is the home stadium of Lokomotiv Moscow and was the home ground of the Russian national team for the 2010 FIFA World Cup qualification matches.  The stadium was reconstructed in 2002 and holds 27,084 people, all seated. The reconstruction of the stadium was funded by the Russian Transportation Ministry at a cost of $150–170 million.\n\n"
+}

@@ -1,0 +1,31 @@
+{
+    "VENUE": "Stadio Mario Rigamonti",
+    "CITY": "Brescia",
+    "TEAM": "Brescia",
+    "CAPACITY": 19500,
+    "VENUE_URL": "https://wikipedia.org/wiki/Stadio_Mario_Rigamonti",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_Mario_Rigamonti_stadium_in_2020.jpg/120px-The_Mario_Rigamonti_stadium_in_2020.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "MunicipalityofBrescia",
+            "Opened": "1959",
+            "Surface": "Grass",
+            "Capacity": "19,500[1]",
+            "Location": "Brescia,Italy",
+            "Field size": "105 m× 68 m(344 ft× 223 ft)"
+        },
+        "Tenants": {}
+    },
+    "CONTENT": {
+        "Gallery": {},
+        "References": {}
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a3/Colosseum-2003-07-09.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stadio_Brescia_dalla_curva_sud_%282024%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fc/Stadio_Rigamonti_with_rainbow_%282015%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg"
+    ],
+    "SUMMARY": "Stadio Mario Rigamonti is a football stadium located in Brescia, Italy. It is currently the home of Brescia Calcio.\nIt is dedicated to Mario Rigamonti, a defender of the Grande Torino, born in Brescia, who died in the Superga air disaster in May 1949."
+}

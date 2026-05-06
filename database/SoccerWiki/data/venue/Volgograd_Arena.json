@@ -1,0 +1,51 @@
+{
+    "VENUE": "Volgograd Arena",
+    "CITY": "Volgograd",
+    "TEAM": null,
+    "CAPACITY": 43713,
+    "VENUE_URL": "https://wikipedia.org/wiki/Volgograd_Arena",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Volgograd_arena_aerial_view_1.jpg/180px-Volgograd_arena_aerial_view_1.jpg",
+    "INFOBOX": {
+        "": {
+            "Surface": "DessoGrassMaster",
+            "Capacity": "45,568(Official)43,713(2018FIFAWorldCup)[1]",
+            "Location": "LeninaAve76,Volgograd,Russia",
+            "Full name": "VolgogradArena",
+            "Field size": "105by68 m(344by223 ft)",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}48°44′04″N44°32′55″E﻿/﻿48.73444°N44.54861°E﻿/48.73444;44.54861"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Built": "2014–2017",
+            "Opened": "2018",
+            "Broke ground": "2014",
+            "Construction cost": "₽16.3billion(€220million)"
+        }
+    },
+    "CONTENT": {
+        "History": "The stadium was built on site of the demolished Central Stadium, at the foot of the Mamayev Kurgan memorial complex, near the Volga River. The previous stadium was built in 1958, on the site of a former oil depot. This area was undeveloped, occupied by randomly distributed low-value buildings, warehouses, barracks and ravines. During construction of the stadium, 300 unexploded bombs were discovered and removed from the site.",
+        "Security": "By the opening of the 2018 FIFA World Cup, the stadium was equipped with alarm and public alert systems, metal detectors, indicators of hazardous liquids and explosives, and the facility was serviced by 30 posts of 24-hour security posts.",
+        "References": {},
+        "External links": {},
+        "World Cup 2018": "The Arena was designed by PI Arena and GMP Architekten, the winner of an open tender. Stroytransgaz was the project's general construction contractor.Initially, local authorities estimated the total project cost, including the construction works, at 10 billion rubles. In October 2014, the preliminary construction cost of the stadium for the 2018 FIFA World Cup was adjusted to 17 billion rubles.The stadium's capacity is at 45,000 seats, including 2,280 seats in the media box, 640 seats in the VIP box, and 460 seats for people with limited mobility.A special architectural feature of the stadium is its large roof resting on a cable frame, arranged in a “bicycle wheel” pattern created by steel-wire cables. The Volgograd Arena is shaped like an overturned truncated cone 49.5 m tall and about 303 m in diameter. The façade shape is dictated by the need to fit the building compactly into the available piece of land.The stadium has 42 elevators, 24 of them adapted for people with disabilities. The Volgograd Arena is equipped with a sound system.The stadium was inaugurated on April 3, 2018, shortly before the first FIFA World Cup match on April 21, 2018.Football veterans, among them Alexander Nikitin and Valery Yesipov, were honored in an honoring ceremony before the first match.",
+        "2018 FIFA World Cup": {},
+        "After 2018 FIFA World Cup": "After the 2018 FIFA World Cup in Russia, the Arena reduced its seating capacity to 43,000 and  was handed over to the local Rotor Volgograd."
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/23/FWC_2018_-_Group_D_-_NGA_v_ISL_-_Stadium_Panorama.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/25/Scale_model_of_Volgograd_Arena_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Star_full.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/87/Volgograd._Stadium_P8060424_2200.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/Volgograd_arena_aerial_view_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+        "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg"
+    ],
+    "SUMMARY": "The Volgograd Arena (Russian: «Волгоград Арена») is a football stadium in Volgograd, Russia. The stadium was one of the venues for the 2018 FIFA World Cup. It also hosts FC Rotor Volgograd. It has a capacity of 45,568 spectators."
+}

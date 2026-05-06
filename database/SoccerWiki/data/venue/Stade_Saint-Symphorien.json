@@ -1,0 +1,32 @@
+{
+    "VENUE": "Stade Saint-Symphorien",
+    "CITY": "Metz",
+    "TEAM": "Metz",
+    "CAPACITY": 28786,
+    "VENUE_URL": "https://wikipedia.org/wiki/Stade_Saint-Symphorien",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tribune_Ouest_Saint_Symphorien.jpg/120px-Tribune_Ouest_Saint_Symphorien.jpg",
+    "INFOBOX": {
+        "": {
+            "Surface": "AirFibr[1](hybridgrass)",
+            "Capacity": "30,000",
+            "Location": "Longeville-lès-Metz,France",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}49°06′35″N6°09′34″E﻿/﻿49.109813°N6.159511°E﻿/49.109813;6.159511"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "11September1923",
+            "Renovated": "2001,2019–"
+        }
+    },
+    "CONTENT": {
+        "References": {}
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b6/Stade_Saint-Symphorien%2C_Metz_%2814219545488%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Sports_and_games.png"
+    ],
+    "SUMMARY": "Stade Municipal Saint-Symphorien is a multi-purpose stadium located on the \"island Saint-Symphorien\" in Longeville-lès-Metz, near Metz, France.  It is currently used mostly for football matches, by  Ligue 2 club FC Metz. The stadium is able to hold 30,000 people and was built in 1923."
+}

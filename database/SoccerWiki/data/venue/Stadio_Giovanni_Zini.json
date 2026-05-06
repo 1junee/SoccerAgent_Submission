@@ -1,0 +1,33 @@
+{
+    "VENUE": "Stadio Giovanni Zini",
+    "CITY": "Cremona",
+    "TEAM": "Cremonese",
+    "CAPACITY": 20641,
+    "VENUE_URL": "https://wikipedia.org/wiki/Stadio_Giovanni_Zini",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Stadio_Zini_2019_09_21.jpg/150px-Stadio_Zini_2019_09_21.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "Cremonese",
+            "Surface": "Grass105x68m",
+            "Capacity": "14,834",
+            "Location": "Cremona,Italy",
+            "Former names": "CampodiviaPersicoCampoPolisportivoCampoPolisportivoRobertoFarinacci"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "2 November1919;105yearsago (1919-11-02)",
+            "Renovated": "1929,1977,1983–86,2017–19,2022"
+        }
+    },
+    "CONTENT": {
+        "History": "The stadium was named after Giovanni Zini, a goalkeeper of U.S. Cremonese who died during the World War I.On 16 November 2013, it hosted Italy's end-of-year rugby union international against Fiji. Italy won 37–31.The stadium hosted the 2015 World Rugby Under 20 Championship including its final.Stadium's 2017–19 renovation converted it into an all-seater stadium, reducing capacity from 20,641 to 16,003. Further works were done before the 2022–23 Serie A season to comply with the competitions and also with an intention to further restore the pre-1929 design parts. This has led to a further reduction of capacity by 1,169 seats to a total of 14,834 places.",
+        "References": {}
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a3/Colosseum-2003-07-09.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e4/Stadio_Zini_2019_09_21.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1c/Wiki_letter_w_cropped.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg"
+    ],
+    "SUMMARY": "Stadio Giovanni Zini is a football stadium in Cremona, Italy. It is currently the home of U.S. Cremonese. The stadium was built in 1919 and has capacity for 14,834 people.\n\n"
+}

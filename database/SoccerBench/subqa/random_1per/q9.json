@@ -1,0 +1,74 @@
+[
+  {
+    "Q": "There are five video clips in total. The first clip is a replay. Which of the other four clips is the one it is replaying?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/replay/europe_uefa-champions-league/2014-2015/2015-05-05 - 21-45 Juventus 2 - 1 Real Madrid/replay/1_512.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/europe_uefa-champions-league/2014-2015/2015-05-05 - 21-45 Juventus 2 - 1 Real Madrid/action/2_37_3.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/europe_uefa-champions-league/2014-2015/2015-05-05 - 21-45 Juventus 2 - 1 Real Madrid/action/1_7_52.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/europe_uefa-champions-league/2014-2015/2015-05-05 - 21-45 Juventus 2 - 1 Real Madrid/action/2_19_24.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/europe_uefa-champions-league/2014-2015/2015-05-05 - 21-45 Juventus 2 - 1 Real Madrid/action/2_35_29.mp4"
+    ],
+    "openA": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/europe_uefa-champions-league/2014-2015/2015-05-05 - 21-45 Juventus 2 - 1 Real Madrid/action/1_7_52.mp4"
+    ],
+    "closeA": "O2",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "Q": "You have five video clips. The first one is a replay. Identify which of the next four clips is the one being replayed.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/replay/england_epl/2015-2016/2015-08-30 - 18-00 Swansea 2 - 1 Manchester United/replay/1_1625.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/england_epl/2015-2016/2015-08-30 - 18-00 Swansea 2 - 1 Manchester United/action/1_0_14.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/england_epl/2015-2016/2015-08-30 - 18-00 Swansea 2 - 1 Manchester United/action/2_28_58.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/england_epl/2015-2016/2015-08-30 - 18-00 Swansea 2 - 1 Manchester United/action/1_26_40.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/england_epl/2015-2016/2015-08-30 - 18-00 Swansea 2 - 1 Manchester United/action/1_17_18.mp4"
+    ],
+    "openA": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/england_epl/2015-2016/2015-08-30 - 18-00 Swansea 2 - 1 Manchester United/action/1_26_40.mp4"
+    ],
+    "closeA": "O3",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "Q": "You are given five clips, with the first one being a replay. Which of the following four clips corresponds to the replay?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/replay/europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/replay/1_2546.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/action/1_21_28.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/action/1_41_50.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/action/1_23_20.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/action/2_42_22.mp4"
+    ],
+    "openA": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/action/1_41_50.mp4"
+    ],
+    "closeA": "O2",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "Q": "In the set of five video clips, the first clip is a replay. Identify which of the remaining four clips it replays.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/replay/spain_laliga/2015-2016/2016-01-03 - 22-30 Valencia 2 - 2 Real Madrid/replay/1_1002.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/spain_laliga/2015-2016/2016-01-03 - 22-30 Valencia 2 - 2 Real Madrid/action/1_17_42.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/spain_laliga/2015-2016/2016-01-03 - 22-30 Valencia 2 - 2 Real Madrid/action/1_33_2.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/spain_laliga/2015-2016/2016-01-03 - 22-30 Valencia 2 - 2 Real Madrid/action/1_41_3.mp4",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/spain_laliga/2015-2016/2016-01-03 - 22-30 Valencia 2 - 2 Real Madrid/action/1_15_54.mp4"
+    ],
+    "openA": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q9/action/spain_laliga/2015-2016/2016-01-03 - 22-30 Valencia 2 - 2 Real Madrid/action/1_15_54.mp4"
+    ],
+    "closeA": "O4",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "id": 48,
+    "Q": "You are given five video clips, with the first being a replay. Your task is to identify the clip being replayed from the next four.",
+    "materials": [
+      "materials/q9/replay/28.mp4",
+      "materials/q9/action/28/1.mp4",
+      "materials/q9/action/28/2.mp4",
+      "materials/q9/action/28/3.mp4",
+      "materials/q9/action/28/4.mp4"
+    ],
+    "openA": "The 4th one.",
+    "closeA": "O4",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 88,
+    "Q": "You are given five clips, with the first one being a replay. Which of the following four clips corresponds to the replay?",
+    "materials": [
+      "materials/q9/replay/14.mp4",
+      "materials/q9/action/14/1.mp4",
+      "materials/q9/action/14/2.mp4",
+      "materials/q9/action/14/3.mp4",
+      "materials/q9/action/14/4.mp4"
+    ],
+    "openA": "The 3rd one.",
+    "closeA": "O3",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 94,
+    "Q": "Out of the five video clips provided, the first is a replay. Can you determine which one of the following four clips is being replayed?",
+    "materials": [
+      "materials/q9/replay/23.mp4",
+      "materials/q9/action/23/1.mp4",
+      "materials/q9/action/23/2.mp4",
+      "materials/q9/action/23/3.mp4",
+      "materials/q9/action/23/4.mp4"
+    ],
+    "openA": "The 2nd one.",
+    "closeA": "O2",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 105,
+    "Q": "The first video clip in the list is a replay. Please determine which of the next four clips is the one being played again.",
+    "materials": [
+      "materials/q9/replay/11.mp4",
+      "materials/q9/action/11/1.mp4",
+      "materials/q9/action/11/2.mp4",
+      "materials/q9/action/11/3.mp4",
+      "materials/q9/action/11/4.mp4"
+    ],
+    "openA": "The 4th one.",
+    "closeA": "O4",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 133,
+    "Q": "Among the five video clips provided, the first one is a replay. Can you figure out which of the following four clips is the original?",
+    "materials": [
+      "materials/q9/replay/15.mp4",
+      "materials/q9/action/15/1.mp4",
+      "materials/q9/action/15/2.mp4",
+      "materials/q9/action/15/3.mp4",
+      "materials/q9/action/15/4.mp4"
+    ],
+    "openA": "The 4th one.",
+    "closeA": "O4",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 157,
+    "Q": "You are given five video clips, with the first being a replay. Your task is to identify the clip being replayed from the next four.",
+    "materials": [
+      "materials/q9/replay/9.mp4",
+      "materials/q9/action/9/1.mp4",
+      "materials/q9/action/9/2.mp4",
+      "materials/q9/action/9/3.mp4",
+      "materials/q9/action/9/4.mp4"
+    ],
+    "openA": "The 4th one.",
+    "closeA": "O4",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 175,
+    "Q": "You are provided with five video clips, the first of which is a replay clip. Please determine which of the following four video clips it is a replay of?",
+    "materials": [
+      "materials/q9/replay/37.mp4",
+      "materials/q9/action/37/1.mp4",
+      "materials/q9/action/37/2.mp4",
+      "materials/q9/action/37/3.mp4",
+      "materials/q9/action/37/4.mp4"
+    ],
+    "openA": "The 3rd one.",
+    "closeA": "O3",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 185,
+    "Q": "You are given five clips, with the first one being a replay. Which of the following four clips corresponds to the replay?",
+    "materials": [
+      "materials/q9/replay/30.mp4",
+      "materials/q9/action/30/1.mp4",
+      "materials/q9/action/30/2.mp4",
+      "materials/q9/action/30/3.mp4",
+      "materials/q9/action/30/4.mp4"
+    ],
+    "openA": "The 3rd one.",
+    "closeA": "O3",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 253,
+    "Q": "The first video clip is a replay. From the remaining four clips, please choose which one is being replayed.",
+    "materials": [
+      "materials/q9/replay/22.mp4",
+      "materials/q9/action/22/1.mp4",
+      "materials/q9/action/22/2.mp4",
+      "materials/q9/action/22/3.mp4",
+      "materials/q9/action/22/4.mp4"
+    ],
+    "openA": "The 2nd one.",
+    "closeA": "O2",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 256,
+    "Q": "You are provided with five video clips, the first of which is a replay clip. Please determine which of the following four video clips it is a replay of?",
+    "materials": [
+      "materials/q9/replay/34.mp4",
+      "materials/q9/action/34/1.mp4",
+      "materials/q9/action/34/2.mp4",
+      "materials/q9/action/34/3.mp4",
+      "materials/q9/action/34/4.mp4"
+    ],
+    "openA": "The 4th one.",
+    "closeA": "O4",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 259,
+    "Q": "In the set of five video clips, the first clip is a replay. Identify which of the remaining four clips it replays.",
+    "materials": [
+      "materials/q9/replay/10.mp4",
+      "materials/q9/action/10/1.mp4",
+      "materials/q9/action/10/2.mp4",
+      "materials/q9/action/10/3.mp4",
+      "materials/q9/action/10/4.mp4"
+    ],
+    "openA": "The 2nd one.",
+    "closeA": "O2",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 293,
+    "Q": "Out of the five video clips provided, the first is a replay. Can you determine which one of the following four clips is being replayed?",
+    "materials": [
+      "materials/q9/replay/40.mp4",
+      "materials/q9/action/40/1.mp4",
+      "materials/q9/action/40/2.mp4",
+      "materials/q9/action/40/3.mp4",
+      "materials/q9/action/40/4.mp4"
+    ],
+    "openA": "The 2nd one.",
+    "closeA": "O2",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 297,
+    "Q": "Out of the five video clips provided, the first is a replay. Can you determine which one of the following four clips is being replayed?",
+    "materials": [
+      "materials/q9/replay/17.mp4",
+      "materials/q9/action/17/1.mp4",
+      "materials/q9/action/17/2.mp4",
+      "materials/q9/action/17/3.mp4",
+      "materials/q9/action/17/4.mp4"
+    ],
+    "openA": "The 2nd one.",
+    "closeA": "O2",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 309,
+    "Q": "In the set of five video clips, the first clip is a replay. Identify which of the remaining four clips it replays.",
+    "materials": [
+      "materials/q9/replay/25.mp4",
+      "materials/q9/action/25/1.mp4",
+      "materials/q9/action/25/2.mp4",
+      "materials/q9/action/25/3.mp4",
+      "materials/q9/action/25/4.mp4"
+    ],
+    "openA": "The 4th one.",
+    "closeA": "O4",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 359,
+    "Q": "From the five video clips given, the first one is a replay. Your job is to select which of the next four clips it is a replay of.",
+    "materials": [
+      "materials/q9/replay/27.mp4",
+      "materials/q9/action/27/1.mp4",
+      "materials/q9/action/27/2.mp4",
+      "materials/q9/action/27/3.mp4",
+      "materials/q9/action/27/4.mp4"
+    ],
+    "openA": "The 1st one.",
+    "closeA": "O1",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 392,
+    "Q": "You are provided with five video clips, the first of which is a replay clip. Please determine which of the following four video clips it is a replay of?",
+    "materials": [
+      "materials/q9/replay/8.mp4",
+      "materials/q9/action/8/1.mp4",
+      "materials/q9/action/8/2.mp4",
+      "materials/q9/action/8/3.mp4",
+      "materials/q9/action/8/4.mp4"
+    ],
+    "openA": "The 3rd one.",
+    "closeA": "O3",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 395,
+    "Q": "In the set of five video clips, the first clip is a replay. Identify which of the remaining four clips it replays.",
+    "materials": [
+      "materials/q9/replay/4.mp4",
+      "materials/q9/action/4/1.mp4",
+      "materials/q9/action/4/2.mp4",
+      "materials/q9/action/4/3.mp4",
+      "materials/q9/action/4/4.mp4"
+    ],
+    "openA": "The 4th one.",
+    "closeA": "O4",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 432,
+    "Q": "The first video clip is a replay. From the remaining four clips, please choose which one is being replayed.",
+    "materials": [
+      "materials/q9/replay/38.mp4",
+      "materials/q9/action/38/1.mp4",
+      "materials/q9/action/38/2.mp4",
+      "materials/q9/action/38/3.mp4",
+      "materials/q9/action/38/4.mp4"
+    ],
+    "openA": "The 2nd one.",
+    "closeA": "O2",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 459,
+    "Q": "You are given five clips, with the first one being a replay. Which of the following four clips corresponds to the replay?",
+    "materials": [
+      "materials/q9/replay/29.mp4",
+      "materials/q9/action/29/1.mp4",
+      "materials/q9/action/29/2.mp4",
+      "materials/q9/action/29/3.mp4",
+      "materials/q9/action/29/4.mp4"
+    ],
+    "openA": "The 3rd one.",
+    "closeA": "O3",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 498,
+    "Q": "In the set of five video clips, the first clip is a replay. Identify which of the remaining four clips it replays.",
+    "materials": [
+      "materials/q9/replay/26.mp4",
+      "materials/q9/action/26/1.mp4",
+      "materials/q9/action/26/2.mp4",
+      "materials/q9/action/26/3.mp4",
+      "materials/q9/action/26/4.mp4"
+    ],
+    "openA": "The 4th one.",
+    "closeA": "O4",
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  }
+]

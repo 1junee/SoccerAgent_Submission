@@ -1,0 +1,30 @@
+{
+    "DETECTED_NAME": "Paolo Valeri",
+    "REFEREE_URL": "https://wikipedia.org/wiki/Paolo_Valeri",
+    "REFEREE_IMAGE_URL": null,
+    "INFOBOX": {
+        "": {
+            "Born": "(1978-05-16)16May1978(age 46)Rome,Italy[1]"
+        },
+        "Domestic": {
+            "Years": "League    Role",
+            "2007–": "SerieA    Referee",
+            "2007–2010": "SerieB    Referee"
+        },
+        "International": {
+            "Years": "League    Role",
+            "2011–": "FIFAlisted    Referee"
+        }
+    },
+    "CONTENT": {
+        "References": {}
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/46/Paolo_wik.1.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2e/Whistle_icon.svg",
+        "https://upload.wikimedia.org/wikipedia/en/b/b4/Ambox_important.svg",
+        "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4e/Soccerball_mask.svg"
+    ],
+    "SUMMARY": "Paolo Valeri (born 16 May 1978) is an Italian football referee, appointed by FIFA as an international referee on 1 January 2011."
+}

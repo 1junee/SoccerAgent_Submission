@@ -1,0 +1,35 @@
+{
+    "FULL_NAME": "Gauthier Gallon",
+    "UNICODE": "vkDxNkmn",
+    "PLAYER_URL": "https://wikipedia.org/wiki/Gauthier_Gallon",
+    "PLAYER_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Lens_-_Troyes_%2804-02-2020%29_53_%28cropped%29.jpg/150px-Lens_-_Troyes_%2804-02-2020%29_53_%28cropped%29.jpg",
+    "INFOBOX": {
+        "Senior career*": {
+            "Years": "Team    Apps    (Gls)",
+            "2023–": "Rennes    0    (0)",
+            "2012–2017": "NîmesB    41    (0)",
+            "2014–2017": "Nîmes    17    (0)",
+            "2017–2019": "Orléans    66    (0)",
+            "2019–2023": "Troyes    124    (0)"
+        },
+        "Team information": {
+            "Number": "1",
+            "Current team": "Rennes"
+        },
+        "Personal information": {
+            "Height": "1.86 m(6 ft1 in)",
+            "Position(s)": "Goalkeeper",
+            "Date of birth": "(1993-04-23)23April1993(age 31)",
+            "Place of birth": "Nice,France"
+        }
+    },
+    "CONTENT": {
+        "References": {}
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lens_-_Troyes_%2804-02-2020%29_53_%28cropped%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4e/Soccerball_mask.svg"
+    ],
+    "SUMMARY": "Gauthier Gallon (born 23 April 1993) is a French professional footballer who plays as a goalkeeper for Ligue 1 club Rennes."
+}

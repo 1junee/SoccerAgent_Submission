@@ -1,0 +1,35 @@
+{
+    "VENUE": "Bolt Arena",
+    "CITY": "Helsinki",
+    "TEAM": "HJK",
+    "CAPACITY": 10770,
+    "VENUE_URL": "https://wikipedia.org/wiki/Bolt_Arena",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Finnair_Stadium_Helsinki.JPG/120px-Finnair_Stadium_Helsinki.JPG",
+    "INFOBOX": {
+        "": {
+            "Owner": "CityofHelsinki",
+            "Surface": "Artificialturf",
+            "Capacity": "10,770",
+            "Location": "Töölö,Helsinki,Finland",
+            "Full name": "BoltArena",
+            "Field size": "105×68 m",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}60°11′15″N024°55′21″E﻿/﻿60.18750°N24.92250°E﻿/60.18750;24.92250"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Built": "1999–2000",
+            "Opened": "2000"
+        }
+    },
+    "CONTENT": {
+        "History": "The stadium was inaugurated in 2000. It has a capacity of 10,770 spectators. Originally the ground had a natural grass pitch, but it was soon replaced with an artificial one because the grass couldn't get enough sun light. Since then the stadium has seen numerous artificial playing surfaces that have been gradually replaced. The most recent artificial pitch was installed in April 2015.The ground is located next to the Helsinki Olympic Stadium.It is the home stadium of HJK. It hosted the 2003 FIFA U-17 World Championship as Töölö Stadium.The stadium was named as one of the stadiums that host the 2009 UEFA Women's Championship. For that tournament, the artificial turf covering the field was temporarily replaced with grass.In the 2016 domestic league season, tenants HJK Helsinki drew the highest average home attendance (5,101).On 15 November 2019, Finland national football team managed to qualify to the first major tournament, UEFA Euro 2020, in their history after defeating Liechtenstein 3–0 at this stadium.",
+        "References": "1952 Summer Olympics official report. pp. 62–3.5gareena.fi Official website. Accessed 8 August 2017. (in Finnish)",
+        "External links": "Media related to Bolt Arena at Wikimedia Commons",
+        "The specifications of the stadium": "Field size: 105 × 68 metres (UEFA recommendation)Floodlights: 1500 luxCapacity of 10,770 spectators, all stands are coveredA warming system under the pitchdiscussion about expanding to 25,000 seats"
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d0/Finnair_Stadium_Helsinki.JPG",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg"
+    ],
+    "SUMMARY": "The Bolt Arena (named Telia 5G -areena until January 2020, named Sonera Stadium until April 2017, and Finnair Stadium until August 2010; also known as Töölön jalkapallostadion, \"Töölö football stadium\") is a football stadium in Helsinki, Finland. It is named after the labour hire company Bolt.Works, and is the home stadium of Veikkausliiga club HJK Helsinki, temporarily also serving as home ground for IF Gnistan.\n\n"
+}

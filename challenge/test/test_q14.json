@@ -1,0 +1,198 @@
+[
+  {
+    "id": 4,
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.0x speed. Which action category does this foul belong to?",
+    "materials": [
+      "materials/q14/action_113/clip_0.mp4",
+      "materials/q14/action_113/clip_1.mp4"
+    ],
+    "openA": "Standing tackling",
+    "closeA": "O2",
+    "O1": "High leg",
+    "O2": "St. tackling",
+    "O3": "Holding",
+    "O4": "Dive"
+  },
+  {
+    "id": 113,
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed. Was the player's hand/arm involved in the foul?",
+    "materials": [
+      "materials/q14/action_32/clip_0.mp4",
+      "materials/q14/action_32/clip_1.mp4"
+    ],
+    "openA": "No handball",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "id": 168,
+    "Q": "4 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed, Main behind the goal lens at 2.0x speed, Close-up player or field referee lens at 2.6x speed. Was the foul during an offensive play?",
+    "materials": [
+      "materials/q14/action_243/clip_0.mp4",
+      "materials/q14/action_243/clip_1.mp4",
+      "materials/q14/action_243/clip_2.mp4",
+      "materials/q14/action_243/clip_3.mp4"
+    ],
+    "openA": "Offence",
+    "closeA": "O1",
+    "O1": "Offence",
+    "O2": "Between",
+    "O3": "No offence"
+  },
+  {
+    "id": 179,
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Where did the foul make contact on the body?",
+    "materials": [
+      "materials/q14/action_86/clip_0.mp4",
+      "materials/q14/action_86/clip_1.mp4"
+    ],
+    "openA": "Upper body",
+    "closeA": "O1",
+    "O1": "Upper body",
+    "O2": "Under body"
+  },
+  {
+    "id": 231,
+    "Q": "There are 3 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed, Close-up player or field referee lens at 1.6x speed. What's the classification of this foul action?",
+    "materials": [
+      "materials/q14/action_154/clip_0.mp4",
+      "materials/q14/action_154/clip_1.mp4",
+      "materials/q14/action_154/clip_2.mp4"
+    ],
+    "openA": "Challenge",
+    "closeA": "O1",
+    "O1": "Challenge",
+    "O2": "Tackling",
+    "O3": "Pushing",
+    "O4": "Dive"
+  },
+  {
+    "id": 240,
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.6x speed. Did the foul involve physical contact?",
+    "materials": [
+      "materials/q14/action_37/clip_0.mp4",
+      "materials/q14/action_37/clip_1.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O2",
+    "O1": "Without contact",
+    "O2": "With contact"
+  },
+  {
+    "id": 330,
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Which foul type is displayed in the videos?",
+    "materials": [
+      "materials/q14/action_140/clip_0.mp4",
+      "materials/q14/action_140/clip_1.mp4"
+    ],
+    "openA": "Elbowing",
+    "closeA": "O3",
+    "O1": "Tackling",
+    "O2": "St. tackling",
+    "O3": "Elbowing",
+    "O4": "Dive"
+  },
+  {
+    "id": 370,
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.4x speed. Which upper body area was the contact made?",
+    "materials": [
+      "materials/q14/action_226/clip_0.mp4",
+      "materials/q14/action_226/clip_1.mp4"
+    ],
+    "openA": "Use of shoulder",
+    "closeA": "O3",
+    "O1": "Shoulder",
+    "O2": "Arms",
+    "O3": "Use of shoulder"
+  },
+  {
+    "id": 373,
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed. Was there any contact during this offence?",
+    "materials": [
+      "materials/q14/action_68/clip_0.mp4",
+      "materials/q14/action_68/clip_1.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O2",
+    "O1": "Without contact",
+    "O2": "With contact"
+  },
+  {
+    "id": 390,
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.0x speed. Was this a handball-related offence?",
+    "materials": [
+      "materials/q14/action_269/clip_0.mp4",
+      "materials/q14/action_269/clip_1.mp4"
+    ],
+    "openA": "No handball",
+    "closeA": "O3",
+    "O1": "Yes",
+    "O2": "No",
+    "O3": "No handball"
+  },
+  {
+    "id": 407,
+    "Q": "There are 3 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.6x speed, Close-up player or field referee lens at 3.6x speed. Was there an effort to control the ball?",
+    "materials": [
+      "materials/q14/action_202/clip_0.mp4",
+      "materials/q14/action_202/clip_1.mp4",
+      "materials/q14/action_202/clip_2.mp4"
+    ],
+    "openA": "Yes",
+    "closeA": "O2",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "id": 413,
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Was there an attempt to play the ball?",
+    "materials": [
+      "materials/q14/action_24/clip_0.mp4",
+      "materials/q14/action_24/clip_1.mp4"
+    ],
+    "openA": "No",
+    "closeA": "O1",
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "id": 455,
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. Did the players collide in this foul?",
+    "materials": [
+      "materials/q14/action_273/clip_0.mp4",
+      "materials/q14/action_273/clip_1.mp4"
+    ],
+    "openA": "With contact",
+    "closeA": "O1",
+    "O1": "With contact",
+    "O2": "Without contact"
+  },
+  {
+    "id": 479,
+    "Q": "The foul has been recorded from 2 different perspectives: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.8x speed. What's the severity level of this offence?",
+    "materials": [
+      "materials/q14/action_105/clip_0.mp4",
+      "materials/q14/action_105/clip_1.mp4"
+    ],
+    "openA": "No card",
+    "closeA": "O1",
+    "O1": "No card",
+    "O2": "Yellow card or red card",
+    "O3": "Yellow card",
+    "O4": "No card or yellow card"
+  },
+  {
+    "id": 482,
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed. Was the foul committed during an offensive situation?",
+    "materials": [
+      "materials/q14/action_204/clip_0.mp4",
+      "materials/q14/action_204/clip_1.mp4"
+    ],
+    "openA": "Offence",
+    "closeA": "O3",
+    "O1": "No offence",
+    "O2": "Between",
+    "O3": "Offence"
+  }
+]

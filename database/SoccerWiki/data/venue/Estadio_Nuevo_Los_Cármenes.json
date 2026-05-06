@@ -1,0 +1,45 @@
+{
+    "VENUE": "Estadio Nuevo Los Cármenes",
+    "CITY": "Granada",
+    "TEAM": "Granada CF",
+    "CAPACITY": 22524,
+    "VENUE_URL": "https://wikipedia.org/wiki/Nuevo_Estadio_de_Los_C%C3%A1rmenes",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Estadio_Nuevo_Los_C%C3%A1rmenes.jpg/150px-Estadio_Nuevo_Los_C%C3%A1rmenes.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "AyuntamientodeGranada",
+            "Surface": "Grass",
+            "Capacity": "21,600[1]",
+            "Location": "CallePintorManuelMaldonado,s/n.18008-Granada,Spain",
+            "Full name": "NuevoEstadiodeLosCármenes",
+            "Field size": "105×68m",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}37°9′11″N3°35′45″W﻿/﻿37.15306°N3.59583°W﻿/37.15306;-3.59583"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Built": "1993–1995",
+            "Opened": "16May1995",
+            "Renovated": "2011"
+        }
+    },
+    "CONTENT": {
+        "Spain": "The Spain national team has played nine times in Granada (in both stadiums, Los Cármenes and Nuevo Los Cármenes), four of them were official. They are still undefeated in the city, with eight victories, the last against North Macedonia winning 4-0 in a 2018 World Cup qualifying match.",
+        "History": "The stadium opened on 16 May 1995.  On 6 June 1995, Real Madrid and Bayer Leverkusen contested the first match at the new stadium. Real Madrid won the match with a final score of 1:0. Peter Dubovský scored the goal.The first official match was an under-21 contest between Spain and Armenia. The final result was 4-0, with the goals scored by Óscar, Roberto, Morales and Raúl.Granada CF played the first match on 22 August during the celebration of the XXIII Granada Trophy when they beat Real Betis by a score of 4–1. After the promotion of Granada CF to La Liga in 2019, the stadium was renovated: there were improvements of lighting and pitch quality, aesthetic change in the stand and a new fan shop opening.",
+        "Location": "This stadium is located in Zaidín, a suburb south of the city of Granada. It is very well-connected with the Circunvalación highway and with Camino de Ronda, one of the more important streets of the city. It was constructed by the side of Palacio Municipal de Deportes de Granada.",
+        "References": {},
+        "External links": "Virtual TourEstadios de Espana (in English)World Stadiums Article"
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5e/Estadio_Nuevo_Los_C%C3%A1rmenes.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/97/Los_C%C3%A1rmenes_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Soccerball_shade.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Star_full.svg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg"
+    ],
+    "SUMMARY": "Nuevo Estadio de Los Cármenes ([esˈtaðjo ˈnweβo los ˈkaɾmenes]) is a multi-use stadium in Granada, Spain.  Currently, it is used mostly for football matches.  The stadium has a capacity of 21,600 and was built in 1995 to be the home ground of Granada CF, the main football club of the city.\n\n"
+}

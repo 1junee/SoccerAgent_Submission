@@ -1,0 +1,53 @@
+{
+    "VENUE": "Estadio de Gran Canaria",
+    "CITY": "Las Palmas",
+    "TEAM": "Las Palmas",
+    "CAPACITY": 32392,
+    "VENUE_URL": "https://wikipedia.org/wiki/Estadio_Gran_Canaria",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Estadio_Gran_Canaria.jpg/300px-Estadio_Gran_Canaria.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "CabildodeGranCanaria",
+            "Capacity": "32,392[1]",
+            "Location": "LasPalmas,Spain",
+            "Operator": "CabildodeGranCanaria",
+            "Field size": "105metres(115 yd)x68metres(74 yd)",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}28°06′01″N15°27′24″W﻿/﻿28.10028°N15.45667°W﻿/28.10028;-15.45667",
+            "Record attendance": "32,037(LasPalmasvsRealMadrid,27January2024)[2]"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "8May2003",
+            "Expanded": "2014–2016",
+            "Architect": "PedroMedinaGuillermoOrtegoCarretero"
+        }
+    },
+    "CONTENT": {
+        "History": "The stadium was inaugurated on 8 May 2003 with a friendly between UD Las Palmas and Anderlecht which was played in front of a full-capacity seats. The match ended 2–1 in favour of Las Palmas. The first scorer in the stadium was Rubén Castro.With a capacity of 32,400 seats, it is the 14th-largest stadium in Spain and the largest in the Canary Islands by terms of capacity (Although not the largest in terms of surface area of the pitch is concerned).From 11 November 2014, the stadium went under restructuring works which lasted for 16 months. After the remodelization, the running track was removed to turn the venue into a football-specific stadium, with the seats closer to the playing ground.The Island Government has approved funds to upgrade the stadium as it prepares to host matches for the FIFA World Cup in 2030 to over 40,000.",
+        "See also": "Estadio Insular",
+        "References": {},
+        "External links": "Estadios de Espana (in English)",
+        "Average attendances": {},
+        "International matches": {
+            "Spain national team matches": {}
+        }
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6b/Escudo_de_Gran_Canaria.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9e/Estadio_Gran_Canaria.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7b/Flag_of_Venezuela_%28state%29.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/87/Ic%C3%B4ne_Ile.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Municipios_y_zonas_de_Gran_Canaria.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e1/Vista_nocturna_del_EGC.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Wikivoyage-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Sports_and_games.png",
+        "https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg"
+    ],
+    "SUMMARY": "Estadio de Gran Canaria is a football stadium in Las Palmas, Canary Islands, Spain. It is currently used for football matches and is home to UD Las Palmas. It was opened in 2003 as a multi-purpose stadium to become the successor of the old Estadio Insular.\nIt was confirmed in July 2024 that the stadium will host matches in the 2030 FIFA World Cup.\n\n"
+}

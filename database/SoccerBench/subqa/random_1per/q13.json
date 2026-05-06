@@ -1,0 +1,86 @@
+[
+  {
+    "Q": "In the video showing a player receiving a yellow card, which color jersey is worn by the offending team?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/spain_laliga_2023-2024/2023-08-20_fc-barcelona-cadiz-cf-liga-1-division-2023-2024/1_50_19.mp4"
+    ],
+    "openA": "yellow",
+    "closeA": "O2",
+    "O1": "blue",
+    "O2": "yellow",
+    "O3": "navy",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video, which color jersey takes the free kick that gets cleared by the defense?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/italy_serie-a_2022-2023/2023-02-05_spezia-calcio-ssc-napoli-serie-a/1_25_10.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O4",
+    "O1": "red",
+    "O2": "teal",
+    "O3": "blue",
+    "O4": "white"
+  },
+  {
+    "Q": "In the video, which color jersey clears the ball from the penalty area?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2018-2019/2018-10-23_tsg-hoffenheim-olympique-lyonnais/1_36_00.mp4"
+    ],
+    "openA": "orange",
+    "closeA": "O2",
+    "O1": "indigo",
+    "O2": "orange",
+    "O3": "white",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video, which color jersey does the injured player wear?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/europe_champions-league_2018-2019/2018-08-14_afc-ajax-standard-de-liege/2_22_30.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O4",
+    "O1": "yellow",
+    "O2": "lavender",
+    "O3": "black",
+    "O4": "red"
+  },
+  {
+    "Q": "In the video showing a free kick being taken, which color jersey prepares to strike the ball?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2021-2022/2021-10-24_west-ham-united-tottenham-hotspur-premier-league-2021-2022/2_20_56.mp4"
+    ],
+    "openA": "red",
+    "closeA": "O3",
+    "O1": "teal",
+    "O2": "white",
+    "O3": "red",
+    "O4": "blue"
+  },
+  {
+    "Q": "In the video, which color jersey takes the one-on-one shot against the goalkeeper?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/england_epl_2021-2022/2021-12-19_tottenham-hotspur-liverpool-fc-premier-league-2021-2022/1_18_00.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O1",
+    "O1": "white",
+    "O2": "red",
+    "O3": "blue",
+    "O4": "silver"
+  },
+  {
+    "Q": "In the video, which color jersey takes the mid-range shot that misses wide right?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q13/SoccerReplay-1988/spain_laliga_2020-2021/2021-03-15_fc-barcelona-sd-huesca-liga-1-division/2_36_46.mp4"
+    ],
+    "openA": "white",
+    "closeA": "O1",
+    "O1": "white",
+    "O2": "red",
+    "O3": "blue",
+    "O4": "brown"
+  }
+]

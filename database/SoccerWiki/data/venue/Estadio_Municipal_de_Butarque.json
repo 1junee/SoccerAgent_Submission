@@ -1,0 +1,37 @@
+{
+    "VENUE": "Estadio Municipal de Butarque",
+    "CITY": "Leganes",
+    "TEAM": "Leganes",
+    "CAPACITY": 12454,
+    "VENUE_URL": "https://wikipedia.org/wiki/Estadio_Municipal_de_Butarque",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/TribunaButarque.jpg/120px-TribunaButarque.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "AyuntamientodeLeganés",
+            "Surface": "Grass",
+            "Capacity": "13,089[1]",
+            "Location": "Leganés,CommunityofMadrid,Spain",
+            "Operator": "AyuntamientodeLeganés",
+            "Full name": "EstadioMunicipaldeButarque",
+            "Field size": "105 m× 70 m(344 ft× 230 ft)",
+            "Record attendance": "12,338(Leganésv.RealMadridCF,24November2024)[2]"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Built": "1997–1998",
+            "Opened": "1998",
+            "Construction cost": "700mpesetas"
+        }
+    },
+    "CONTENT": {
+        "References": {},
+        "External links": "Stadiumguide profile (in English)CD Leganés profile on Futbolme (in Spanish)Estadios de España (in English)",
+        "History and characteristics": "The stadium shares its name (Butarque) with that of the main water stream passing through Leganés (Arroyo Butarque), with that of the patron saint of the municipality, and with that of a public park in the stadium's surroundings. The stadium was built between 1997 and 1998 with the aim to replace the old field in the city, the Estadio Luis Rodríguez de Miguel. Butarque was inaugurated on 14 February 1998, with a game between Leganés and Xerez.With an original capacity of 8,138, Butarque was expanded to 10,954 seats divided into four sectors after Leganés’ promotion to La Liga in 2016.On 29 April 2016, the mayor of Leganés suggested an expansion of Butarque to 12,000 seats and also access improvements to the stadium.With the next expansion, the stadium had a capacity of 12,454 spectators.  In 2024 some seats were added to reach a capacity of 13,089 spectators.Butarque, apart from football matches, has hosted musical concerts and festivals like Festimad."
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/98/CD_Legan%C3%A9s_2-0_Elche_CF_2024.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+    ],
+    "SUMMARY": "The Estadio Municipal de Butarque is a multi-use stadium located in Leganés, Spain. \nIt is currently used for football matches and is the home stadium of CD Leganés.\n\n"
+}

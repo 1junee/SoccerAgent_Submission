@@ -1,0 +1,55 @@
+{
+    "VENUE": "Kosicka futbalova arena",
+    "CITY": "Košice",
+    "TEAM": "Dnipro-1",
+    "CAPACITY": 5836,
+    "VENUE_URL": "https://wikipedia.org/wiki/Ko%C5%A1ick%C3%A1_futbalov%C3%A1_ar%C3%A9na",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/KFA_Kosicka_Futbalova_Arena.jpg/180px-KFA_Kosicka_Futbalova_Arena.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "CityofKošice",
+            "Surface": "Grass",
+            "Capacity": "12,555[3]",
+            "Location": "Priprachárni6,Košice,Slovakia",
+            "Operator": "KošickáFutbalováArénaa.s.",
+            "Field size": "105x68m",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}48°41′48″N21°14′42″E﻿/﻿48.69667°N21.24500°E﻿/48.69667;21.24500"
+        },
+        "Tenants": {},
+        "Website": {},
+        "Construction": {
+            "Opened": "2022",
+            "Expanded": "2023–2024",
+            "Architect": "HESCON[2]",
+            "Broke ground": "2018(firstphase)2023(secondphase)",
+            "Construction cost": "€22,42million[1](2020–2022)"
+        }
+    },
+    "CONTENT": {
+        "History": "The stadium replaced old stadium Všešportový areál, which was demolished in 2011. The construction is divided into three phases. First phase was started in 2018  and finished in 2021 with two stands and capacity 5,836 seats. The second and third phases, with another two stands, aimed to be finished in 2022 and would bring the total capacity of the ground to 12,658 and help it achieve UEFA's 4 stars standard. Construction cost €22,42 million. The city of Košice provided €13,5mil., Government of Slovakia provided the first €5mil. and an additional €4mil later.Ukrainian club Dnipro-1 played their five Europa League qualifying and Europa Conference League fixtures in KFA due to UEFA regulations related to the Russian invasion of Ukraine.",
+        "References": {},
+        "External links": "Stadium Database Article",
+        "Milestone matches": {},
+        "International matches": "KFA has hosted 1 competitive match of the Slovakia national team",
+        "Construction Image gallery": {}
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c2/KFA_Kosicka_Futbalova_Arena.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/99/KFA_poh%C4%BEad_z_boku.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b4/KFA_trib%C3%BAna_A.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/be/KFA_trib%C3%BAna_C.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a6/KFA_trib%C3%BAna_%E2%80%93_bo%C4%8Dn%C3%BD_poh%C4%BEad.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/KFA_z%C3%A1klady_pre_trib%C3%BAnu.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ko%C5%A1ick%C3%A1_futbalov%C3%A1_ar%C3%A9na_2022.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Soccerball_shade.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Star_full.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+        "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg"
+    ],
+    "SUMMARY": "Košická futbalová aréna (KFA) is a football stadium in Košice, Slovakia. It is the home ground of a local club FC Košice and has an all-seated capacity of 12,555.\n\n"
+}

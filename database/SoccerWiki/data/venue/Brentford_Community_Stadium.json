@@ -1,0 +1,51 @@
+{
+    "VENUE": "Brentford Community Stadium",
+    "CITY": "London",
+    "TEAM": "Brentford",
+    "CAPACITY": 17250,
+    "VENUE_URL": "https://wikipedia.org/wiki/Brentford_Community_Stadium",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Brentford_Community_Stadium_2020.jpg/150px-Brentford_Community_Stadium_2020.jpg",
+    "INFOBOX": {
+        "": {
+            "Surface": "DessoGrassmaster",
+            "Capacity": "17,250[4]",
+            "Location": "166LionelRoadNorth,Brentford,London,England",
+            "Operator": "BrentfordF.C.",
+            "Full name": "GtechCommunityStadium",
+            "Field size": "105x68m(associationfootball)110x66m(rugbyunion)",
+            "Public transit": "KewBridge",
+            "Record attendance": "17,201(BrentfordvsArsenal,25November2023)"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Built": "Spring2018–Summer2020",
+            "Opened": "1September2020",
+            "Architect": "AFLArchitects[2]",
+            "Broke ground": "25March2017",
+            "Construction cost": "£71million[1]",
+            "Structural engineer": "Arup[3]"
+        }
+    },
+    "CONTENT": {
+        "History": "In October 2002 while still playing at Griffin Park, following several years of speculation about a possible relocation, Brentford Football Club announced plans to move to a 20,000-capacity stadium near Kew Bridge. This included an ambitious monorail proposal, which was later dropped from the scheme. After several years of uncertainty, the project was suddenly brought back to public attention in late 2007 when the club announced that it had secured an option on the site.This was followed up in February 2008 when a partnership deal with Barratt Homes to develop the site was announced.The club's plan to move to a new community stadium took a massive step forward when, on 28 June 2012, the club bought the 7.6-acre (31,000 m2) site in Lionel Road, Brentford, from Barratt Homes who had originally acquired the site in January 2008. The club aimed to build a 20,000-capacity stadium on the land in time for the 2016–17 season, with the option of extending to 25,000 seats. In December 2013 the club was given approval for the new stadium by Hounslow Council with further approval sought and received from the Mayor of London and the government  in December 2013.Attention then shifted to acquiring the remaining land, required for the enabling development of flats, and completing the development agreement.  A Compulsory Purchase Order was approved for the remaining land in the summer of 2014 and although negotiations continued, a number of objections to the CPO resulted in a further hearing in September 2015. The development agreement was signed with Willmott Dixon in December 2014. The CPO was approved in April 2016 and the process completed on 1 September 2016.Work on the new stadium officially started on 24 March 2017 with site clearance and preliminary works. The main works began in spring 2018.On 30 August 2020, Brentford confirmed that the stadium was complete and ready to host football matches.During the summer of 2022 the entire West Stand and the north east corner of the stadium were converted to rail-seating to allow safe-standing during matches. This was made possible following a change by the government to allow licensed safe-standing after a successful government-commissioned trial held during the previous season.On 28 July 2022, Brentford announced a 10-year partnership with British technology manufacturer Gtech (Grey Technology), which included naming rights to the stadium, which immediately became the Gtech Community Stadium.The first football match at the stadium took place on 1 September 2020 when Brentford drew 2–2 against Oxford United in a pre-season friendly. Sergi Canos scored both Brentford goals to give the home side a 2–0 lead before Oxford United staged a late comeback. The first competitive match took place on 6 September when Brentford hosted Wycombe Wanderers  in the first round of the EFL Cup. The match finished 1–1 after normal time, with Brentford's Ethan Pinnock opening the scoring. It took a penalty shoot-out to decide the match, which Brentford won 4–2. The first league game to take place at the stadium was a 3–0 win over Huddersfield Town on 19 September, with goals coming from Josh Dasilva, Bryan Mbeumo and Marcus Forss.===== UEFA Women's Euro 2022 =====The stadium was selected as one of several venues for the UEFA Women's Euro 2022 tournament. It hosted Group B fixtures Germany vs Denmark (8 July 2022), Germany vs Spain (12 July 2022) and Denmark vs Spain (16 July 2022) as well as Germany vs Austria in the quarter-final (21 July 2022).===== Other =====England hosted Australia in a women's international friendly match (11 April 2023).On 15 August 2016, rugby union club London Irish announced that discussions were ongoing with the borough for a move to the new stadium as tenants of Brentford. Irish played in Reading, Berkshire, but were hoping to move back to the capital. An amended application to use the stadium for rugby in addition to its main purpose of hosting football was passed on 9 February 2017, effectively allowing London Irish to play at the stadium from its opening season. The move to Brentford from its opening season was later confirmed.London Irish played their inaugural match at the stadium on 29 November 2020, when they beat Leicester Tigers 22–9. The first try was scored by Curtis Rona of London Irish.London Irish were suspended from the league ahead of the 2023–24 Premiership Rugby season and subsequently entered administration meaning their future remains uncertain.",
+        "Location": "The stadium is located on a 7.6 acres (31,000 m2) site off Lionel Road, adjacent to Kew Bridge railway station. It stands in the middle of a triangle of railway lines, predominantly used for freight. In 2016, Hounslow Council proposed an extension of Crossrail to Hounslow via Kew Bridge, using one of these freight lines. The outline document suggested a station could be built to serve the Lionel Road site. The nearest station on the Transport for London network is Gunnersbury, served by the London Underground District line and the London Overground North London Line.",
+        "References": {},
+        "External links": "Official website"
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/ff/Brentford_Community_Stadium_2020.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Brentford_Community_Stadium_under_construction%2C_September_2018.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/15/Germany_Denmark_Womens_Euros.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/31/National_Rail_logo.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bd/Stratton_Gentry%2C_Lionel_Road_South_-_geograph.org.uk_-_1846576.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+        "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+    ],
+    "SUMMARY": "The Brentford Community Stadium, currently known as the Gtech Community Stadium for sponsorship reasons, is a football stadium in Brentford, West London that is the home of Premier League football club Brentford. The stadium has a capacity of 17,250 and is suitable for use for both association football and rugby union matches. Opened in 2020, the stadium is at the heart of plans to regenerate the surrounding area, including new homes and commercial opportunities. It was used during the UEFA Women's Euro 2022 (Euros), which was held in England.\n\n"
+}

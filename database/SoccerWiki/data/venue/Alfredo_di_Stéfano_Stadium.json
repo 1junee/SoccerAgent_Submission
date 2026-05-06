@@ -1,0 +1,39 @@
+{
+    "VENUE": "Alfredo di Stéfano Stadium",
+    "CITY": "Madrid",
+    "TEAM": "Real Madrid",
+    "CAPACITY": 6000,
+    "VENUE_URL": "https://wikipedia.org/wiki/Alfredo_Di_St%C3%A9fano_Stadium",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Estadio_Alfredo_Di_St%C3%A9fano.JPG/150px-Estadio_Alfredo_Di_St%C3%A9fano.JPG",
+    "INFOBOX": {
+        "": {
+            "Owner": "RealMadrid",
+            "Surface": "Grass",
+            "Capacity": "6,000[1]",
+            "Location": "CiudadRealMadrid,Valdebebas,",
+            "Operator": "RealMadridCastilla",
+            "Full name": "EstadioAlfredodiStéfano",
+            "Field size": "105 m× 68 m(344 ft× 223 ft)",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}40°28′37″N3°36′51″W﻿/﻿40.4769°N3.6143°W﻿/40.4769;-3.6143"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Built": "2006",
+            "Opened": "9May2006"
+        }
+    },
+    "CONTENT": {
+        "Overview": "On Tuesday, 9 May 2006 the Alfredo di Stéfano Stadium was opened at Real Madrid's training centre. The inaugural match was between Real Madrid and Stade de Reims, a 50th anniversary rematch of the first European Cup final won by Real Madrid in 1956. Real Madrid won the inaugural match 6–1.The venue is part of the Ciudad Real Madrid, the club's training facilities located outside Madrid in Valdebebas.The capacity of the main stand at the west is 4,000 seats, with an additional 2,000 seats at the eastern stand, giving the stadium a total capacity of 6,000 seats.Following the onset of the COVID-19 pandemic and to facilitate the ongoing renovations of the Santiago Bernabéu, Real Madrid's senior team hosted the rest of their home matches of the 2019–20 season at the Alfredo di Stéfano behind closed doors, starting on 14 June 2020 with a 3–1 league win against Eibar. On 6 September 2020, still behind closed doors, the ground hosted the Spanish national team for the first time; that game resulted in a 4–0 UEFA Nations League win for the Spanish side against Ukraine. The stadium continued hosting Real Madrid's games without spectators throughout the 2020–21 season before the club returned to the Santiago Bernabéu for 2021–22.The stadium has undersoil heating and environmentally friendly solar panels. It has two television areas, four booths for TV commentators and 10 for radio commentators. There are also posts for journalists and commentators. Members of the press have their own media centre.",
+        "References": {},
+        "External links": "Estadios de España (in English)",
+        "Spain national football team matches": "Spain played against Ukraine and Switzerland in the 2020–21 UEFA Nations League at the Di Stéfano."
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Estadio_Alfredo_Di_St%C3%A9fano_diciembre_2021.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg"
+    ],
+    "SUMMARY": "The Alfredo Di Stéfano Stadium (Spanish: Estadio Alfredo Di Stéfano) is a football stadium in Madrid, Spain. It is named after Real Madrid's former player Alfredo Di Stéfano (1926–2014).\nThe stadium is used by Real Madrid Femenino and Real Madrid Castilla.\n\n"
+}

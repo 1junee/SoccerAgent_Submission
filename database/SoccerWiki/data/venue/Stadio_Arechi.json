@@ -1,0 +1,33 @@
+{
+    "VENUE": "Stadio Arechi",
+    "CITY": "Salerno",
+    "TEAM": "Salernitana",
+    "CAPACITY": 37800,
+    "VENUE_URL": "https://wikipedia.org/wiki/Stadio_Arechi",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Arechi_6_ottobre.jpg/150px-Arechi_6_ottobre.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "MunicipalityofSalerno",
+            "Address": "PiazzaleGipoViani",
+            "Surface": "Grass",
+            "Capacity": "37,800[1]",
+            "Location": "Salerno,Italy",
+            "Field size": "114.83by74.36yards(105.00by67.99 m)"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "1990",
+            "Renovated": "1998"
+        }
+    },
+    "CONTENT": {
+        "References": {},
+        "External links": "Arechi at Stadium Journey"
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Arechi_6_ottobre.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a3/Colosseum-2003-07-09.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg"
+    ],
+    "SUMMARY": "The Arechi Stadium is a multi-purpose stadium in Salerno, Italy. It is currently used mostly for football matches and is the home stadium of U.S. Salernitana 1919. The stadium holds 37,800. The stadium was built to replace the Donato Vestuti stadium, which was no longer fit to host the growing audience of the team. The Italy national football team has played at the stadium three times."
+}

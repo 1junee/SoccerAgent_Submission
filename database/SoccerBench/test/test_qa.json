@@ -1,0 +1,14 @@
+[
+  {
+    "Q": "Can you describe how the camera switches between shots in the video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q8/italy_serie-a/2014-2015/2015-04-26 - 16-00 Torino 2 - 1 Juventus/1_926.mp4"
+    ],
+    "openA": "From Spider camera to Main camera center.",
+    "closeA": "O3",
+    "O1": "From Inside the goal to Main camera center.",
+    "O2": "From Main behind the goal to Other.",
+    "O3": "From Spider camera to Main camera center.",
+    "O4": "From Main camera left to Main camera right."
+  }
+]

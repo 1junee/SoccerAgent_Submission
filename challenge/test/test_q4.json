@@ -1,0 +1,709 @@
+[
+  {
+    "id": 7,
+    "Q": "Which youth clubs did this player play for?",
+    "materials": [
+      "materials/q4/17/1.jpg",
+      "materials/q4/17/2.jpg"
+    ],
+    "openA": "Giannelli Imbula played for US Argenteuil, Racing Club, Paris Saint-Germain, and Guingamp during his youth career.",
+    "closeA": "O2",
+    "O1": "US Argenteuil, Racing Club, Paris Saint-Germain, and Lyon",
+    "O2": "US Argenteuil, Racing Club, Paris Saint-Germain, and Guingamp",
+    "O3": "US Argenteuil, Racing Club, Marseille, and Guingamp",
+    "O4": "US Argenteuil, Paris FC, Paris Saint-Germain, and Guingamp"
+  },
+  {
+    "id": 27,
+    "Q": "What is this player's date of birth?",
+    "materials": [
+      "materials/q4/61/1.jpg"
+    ],
+    "openA": "Salem Al Hajri was born on 10 April 1996.",
+    "closeA": "O4",
+    "O1": "15 March 1995",
+    "O2": "22 December 1997",
+    "O3": "5 August 1996",
+    "O4": "10 April 1996"
+  },
+  {
+    "id": 46,
+    "Q": "Which team did this player play for before joining Guadalajara?",
+    "materials": [
+      "materials/q4/5/1.jpg",
+      "materials/q4/5/2.jpg"
+    ],
+    "openA": "Toluca",
+    "closeA": "O4",
+    "O1": "América",
+    "O2": "Pachuca",
+    "O3": "León",
+    "O4": "Toluca"
+  },
+  {
+    "id": 52,
+    "Q": "Which team did this player play for on loan during the 2011–2012 season?",
+    "materials": [
+      "materials/q4/19/1.JPG",
+      "materials/q4/19/2.jpg",
+      "materials/q4/19/3.jpg",
+      "materials/q4/19/4.jpg",
+      "materials/q4/19/5.jpg"
+    ],
+    "openA": "Avellino.",
+    "closeA": "O2",
+    "O1": "Bari",
+    "O2": "Avellino",
+    "O3": "Crotone",
+    "O4": "Frosinone"
+  },
+  {
+    "id": 62,
+    "Q": "How many times was this player named in the Premier League PFA Team of the Year?",
+    "materials": [
+      "materials/q4/47/1.JPG"
+    ],
+    "openA": "Patrick Vieira was named in the Premier League PFA Team of the Year six times.",
+    "closeA": "O2",
+    "O1": "4",
+    "O2": "6",
+    "O3": "5",
+    "O4": "7"
+  },
+  {
+    "id": 72,
+    "Q": "What is this player's current club as of the provided information?",
+    "materials": [
+      "materials/q4/45/1.jpg",
+      "materials/q4/45/2.jpg"
+    ],
+    "openA": "Cyrille Bayala's current club is Ajaccio.",
+    "closeA": "O2",
+    "O1": "Toulouse",
+    "O2": "Ajaccio",
+    "O3": "Lorient",
+    "O4": "Nantes"
+  },
+  {
+    "id": 79,
+    "Q": "Which team did this player support during his childhood?",
+    "materials": [
+      "materials/q4/35/1.jpg",
+      "materials/q4/35/2.jpg",
+      "materials/q4/35/3.jpg",
+      "materials/q4/35/4.jpg"
+    ],
+    "openA": "Hossein Hosseini supported Esteghlal during his childhood.",
+    "closeA": "O2",
+    "O1": "Persepolis",
+    "O2": "Esteghlal",
+    "O3": "Sepahan",
+    "O4": "Tractor"
+  },
+  {
+    "id": 84,
+    "Q": "Which club did this player play for between 2016 and 2018?",
+    "materials": [
+      "materials/q4/59/1.JPG",
+      "materials/q4/59/2.jpg",
+      "materials/q4/59/3.jpg"
+    ],
+    "openA": "Adam Taggart played for Perth Glory between 2016 and 2018.",
+    "closeA": "O4",
+    "O1": "Brisbane Roar",
+    "O2": "Newcastle Jets",
+    "O3": "Melbourne Victory",
+    "O4": "Perth Glory"
+  },
+  {
+    "id": 97,
+    "Q": "How many appearances did this player make for Boulogne?",
+    "materials": [
+      "materials/q4/77/1.jpg",
+      "materials/q4/77/2.jpg"
+    ],
+    "openA": "55.",
+    "closeA": "O2",
+    "O1": "45",
+    "O2": "55",
+    "O3": "60",
+    "O4": "50"
+  },
+  {
+    "id": 107,
+    "Q": "Which club did this player sign with in January 2022?",
+    "materials": [
+      "materials/q4/29/1.jpg"
+    ],
+    "openA": "Niccolo Zanellato signed with SPAL in January 2022.",
+    "closeA": "O2",
+    "O1": "Cagliari",
+    "O2": "SPAL",
+    "O3": "Parma",
+    "O4": "Venezia"
+  },
+  {
+    "id": 110,
+    "Q": "How many appearances did this player make for Javor Ivanjica?",
+    "materials": [
+      "materials/q4/66/1.jpg",
+      "materials/q4/66/2.jpg"
+    ],
+    "openA": "Derek Cornelius made 28 appearances for Javor Ivanjica.",
+    "closeA": "O4",
+    "O1": "32",
+    "O2": "25",
+    "O3": "30",
+    "O4": "28"
+  },
+  {
+    "id": 122,
+    "Q": "Which team did this player play for in 2016?",
+    "materials": [
+      "materials/q4/2/1.jpg",
+      "materials/q4/2/2.jpg"
+    ],
+    "openA": "Blas Perez played for Vancouver Whitecaps FC in 2016.",
+    "closeA": "O2",
+    "O1": "FC Dallas",
+    "O2": "Vancouver Whitecaps FC",
+    "O3": "Colorado Rapids",
+    "O4": "Portland Timbers"
+  },
+  {
+    "id": 124,
+    "Q": "How many goals did this player score in the 2022–23 Bundesliga season?",
+    "materials": [
+      "materials/q4/1/1.jpg"
+    ],
+    "openA": "Kingsley Coman scored one goal in the 2022–23 Bundesliga season.",
+    "closeA": "O4",
+    "O1": "3",
+    "O2": "5",
+    "O3": "0",
+    "O4": "1"
+  },
+  {
+    "id": 126,
+    "Q": "When did this player make his debut in the Russian Football National League?",
+    "materials": [
+      "materials/q4/96/1.jpg",
+      "materials/q4/96/2.jpg"
+    ],
+    "openA": "Daniil Shamkin made his debut in the Russian Football National League on 3 March 2019.",
+    "closeA": "O4",
+    "O1": "12 May 2018",
+    "O2": "15 November 2019",
+    "O3": "20 July 2020",
+    "O4": "3 March 2019"
+  },
+  {
+    "id": 131,
+    "Q": "What is this player's favorite player?",
+    "materials": [
+      "materials/q4/71/1.jpg",
+      "materials/q4/71/2.jpg",
+      "materials/q4/71/3.jpg",
+      "materials/q4/71/4.jpg"
+    ],
+    "openA": "Enzo Fernandez's favorite player is Lionel Messi.",
+    "closeA": "O4",
+    "O1": "Cristiano Ronaldo",
+    "O2": "Neymar Jr.",
+    "O3": "Zinedine Zidane",
+    "O4": "Lionel Messi"
+  },
+  {
+    "id": 146,
+    "Q": "Which club did this player manage in 1997–1998?",
+    "materials": [
+      "materials/q4/14/1.jpg",
+      "materials/q4/14/2.jpg"
+    ],
+    "openA": "Antalyaspor.",
+    "closeA": "O4",
+    "O1": "Fenerbahce",
+    "O2": "Besiktas",
+    "O3": "Trabzonspor",
+    "O4": "Antalyaspor"
+  },
+  {
+    "id": 152,
+    "Q": "How many goals did this player score for Kayserispor during his permanent stint from 2019 to 2023?",
+    "materials": [
+      "materials/q4/32/1.png",
+      "materials/q4/32/2.png"
+    ],
+    "openA": "Bernard Mensah scored 12 goals for Kayserispor during his permanent stint from 2019 to 2023.",
+    "closeA": "O4",
+    "O1": "10",
+    "O2": "15",
+    "O3": "8",
+    "O4": "12"
+  },
+  {
+    "id": 155,
+    "Q": "How many appearances did this player make for Denmark U21?",
+    "materials": [
+      "materials/q4/9/1.jpg",
+      "materials/q4/9/2.jpg",
+      "materials/q4/9/3.JPG",
+      "materials/q4/9/4.jpg"
+    ],
+    "openA": "11 appearances.",
+    "closeA": "O2",
+    "O1": "9 appearances",
+    "O2": "11 appearances",
+    "O3": "13 appearances",
+    "O4": "15 appearances"
+  },
+  {
+    "id": 156,
+    "Q": "Which team did this player join on loan in 2007?",
+    "materials": [
+      "materials/q4/69/1.jpg",
+      "materials/q4/69/2.jpg"
+    ],
+    "openA": "VfL Bochum.",
+    "closeA": "O2",
+    "O1": "Hertha BSC",
+    "O2": "VfL Bochum",
+    "O3": "FC Nurnberg",
+    "O4": "Hannover 96"
+  },
+  {
+    "id": 159,
+    "Q": "What was this player's record in the European Cup career matches?",
+    "materials": [
+      "materials/q4/18/1.jpg"
+    ],
+    "openA": "Francisco Paco scored 31 goals in 88 European Cup career matches.",
+    "closeA": "O2",
+    "O1": "28 goals in 92 matches",
+    "O2": "31 goals in 88 matches",
+    "O3": "35 goals in 85 matches",
+    "O4": "29 goals in 90 matches"
+  },
+  {
+    "id": 162,
+    "Q": "What was this player's role at Reggina from 2004 to 2006?",
+    "materials": [
+      "materials/q4/39/1.jpg",
+      "materials/q4/39/2.jpg"
+    ],
+    "openA": "Youth coach.",
+    "closeA": "O2",
+    "O1": "Assistant manager",
+    "O2": "Youth coach",
+    "O3": "Head coach",
+    "O4": "Sporting director"
+  },
+  {
+    "id": 167,
+    "Q": "Which team did this player join on loan in 2021?",
+    "materials": [
+      "materials/q4/25/1.JPG",
+      "materials/q4/25/2.JPG"
+    ],
+    "openA": "Arminia Bielefeld.",
+    "closeA": "O2",
+    "O1": "VfL Bochum",
+    "O2": "Arminia Bielefeld",
+    "O3": "FC Augsburg",
+    "O4": "Greuther Fürth"
+  },
+  {
+    "id": 173,
+    "Q": "Which club did this player play for between 2018 and 2023?",
+    "materials": [
+      "materials/q4/54/1.jpg"
+    ],
+    "openA": "Manchester City.",
+    "closeA": "O4",
+    "O1": "Paris Saint-Germain",
+    "O2": "Chelsea",
+    "O3": "Bayern Munich",
+    "O4": "Manchester City"
+  },
+  {
+    "id": 180,
+    "Q": "When did this player make his first 90-minute appearance for Porto?",
+    "materials": [
+      "materials/q4/81/1.jpg",
+      "materials/q4/81/2.jpg",
+      "materials/q4/81/3.jpg"
+    ],
+    "openA": "Juan Quintero made his first 90-minute appearance for Porto on 6 April 2014.",
+    "closeA": "O2",
+    "O1": "12 March 2014",
+    "O2": "6 April 2014",
+    "O3": "20 May 2014",
+    "O4": "15 February 2014"
+  },
+  {
+    "id": 192,
+    "Q": "Which youth team did this player represent at the U16 level?",
+    "materials": [
+      "materials/q4/7/1.jpg"
+    ],
+    "openA": "Javi Garcia represented Spain U16.",
+    "closeA": "O2",
+    "O1": "Portugal U16",
+    "O2": "Spain U16",
+    "O3": "France U16",
+    "O4": "Italy U16"
+  },
+  {
+    "id": 218,
+    "Q": "How many appearances did this player make for Al-Shabab?",
+    "materials": [
+      "materials/q4/37/1.jpg"
+    ],
+    "openA": "Abdullah Al Khaibari made 32 appearances for Al-Shabab.",
+    "closeA": "O2",
+    "O1": "28",
+    "O2": "32",
+    "O3": "35",
+    "O4": "40"
+  },
+  {
+    "id": 232,
+    "Q": "What was this player' first competitive win as Southampton manager?",
+    "materials": [
+      "materials/q4/85/1.jpg",
+      "materials/q4/85/2.jpg",
+      "materials/q4/85/3.jpg"
+    ],
+    "openA": "Nathan Jones' first competitive win as Southampton manager was a 2–1 victory against Lincoln City in the EFL Cup.",
+    "closeA": "O4",
+    "O1": "A 1–0 victory against Everton in the Premier League",
+    "O2": "A 3–2 win over Sheffield Wednesday in the FA Cup",
+    "O3": "A 2–0 triumph against Brighton in the Premier League",
+    "O4": "A 2–1 victory against Lincoln City in the EFL Cup"
+  },
+  {
+    "id": 233,
+    "Q": "What is this player's height?",
+    "materials": [
+      "materials/q4/95/1.jpg",
+      "materials/q4/95/2.jpg"
+    ],
+    "openA": "1.86 m (6 ft 1 in)",
+    "closeA": "O2",
+    "O1": "1.78 m (5 ft 10 in)",
+    "O2": "1.86 m (6 ft 1 in)",
+    "O3": "1.82 m (5 ft 11 in)",
+    "O4": "1.90 m (6 ft 3 in)"
+  },
+  {
+    "id": 239,
+    "Q": "What position does this player play?",
+    "materials": [
+      "materials/q4/26/1.jpg",
+      "materials/q4/26/2.jpg",
+      "materials/q4/26/3.jpg"
+    ],
+    "openA": "Goalkeeper",
+    "closeA": "O4",
+    "O1": "Defender",
+    "O2": "Midfielder",
+    "O3": "Forward",
+    "O4": "Goalkeeper"
+  },
+  {
+    "id": 242,
+    "Q": "How many appearances did this player make for Tottenham Hotspur?",
+    "materials": [
+      "materials/q4/62/1.jpg"
+    ],
+    "openA": "7",
+    "closeA": "O2",
+    "O1": "5",
+    "O2": "7",
+    "O3": "10",
+    "O4": "12"
+  },
+  {
+    "id": 270,
+    "Q": "Which club did this player manage in 2013?",
+    "materials": [
+      "materials/q4/53/1.jpg",
+      "materials/q4/53/2.jpg",
+      "materials/q4/53/3.jpg"
+    ],
+    "openA": "Valencia.",
+    "closeA": "O2",
+    "O1": "Sevilla",
+    "O2": "Valencia",
+    "O3": "Villarreal",
+    "O4": "Real Betis"
+  },
+  {
+    "id": 275,
+    "Q": "How many goals did this player score in the match against Liechtenstein for the Croatia U-21 team?",
+    "materials": [
+      "materials/q4/76/1.jpg",
+      "materials/q4/76/2.jpg"
+    ],
+    "openA": "Mario Situm scored two goals in the match against Liechtenstein.",
+    "closeA": "O3",
+    "O1": "1",
+    "O2": "3",
+    "O3": "2",
+    "O4": "4"
+  },
+  {
+    "id": 294,
+    "Q": "Which club did this player manage in 2021–2022?",
+    "materials": [
+      "materials/q4/87/1.jpg",
+      "materials/q4/87/2.jpg"
+    ],
+    "openA": "Lille",
+    "closeA": "O2",
+    "O1": "Bordeaux",
+    "O2": "Lille",
+    "O3": "Nice",
+    "O4": "Marseille"
+  },
+  {
+    "id": 310,
+    "Q": "Which club did this player join on loan on 8 August 2023?",
+    "materials": [
+      "materials/q4/56/1.jpg",
+      "materials/q4/56/2.jpg"
+    ],
+    "openA": "Andrea La Mantia joined Feralpisalò on loan on 8 August 2023.",
+    "closeA": "O2",
+    "O1": "Pisa",
+    "O2": "Feralpisalò",
+    "O3": "Cosenza",
+    "O4": "Ascoli"
+  },
+  {
+    "id": 320,
+    "Q": "Which senior clubs has this player played for?",
+    "materials": [
+      "materials/q4/40/1.JPG",
+      "materials/q4/40/2.JPG"
+    ],
+    "openA": "Alfredo Morales has played for Hertha BSC II, Hertha BSC, FC Ingolstadt, Fortuna Düsseldorf, New York City FC, and San Jose Earthquakes.",
+    "closeA": "O2",
+    "O1": "Hertha BSC II, Bayern Munich, FC Ingolstadt, Fortuna Düsseldorf, New York City FC, and San Jose Earthquakes",
+    "O2": "Hertha BSC II, Hertha BSC, FC Ingolstadt, Fortuna Düsseldorf, New York City FC, and San Jose Earthquakes",
+    "O3": "Hertha BSC II, Hertha BSC, FC Ingolstadt, Borussia Dortmund, New York City FC, and San Jose Earthquakes",
+    "O4": "Hertha BSC II, Hertha BSC, FC Ingolstadt, Fortuna Düsseldorf, LA Galaxy, and San Jose Earthquakes"
+  },
+  {
+    "id": 343,
+    "Q": "Where was this player born?",
+    "materials": [
+      "materials/q4/22/1.JPG",
+      "materials/q4/22/2.jpg",
+      "materials/q4/22/3.jpg"
+    ],
+    "openA": "Lisbon, Portugal",
+    "closeA": "O2",
+    "O1": "Porto, Portugal",
+    "O2": "Lisbon, Portugal",
+    "O3": "Madrid, Spain",
+    "O4": "Barcelona, Spain"
+  },
+  {
+    "id": 351,
+    "Q": "What year did this player start playing Bret Maverick?",
+    "materials": [
+      "materials/q4/33/1.JPG"
+    ],
+    "openA": "1957",
+    "closeA": "O2",
+    "O1": "1955",
+    "O2": "1957",
+    "O3": "1960",
+    "O4": "1953"
+  },
+  {
+    "id": 356,
+    "Q": "How many goals did this player score in the 2023–24 season for Real Valladolid?",
+    "materials": [
+      "materials/q4/30/1.jpg",
+      "materials/q4/30/2.jpg",
+      "materials/q4/30/3.jpg",
+      "materials/q4/30/4.JPG",
+      "materials/q4/30/5.JPG",
+      "materials/q4/30/6.JPG"
+    ],
+    "openA": "Alvaro Negredo scored 1 goal in the 2023–24 season for Real Valladolid.",
+    "closeA": "O2",
+    "O1": "3",
+    "O2": "1",
+    "O3": "2",
+    "O4": "0"
+  },
+  {
+    "id": 357,
+    "Q": "What position does this player play?",
+    "materials": [
+      "materials/q4/20/1.jpg",
+      "materials/q4/20/2.jpg"
+    ],
+    "openA": "Ante Palaversa plays as a defensive midfielder.",
+    "closeA": "O2",
+    "O1": "Central defender",
+    "O2": "Defensive midfielder",
+    "O3": "Attacking midfielder",
+    "O4": "Right winger"
+  },
+  {
+    "id": 406,
+    "Q": "When did this player start his senior career, and with which club?",
+    "materials": [
+      "materials/q4/79/1.jpg",
+      "materials/q4/79/2.jpg"
+    ],
+    "openA": "Dominic Maroh started his senior career in 2006 with SSV Reutlingen.",
+    "closeA": "O2",
+    "O1": "In 2005 with SC Freiburg",
+    "O2": "In 2006 with SSV Reutlingen",
+    "O3": "In 2007 with VfB Stuttgart",
+    "O4": "In 2008 with 1. FC Köln"
+  },
+  {
+    "id": 430,
+    "Q": "What inspired this player to become a goalkeeper?",
+    "materials": [
+      "materials/q4/28/1.jpg"
+    ],
+    "openA": "Hyeon-Woo Jo was inspired to become a goalkeeper after watching Kim Byung-ji's performance during the 1998 FIFA World Cup.",
+    "closeA": "O2",
+    "O1": "Watching Lee Woon-jae's saves in the 2002 FIFA World Cup",
+    "O2": "Watching Kim Byung-ji's performance during the 1998 FIFA World Cup",
+    "O3": "Being coached by a former professional goalkeeper in his youth",
+    "O4": "Playing as a goalkeeper in a local tournament and winning MVP"
+  },
+  {
+    "id": 434,
+    "Q": "How many appearances did this player make for Uruguay U20?",
+    "materials": [
+      "materials/q4/72/1.jpg",
+      "materials/q4/72/2.jpg"
+    ],
+    "openA": "15",
+    "closeA": "O2",
+    "O1": "10",
+    "O2": "15",
+    "O3": "20",
+    "O4": "25"
+  },
+  {
+    "id": 454,
+    "Q": "What was the reason Barcelona was granted an emergency exception to sign this player?",
+    "materials": [
+      "materials/q4/51/1.jpg",
+      "materials/q4/51/2.jpg"
+    ],
+    "openA": "Barcelona was granted an emergency exception to sign Martin Braithwaite due to the long-term injury to Ousmane Dembélé.",
+    "closeA": "O2",
+    "O1": "Due to a financial fair play violation",
+    "O2": "Due to the long-term injury to Ousmane Dembélé",
+    "O3": "Because of a transfer ban imposed by FIFA",
+    "O4": "To replace Luis Suárez who left for Atlético Madrid"
+  },
+  {
+    "id": 465,
+    "Q": "How many hitouts did this player finish his career with?",
+    "materials": [
+      "materials/q4/91/1.jpg",
+      "materials/q4/91/2.jpg"
+    ],
+    "openA": "6,628 hitouts.",
+    "closeA": "O2",
+    "O1": "5,432 hitouts",
+    "O2": "6,628 hitouts",
+    "O3": "7,315 hitouts",
+    "O4": "6,120 hitouts"
+  },
+  {
+    "id": 472,
+    "Q": "In which year did this player make his debut for the Portugal national team?",
+    "materials": [
+      "materials/q4/23/1.jpg"
+    ],
+    "openA": "Gelson Martins made his debut for the Portugal national team in 2016.",
+    "closeA": "O3",
+    "O1": "2014",
+    "O2": "2015",
+    "O3": "2016",
+    "O4": "2017"
+  },
+  {
+    "id": 478,
+    "Q": "What is this player's full name?",
+    "materials": [
+      "materials/q4/97/1.jpg",
+      "materials/q4/97/2.jpg"
+    ],
+    "openA": "Antonio Adan Garrido.",
+    "closeA": "O2",
+    "O1": "Antonio Adan Lopez",
+    "O2": "Antonio Adan Garrido",
+    "O3": "Antonio Adan Martinez",
+    "O4": "Antonio Adan Fernandez"
+  },
+  {
+    "id": 480,
+    "Q": "Which team did this player join for his senior career debut in 2020?",
+    "materials": [
+      "materials/q4/89/1.jpg"
+    ],
+    "openA": "Justin Che joined North Texas SC for his senior career debut in 2020.",
+    "closeA": "O2",
+    "O1": "FC Dallas",
+    "O2": "North Texas SC",
+    "O3": "Houston Dynamo",
+    "O4": "Austin FC"
+  },
+  {
+    "id": 483,
+    "Q": "How tall is this player?",
+    "materials": [
+      "materials/q4/3/1.jpg",
+      "materials/q4/3/2.jpg",
+      "materials/q4/3/3.jpg"
+    ],
+    "openA": "Hannes Halldorsson is 1.93 meters (6 feet 4 inches) tall.",
+    "closeA": "O2",
+    "O1": "1.85 meters (6 feet 1 inch)",
+    "O2": "1.93 meters (6 feet 4 inches)",
+    "O3": "1.89 meters (6 feet 2 inches)",
+    "O4": "1.96 meters (6 feet 5 inches)"
+  },
+  {
+    "id": 489,
+    "Q": "Where was this player born?",
+    "materials": [
+      "materials/q4/15/1.jpg",
+      "materials/q4/15/2.jpg"
+    ],
+    "openA": "Taylan Duman was born in Germany.",
+    "closeA": "O4",
+    "O1": "Turkey",
+    "O2": "Netherlands",
+    "O3": "Austria",
+    "O4": "Germany"
+  },
+  {
+    "id": 500,
+    "Q": "What is the duration of this player's extended contract with Zenit St. Petersburg?",
+    "materials": [
+      "materials/q4/60/1.jpg",
+      "materials/q4/60/2.jpg"
+    ],
+    "openA": "Vyacheslav Karavaev's extended contract with Zenit St. Petersburg lasts until the end of the 2025–26 season, with an option for another season.",
+    "closeA": "O2",
+    "O1": "Until the end of the 2024–25 season, with an option for another season",
+    "O2": "Until the end of the 2025–26 season, with an option for another season",
+    "O3": "Until the end of the 2026–27 season, with no additional options",
+    "O4": "Until the end of the 2023–24 season, with an option for another season"
+  }
+]

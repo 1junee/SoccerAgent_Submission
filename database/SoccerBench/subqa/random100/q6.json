@@ -1,0 +1,1202 @@
+[
+  {
+    "Q": "What minute is the game in according to the image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/018823.jpg"
+    ],
+    "openA": "69 minutes",
+    "closeA": "O2",
+    "O1": "80 minutes",
+    "O2": "69 minutes",
+    "O3": "65 minutes",
+    "O4": "78 minutes"
+  },
+  {
+    "Q": "What's the time in minutes and seconds shown here?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/000380.jpg"
+    ],
+    "openA": "72:53",
+    "closeA": "O3",
+    "O1": "65:53",
+    "O2": "81:54",
+    "O3": "72:53",
+    "O4": "77:36"
+  },
+  {
+    "Q": "How many shots on target has Real Madrid had so far in the game as the image shows against Betis in the 2016-17 season?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/016291.jpg"
+    ],
+    "openA": "4",
+    "closeA": "O3",
+    "O1": "5",
+    "O2": "3",
+    "O3": "4",
+    "O4": "2"
+  },
+  {
+    "Q": "Looking at this image, what is the current score of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/013421.jpg"
+    ],
+    "openA": "1-1",
+    "closeA": "O4",
+    "O1": "2-0",
+    "O2": "0-1",
+    "O3": "1-2",
+    "O4": "1-1"
+  },
+  {
+    "Q": "How many corners have Monza and Sassuolo had so far in the game as the screenshot shows, in the Serie A match where Gian Marco Ferrari scored from a corner?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/005920.jpg"
+    ],
+    "openA": "Monza: 5 corners, Sassuolo: 2 corners.",
+    "closeA": "O3",
+    "O1": "Monza: 6 corners, Sassuolo: 4 corners.",
+    "O2": "Monza: 6 corners, Sassuolo: 0 corners.",
+    "O3": "Monza: 5 corners, Sassuolo: 2 corners.",
+    "O4": "Monza: 3 corners, Sassuolo: 3 corners."
+  },
+  {
+    "Q": "How many shots on target does Bayern Munich have so far in the game as the image shows against Ingolstadt in the 2015-16 season?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/020817.jpg"
+    ],
+    "openA": "5",
+    "closeA": "O2",
+    "O1": "4",
+    "O2": "5",
+    "O3": "7",
+    "O4": "6"
+  },
+  {
+    "Q": "What is the score of the match as shown in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/007302.jpg"
+    ],
+    "openA": "1-0",
+    "closeA": "O4",
+    "O1": "0-1",
+    "O2": "1-2",
+    "O3": "2-0",
+    "O4": "1-0"
+  },
+  {
+    "Q": "Based on the content of this image, what is the score of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/004989.jpg"
+    ],
+    "openA": "1-1",
+    "closeA": "O1",
+    "O1": "1-1",
+    "O2": "1-0",
+    "O3": "3-0",
+    "O4": "2-1"
+  },
+  {
+    "Q": "How many corners have Liverpool won so far in the game as the screenshot shows during their match against Manchester United in the Premier League?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/002531.jpg"
+    ],
+    "openA": "6",
+    "closeA": "O2",
+    "O1": "4",
+    "O2": "6",
+    "O3": "8",
+    "O4": "7"
+  },
+  {
+    "Q": "What exact time is visible in the match screenshot?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/021736.jpg"
+    ],
+    "openA": "64:50",
+    "closeA": "O1",
+    "O1": "64:50",
+    "O2": "78:44",
+    "O3": "72:11",
+    "O4": "56:22"
+  },
+  {
+    "Q": "How many corners have Bayern Munich taken so far in the game as the image shows in their Bundesliga match against Hoffenheim where Robert Lewandowski scored?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/022405.jpg"
+    ],
+    "openA": "7",
+    "closeA": "O2",
+    "O1": "5",
+    "O2": "7",
+    "O3": "8",
+    "O4": "9"
+  },
+  {
+    "Q": "What time is displayed in the image (MM:SS)?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/022624.jpg"
+    ],
+    "openA": "45:24",
+    "closeA": "O1",
+    "O1": "45:24",
+    "O2": "36:28",
+    "O3": "51:29",
+    "O4": "48:35"
+  },
+  {
+    "Q": "What's the exact time (minutes:seconds) in the image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/006031.jpg"
+    ],
+    "openA": "35:24",
+    "closeA": "O3",
+    "O1": "48:04",
+    "O2": "26:29",
+    "O3": "35:24",
+    "O4": "22:20"
+  },
+  {
+    "Q": "What is the score visible in this image of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/010165.jpg"
+    ],
+    "openA": "0-3",
+    "closeA": "O4",
+    "O1": "1-2",
+    "O2": "2-4",
+    "O3": "2-3",
+    "O4": "0-3"
+  },
+  {
+    "Q": "Looking at this image, what is the current score of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/001918.jpg"
+    ],
+    "openA": "1-2",
+    "closeA": "O3",
+    "O1": "2-4",
+    "O2": "0-3",
+    "O3": "1-2",
+    "O4": "3-4"
+  },
+  {
+    "Q": "What is the score shown in this image of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/006928.jpg"
+    ],
+    "openA": "0-0",
+    "closeA": "O3",
+    "O1": "0-2",
+    "O2": "1-0",
+    "O3": "0-0",
+    "O4": "0-1"
+  },
+  {
+    "Q": "What's the current minute of the match in this screenshot?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/003344.jpg"
+    ],
+    "openA": "15 minutes",
+    "closeA": "O1",
+    "O1": "15 minutes",
+    "O2": "7 minutes",
+    "O3": "12 minutes",
+    "O4": "29 minutes"
+  },
+  {
+    "Q": "What's the time in minutes shown in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/010562.jpg"
+    ],
+    "openA": "87 minutes",
+    "closeA": "O1",
+    "O1": "87 minutes",
+    "O2": "84 minutes",
+    "O3": "82 minutes",
+    "O4": "75 minutes"
+  },
+  {
+    "Q": "What's the timestamp (MM:SS) of this match moment?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/008133.jpg"
+    ],
+    "openA": "36:28",
+    "closeA": "O1",
+    "O1": "36:28",
+    "O2": "46:05",
+    "O3": "40:55",
+    "O4": "37:37"
+  },
+  {
+    "Q": "Based on this image, what is the current score of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/009688.jpg"
+    ],
+    "openA": "0-0",
+    "closeA": "O1",
+    "O1": "0-0",
+    "O2": "1-2",
+    "O3": "0-2",
+    "O4": "2-0"
+  },
+  {
+    "Q": "Please judge the current score of the match based on this image.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/019358.jpg"
+    ],
+    "openA": "1-1",
+    "closeA": "O4",
+    "O1": "0-3",
+    "O2": "3-2",
+    "O3": "1-0",
+    "O4": "1-1"
+  },
+  {
+    "Q": "What's the current time in minutes:seconds format?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/010789.jpg"
+    ],
+    "openA": "86:48",
+    "closeA": "O1",
+    "O1": "86:48",
+    "O2": "87:51",
+    "O3": "89:05",
+    "O4": "73:45"
+  },
+  {
+    "Q": "What minute is visible in the match screenshot?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/011225.jpg"
+    ],
+    "openA": "11 minutes",
+    "closeA": "O3",
+    "O1": "19 minutes",
+    "O2": "17 minutes",
+    "O3": "11 minutes",
+    "O4": "13 minutes"
+  },
+  {
+    "Q": "How many offsides have been called so far in the image shows of the Barcelona vs Athletic Bilbao match where Robert Lewandowski was flagged early?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/023688.jpg"
+    ],
+    "openA": "1 offside (Robert Lewandowski).",
+    "closeA": "O3",
+    "O1": "3 offside (Robert Lewandowski).",
+    "O2": "2 offside (Robert Lewandowski).",
+    "O3": "1 offside (Robert Lewandowski).",
+    "O4": "0 offside (Robert Lewandowski)."
+  },
+  {
+    "Q": "From this image, what is the score of the football match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/003162.jpg"
+    ],
+    "openA": "1-0",
+    "closeA": "O3",
+    "O1": "0-1",
+    "O2": "3-0",
+    "O3": "1-0",
+    "O4": "2-0"
+  },
+  {
+    "Q": "How many shots on target have Sheffield Utd and Liverpool each had so far in the game as the screenshot shows, in this Premier League match where Georginio Wijnaldum scored for Liverpool?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/002442.jpg"
+    ],
+    "openA": "Sheffield Utd: 2, Liverpool: 4.",
+    "closeA": "O3",
+    "O1": "Sheffield Utd: 1, Liverpool: 3.",
+    "O2": "Sheffield Utd: 6, Liverpool: 4.",
+    "O3": "Sheffield Utd: 2, Liverpool: 4.",
+    "O4": "Sheffield Utd: 0, Liverpool: 6."
+  },
+  {
+    "Q": "Can you tell the current score of the match from this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/012697.jpg"
+    ],
+    "openA": "0-0",
+    "closeA": "O1",
+    "O1": "0-0",
+    "O2": "2-1",
+    "O3": "0-1",
+    "O4": "1-0"
+  },
+  {
+    "Q": "What is the score so far in the image shows between Granada CF and Real Madrid in this La Liga match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/016542.jpg"
+    ],
+    "openA": "0-0",
+    "closeA": "O3",
+    "O1": "2-0",
+    "O2": "1-2",
+    "O3": "0-0",
+    "O4": "1-0"
+  },
+  {
+    "Q": "How many corners have Manchester City won so far in the image shows of their Premier League match against Leicester City where Bernardo Silva scored the opener?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/015696.jpg"
+    ],
+    "openA": "6 corners",
+    "closeA": "O3",
+    "O1": "8 corners",
+    "O2": "5 corners",
+    "O3": "6 corners",
+    "O4": "7 corners"
+  },
+  {
+    "Q": "Can you determine the score of the match from this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/001386.jpg"
+    ],
+    "openA": "1-3",
+    "closeA": "O2",
+    "O1": "1-2",
+    "O2": "1-3",
+    "O3": "3-2",
+    "O4": "3-5"
+  },
+  {
+    "Q": "Can you tell the current score of the match from this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/004984.jpg"
+    ],
+    "openA": "2-1",
+    "closeA": "O1",
+    "O1": "2-1",
+    "O2": "4-3",
+    "O3": "1-2",
+    "O4": "1-0"
+  },
+  {
+    "Q": "How many shots on target does Wolves have so far in the image shows of their Premier League match against West Ham?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/013354.jpg"
+    ],
+    "openA": "2",
+    "closeA": "O1",
+    "O1": "2",
+    "O2": "0",
+    "O3": "1",
+    "O4": "3"
+  },
+  {
+    "Q": "How many shots on target has Lazio had so far in the game as the image shows in their Serie A match against Cagliari where the score is 2-0?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/006981.jpg"
+    ],
+    "openA": "2",
+    "closeA": "O2",
+    "O1": "4",
+    "O2": "2",
+    "O3": "3",
+    "O4": "0"
+  },
+  {
+    "Q": "What is the score displayed in this image of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/014519.jpg"
+    ],
+    "openA": "1-1",
+    "closeA": "O2",
+    "O1": "0-1",
+    "O2": "1-1",
+    "O3": "2-1",
+    "O4": "3-0"
+  },
+  {
+    "Q": "What is the score displayed in this image of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/004722.jpg"
+    ],
+    "openA": "2-0",
+    "closeA": "O1",
+    "O1": "2-0",
+    "O2": "4-1",
+    "O3": "3-0",
+    "O4": "3-1"
+  },
+  {
+    "Q": "Based on the content of this image, what is the score of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/015468.jpg"
+    ],
+    "openA": "3-1",
+    "closeA": "O3",
+    "O1": "4-1",
+    "O2": "1-0",
+    "O3": "3-1",
+    "O4": "2-0"
+  },
+  {
+    "Q": "Please tell me the current score of the match from this image.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/021750.jpg"
+    ],
+    "openA": "3-2",
+    "closeA": "O4",
+    "O1": "4-2",
+    "O2": "2-0",
+    "O3": "1-0",
+    "O4": "3-2"
+  },
+  {
+    "Q": "Which minute of the game does this image represent?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/020476.jpg"
+    ],
+    "openA": "89 minutes",
+    "closeA": "O3",
+    "O1": "84 minutes",
+    "O2": "79 minutes",
+    "O3": "89 minutes",
+    "O4": "81 minutes"
+  },
+  {
+    "Q": "What is the score of the match as shown in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/007437.jpg"
+    ],
+    "openA": "1-1",
+    "closeA": "O3",
+    "O1": "0-3",
+    "O2": "2-3",
+    "O3": "1-1",
+    "O4": "1-2"
+  },
+  {
+    "Q": "At which minute mark was this image taken?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/021084.jpg"
+    ],
+    "openA": "50 minutes",
+    "closeA": "O1",
+    "O1": "50 minutes",
+    "O2": "56 minutes",
+    "O3": "40 minutes",
+    "O4": "45 minutes"
+  },
+  {
+    "Q": "Which minute of the match is shown here?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/011997.jpg"
+    ],
+    "openA": "83 minutes",
+    "closeA": "O4",
+    "O1": "80 minutes",
+    "O2": "85 minutes",
+    "O3": "76 minutes",
+    "O4": "83 minutes"
+  },
+  {
+    "Q": "How many shots on target has Bayern Munich had so far in the game as the image shows, during their Bundesliga match against Mainz?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/020894.jpg"
+    ],
+    "openA": "2",
+    "closeA": "O4",
+    "O1": "0",
+    "O2": "3",
+    "O3": "1",
+    "O4": "2"
+  },
+  {
+    "Q": "What is the score shown in this image of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/014320.jpg"
+    ],
+    "openA": "0-1",
+    "closeA": "O3",
+    "O1": "1-3",
+    "O2": "1-2",
+    "O3": "0-1",
+    "O4": "0-2"
+  },
+  {
+    "Q": "What's the current minute of the match in this screenshot?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/021136.jpg"
+    ],
+    "openA": "35 minutes",
+    "closeA": "O4",
+    "O1": "37 minutes",
+    "O2": "21 minutes",
+    "O3": "38 minutes",
+    "O4": "35 minutes"
+  },
+  {
+    "Q": "How many corners has Barcelona won so far in the game as the image shows in their La Liga match against Granada CF where Rafinha scored the opening goal?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/014493.jpg"
+    ],
+    "openA": "8 corners.",
+    "closeA": "O2",
+    "O1": "10 corners.",
+    "O2": "8 corners.",
+    "O3": "7 corners.",
+    "O4": "9 corners."
+  },
+  {
+    "Q": "What's the current match minute in the image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/003909.jpg"
+    ],
+    "openA": "16 minutes",
+    "closeA": "O4",
+    "O1": "18 minutes",
+    "O2": "15 minutes",
+    "O3": "1 minutes",
+    "O4": "16 minutes"
+  },
+  {
+    "Q": "At which minute mark was this image taken?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/009216.jpg"
+    ],
+    "openA": "39 minutes",
+    "closeA": "O3",
+    "O1": "54 minutes",
+    "O2": "26 minutes",
+    "O3": "39 minutes",
+    "O4": "35 minutes"
+  },
+  {
+    "Q": "What's the MM:SS time visible in this screenshot?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/006697.jpg"
+    ],
+    "openA": "66:12",
+    "closeA": "O4",
+    "O1": "63:47",
+    "O2": "61:44",
+    "O3": "57:45",
+    "O4": "66:12"
+  },
+  {
+    "Q": "Can you tell the current score of the match from this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/004312.jpg"
+    ],
+    "openA": "6-2",
+    "closeA": "O1",
+    "O1": "6-2",
+    "O2": "6-1",
+    "O3": "8-2",
+    "O4": "8-1"
+  },
+  {
+    "Q": "Based on this image, what is the score of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/013847.jpg"
+    ],
+    "openA": "1-0",
+    "closeA": "O1",
+    "O1": "1-0",
+    "O2": "2-1",
+    "O3": "0-2",
+    "O4": "0-1"
+  },
+  {
+    "Q": "What time (minutes:seconds) does this image show?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/014116.jpg"
+    ],
+    "openA": "62:59",
+    "closeA": "O3",
+    "O1": "49:38",
+    "O2": "52:58",
+    "O3": "62:59",
+    "O4": "57:50"
+  },
+  {
+    "Q": "What is the current score of the match shown in this broadcast image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/009964.jpg"
+    ],
+    "openA": "1-1",
+    "closeA": "O3",
+    "O1": "1-2",
+    "O2": "1-0",
+    "O3": "1-1",
+    "O4": "2-0"
+  },
+  {
+    "Q": "From this image, what is the score of the football match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/003836.jpg"
+    ],
+    "openA": "0-1",
+    "closeA": "O4",
+    "O1": "1-3",
+    "O2": "2-3",
+    "O3": "2-0",
+    "O4": "0-1"
+  },
+  {
+    "Q": "What minute is the match currently in based on the image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/023849.jpg"
+    ],
+    "openA": "10 minutes",
+    "closeA": "O2",
+    "O1": "21 minutes",
+    "O2": "10 minutes",
+    "O3": "17 minutes",
+    "O4": "9 minutes"
+  },
+  {
+    "Q": "What's the time in minutes and seconds shown here?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/014788.jpg"
+    ],
+    "openA": "79:56",
+    "closeA": "O4",
+    "O1": "81:40",
+    "O2": "76:40",
+    "O3": "82:33",
+    "O4": "79:56"
+  },
+  {
+    "Q": "What's the time (minutes and seconds) in this screenshot?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/002735.jpg"
+    ],
+    "openA": "14:51",
+    "closeA": "O3",
+    "O1": "07:18",
+    "O2": "06:12",
+    "O3": "14:51",
+    "O4": "13:39"
+  },
+  {
+    "Q": "Which minute does this screenshot show?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/000372.jpg"
+    ],
+    "openA": "81 minutes",
+    "closeA": "O2",
+    "O1": "86 minutes",
+    "O2": "81 minutes",
+    "O3": "90 minutes",
+    "O4": "69 minutes"
+  },
+  {
+    "Q": "What minute is the match at in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/016180.jpg"
+    ],
+    "openA": "5 minutes",
+    "closeA": "O3",
+    "O1": "12 minutes",
+    "O2": "3 minutes",
+    "O3": "5 minutes",
+    "O4": "7 minutes"
+  },
+  {
+    "Q": "At which minute mark was this image taken?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/015031.jpg"
+    ],
+    "openA": "68 minutes",
+    "closeA": "O3",
+    "O1": "75 minutes",
+    "O2": "73 minutes",
+    "O3": "68 minutes",
+    "O4": "61 minutes"
+  },
+  {
+    "Q": "What is the score displayed in this image of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/005928.jpg"
+    ],
+    "openA": "1-0",
+    "closeA": "O3",
+    "O1": "2-1",
+    "O2": "3-0",
+    "O3": "1-0",
+    "O4": "0-2"
+  },
+  {
+    "Q": "What exact time is captured in this match image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/007593.jpg"
+    ],
+    "openA": "11:17",
+    "closeA": "O3",
+    "O1": "10:28",
+    "O2": "19:57",
+    "O3": "11:17",
+    "O4": "16:24"
+  },
+  {
+    "Q": "What's the exact time (minutes:seconds) in the image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/012400.jpg"
+    ],
+    "openA": "85:30",
+    "closeA": "O2",
+    "O1": "82:12",
+    "O2": "85:30",
+    "O3": "82:20",
+    "O4": "86:43"
+  },
+  {
+    "Q": "What's the precise time displayed in the screenshot?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/009285.jpg"
+    ],
+    "openA": "31:32",
+    "closeA": "O4",
+    "O1": "45:58",
+    "O2": "33:07",
+    "O3": "44:58",
+    "O4": "31:32"
+  },
+  {
+    "Q": "What is the score reflected in this image of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/010026.jpg"
+    ],
+    "openA": "1-0",
+    "closeA": "O1",
+    "O1": "1-0",
+    "O2": "0-1",
+    "O3": "3-0",
+    "O4": "3-1"
+  },
+  {
+    "Q": "What's the exact timestamp of this match moment?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/005082.jpg"
+    ],
+    "openA": "10:30",
+    "closeA": "O2",
+    "O1": "01:55",
+    "O2": "10:30",
+    "O3": "20:45",
+    "O4": "24:24"
+  },
+  {
+    "Q": "How many yellow cards have been shown so far in the image shows of the Bayern Munich vs RB Leipzig match where the score is 1-2?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/021675.jpg"
+    ],
+    "openA": "4 yellow cards.",
+    "closeA": "O4",
+    "O1": "6 yellow cards.",
+    "O2": "5 yellow cards.",
+    "O3": "3 yellow cards.",
+    "O4": "4 yellow cards."
+  },
+  {
+    "Q": "What is the current score of the match shown in this broadcast image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/001132.jpg"
+    ],
+    "openA": "1-1",
+    "closeA": "O1",
+    "O1": "1-1",
+    "O2": "3-1",
+    "O3": "1-0",
+    "O4": "2-0"
+  },
+  {
+    "Q": "What minute is the match currently in based on the image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/000784.jpg"
+    ],
+    "openA": "3 minutes",
+    "closeA": "O3",
+    "O1": "5 minutes",
+    "O2": "15 minutes",
+    "O3": "3 minutes",
+    "O4": "10 minutes"
+  },
+  {
+    "Q": "At which minute mark was this image taken?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/016148.jpg"
+    ],
+    "openA": "68 minutes",
+    "closeA": "O3",
+    "O1": "67 minutes",
+    "O2": "54 minutes",
+    "O3": "68 minutes",
+    "O4": "73 minutes"
+  },
+  {
+    "Q": "What exact time (minutes and seconds) is shown here?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/016744.jpg"
+    ],
+    "openA": "43:42",
+    "closeA": "O3",
+    "O1": "41:42",
+    "O2": "38:05",
+    "O3": "43:42",
+    "O4": "56:03"
+  },
+  {
+    "Q": "What exact time is visible in the match screenshot?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/011869.jpg"
+    ],
+    "openA": "23:20",
+    "closeA": "O2",
+    "O1": "08:51",
+    "O2": "23:20",
+    "O3": "24:57",
+    "O4": "35:15"
+  },
+  {
+    "Q": "What is the score of the match in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/017993.jpg"
+    ],
+    "openA": "0-0",
+    "closeA": "O1",
+    "O1": "0-0",
+    "O2": "2-0",
+    "O3": "0-1",
+    "O4": "1-2"
+  },
+  {
+    "Q": "Please tell me the current score of the match from this image.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/019258.jpg"
+    ],
+    "openA": "2-2",
+    "closeA": "O2",
+    "O1": "1-4",
+    "O2": "2-2",
+    "O3": "3-4",
+    "O4": "2-3"
+  },
+  {
+    "Q": "Based on this image, what is the current score of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/001410.jpg"
+    ],
+    "openA": "0-0",
+    "closeA": "O1",
+    "O1": "0-0",
+    "O2": "0-1",
+    "O3": "0-2",
+    "O4": "1-0"
+  },
+  {
+    "Q": "Could you tell me the score of the match from this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/020774.jpg"
+    ],
+    "openA": "2-4",
+    "closeA": "O3",
+    "O1": "0-3",
+    "O2": "3-2",
+    "O3": "2-4",
+    "O4": "0-4"
+  },
+  {
+    "Q": "Can you tell the current score of the match from this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/007102.jpg"
+    ],
+    "openA": "0-3",
+    "closeA": "O3",
+    "O1": "1-3",
+    "O2": "2-5",
+    "O3": "0-3",
+    "O4": "0-4"
+  },
+  {
+    "Q": "According to this image, what is the score of the game?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/022937.jpg"
+    ],
+    "openA": "1-1",
+    "closeA": "O2",
+    "O1": "2-3",
+    "O2": "1-1",
+    "O3": "2-0",
+    "O4": "1-2"
+  },
+  {
+    "Q": "How many fouls have been committed so far in the image shows of the Barcelona vs Betis match where Raphinha was called offside early on?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/023410.jpg"
+    ],
+    "openA": "2 fouls",
+    "closeA": "O2",
+    "O1": "1 fouls",
+    "O2": "2 fouls",
+    "O3": "3 fouls",
+    "O4": "0 fouls"
+  },
+  {
+    "Q": "How many shots on target has Barcelona had so far in the image shows of their La Liga match against Atletico Madrid where Ivan Rakitic scored the opening goal?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/014772.jpg"
+    ],
+    "openA": "4",
+    "closeA": "O2",
+    "O1": "2",
+    "O2": "4",
+    "O3": "6",
+    "O4": "3"
+  },
+  {
+    "Q": "What is the score shown in this image of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/009642.jpg"
+    ],
+    "openA": "0-3",
+    "closeA": "O2",
+    "O1": "2-1",
+    "O2": "0-3",
+    "O3": "0-2",
+    "O4": "2-3"
+  },
+  {
+    "Q": "From this image, what is the score of the football match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/005379.jpg"
+    ],
+    "openA": "1-0",
+    "closeA": "O3",
+    "O1": "0-1",
+    "O2": "2-0",
+    "O3": "1-0",
+    "O4": "0-2"
+  },
+  {
+    "Q": "What is the score indicated in this image of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/013003.jpg"
+    ],
+    "openA": "1-3",
+    "closeA": "O1",
+    "O1": "1-3",
+    "O2": "2-1",
+    "O3": "2-3",
+    "O4": "1-2"
+  },
+  {
+    "Q": "What is the current score of the match shown in this broadcast image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/017760.jpg"
+    ],
+    "openA": "3-0",
+    "closeA": "O4",
+    "O1": "1-2",
+    "O2": "5-0",
+    "O3": "5-2",
+    "O4": "3-0"
+  },
+  {
+    "Q": "What time (MM:SS) does this football moment show?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/001871.jpg"
+    ],
+    "openA": "31:50",
+    "closeA": "O3",
+    "O1": "38:56",
+    "O2": "24:45",
+    "O3": "31:50",
+    "O4": "46:33"
+  },
+  {
+    "Q": "Please tell me the current score of the match from this image.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/018188.jpg"
+    ],
+    "openA": "3-3",
+    "closeA": "O2",
+    "O1": "4-1",
+    "O2": "3-3",
+    "O3": "1-2",
+    "O4": "5-3"
+  },
+  {
+    "Q": "How many yellow cards have been shown so far in the image shows of the Serie A match between Juventus and Sassuolo where Pedro Obiang was sent off?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/001390.jpg"
+    ],
+    "openA": "3 yellow cards.",
+    "closeA": "O3",
+    "O1": "2 yellow cards.",
+    "O2": "1 yellow cards.",
+    "O3": "3 yellow cards.",
+    "O4": "4 yellow cards."
+  },
+  {
+    "Q": "How many shots on target has Bayern Munich had so far in the image shows of their match against AS Roma in the 2014-15 season?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/021220.jpg"
+    ],
+    "openA": "3",
+    "closeA": "O1",
+    "O1": "3",
+    "O2": "2",
+    "O3": "1",
+    "O4": "4"
+  },
+  {
+    "Q": "What time (MM:SS) does this football moment show?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/021569.jpg"
+    ],
+    "openA": "75:40",
+    "closeA": "O4",
+    "O1": "64:02",
+    "O2": "82:54",
+    "O3": "83:00",
+    "O4": "75:40"
+  },
+  {
+    "Q": "What exact time (minutes and seconds) is shown here?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/003273.jpg"
+    ],
+    "openA": "33:22",
+    "closeA": "O4",
+    "O1": "42:56",
+    "O2": "24:59",
+    "O3": "24:46",
+    "O4": "33:22"
+  },
+  {
+    "Q": "Which minute of the game does this image represent?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/023843.jpg"
+    ],
+    "openA": "11 minutes",
+    "closeA": "O3",
+    "O1": "7 minutes",
+    "O2": "5 minutes",
+    "O3": "11 minutes",
+    "O4": "18 minutes"
+  },
+  {
+    "Q": "From this image, can you tell the current score of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/015676.jpg"
+    ],
+    "openA": "2-1",
+    "closeA": "O3",
+    "O1": "1-2",
+    "O2": "2-0",
+    "O3": "2-1",
+    "O4": "0-3"
+  },
+  {
+    "Q": "What is the score of the match in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/016672.jpg"
+    ],
+    "openA": "1-2",
+    "closeA": "O2",
+    "O1": "1-4",
+    "O2": "1-2",
+    "O3": "3-2",
+    "O4": "2-3"
+  },
+  {
+    "Q": "What exact time (MM:SS) does this image show?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/012888.jpg"
+    ],
+    "openA": "05:53",
+    "closeA": "O2",
+    "O1": "13:48",
+    "O2": "05:53",
+    "O3": "14:44",
+    "O4": "13:40"
+  },
+  {
+    "Q": "Could you tell me the score of the match from this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/003685.jpg"
+    ],
+    "openA": "2-0",
+    "closeA": "O4",
+    "O1": "4-0",
+    "O2": "4-1",
+    "O3": "3-0",
+    "O4": "2-0"
+  },
+  {
+    "Q": "Based on this image, what is the score of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/014449.jpg"
+    ],
+    "openA": "0-0",
+    "closeA": "O1",
+    "O1": "0-0",
+    "O2": "1-0",
+    "O3": "2-0",
+    "O4": "2-1"
+  },
+  {
+    "Q": "How many corners have Aston Villa and Manchester City each won so far in the game as the image shows, where Man City leads 3-1 in the second half?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/013503.jpg"
+    ],
+    "openA": "Aston Villa: 4 corners; Manchester City: 6 corners.",
+    "closeA": "O3",
+    "O1": "Aston Villa: 2 corners; Manchester City: 7 corners.",
+    "O2": "Aston Villa: 2 corners; Manchester City: 4 corners.",
+    "O3": "Aston Villa: 4 corners; Manchester City: 6 corners.",
+    "O4": "Aston Villa: 2 corners; Manchester City: 5 corners."
+  },
+  {
+    "Q": "How many corners have AS Roma won so far in the game as the image shows in their Serie A match against Empoli where Edin Dzeko scored twice?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/007784.jpg"
+    ],
+    "openA": "8 corners.",
+    "closeA": "O2",
+    "O1": "9 corners.",
+    "O2": "8 corners.",
+    "O3": "6 corners.",
+    "O4": "7 corners."
+  },
+  {
+    "Q": "Based on this image, what is the current score of the match?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/007978.jpg"
+    ],
+    "openA": "2-1",
+    "closeA": "O1",
+    "O1": "2-1",
+    "O2": "0-3",
+    "O3": "1-2",
+    "O4": "1-3"
+  },
+  {
+    "Q": "How many shots on target does Monza have so far in the image shows of their Serie A match against Juventus where Angel Di Maria was sent off in the first half?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/006647.jpg"
+    ],
+    "openA": "1",
+    "closeA": "O4",
+    "O1": "0",
+    "O2": "3",
+    "O3": "2",
+    "O4": "1"
+  },
+  {
+    "Q": "What's the current match time in MM:SS format?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q6/009883.jpg"
+    ],
+    "openA": "68:00",
+    "closeA": "O3",
+    "O1": "81:45",
+    "O2": "73:31",
+    "O3": "68:00",
+    "O4": "54:48"
+  }
+]

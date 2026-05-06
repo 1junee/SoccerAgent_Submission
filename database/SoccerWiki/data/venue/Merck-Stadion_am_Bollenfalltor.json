@@ -1,0 +1,43 @@
+{
+    "VENUE": "Merck-Stadion am Bollenfalltor",
+    "CITY": "Darmstadt",
+    "TEAM": "Darmstadt",
+    "CAPACITY": 17810,
+    "VENUE_URL": "https://wikipedia.org/wiki/Merck-Stadion_am_B%C3%B6llenfalltor",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gegengerade_des_Stadions_am_B%C3%B6llenfalltor_in_Darmstadt_gegen_Dortmund_am_13._Januar_2024.jpg/120px-Gegengerade_des_Stadions_am_B%C3%B6llenfalltor_in_Darmstadt_gegen_Dortmund_am_13._Januar_2024.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "SVDarmstadt98StadionGmbH",
+            "Address": "Nieder-RamstädterStr.170,64285Darmstadt",
+            "Surface": "Grass",
+            "Capacity": "17,810",
+            "Location": "Darmstadt,Germany",
+            "Full name": "Merck-StadionamBöllenfalltor",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}49°51′28″N8°40′20″E﻿/﻿49.85778°N8.67222°E﻿/49.85778;8.67222",
+            "Former names": "StadionamBöllenfalltor(1921–2014)Jonathan-Heimes-StadionamBöllenfalltor(2016–2017)"
+        },
+        "Tenants": {},
+        "Website": {},
+        "Construction": {
+            "Opened": "1921",
+            "Renovated": "1950–1952,1975,1978,1981,2014,2015,2016,2018-2023"
+        }
+    },
+    "CONTENT": {
+        "Panorama": {},
+        "See also": "List of football stadiums in GermanyLists of stadiums",
+        "References": "[1] (in German)",
+        "External links": "Groundhopping.de pageMerck-Stadion am BöllenfalltorSV Darmstadt 1898 e.V."
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/Frankfurt_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6a/Gegengerade_des_Stadions_am_B%C3%B6llenfalltor_in_Darmstadt_gegen_Dortmund_am_13._Januar_2024.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/Merck-Stadion_15215370846_c938bcbed1_o.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+        "https://upload.wikimedia.org/wikipedia/en/d/d5/Merck-Stadion.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Sports_and_games.png"
+    ],
+    "SUMMARY": "Merck-Stadion am Böllenfalltor (German pronunciation: [ˈʃtaːdi̯ɔn ʔam ˈbœlnfaltoːɐ̯]) is a football stadium in Darmstadt, Germany sponsored by Merck. It is the home of SV Darmstadt 98 in the 2. Bundesliga. The stadium has a maximum capacity of 17,810 after the renovation work in 2023.\n\n"
+}

@@ -1,0 +1,45 @@
+{
+    "VENUE": "Stadio Benito Stirpe",
+    "CITY": "Frosinone",
+    "TEAM": "Frosinone",
+    "CAPACITY": 16227,
+    "VENUE_URL": "https://wikipedia.org/wiki/Stadio_Benito_Stirpe",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Benito_Stirpe_panoramica_Frosinone_Foggia.JPG/180px-Benito_Stirpe_panoramica_Frosinone_Foggia.JPG",
+    "INFOBOX": {
+        "": {
+            "Owner": "FrosinoneCalcio",
+            "Surface": "Grass105x68m",
+            "Capacity": "16,227seated[1]",
+            "Location": "VialeOlimpia,Frosinone,Italy"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "2017",
+            "Broke ground": "1974",
+            "Construction cost": "€20million"
+        }
+    },
+    "CONTENT": {
+        "References": {},
+        "External links": "Official website",
+        "Structures and facilities": "The Benito Stirpe Stadium comprises 16,227 seats split between five stands: the 'Main Stand', the 'North Stand', the 'East Stand', the 'South Stand' and the 'Away End' (which is the south-west corner)."
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Benito_Stirpe_Frosinone_Palermo_curva_nord_coreogr_q.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ad/Benito_Stirpe_panoramica_Frosinone_Foggia.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fb/Benito_stirpe_stadium_map_english.png",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fe/Benito_stirpe_stadium_night_af.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/54/Benito_stirpe_stadium_night_np.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a3/Colosseum-2003-07-09.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b5/Inaugurazione_Benito_Stirpe_frosinone-cremonese_28_9_2017.png",
+        "https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_benito_stirpe.png",
+        "https://upload.wikimedia.org/wikipedia/commons/7/74/Stadio_Benito_Stirpe.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/42/Stadio_Benito_Stirpe_Frosinone_Palermo_2-0_Main_Stand.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6e/Stadio_Benito_Stirpe_dall_alto_-_da_dietro_la_Main_Stand.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/9/96/The_Frosinone_dressing_room_at_the_Benito_Stirpe_stadium.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/82/The_Stadio_Benito_Stirpe_in_february_2020.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg"
+    ],
+    "SUMMARY": "The Stadio Benito Stirpe (also known as Stadio Casaleno), is an all-seater football stadium in the Italian city of Frosinone, Lazio.\nDesigned in the mid-1970s and built in the second half of the 1980s, the stadium remained unfinished for about thirty years. The stadium was completed between 2015 and 2017 on the initiative of local football team Frosinone Calcio, who won a lease for the stadium from the local council for 90 years, in order to replace the old municipal stadium.\nWith a capacity of 16,227, it is the largest stadium found in the province, and the third in Lazio.\nIt is dedicated to the memory of Benito Stirpe, entrepreneur and chairman of Frosinone Calcio in the 1960s, and father of Maurizio Stirpe, his successor at the helm of the club.\nThe total cost of the stadium was approximately €20 million, of which approximately €15 million went to the 2015–2017 construction completion."
+}

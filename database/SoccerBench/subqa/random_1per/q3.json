@@ -1,0 +1,50 @@
+[
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Barcelona 7 - 0 Celtic/1_720p/1608.png"
+    ],
+    "openA": "Public",
+    "closeA": "O3",
+    "O1": "Close-up side staff",
+    "O2": "Close-up player or field referee",
+    "O3": "Public",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "Could you describe the camera’s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-05-02 - 16-30 Hoffenheim 1 - 1 Dortmund/1_720p/2119.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Close-up player or field referee",
+    "O3": "Close-up corner",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-04-11 - 21-00 Sevilla 2 - 2 Barcelona/2_720p/421.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O3",
+    "O1": "Main camera left",
+    "O2": "Main camera center",
+    "O3": "Spider camera",
+    "O4": "Public"
+  },
+  {
+    "Q": "What’s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Chelsea 4 - 0 Maccabi Tel Aviv/1_720p/1112.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O4",
+    "O1": "Inside the goal",
+    "O2": "Main behind the goal",
+    "O3": "Main camera right",
+    "O4": "Close-up side staff"
+  }
+]

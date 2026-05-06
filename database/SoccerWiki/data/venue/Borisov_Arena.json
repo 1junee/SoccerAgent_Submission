@@ -1,0 +1,58 @@
+{
+    "VENUE": "Borisov Arena",
+    "CITY": "Barysaw",
+    "TEAM": "BATE",
+    "CAPACITY": 13126,
+    "VENUE_URL": "https://wikipedia.org/wiki/Borisov_Arena",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Borisov-Arena_Stands2.jpg/120px-Borisov-Arena_Stands2.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "BATEBorisov",
+            "Surface": "Grass",
+            "Capacity": "13,126[2]",
+            "Location": "Barysaw,Belarus",
+            "Field size": "105 m× 68 m(344 ft× 223 ft)",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}54°11′35″N28°28′31″E﻿/﻿54.19306°N28.47528°E﻿/54.19306;28.47528",
+            "Record attendance": "13,121(BelarusvsSpain,25June2015)[3]"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "3 May2014;10yearsago (2014-05-03)",
+            "Architect": "OFISArchitects",
+            "Broke ground": "2011–2014",
+            "Construction cost": "40,000,000€[1]"
+        }
+    },
+    "CONTENT": {
+        "Gallery": {},
+        "History": "The first official game at the Borisov Arena was the 2013–14 Belarusian Cup Final on 3 May 2014. It was contested between FC Neman Grodno and FC Shakhtyor Soligorsk and won 1-0 by the team from Salihorsk. Ukrainian midfielder Artem Starhorodskyi scored the first ever goal in the stadium in front of an almost full capacity of over 11,000.",
+        "See also": "List of football stadiums in Belarus",
+        "References": {},
+        "External links": "Official website of the football club Archived 2015-03-17 at the Wayback Machine (in Russian)Official website of the football club (in English)",
+        "National team matches": "The Belarus national football team played its first game at the Borisov Arena on 4 September 2014 when they defeated Tajikistan 6–1 in a friendly. The first official national team game was played on 9 October 2014, when Belarus lost 0–2 to Ukraine in a UEFA Euro 2016 qualifier played in front of 10,512 spectators."
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/95/Borisov-Arena_Stands2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/97/Borisov-Arena_Stands3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cc/Borosiv-Arena_15-05-2014_BATE-Dinamo.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/01/Nuvola_apps_mozilla.png",
+        "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/%D0%92%D1%96%D0%BA%D1%96%D1%81%D1%83%D1%81%D1%82%D1%80%D1%8D%D1%87%D0%B0_%D0%BD%D0%B0_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B5_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C_%E2%80%94_%D0%A3%D0%BA%D1%80%D0%B0%D1%96%D0%BD%D0%B0_%282014%29_004.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f8/%D0%92%D1%96%D0%BA%D1%96%D1%81%D1%83%D1%81%D1%82%D1%80%D1%8D%D1%87%D0%B0_%D0%BD%D0%B0_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B5_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C_%E2%80%94_%D0%A3%D0%BA%D1%80%D0%B0%D1%96%D0%BD%D0%B0_%282014%29_008.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg"
+    ],
+    "SUMMARY": "Borisov Arena (Belarusian: Барысаў-Арэна, Barysaw-Arena; Russian: Борисов-Арена) is a football-specific stadium in Barysaw, Belarus and is the home stadium of FC BATE Borisov and the Belarus national football team. The stadium's official capacity is 13,126.\n\n"
+}

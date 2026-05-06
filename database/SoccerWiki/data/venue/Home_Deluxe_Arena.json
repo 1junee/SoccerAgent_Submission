@@ -1,0 +1,40 @@
+{
+    "VENUE": "Home Deluxe Arena",
+    "CITY": "Paderborn",
+    "TEAM": "Paderborn",
+    "CAPACITY": 15000,
+    "VENUE_URL": "https://wikipedia.org/wiki/Home_Deluxe_Arena",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Paderborn_paragon_arena_2.jpg/180px-Paderborn_paragon_arena_2.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "PaderbornerStadionGesellschaft(PSG)",
+            "Surface": "Grass",
+            "Capacity": "15,000",
+            "Location": "Paderborn,Germany",
+            "Former names": "paragonarena(2008–2009)EnergieteamArena(2009–2012)Benteler-Arena(2012–2022)"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "20July2008",
+            "Architect": "JosefEllebracht,BremerAG",
+            "Construction cost": "25million€"
+        }
+    },
+    "CONTENT": {
+        "History": "Initial planning for a new stadium for SC Paderborn date back to 2001 when it became clearer that the previous special license for the Hermann-Löns-Stadion as a regular football stadium would soon terminate. In 2003, the city's sports committee declared the end of the Hermann-Löns-Stadion for the near future. Subsequently, various suggestions for the new stadiums were put forth. In 2004, a new location was found and on 12 July 2005, building of the stadium holding 15,000 visitors by construction company \"Bremer AG\" started. Later in 2005 however, construction was halted due to a withdrawal of the building license following lawsuits filed by residents. A new construction plan had to be arranged and in December 2007, construction continued.Construction was yet again in January 2008 due to the city of Paderborn not granting a transfer of €3.4 million. More lawsuits were filed and all settled in March 2008, following the payment by the city. On 30 June 2008, the stadium was handed over to SC Paderborn.The stadium was named paragon arena in 2005 after a local electronics enterprise, hosted its first game on 16 July 2008 and celebrated its official inauguration on 20 July 2008 during a match between SC Paderborn and Borussia Dortmund which resulted 1–2.In June 2009, the stadium was renamed Energieteam Arena and in July 2012 Benteler-Arena, after a naming agreement with Austrian company Benteler.In June 2020, SC Verl won the promotion play-off vs. Lokomotive Leipzig to earn a spot in the 3. Liga.  To meet the requirements, SC Verl will play their home matches at the Benteler-Arena.In 2022, a ten-year naming agreement with online retailer Home Deluxe was signed to rename the stadium Home Deluxe Arena.",
+        "See also": "List of football stadiums in GermanyLists of stadiums",
+        "References": {},
+        "External links": "Stadium on club websiteStadium images"
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d7/Benteler_Arena_Logo.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/Duesseldorf_1951sw.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/aa/Paderborn_paragon_arena_2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/Paragon_arena_sc_paderborn_galatasaray_istanbul.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg",
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Sports_and_games.png"
+    ],
+    "SUMMARY": "The Home Deluxe Arena is a multi-use stadium in Paderborn, Germany, that was built between July 2005 and July 2008, as a replacement for the Hermann-Löns-Stadion. The opening match between SC Paderborn and Borussia Dortmund (1–2) was attended by 15,000 spectators, the stadium's full capacity.\nIn the season 2018–19, the stadium held an average of 11,508 spectators who had attended the matches of SC Paderborn in the 2. Bundesliga.\nIn European competitions, the stadium is known as SC Paderborn 07 Arena due to advertising rules.\n\n"
+}

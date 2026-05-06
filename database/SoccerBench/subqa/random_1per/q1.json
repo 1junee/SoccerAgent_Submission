@@ -1,0 +1,152 @@
+[
+  {
+    "Q": "What is Elias Kachunga's current jersey number?",
+    "materials": null,
+    "openA": "21",
+    "closeA": "O4",
+    "O1": "17",
+    "O2": "9",
+    "O3": "14",
+    "O4": "21"
+  },
+  {
+    "Q": "Which club did Thibaut Courtois join in 2018?",
+    "materials": null,
+    "openA": "Real Madrid",
+    "closeA": "O2",
+    "O1": "Paris Saint-Germain",
+    "O2": "Real Madrid",
+    "O3": "Manchester United",
+    "O4": "Bayern Munich"
+  },
+  {
+    "Q": "How many goals did Ignacio Pussetto score during his second stint with Huracán?",
+    "materials": null,
+    "openA": "11",
+    "closeA": "O4",
+    "O1": "9",
+    "O2": "12",
+    "O3": "15",
+    "O4": "11"
+  },
+  {
+    "Q": "How many goals did Gary O'Neil score for Middlesbrough?",
+    "materials": null,
+    "openA": "Gary O'Neil scored seven goals for Middlesbrough.",
+    "closeA": "O4",
+    "O1": "5",
+    "O2": "10",
+    "O3": "3",
+    "O4": "7"
+  },
+  {
+    "Q": "How many children does Roberto Firmino have as of November 2022?",
+    "materials": null,
+    "openA": "Roberto Firmino has three daughters and was expecting a fourth child as of November 2022.",
+    "closeA": "O4",
+    "O1": "He has two sons and was expecting a third child.",
+    "O2": "He has one daughter and was expecting a second child.",
+    "O3": "He has two daughters and was expecting a third child.",
+    "O4": "He has three daughters and was expecting a fourth child."
+  },
+  {
+    "Q": "What was the reported fee for Ozan Kabak's loan move to Liverpool in February 2021?",
+    "materials": null,
+    "openA": "The reported fee for Ozan Kabak's loan move to Liverpool was £1 million, with potential add-ons of £500,000.",
+    "closeA": "O4",
+    "O1": "£2 million, with potential add-ons of £750,000",
+    "O2": "£1.5 million, with potential add-ons of £250,000",
+    "O3": "£500,000, with potential add-ons of £1 million",
+    "O4": "£1 million, with potential add-ons of £500,000"
+  },
+  {
+    "Q": "How many games did Diogo Leite play in his first season with Union Berlin?",
+    "materials": null,
+    "openA": "Diogo Leite played 40 games in his first season with Union Berlin.",
+    "closeA": "O2",
+    "O1": "35",
+    "O2": "40",
+    "O3": "45",
+    "O4": "50"
+  },
+  {
+    "Q": "How many appearances did Tio Cipot make for Slovenia U19?",
+    "materials": null,
+    "openA": "5.",
+    "closeA": "O2",
+    "O1": "3",
+    "O2": "5",
+    "O3": "7",
+    "O4": "9"
+  },
+  {
+    "Q": "How many appearances did Brecht Dejaegere make for Toulouse during his loan spell?",
+    "materials": null,
+    "openA": "32",
+    "closeA": "O2",
+    "O1": "28",
+    "O2": "32",
+    "O3": "35",
+    "O4": "30"
+  },
+  {
+    "Q": "Which club did Eder Balanta join after leaving Club Brugge?",
+    "materials": null,
+    "openA": "Eder Balanta joined Schalke 04 after leaving Club Brugge.",
+    "closeA": "O2",
+    "O1": "Bayer Leverkusen",
+    "O2": "Schalke 04",
+    "O3": "AS Monaco",
+    "O4": "Sevilla FC"
+  },
+  {
+    "Q": "What position does Marko Livaja primarily play?",
+    "materials": null,
+    "openA": "Forward, attacking midfielder",
+    "closeA": "O2",
+    "O1": "Central defender",
+    "O2": "Forward, attacking midfielder",
+    "O3": "Goalkeeper",
+    "O4": "Defensive midfielder"
+  },
+  {
+    "Q": "How many goals did David Jurasek score for Prostějov?",
+    "materials": null,
+    "openA": "David Jurasek scored three goals for Prostějov.",
+    "closeA": "O2",
+    "O1": "2",
+    "O2": "3",
+    "O3": "4",
+    "O4": "5"
+  },
+  {
+    "Q": "Which award did Lewis Baker win at the 2012–13 NextGen Series?",
+    "materials": null,
+    "openA": "Lewis Baker won the Player of the Tournament award at the 2012–13 NextGen Series.",
+    "closeA": "O4",
+    "O1": "Golden Boot",
+    "O2": "Best Goalkeeper",
+    "O3": "Most Valuable Player",
+    "O4": "Player of the Tournament"
+  },
+  {
+    "Q": "How many appearances has Andrei Coubis made for Romania U20?",
+    "materials": null,
+    "openA": "2",
+    "closeA": "O2",
+    "O1": "1",
+    "O2": "2",
+    "O3": "3",
+    "O4": "4"
+  },
+  {
+    "Q": "Which Serie B club did Roberto Soriano join on loan in June 2010?",
+    "materials": null,
+    "openA": "Roberto Soriano joined Empoli on loan.",
+    "closeA": "O2",
+    "O1": "Bari",
+    "O2": "Empoli",
+    "O3": "Livorno",
+    "O4": "Pescara"
+  }
+]

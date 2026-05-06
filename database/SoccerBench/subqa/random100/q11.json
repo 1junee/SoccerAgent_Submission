@@ -1,0 +1,1202 @@
+[
+  {
+    "Q": "Generate a commentary script for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/spain_laliga_2016-2017/2017-04-26 - 20-30 Barcelona 7 - 1 Osasuna/2_11_24.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) is heading toward the corner flag to take the set piece.",
+    "closeA": "O4",
+    "O1": "[PLAYER] ([TEAM]) tries to latch onto a through ball, but it's too long.",
+    "O2": "[PLAYER] ([TEAM]) changes the direction of the ball using his hand, but he is angry when the referee gives a foul against him.",
+    "O3": "The ball is behind the sideline. [PLAYER] ([TEAM]) takes a throw-in.",
+    "O4": "[PLAYER] ([TEAM]) is heading toward the corner flag to take the set piece."
+  },
+  {
+    "Q": "Write a matching commentary text for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2015-2016/2015-11-08 - 19-00 Arsenal 1 - 1 Tottenham/2_33_15.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) unleashes a close-range volley towards the left side of the goal, but his effort is thwarted by the keeper, and the score remains unchanged. [TEAM] force their opponents to concede a corner.",
+    "closeA": "O1",
+    "O1": "[PLAYER] ([TEAM]) unleashes a close-range volley towards the left side of the goal, but his effort is thwarted by the keeper, and the score remains unchanged. [TEAM] force their opponents to concede a corner.",
+    "O2": "[PLAYER] ([TEAM]) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat.",
+    "O3": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+    "O4": "[PLAYER] ([TEAM]) was too forceful with his tackle and [REFEREE] interrupted the game to signal a free kick. [TEAM] win a free kick."
+  },
+  {
+    "Q": "Generate a commentary annotation for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea/2_38_30.mp4"
+    ],
+    "openA": "The referee stops play so that a substitution can be made and [PLAYER] departs the field of play to be replaced by [PLAYER] ([TEAM]).",
+    "closeA": "O2",
+    "O1": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+    "O2": "The referee stops play so that a substitution can be made and [PLAYER] departs the field of play to be replaced by [PLAYER] ([TEAM]).",
+    "O3": "[PLAYER] ([TEAM]) tries to create a chance, but puts too much weight on his pass.",
+    "O4": "4 additional min. will be played."
+  },
+  {
+    "Q": "Write a commentary for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/italy_serie-a_2020-2021/2021-01-03_juventus-fc-udinese-serie-a-2020-2021/1_01_27.mp4"
+    ],
+    "openA": "The [TEAM] players are exchanging fine passes and are waiting for an opportunity to start an attack, but here's a mistake and a loss of possession.",
+    "closeA": "O3",
+    "O1": "The first half has started.",
+    "O2": "[PLAYER] ([TEAM]) plays a through ball but overhits it.",
+    "O3": "The [TEAM] players are exchanging fine passes and are waiting for an opportunity to start an attack, but here's a mistake and a loss of possession.",
+    "O4": "[PLAYER] ([TEAM]) receives the ball inside the box, reacts quickly and without any problems stabs the ball low inside the left post."
+  },
+  {
+    "Q": "Write a matching commentary text for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/italy_serie-a_2016-2017/2017-02-25 - 20-00 Napoli 0 - 2 Atalanta/1_41_55.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. The linesman makes the right call and [TEAM] will have a corner.",
+    "closeA": "O1",
+    "O1": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance. The linesman makes the right call and [TEAM] will have a corner.",
+    "O2": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence.",
+    "O3": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+    "O4": "[PLAYER] ([TEAM]) gets into a good scoring position. He creates some space for himself and tries his luck from distance. His decent effort towards the left post is, however, superbly saved by [PLAYER]!"
+  },
+  {
+    "Q": "Generate commentary lines for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/england_epl_2022-2023/2023-03-04_manchester-city-newcastle-united-premier-league-2022-2023/2_39_00.mp4"
+    ],
+    "openA": "[TEAM] enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike.",
+    "closeA": "O1",
+    "O1": "[TEAM] enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike.",
+    "O2": "[PLAYER] ([TEAM]) sends a long ball across the pitch, but it misses its target.",
+    "O3": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception. The ball goes out for a corner. [TEAM] can continue in their attacking effort.",
+    "O4": "We are about to witness a substitution. [PLAYER] ([TEAM]) is replacing [PLAYER]."
+  },
+  {
+    "Q": "Create a commentary script for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/europe_champions-league_2022-2023/2022-09-13_liverpool-fc-afc-ajax-champions-league/1_03_36.mp4"
+    ],
+    "openA": "A rebound falls kindly for [PLAYER] ([TEAM]), but his shot from the edge of the box flies high over bar. None too pretty!",
+    "closeA": "O4",
+    "O1": "[PLAYER] ([TEAM]) sprays a pass out to [PLAYER], but he can't beat his man to get to the ball. The referee points to the corner flag. It's a corner to [TEAM].",
+    "O2": "The match has just finished.",
+    "O3": "An amazing individual effort from [PLAYER] ([TEAM]) ends with a strike from inside the penalty area. He sends the ball into the right side of the goal and makes it 1:0. [PLAYER] was helpless.",
+    "O4": "A rebound falls kindly for [PLAYER] ([TEAM]), but his shot from the edge of the box flies high over bar. None too pretty!"
+  },
+  {
+    "Q": "Generate a commentary content description for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-10-01 - 19-30 Bayer Leverkusen 2 - 0 Dortmund/1_33_06.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+    "closeA": "O3",
+    "O1": "A cross from a mid-range free kick, taken by [TEAM], is intercepted by one of the defenders.",
+    "O2": "[PLAYER] ([TEAM]) swings in the corner, but it's comfortably cleared away.",
+    "O3": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+    "O4": "The game has come to an end for [PLAYER]. He has contributed as much as he could today. He will be replaced by the fresh legs of [PLAYER] ([TEAM])."
+  },
+  {
+    "Q": "Generate a matching commentary for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/spain_laliga_2020-2021/2021-05-16_villarreal-cf-sevilla-fc-liga-1-division-2020-2021/1_25_45.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) sends a long ball across the pitch, but it misses its target.",
+    "closeA": "O3",
+    "O1": "Alejandro Gomez ([TEAM]) attempted to send a defence-splitting pass into space where [PLAYER] was lurking. It could have put him one-on-one with the goalkeeper, but one of the defending players somehow manages to avert the threat.",
+    "O2": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+    "O3": "[PLAYER] ([TEAM]) sends a long ball across the pitch, but it misses its target.",
+    "O4": "The manager has decided to make a substitution and [PLAYER] walks off the pitch to be replaced by [PLAYER] ([TEAM])."
+  },
+  {
+    "Q": "Write commentary content for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-02-24 - 22-45 Manchester City 1 - 2 Barcelona/1_34_04.mp4"
+    ],
+    "openA": "The foul by [PLAYER] ([TEAM]) was seen by [REFEREE] who didn't hesitate to blow the whistle.",
+    "closeA": "O3",
+    "O1": "Here comes the VAR verdict. NO GOAL for [TEAM] due to an offside in the build-up play.",
+    "O2": "[PLAYER] ([TEAM]) does well to control a poor pass on the edge of the box then shoots towards the right side of the goal. [PLAYER] is out of position but leaps to make a brilliant save. The ball is off of the pitch and it's a goal kick for [TEAM].",
+    "O3": "The foul by [PLAYER] ([TEAM]) was seen by [REFEREE] who didn't hesitate to blow the whistle.",
+    "O4": "An amazing individual effort from [PLAYER] ([TEAM]) ends with a strike from inside the penalty area. He sends the ball low into the middle of the goal and makes it 3:0. [PLAYER] was helpless."
+  },
+  {
+    "Q": "Generate commentary lines for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-11-19 - 20-30 Dortmund 1 - 0 Bayern Munich/1_41_44.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick.",
+    "closeA": "O3",
+    "O1": "[PLAYER] does a good job setting up [PLAYER] ([TEAM]) on the edge of the box, but his nice effort curls just over the bar.",
+    "O2": "[PLAYER] ([TEAM]) clearly holds his opponent to prevent him from getting the ball and the referee immediately stops play.",
+    "O3": "[PLAYER] ([TEAM]) decides to speed play up with a short corner kick.",
+    "O4": "[PLAYER] ([TEAM]) commits a foul and is shown a yellow card."
+  },
+  {
+    "Q": "Generate commentary content for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-04-22 - 21-45 Real Madrid 1 - 0 Atl. Madrid/1_20_59.mp4"
+    ],
+    "openA": "[REFEREE] couldn't ignore the rough tackle by [PLAYER] ([TEAM]) and blew his whistle.",
+    "closeA": "O4",
+    "O1": "[PLAYER] ([TEAM]) decides to speed play up by quickly sending the free kick into the box.",
+    "O2": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball goes out of play and [TEAM] have been awarded a corner kick.",
+    "O3": "[PLAYER] ([TEAM]) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",
+    "O4": "[REFEREE] couldn't ignore the rough tackle by [PLAYER] ([TEAM]) and blew his whistle."
+  },
+  {
+    "Q": "Create a commentary script for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich/2_12_23.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) works the corner short instead of sending the ball into the penalty area.",
+    "closeA": "O4",
+    "O1": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+    "O2": "[PLAYER] ([TEAM]) attempted to pick out a free teammate inside the box, but [PLAYER] comes off the line to clear the ball away.",
+    "O3": "That's it for today, [REFEREE] has blown his whistle and the game is over.",
+    "O4": "[PLAYER] ([TEAM]) works the corner short instead of sending the ball into the penalty area."
+  },
+  {
+    "Q": "Generate a comment for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/italy_serie-a_2015-2016/2015-08-29 - 21-45 AC Milan 2 - 1 Empoli/1_29_00.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball.",
+    "closeA": "O1",
+    "O1": "[PLAYER] ([TEAM]) sends a cross into the box, but [PLAYER] comes off his line to gather the ball.",
+    "O2": "The referee blows the whistle and gives a penalty to [TEAM]!!",
+    "O3": "[TEAM] take a short corner kick.",
+    "O4": "[PLAYER] ([TEAM]) swings in a cross from the corner, but [PLAYER] reads it well and gathers the ball."
+  },
+  {
+    "Q": "Describe the content of this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-09-10 - 19-30 RB Leipzig 1 - 0 Dortmund/1_38_39.mp4"
+    ],
+    "openA": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+    "closeA": "O1",
+    "O1": "A yellow card for a tackle by [PLAYER] ([TEAM]). [REFEREE] doesn't hesitate at all to make this decision.",
+    "O2": "A cross from a mid-range free kick, taken by [TEAM], is intercepted by one of the defenders. The ball is out of play. A goal-scoring opportunity from a corner for [TEAM].",
+    "O3": "41:59 – this is the current ball possession ratio.",
+    "O4": "[PLAYER] ([TEAM]) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety."
+  },
+  {
+    "Q": "Write a commentary language for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/2_10_09.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag.",
+    "closeA": "O4",
+    "O1": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+    "O2": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee.",
+    "O3": "What a goal! [PLAYER] swings a cross into the box and [PLAYER] ([TEAM]) scores a magnificent back-heel goal! 1:0.",
+    "O4": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag."
+  },
+  {
+    "Q": "Generate a commentary content description for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/england_epl_2019-2020/2020-01-01_manchester-city-everton-fc-premier-league-2019-2020/1_33_00.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up.",
+    "closeA": "O4",
+    "O1": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul.",
+    "O2": "[PLAYER] ([TEAM]) whips in the corner, but one of the defending players gets a head on it and intercepts.",
+    "O3": "[TEAM] are showcasing great team work by exchanging some short passes and one-two passes, waiting to open the opposition's defence and hit them swiftly on the break.",
+    "O4": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up."
+  },
+  {
+    "Q": "Write a commentary text description for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/spain_laliga_2014-2015/2015-04-25 - 17-00 Espanyol 0 - 2 Barcelona/2_45_50.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) was probably a bit loose with his words to [REFEREE], who decides to show him a yellow.",
+    "closeA": "O3",
+    "O1": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul.",
+    "O2": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on.",
+    "O3": "[PLAYER] ([TEAM]) was probably a bit loose with his words to [REFEREE], who decides to show him a yellow.",
+    "O4": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside."
+  },
+  {
+    "Q": "Generate commentary content for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/europe_champions-league_2019-2020/2019-10-23_fc-internazionale-borussia-dortmund-champions-league/1_23_28.mp4"
+    ],
+    "openA": "Referee [REFEREE] points to the centre spot to indicate that the goal stands after the VAR review. The [TEAM] players celebrate.",
+    "closeA": "O3",
+    "O1": "[PLAYER] ([TEAM]) goes in the referee's notebook after being shown a yellow card.",
+    "O2": "A good clearance by a defender means the corner comes to nothing for [TEAM].",
+    "O3": "Referee [REFEREE] points to the centre spot to indicate that the goal stands after the VAR review. The [TEAM] players celebrate.",
+    "O4": "[PLAYER] ([TEAM]) is having a really tough time right now. We are about to find out how serious his injury is."
+  },
+  {
+    "Q": "Write a comment for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea/2_01_37.mp4"
+    ],
+    "openA": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM]). The ball is out of play. [TEAM] will have a throw-in.",
+    "closeA": "O1",
+    "O1": "The defence is alert as they clear a dangerous cross from [PLAYER] ([TEAM]). The ball is out of play. [TEAM] will have a throw-in.",
+    "O2": "[PLAYER] ([TEAM]) misses the left post by a whisker with a mid-range rebound. What a chance that was!",
+    "O3": "[PLAYER] ([TEAM]) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",
+    "O4": "[PLAYER] ([TEAM]) scores from a free kick after smashing the ball over the defensive wall and into the top left corner of the goal!"
+  },
+  {
+    "Q": "Generate a commentary script for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2016-2017/2017-05-06 - 17-00 Leicester 3 - 0 Watford/2_29_52.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) meets a delivery on the edge of the penalty area and shoots towards the top of the net. He didn't put enough power into the effort, though, and [PLAYER] produces an easy save.",
+    "closeA": "O2",
+    "O1": "[PLAYER] ([TEAM]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",
+    "O2": "[PLAYER] ([TEAM]) meets a delivery on the edge of the penalty area and shoots towards the top of the net. He didn't put enough power into the effort, though, and [PLAYER] produces an easy save.",
+    "O3": "Looks like [PLAYER] ([TEAM]) is struggling after picking up a knock. Hopefully he can run it off.",
+    "O4": "[TEAM] can’t profit from the corner as the defence clear the ball upfield."
+  },
+  {
+    "Q": "Generate a commentary script for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2016-11-23 - 22-45 Arsenal 2 - 2 Paris SG/2_35_27.mp4"
+    ],
+    "openA": "[COACH] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+    "closeA": "O4",
+    "O1": "[REFEREE] blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play. [TEAM] have a free kick.",
+    "O2": "The shot by [PLAYER] ([TEAM]) from the edge of the box low towards the middle of the goal lacks power and is easily saved by [PLAYER].",
+    "O3": "Long passes, short passes and one-two passes. [TEAM] are showcasing great team work by keeping possession and producing pin-point passes from player to player. The opposition's players are finding it very difficult to intercept at the moment.",
+    "O4": "[COACH] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+  },
+  {
+    "Q": "Create a commentary script for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln/2_28_56.mp4"
+    ],
+    "openA": "Great teamplay by [TEAM] as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score.",
+    "closeA": "O1",
+    "O1": "Great teamplay by [TEAM] as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score.",
+    "O2": "The defender bravely blocks the shot from [PLAYER] ([TEAM]) inside the box. [TEAM] earn a corner.",
+    "O3": "[PLAYER] ([TEAM]) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",
+    "O4": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+  },
+  {
+    "Q": "Generate commentary content for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2016-2017/2016-08-27 - 14-30 Tottenham 1 - 1 Liverpool/1_22_02.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger.",
+    "closeA": "O2",
+    "O1": "[PLAYER] ([TEAM]) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders. [TEAM] get a corner.",
+    "O2": "[PLAYER] ([TEAM]) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger.",
+    "O3": "[PLAYER] ([TEAM]) brings his opponent down with a tackle and [REFEREE] blows his whistle for a foul.",
+    "O4": "[PLAYER] ([TEAM]) is shown a yellow card after a horrible tackle."
+  },
+  {
+    "Q": "Write a commentary for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2016-2017/2016-08-27 - 14-30 Tottenham 1 - 1 Liverpool/2_07_06.mp4"
+    ],
+    "openA": "Corner kick. [PLAYER] ([TEAM]) is ready to send the ball into the box.",
+    "closeA": "O1",
+    "O1": "Corner kick. [PLAYER] ([TEAM]) is ready to send the ball into the box.",
+    "O2": "Wasted opportunity! [PLAYER] ([TEAM]) picked up a pass and had lots of options, but instead decided to shoot from distance and it went high over the bar.",
+    "O3": "The goal by [TEAM] is DISALLOWED on the advice of the video assistant referee due to an offside.",
+    "O4": "Substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+  },
+  {
+    "Q": "Generate a commentary script for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea/1_26_51.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+    "closeA": "O2",
+    "O1": "Wasted opportunity. [PLAYER] ([TEAM]) gets to the rebound inside the box and smashes the ball just wide of the right post.",
+    "O2": "[PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+    "O3": "The ball goes out of play. [TEAM] are awarded a corner kick.",
+    "O4": "[PLAYER] ([TEAM]) makes his forward run a little too early and is caught in an offside position after his teammate tries to play a pass to him."
+  },
+  {
+    "Q": "Generate commentary text for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-02-24 - 22-45 Manchester City 1 - 2 Barcelona/2_29_14.mp4"
+    ],
+    "openA": "[PLAYER] is not able to continue due to his injury and will be replaced by [PLAYER] ([TEAM]).",
+    "closeA": "O1",
+    "O1": "[PLAYER] is not able to continue due to his injury and will be replaced by [PLAYER] ([TEAM]).",
+    "O2": "We will have 5 min. of added time.",
+    "O3": "[PLAYER] ([TEAM]) does not realise that he has already received a yellow card and is shocked when the referee shows him a second one!",
+    "O4": "[PLAYER] ([TEAM]) fails to find a teammate across the pitch with a long ball."
+  },
+  {
+    "Q": "Write commentary content for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2015-2016/2015-10-24 - 17-00 West Ham 2 - 1 Chelsea/1_32_29.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) produces a mid-range free kick and sends a daisy-cutter towards the left post, but the goalkeeper makes a good save and stops his effort.",
+    "closeA": "O2",
+    "O1": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) kicks an opponent's legs instead of the ball.",
+    "O2": "[PLAYER] ([TEAM]) produces a mid-range free kick and sends a daisy-cutter towards the left post, but the goalkeeper makes a good save and stops his effort.",
+    "O3": "[PLAYER] goes off the pitch and [PLAYER] Bastiao Dias ([TEAM]) comes on.",
+    "O4": "Corner kick. [PLAYER] ([TEAM]) is ready to send the ball into the box."
+  },
+  {
+    "Q": "Write a commentary text description for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/spain_laliga_2015-2016/2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF/2_12_59.mp4"
+    ],
+    "openA": "There's an opportunity for [PLAYER] ([TEAM]) to deliver the ball into the box from a corner.",
+    "closeA": "O3",
+    "O1": "[PLAYER] ([TEAM]) attempts to find [PLAYER], but puts far too much on the pass and the chance is gone. The ball goes out of play and [TEAM] will have a goal kick.",
+    "O2": "Goal! [PLAYER] ([TEAM]) fires the rebound into the roof of the net after the ball breaks to him in the box. The score is 1:1.",
+    "O3": "There's an opportunity for [PLAYER] ([TEAM]) to deliver the ball into the box from a corner.",
+    "O4": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked. The ball is out of play and [TEAM] manage to earn a corner."
+  },
+  {
+    "Q": "Write a commentary text description for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/italy_serie-a_2016-2017/2017-02-26 - 22-45 Inter 1 - 3 AS Roma/2_32_02.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball.",
+    "closeA": "O4",
+    "O1": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+    "O2": "[PLAYER] ([TEAM]) is caught offside!",
+    "O3": "Goal [PLAYER] ([TEAM])! [PLAYER] ([TEAM]) was put through by [PLAYER] and he showed brilliant composure inside the box to fire into the right side of the net. 1:1.",
+    "O4": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+  },
+  {
+    "Q": "Generate commentary lines for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/spain_laliga_2021-2022/2021-09-22_real-madrid-rcd-mallorca-liga-1-division-2021-2022/1_45_00.mp4"
+    ],
+    "openA": "We will have 2 min. of added time.",
+    "closeA": "O3",
+    "O1": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. [TEAM] have been awarded a corner kick.",
+    "O2": "[PLAYER] ([TEAM]) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders.",
+    "O3": "We will have 2 min. of added time.",
+    "O4": "[PLAYER] sends a superb cross into the box. [PLAYER] ([TEAM]) latches on to it and from close range plants a header into the bottom right corner, leaving [PLAYER] beaten. He displayed his eye for goal there - excellent finish. The score is 1:0."
+  },
+  {
+    "Q": "Generate commentary content for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/italy_serie-a_2019-2020/2019-10-26_us-lecce-juventus-fc-serie-a-2019-2020/2_40_12.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) is moving okay again after that injury scare.",
+    "closeA": "O1",
+    "O1": "[PLAYER] ([TEAM]) is moving okay again after that injury scare.",
+    "O2": "Wonderful movement by [TEAM]. The players are holding possession, mostly exchanging one-touch passes. They control the pace of the game now.",
+    "O3": "[REFEREE] is looking at his watch and immediately ends this match.",
+    "O4": "[PLAYER] ([TEAM]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away."
+  },
+  {
+    "Q": "Create a commentary script for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2016-11-01 - 20-45 Besiktas 1 - 1 Napoli/1_40_37.mp4"
+    ],
+    "openA": "[PLAYER] whips the ball in and it arrives at the feet of [PLAYER] ([TEAM]), whose wild shot goes well wide of the left post.",
+    "closeA": "O3",
+    "O1": "The referee [REFEREE] awards [PLAYER] Keita ([TEAM]) a yellow card.",
+    "O2": "[PLAYER] ([TEAM]) finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception.",
+    "O3": "[PLAYER] whips the ball in and it arrives at the feet of [PLAYER] ([TEAM]), whose wild shot goes well wide of the left post.",
+    "O4": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+  },
+  {
+    "Q": "Generate a commentary annotation for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/europe_champions-league_2022-2023/2022-09-06_sl-benfica-maccabi-haifa/2_22_55.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals.",
+    "closeA": "O1",
+    "O1": "[PLAYER] ([TEAM]) fouls an opponent. At least that's what referee [REFEREE] signals.",
+    "O2": "[PLAYER] ([TEAM]) sends a chip pass into the box, but [PLAYER] is quickest to intercept the ball.",
+    "O3": "The referee signals that it is time for a substitution and [PLAYER] ([TEAM]) comes onto the pitch so that Salis [PLAYER] Samed can be given a rest.",
+    "O4": "The teams are back out for the second half and here is a change on the pitch. [PLAYER] gives a chance to [PLAYER] ([TEAM]) and [PLAYER] is off."
+  },
+  {
+    "Q": "Generate a commentary script for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/spain_laliga_2015-2016/2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF/2_24_39.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) takes out his opponent with a horrific tackle and is relieved when the referee only shows him a yellow card.",
+    "closeA": "O3",
+    "O1": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The ball is out of play. [TEAM] win a corner kick.",
+    "O2": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+    "O3": "[PLAYER] ([TEAM]) takes out his opponent with a horrific tackle and is relieved when the referee only shows him a yellow card.",
+    "O4": "[PLAYER] ([TEAM]) passes the ball into the box but an opposing player clears."
+  },
+  {
+    "Q": "Write a comment for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/spain_laliga_2015-2016/2016-03-02 - 23-00 Levante 1 - 3 Real Madrid/1_38_39.mp4"
+    ],
+    "openA": "The referee can't ignore those comments and [PLAYER] ([TEAM]) sees a yellow card for bad language.",
+    "closeA": "O2",
+    "O1": "[PLAYER] ([TEAM]) delivers a promising cross into the box, but it's cleared. The referee points to the corner flag. It's a corner to [TEAM].",
+    "O2": "The referee can't ignore those comments and [PLAYER] ([TEAM]) sees a yellow card for bad language.",
+    "O3": "Goal! [PLAYER] ([TEAM]) is quickest to react to the rebound and stabs the ball into the back of the net. It's 1:2.",
+    "O4": "[PLAYER] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER]."
+  },
+  {
+    "Q": "Write a commentary language for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2016-11-23 - 22-45 Arsenal 2 - 2 Paris SG/2_33_55.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the left post.",
+    "closeA": "O1",
+    "O1": "[PLAYER] ([TEAM]) wastes a big opportunity! He controls the ball after a nice low pass and shoots from a promising distance. His poor effort goes miles wide of the left post.",
+    "O2": "This is a yellow card! [PLAYER] ([TEAM]) is not happy with the decision, but from our point of view it was clear.",
+    "O3": "[PLAYER] ([TEAM]) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",
+    "O4": "[PLAYER] ([TEAM]) shakes off the attention of a defender and from mid-range lets fly towards the middle of the goal, but [PLAYER] is well positioned to make a comfortable save."
+  },
+  {
+    "Q": "Write a commentary for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/italy_serie-a_2016-2017/2016-12-04 - 17-00 Lazio 0 - 2 AS Roma/1_29_50.mp4"
+    ],
+    "openA": "A free kick into the box, taken by [PLAYER] ([TEAM]), is comfortably cleared by the opposition's defence.",
+    "closeA": "O2",
+    "O1": "We are about to witness a substitution. [PLAYER] ([TEAM]) is replacing [PLAYER].",
+    "O2": "A free kick into the box, taken by [PLAYER] ([TEAM]), is comfortably cleared by the opposition's defence.",
+    "O3": "[PLAYER] ([TEAM]) commits a rough challenge and Javier Alberola Rojas blows his whistle for an infringement.",
+    "O4": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+  },
+  {
+    "Q": "Generate a matching comment for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/europe_champions-league_2018-2019/2018-10-24_paris-saint-germain-ssc-napoli/2_11_00.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+    "closeA": "O2",
+    "O1": "A short pass finds [PLAYER] ([TEAM]). He spots the keeper off his line and shoots from mid-range, but the ball sails high over the bar.",
+    "O2": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+    "O3": "The resulting corner, taken by Yaroslav Rakitsky ([TEAM]), comes to nothing.",
+    "O4": "A lofted cross from [PLAYER] ([TEAM]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. It will be a corner kick for [TEAM]."
+  },
+  {
+    "Q": "Generate commentary lines for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/italy_serie-a_2016-2017/2017-02-26 - 22-45 Inter 1 - 3 AS Roma/2_37_36.mp4"
+    ],
+    "openA": "The referee shows the yellow card to [PLAYER] ([TEAM]).",
+    "closeA": "O2",
+    "O1": "There will be a change on the pitch for the second half. [PLAYER] probably wasn't satisfied with the performance of [PLAYER]. He is replaced by [PLAYER] ([TEAM]).",
+    "O2": "The referee shows the yellow card to [PLAYER] ([TEAM]).",
+    "O3": "An attempted cross from [PLAYER] ([TEAM]) is cleared.",
+    "O4": "[PLAYER] ([TEAM]) sends in a poor cross from the corner and [PLAYER] has no trouble gathering it."
+  },
+  {
+    "Q": "Write a comment for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/italy_serie-a_2015-2016/2015-08-29 - 21-45 AC Milan 2 - 1 Empoli/1_18_58.mp4"
+    ],
+    "openA": "Goal! [PLAYER] displays great vision and sends a pass to [PLAYER] ([TEAM]), who shows brilliant composure inside the box to bury the ball into the back of the net. The score is 1:1.",
+    "closeA": "O1",
+    "O1": "Goal! [PLAYER] displays great vision and sends a pass to [PLAYER] ([TEAM]), who shows brilliant composure inside the box to bury the ball into the back of the net. The score is 1:1.",
+    "O2": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+    "O3": "Superb touch by [PLAYER] ([TEAM]) as he receives a precise pass inside the box. He finds the keeper prepared as he unleashes his shot to the left side of the goal. Wonderful save!",
+    "O4": "[PLAYER] ([TEAM]) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition."
+  },
+  {
+    "Q": "Write a commentary language for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/europe_champions-league_2019-2020/2020-02-26_real-madrid-manchester-city-champions-league/2_23_50.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",
+    "closeA": "O2",
+    "O1": "[PLAYER] ([TEAM]) is caught offside!",
+    "O2": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",
+    "O3": "The half-time break is over and the second half is about to start.",
+    "O4": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul."
+  },
+  {
+    "Q": "Describe the content of this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-11-08 - 17-30 Dortmund 3 - 2 Schalke/1_40_03.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",
+    "closeA": "O4",
+    "O1": "[PLAYER] ([TEAM]) fails to find any of his teammates inside the box as his pass is blocked.",
+    "O2": "[PLAYER] ([TEAM]) meets a cross inside the box, but [PLAYER] wins the battle for the ball and the chance is gone.",
+    "O3": "The free kick is taken by [PLAYER] ([TEAM]), but ball is cleared.",
+    "O4": "[PLAYER] ([TEAM]) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside."
+  },
+  {
+    "Q": "Write a commentary for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/italy_serie-a_2016-2017/2016-10-02 - 21-45 AS Roma 2 - 1 Inter/2_16_20.mp4"
+    ],
+    "openA": "Here is a change. [PLAYER] is going off and [COACH] gives the last tactical orders to [PLAYER] ([TEAM]).",
+    "closeA": "O1",
+    "O1": "Here is a change. [PLAYER] is going off and [COACH] gives the last tactical orders to [PLAYER] ([TEAM]).",
+    "O2": "[PLAYER] ([TEAM]) gives away a foul during an attacking move and the referee blows his whistle.",
+    "O3": "[PLAYER] ([TEAM]) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",
+    "O4": "[PLAYER] ([TEAM]) makes a driving run into the box but he cannot work any space for a shot."
+  },
+  {
+    "Q": "Generate a commentary annotation for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea/2_01_38.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The referee and one of his assistants signal for a corner kick to [TEAM].",
+    "closeA": "O2",
+    "O1": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul. The referee gives a penalty to [TEAM] after a quick talk with the linesman, who had apparently seen the situation from a better perspective.",
+    "O2": "[PLAYER] ([TEAM]) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The referee and one of his assistants signal for a corner kick to [TEAM].",
+    "O3": "The current number of shots on target for both teams is 16:11.",
+    "O4": "[PLAYER] ([TEAM]) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players."
+  },
+  {
+    "Q": "Generate commentary content for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/italy_serie-a_2021-2022/2021-09-23_uc-sampdoria-ssc-napoli-serie-a-2021-2022/1_02_46.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run.",
+    "closeA": "O2",
+    "O1": "It looks like [PLAYER] ([TEAM]) saw red with that tackle. [REFEREE] won't tolerate such behaviour on the pitch and blows for a foul.",
+    "O2": "[PLAYER] ([TEAM]) is adjudged to have been offside when making his run.",
+    "O3": "The match has just started.",
+    "O4": "A pass into the box finds [PLAYER] ([TEAM]) unmarked. He carefully places a shot towards the middle of the goal, but a brilliant last-ditch save by [PLAYER] denies him."
+  },
+  {
+    "Q": "Generate commentary content for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/italy_serie-a_2015-2016/2015-08-29 - 21-45 AC Milan 2 - 1 Empoli/1_15_53.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) finishes his beautiful individual effort with a superb strike from inside the box. [PLAYER] is just a bystander as the ball flies low into the middle of the goal. The score is 1:0.",
+    "closeA": "O2",
+    "O1": "We will have 2 min. of added time.",
+    "O2": "[PLAYER] ([TEAM]) finishes his beautiful individual effort with a superb strike from inside the box. [PLAYER] is just a bystander as the ball flies low into the middle of the goal. The score is 1:0.",
+    "O3": "Substitution. Junior [PLAYER] makes way for [PLAYER] ([TEAM]).",
+    "O4": "[PLAYER] ([TEAM]) is moving okay again after that injury scare."
+  },
+  {
+    "Q": "Write a commentary text description for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/spain_laliga_2020-2021/2021-02-17_levante-ud-atletico-de-madrid-liga-1-division-2020-2021/1_44_31.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) has picked up a minor injury, but it looks like he will be able to continue.",
+    "closeA": "O4",
+    "O1": "A long cross from the side is directed to the well-positioned [PLAYER] ([TEAM]), but the defence gets it clear. It's a throw-in for [TEAM].",
+    "O2": "[PLAYER] ([TEAM]) came close to scoring but should have done much better. His poor attempt from close range ended up in the gloves of [PLAYER].",
+    "O3": "[TEAM] take a short corner kick.",
+    "O4": "[PLAYER] ([TEAM]) has picked up a minor injury, but it looks like he will be able to continue."
+  },
+  {
+    "Q": "Generate a commentary script for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2015-2016/2015-10-24 - 17-00 West Ham 2 - 1 Chelsea/2_45_13.mp4"
+    ],
+    "openA": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) kicks an opponent's legs instead of the ball. [TEAM] have a free kick from a promising distance.",
+    "closeA": "O3",
+    "O1": "[PLAYER] ([TEAM]) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",
+    "O2": "The referee blows his whistle to signal the start of the second half.",
+    "O3": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) kicks an opponent's legs instead of the ball. [TEAM] have a free kick from a promising distance.",
+    "O4": "[PLAYER] ([TEAM]) is moving okay again after that injury scare."
+  },
+  {
+    "Q": "Write a commentary language for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln/2_29_34.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) connects with a pass but sees his shot from the edge of the box blocked.",
+    "closeA": "O2",
+    "O1": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+    "O2": "[PLAYER] ([TEAM]) connects with a pass but sees his shot from the edge of the box blocked.",
+    "O3": "[TEAM] hold the ball and display nice passing from player to player.",
+    "O4": "[PLAYER] ([TEAM]) fails to connect properly with the corner kick and plants his header way over the bar from the centre of the box."
+  },
+  {
+    "Q": "Write a commentary language for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-11-19 - 20-30 Dortmund 1 - 0 Bayern Munich/2_22_01.mp4"
+    ],
+    "openA": "[COACH] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+    "closeA": "O2",
+    "O1": "The ball is out of play. [TEAM] will take a throw-in.",
+    "O2": "[COACH] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+    "O3": "[REFEREE] blows his whistle and it's [PLAYER] ([TEAM]) who is penalised for an offensive foul. Good decision by the referee.",
+    "O4": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag."
+  },
+  {
+    "Q": "Generate a commentary for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2015-2016/2016-02-03 - 22-45 Watford 0 - 0 Chelsea/2_34_57.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick.",
+    "closeA": "O3",
+    "O1": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear. The ball has crossed the sideline. [TEAM] are taking a throw-in.",
+    "O2": "A crossfield pass from [PLAYER] ([TEAM]) fails to find any of his teammates. The ball is off of the pitch and it's a goal kick for [TEAM].",
+    "O3": "[PLAYER] ([TEAM]) commits a foul and [REFEREE] immediately signals a free kick.",
+    "O4": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat."
+  },
+  {
+    "Q": "Provide a commentary text for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/europe_champions-league_2020-2021/2020-12-08_rb-leipzig-manchester-united/2_04_40.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear. [TEAM] force a corner. Their opponents will face another attacking threat.",
+    "closeA": "O4",
+    "O1": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+    "O2": "The end of the first half.",
+    "O3": "[PLAYER] ([TEAM]) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. A free kick to [TEAM].",
+    "O4": "[PLAYER] ([TEAM]) sends a lofted cross into the box which is headed clear. [TEAM] force a corner. Their opponents will face another attacking threat."
+  },
+  {
+    "Q": "Generate a matching comment for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/spain_laliga_2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid/1_29_24.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) fashions a shot from the edge of the box after receiving an accurate pass. [PLAYER] makes a stunning save to stop the effort from flying into the right side of the goal. [TEAM] win a corner.",
+    "closeA": "O4",
+    "O1": "GOAL! [PLAYER] meets a cross inside the box and heads the ball across the goal, where [PLAYER] ([TEAM]) lurks and pokes it into the back of the net. 1:1.",
+    "O2": "[PLAYER] ([TEAM]) plays a one-two with [PLAYER], but the move breaks down.",
+    "O3": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) kicks an opponent's legs instead of the ball. That's a free kick to [TEAM].",
+    "O4": "[PLAYER] ([TEAM]) fashions a shot from the edge of the box after receiving an accurate pass. [PLAYER] makes a stunning save to stop the effort from flying into the right side of the goal. [TEAM] win a corner."
+  },
+  {
+    "Q": "Generate commentary content for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2015-2016/2016-02-03 - 22-45 Watford 0 - 0 Chelsea/1_27_48.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) picks up a precise pass deep inside the box, but his strike is saved by the keeper.",
+    "closeA": "O3",
+    "O1": "[PLAYER] ([TEAM]) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",
+    "O2": "[PLAYER] Jesus ([TEAM]) reacts well to latch onto a rebound inside the box, but his shot is well blocked.",
+    "O3": "[PLAYER] ([TEAM]) picks up a precise pass deep inside the box, but his strike is saved by the keeper.",
+    "O4": "Good work from [TEAM] as they win a corner."
+  },
+  {
+    "Q": "Write a commentary text description for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-02-24 - 22-45 Manchester City 1 - 2 Barcelona/2_37_23.mp4"
+    ],
+    "openA": "Good clearance! [PLAYER] ([TEAM]) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him.",
+    "closeA": "O4",
+    "O1": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM]).",
+    "O2": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out. [TEAM] force their opponents to concede a corner.",
+    "O3": "[PLAYER] ([TEAM]) makes a rough challenge and the referee blows for a foul.",
+    "O4": "Good clearance! [PLAYER] ([TEAM]) received a low pass, but he didn't have time to do anything as one of the defenders quickly stole the ball off him."
+  },
+  {
+    "Q": "Write a commentary language for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/spain_laliga_2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid/2_19_13.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) whips the ball in from the long-range free kick, but the first man gets it clear.",
+    "closeA": "O4",
+    "O1": "[PLAYER] ([TEAM]) is offside and the linesman raises his flag.",
+    "O2": "[TEAM] take a short corner instead of sending the ball into the penalty area.",
+    "O3": "[PLAYER] ([TEAM]) commits an ugly challenge. The referee sees it and immediately blows his whistle.",
+    "O4": "[PLAYER] ([TEAM]) whips the ball in from the long-range free kick, but the first man gets it clear."
+  },
+  {
+    "Q": "Generate a commentary note for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-02-24 - 22-45 Manchester City 1 - 2 Barcelona/1_40_07.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+    "closeA": "O2",
+    "O1": "The players claim that [PLAYER] ([TEAM]) handled the ball and it seems they are right. It's a free kick to [TEAM] in a dangerous position.",
+    "O2": "[PLAYER] ([TEAM]) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it.",
+    "O3": "Substitution. [PLAYER] ([TEAM]) on for [PLAYER].",
+    "O4": "Handball! A player from [TEAM] handled the ball."
+  },
+  {
+    "Q": "Provide a commentary text for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea/1_16_41.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call. There is a free kick near the sideline to [TEAM].",
+    "closeA": "O4",
+    "O1": "[PLAYER] ([TEAM]) receives a yellow card.",
+    "O2": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is off of the pitch and it's a goal kick for [TEAM].",
+    "O3": "[PLAYER] ([TEAM]) gets into a good scoring position. He creates some space for himself and tries his luck from distance. His decent effort towards the bottom right corner is, however, superbly saved by [PLAYER]!",
+    "O4": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call. There is a free kick near the sideline to [TEAM]."
+  },
+  {
+    "Q": "Generate commentary content for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea/2_48_33.mp4"
+    ],
+    "openA": "The linesman raises his flag as one of the players from [TEAM] was in an offside position.",
+    "closeA": "O4",
+    "O1": "[TEAM] are showing great team chemistry. They are passing it around beautifully. Excellent team work.",
+    "O2": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+    "O3": "A pass by [PLAYER] ([TEAM]) ends up in no man's land, and the attacking effort comes to an end.",
+    "O4": "The linesman raises his flag as one of the players from [TEAM] was in an offside position."
+  },
+  {
+    "Q": "Write a commentary for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester/2_27_07.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) produces a lovely chip pass into the box, but one of the opposition players cuts it out. [PLAYER] ([TEAM]) is the first to arrive to a rebound inside the penalty area and unleashes a quick strike towards the right side of the target that beats the keeper. One of the defenders, however, makes a goal-line clearance. The referee signals a corner kick to [TEAM].",
+    "closeA": "O3",
+    "O1": "The referee had an easy-decision to make. A yellow card is given to [PLAYER] ([TEAM]) for a foul that he committed a little earlier.",
+    "O2": "[TEAM] can’t profit from the corner as the defence clear the ball upfield.",
+    "O3": "[PLAYER] ([TEAM]) produces a lovely chip pass into the box, but one of the opposition players cuts it out. [PLAYER] ([TEAM]) is the first to arrive to a rebound inside the penalty area and unleashes a quick strike towards the right side of the target that beats the keeper. One of the defenders, however, makes a goal-line clearance. The referee signals a corner kick to [TEAM].",
+    "O4": "[PLAYER] ([TEAM]) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance. [TEAM] force a corner. Their opponents will face another attacking threat."
+  },
+  {
+    "Q": "Write a commentary for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/england_epl_2023-2024/2023-11-12_chelsea-fc-manchester-city-premier-league-2023-2024/1_15_39.mp4"
+    ],
+    "openA": "A defender unwittingly blocks the ball on the line after a snap shot from [PLAYER] ([TEAM]) inside the box following a slide rule pass.",
+    "closeA": "O1",
+    "O1": "A defender unwittingly blocks the ball on the line after a snap shot from [PLAYER] ([TEAM]) inside the box following a slide rule pass.",
+    "O2": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement.",
+    "O3": "[PLAYER] ([TEAM]) takes the corner but fails to find any of his teammates.",
+    "O4": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders."
+  },
+  {
+    "Q": "Generate a matching comment for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/europe_champions-league_2020-2021/2020-09-29_dynamo-kyiv-kaa-gent/2_27_31.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+    "closeA": "O2",
+    "O1": "Alejandro Gomez ([TEAM]) sends a pass into the box, but his attempt is thwarted and cleared. [TEAM] earn a corner.",
+    "O2": "[PLAYER] ([TEAM]) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",
+    "O3": "[PLAYER] ([TEAM]) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball is off of the pitch and it's a goal kick for [TEAM].",
+    "O4": "[PLAYER] ([TEAM]) receives a precise pass on the edge of the box and shoots. His poorly placed shot flies well wide of the right post."
+  },
+  {
+    "Q": "Generate commentary content for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/italy_serie-a_2016-2017/2017-02-26 - 22-45 Inter 1 - 3 AS Roma/1_34_59.mp4"
+    ],
+    "openA": "[REFEREE] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul.",
+    "closeA": "O3",
+    "O1": "[PLAYER] displays his ability to read the game and clears the danger after [PLAYER] ([TEAM]) threatened to latch onto a through ball from just outside the box.",
+    "O2": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+    "O3": "[REFEREE] blows the whistle, [PLAYER] ([TEAM]) is penalised for a foul.",
+    "O4": "[TEAM] seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack."
+  },
+  {
+    "Q": "Write a commentary language for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2015-2016/2015-10-03 - 19-30 Chelsea 1 - 3 Southampton/1_11_19.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) sends a lofted cross into the box from the free kick, but [PLAYER] guesses his intention and plucks the ball out of the air.",
+    "closeA": "O2",
+    "O1": "The expression of the referee [REFEREE] is crystal clear. This behaviour won't be tolerated. [PLAYER] ([TEAM]) is shown a yellow card.",
+    "O2": "[PLAYER] ([TEAM]) sends a lofted cross into the box from the free kick, but [PLAYER] guesses his intention and plucks the ball out of the air.",
+    "O3": "[TEAM] quickly take a corner kick with a short pass.",
+    "O4": "What a hit! [PLAYER] ([TEAM]) shows good composure inside the box to fire a first-time shot low into the middle of the net. 1:1."
+  },
+  {
+    "Q": "Describe the content of this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/spain_laliga_2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga/2_31_08.mp4"
+    ],
+    "openA": "[REFEREE] has issued a yellow card to [PLAYER] ([TEAM]).",
+    "closeA": "O2",
+    "O1": "[PLAYER] ([TEAM]) crosses the ball forward but it is intercepted.",
+    "O2": "[REFEREE] has issued a yellow card to [PLAYER] ([TEAM]).",
+    "O3": "[REFEREE] has a clear sight and sees a foul from [PLAYER] ([TEAM]).",
+    "O4": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players."
+  },
+  {
+    "Q": "Write a commentary text description for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2016-2017/2017-05-06 - 17-00 Leicester 3 - 0 Watford/2_42_46.mp4"
+    ],
+    "openA": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety. Now [TEAM] have a corner.",
+    "closeA": "O3",
+    "O1": "[TEAM] slow the tempo of the game down by exchanging a combination of one or two touch passes. The opposition's players are finding it very difficult at the moment, very physically demanding to run without the ball.",
+    "O2": "Substitution. [PLAYER] leaves the pitch and is replaced by [PLAYER] ([TEAM]).",
+    "O3": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety. Now [TEAM] have a corner.",
+    "O4": "[PLAYER] ([TEAM]) has a crack at goal from inside the box, but the defender somehow makes the block to deny him."
+  },
+  {
+    "Q": "Generate commentary content for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2016-11-01 - 20-45 Besiktas 1 - 1 Napoli/1_24_43.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The linesman makes the right call and [TEAM] will have a corner.",
+    "closeA": "O3",
+    "O1": "[PLAYER] ([TEAM]) is penalised for holding. [REFEREE] signals a set piece. [TEAM] win a free kick and will be able to apply some pressure on the opposition goal.",
+    "O2": "[PLAYER] ([TEAM]) puts a dangerous cross into the box, but the corner is cleared by the first man.",
+    "O3": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The linesman makes the right call and [TEAM] will have a corner.",
+    "O4": "[PLAYER] ([TEAM]) sends a cross into the box, but the opposition's defence clears the ball to safety."
+  },
+  {
+    "Q": "Write a commentary language for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-10-01 - 19-30 Bayer Leverkusen 2 - 0 Dortmund/2_36_00.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up.",
+    "closeA": "O2",
+    "O1": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+    "O2": "[PLAYER] ([TEAM]) fails to beat the offside trap and the linesman puts his flag up.",
+    "O3": "[PLAYER] ([TEAM]) gives away a foul for a fierce tackle on an opponent.",
+    "O4": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] Alcantara ([TEAM])."
+  },
+  {
+    "Q": "Generate a commentary note for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2015-2016/2015-11-03 - 22-45 Sevilla 1 - 3 Manchester City/2_36_38.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",
+    "closeA": "O1",
+    "O1": "[PLAYER] ([TEAM]) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",
+    "O2": "[PLAYER] ([TEAM]) fouls his opponent and receives a yellow card from the referee, but he is clearly not happy with the decision.",
+    "O3": "[PLAYER] ([TEAM]) threads a pass through the eye of a needle into the box for [PLAYER], but [PLAYER] displays great awareness to stop him.",
+    "O4": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. [TEAM] get a corner."
+  },
+  {
+    "Q": "Generate commentary content for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/europe_champions-league_2019-2020/2019-08-21_olympiacos-fc-fc-krasnodar/1_26_45.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge.",
+    "closeA": "O2",
+    "O1": "The manager has decided to make a substitution and [PLAYER] walks off the pitch to be replaced by [PLAYER] ([TEAM]).",
+    "O2": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge.",
+    "O3": "3 additional min. will be played.",
+    "O4": "Substitution. [PLAYER] walks off the pitch and [PLAYER] ([TEAM]) comes on as a substitute."
+  },
+  {
+    "Q": "Write a commentary language for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/italy_serie-a_2022-2023/2023-03-11_ssc-napoli-atalanta-bc-serie-a-2022-2023/2_47_57.mp4"
+    ],
+    "openA": "Andre Zambo [PLAYER] ([TEAM]) takes the direct free kick from far out, but his shot flies into the stands.",
+    "closeA": "O2",
+    "O1": "A sweeping move ends with a pass to [PLAYER] ([TEAM]) inside the box. He lets fly towards the middle of the goal, but [PLAYER] was watching it all the way and makes a comfortable save.",
+    "O2": "Andre Zambo [PLAYER] ([TEAM]) takes the direct free kick from far out, but his shot flies into the stands.",
+    "O3": "[PLAYER] ([TEAM]) swings the ball into the box from the corner kick but it's a bit too strong and it goes out of play.",
+    "O4": "[PLAYER] ([TEAM]) commits a rough foul. [REFEREE] stops the game and makes a call."
+  },
+  {
+    "Q": "Write a commentary for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester/1_19_11.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away.",
+    "closeA": "O4",
+    "O1": "Substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+    "O2": "[PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle.",
+    "O3": "[TEAM] will take a corner kick.",
+    "O4": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+  },
+  {
+    "Q": "Write a commentary language for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln/2_12_50.mp4"
+    ],
+    "openA": "[PLAYER] makes a brilliant save! [PLAYER] ([TEAM]) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the left side of the goal but is saved by the keeper!",
+    "closeA": "O3",
+    "O1": "[PLAYER] ([TEAM]) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders.",
+    "O2": "[PLAYER] ([TEAM]) receives the ball in space inside the box and only has the keeper to beat, but sends his first-time shot over the bar.",
+    "O3": "[PLAYER] makes a brilliant save! [PLAYER] ([TEAM]) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the left side of the goal but is saved by the keeper!",
+    "O4": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. [TEAM] have been awarded a corner kick."
+  },
+  {
+    "Q": "Write a commentary description for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2015-2016/2016-03-01 - 22-45 Norwich 1 - 2 Chelsea/1_35_10.mp4"
+    ],
+    "openA": "[COACH] is forced to make a change. [PLAYER] is not able to carry on due to injury. He is replaced by [PLAYER] ([TEAM]).",
+    "closeA": "O2",
+    "O1": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety.",
+    "O2": "[COACH] is forced to make a change. [PLAYER] is not able to carry on due to injury. He is replaced by [PLAYER] ([TEAM]).",
+    "O3": "A cross is clipped into the penalty area by [PLAYER] ([TEAM]) but poses no threat.",
+    "O4": "[TEAM] are bossing possession at the moment by exchanging some precise passes from player to player."
+  },
+  {
+    "Q": "Generate commentary content for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/italy_serie-a_2016-2017/2016-09-11 - 16-00 AC Milan 0 - 1 Udinese/2_40_12.mp4"
+    ],
+    "openA": "[COACH] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+    "closeA": "O1",
+    "O1": "[COACH] has decided to introduce fresh legs, with [PLAYER] ([TEAM]) replacing [PLAYER].",
+    "O2": "Nothing more will happen in this game as the referee blows for full time.",
+    "O3": "[PLAYER] ([TEAM]) passes the ball onto Samuel Dias [PLAYER], but one of the defenders dispossesses him.",
+    "O4": "Goal! A great cross from [PLAYER] finds [PLAYER] ([TEAM]), who scores with a simple header into an empty net. 3:2."
+  },
+  {
+    "Q": "Create a commentary script for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/spain_laliga_2016-2017/2016-11-26 - 18-15 Real Madrid 2 - 1 Gijon/2_25_45.mp4"
+    ],
+    "openA": "One of the [TEAM] players tripped an opponent and conceded a foul. [TEAM] win a free kick.",
+    "closeA": "O1",
+    "O1": "One of the [TEAM] players tripped an opponent and conceded a foul. [TEAM] win a free kick.",
+    "O2": "Neat passing move from [TEAM] in order to create new attacking opportunities.",
+    "O3": "A cross from a corner kick by [TEAM] is too strong and the ball goes well out of play.",
+    "O4": "[PLAYER] ([TEAM]) fails to find a teammate across the pitch with a long ball."
+  },
+  {
+    "Q": "Write a commentary description for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2015-2016/2015-10-24 - 17-00 West Ham 2 - 1 Chelsea/1_22_35.mp4"
+    ],
+    "openA": "[TEAM] are ruled offside.",
+    "closeA": "O1",
+    "O1": "[TEAM] are ruled offside.",
+    "O2": "[PLAYER] ([TEAM]) has picked up a minor injury, but it looks like he will be able to continue.",
+    "O3": "The manager is forced to make a substitution due to a red card. [PLAYER] issues instructions to [PLAYER] ([TEAM]), who will replace [PLAYER].",
+    "O4": "[PLAYER] ([TEAM]) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger."
+  },
+  {
+    "Q": "Write a commentary description for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2015-2016/2015-11-03 - 22-45 Sevilla 1 - 3 Manchester City/2_02_50.mp4"
+    ],
+    "openA": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside.",
+    "closeA": "O3",
+    "O1": "[PLAYER] ([TEAM]) found some space to dink a cross from the side into the box, but it needed to be more precise to threaten the opposition.",
+    "O2": "The referee signals a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER].",
+    "O3": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside.",
+    "O4": "A sweet pass finds [PLAYER] ([TEAM]) on the edge of the box, and he drills the ball towards the bottom right corner. [PLAYER] is almost caught out but pulls off a brilliant save at the last second. The ball is out of play and [TEAM] manage to earn a corner."
+  },
+  {
+    "Q": "Describe the content of this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/spain_laliga_2021-2022/2022-05-15_atletico-de-madrid-sevilla-fc-liga-1-division-2021-2022/2_00_39.mp4"
+    ],
+    "openA": "Half-time substitution. [PLAYER] decided to make a change. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+    "closeA": "O4",
+    "O1": "[PLAYER] ([TEAM]) gets a yellow card.",
+    "O2": "[PLAYER] ([TEAM]) was too forceful with his tackle and [REFEREE] interrupted the game to signal a free kick.",
+    "O3": "[PLAYER] ([TEAM]) wins himself just enough space inside the box to connect with the corner. His header flies towards the roof of the net, but the goalkeeper leaps from the ground and makes a stunning save. The linesman points to the corner flag, [TEAM] are going to take it.",
+    "O4": "Half-time substitution. [PLAYER] decided to make a change. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+  },
+  {
+    "Q": "Write a commentary language for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-09-10 - 19-30 RB Leipzig 1 - 0 Dortmund/2_28_52.mp4"
+    ],
+    "openA": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety.",
+    "closeA": "O3",
+    "O1": "[PLAYER] ([TEAM]) picks up a yellow card.",
+    "O2": "[PLAYER] ([TEAM]) is heading toward the corner flag to take the set piece.",
+    "O3": "Another attempt to send the ball beyond the defence by [PLAYER] ([TEAM]) is thwarted and cleared to safety.",
+    "O4": "The first half of this match is about to start."
+  },
+  {
+    "Q": "Generate a commentary content description for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea/2_05_30.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) commits a foul after unfairly battling his opponent for the ball.",
+    "closeA": "O2",
+    "O1": "[PLAYER] ([TEAM]) attempts to surprise the keeper with a shot from distance, but it lacks accuracy and goes high over the crossbar.",
+    "O2": "[PLAYER] ([TEAM]) commits a foul after unfairly battling his opponent for the ball.",
+    "O3": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+    "O4": "A cross into the box from [PLAYER] ([TEAM]) is cleared."
+  },
+  {
+    "Q": "Write commentary content for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/spain_laliga_2014-2015/2015-04-25 - 17-00 Espanyol 0 - 2 Barcelona/1_29_03.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation.",
+    "closeA": "O3",
+    "O1": "[PLAYER] ([TEAM]) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",
+    "O2": "6 min. of stoppage-time to be played.",
+    "O3": "[PLAYER] ([TEAM]) gives away a foul for a clumsy challenge. Referee [REFEREE] saw the whole situation.",
+    "O4": "Here comes the ref’s decision after the VAR review. It’s not penalty as the referee indicates there was no infringement."
+  },
+  {
+    "Q": "Write a commentary language for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/england_epl_2017-2018/2018-04-08_chelsea-fc-west-ham-united-premier-league-2017-2018/2_32_25.mp4"
+    ],
+    "openA": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+    "closeA": "O4",
+    "O1": "Nothing more will happen in this game as the referee blows for full time.",
+    "O2": "[PLAYER] ([TEAM]) receives a good pass and from just outside the box he unleashes a promising strike, but the shot is blocked by the defender. The referee blows his whistle, [TEAM] are awarded a corner kick.",
+    "O3": "[PLAYER] ([TEAM]) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety.",
+    "O4": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+  },
+  {
+    "Q": "Write a commentary language for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-10-01 - 19-30 Bayer Leverkusen 2 - 0 Dortmund/1_31_48.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) plays a terrific long ball forward to [PLAYER], but he can't beat his man and the move breaks down.",
+    "closeA": "O2",
+    "O1": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+    "O2": "[PLAYER] ([TEAM]) plays a terrific long ball forward to [PLAYER], but he can't beat his man and the move breaks down.",
+    "O3": "[PLAYER] ([TEAM]) receives a well-taken defence-splitting pass inside the box and scores! He buries the ball into the bottom left corner.",
+    "O4": "[PLAYER] ([TEAM]) is caught offside by the linesman and it looks like it is the right decision despite being a very close call."
+  },
+  {
+    "Q": "Generate a comment for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/england_epl_2021-2022/2021-08-23_west-ham-united-leicester-city-premier-league-2021-2022/1_24_26.mp4"
+    ],
+    "openA": "Mohamed [PLAYER] ([TEAM]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",
+    "closeA": "O3",
+    "O1": "Rough tackle by [PLAYER] ([TEAM]). The referee blows his whistle for a foul.",
+    "O2": "It will be a substitution. [PLAYER] ([TEAM]) is ready to enter the pitch as [PLAYER] walks off.",
+    "O3": "Mohamed [PLAYER] ([TEAM]) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",
+    "O4": "What was [PLAYER] ([TEAM]) thinking? He will not get away with that. The referee shows him a yellow card."
+  },
+  {
+    "Q": "Generate a commentary annotation for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-02-24 - 22-45 Manchester City 1 - 2 Barcelona/2_37_50.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) feels very aggrieved after the referee stops play for a foul that he commits while in possession of the ball.",
+    "closeA": "O3",
+    "O1": "Goal - 1:2! [PLAYER] laid the ball off to [PLAYER] ([TEAM]), who shot from close range into the left side of the goal, leaving the goalkeeper helpless.",
+    "O2": "[PLAYER] ([TEAM]) blasts the ball from just outside the box, but his attempt is blocked by the defender.",
+    "O3": "[PLAYER] ([TEAM]) feels very aggrieved after the referee stops play for a foul that he commits while in possession of the ball.",
+    "O4": "Referee [REFEREE] signals that the goal stands after the VAR review and the [TEAM] players have a reason to celebrate!"
+  },
+  {
+    "Q": "Generate a commentary for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea/2_15_44.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) is able to continue to play.",
+    "closeA": "O4",
+    "O1": "[PLAYER] ([TEAM]) is adjudged offside.",
+    "O2": "That's it for today, [REFEREE] has blown his whistle and the game is over.",
+    "O3": "[PLAYER] ([TEAM]) sends a chip pass into the box, but [PLAYER] is quickest to intercept the ball. [TEAM] have a corner.",
+    "O4": "[PLAYER] ([TEAM]) is able to continue to play."
+  },
+  {
+    "Q": "Write a commentary text description for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2015-2016/2015-11-25 - 22-45 Shakhtar Donetsk 3 - 4 Real Madrid/1_25_04.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) is going to send the ball in from the free kick.",
+    "closeA": "O1",
+    "O1": "[PLAYER] ([TEAM]) is going to send the ball in from the free kick.",
+    "O2": "A player from [TEAM] commits a rough challenge. [REFEREE] blows for a foul and keeps the game under control. [TEAM] win a free kick.",
+    "O3": "[PLAYER] ([TEAM]) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders. The referee and one of his assistants signal for a corner kick to [TEAM].",
+    "O4": "There will be a minimum of 2 min. of added time."
+  },
+  {
+    "Q": "Generate commentary text for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/italy_serie-a_2016-2017/2016-12-04 - 17-00 Lazio 0 - 2 AS Roma/1_17_06.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+    "closeA": "O3",
+    "O1": "[PLAYER] will be replaced by [PLAYER] ([TEAM]).",
+    "O2": "An opponent rises to his feet after being downed by [PLAYER] ([TEAM]). [REFEREE] saw the sliding tackle and blows for a foul.",
+    "O3": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away.",
+    "O4": "[PLAYER] plays a neat ball into the path of [PLAYER] ([TEAM]), who makes room for a shot and sends in a low drive which bounces in off the left post! 1:0."
+  },
+  {
+    "Q": "Generate a commentary annotation for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2015-2016/2016-03-01 - 22-45 Norwich 1 - 2 Chelsea/2_34_03.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+    "closeA": "O1",
+    "O1": "[PLAYER] ([TEAM]) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",
+    "O2": "[PLAYER] has decided to substitute [PLAYER] and he is replaced by [PLAYER] ([TEAM]).",
+    "O3": "The first half has started.",
+    "O4": "[PLAYER] ([TEAM]) volleys the ball on the edge of the box after a rebound. It's a great effort and has [PLAYER] scrambling, but it flies just wide of the right post."
+  },
+  {
+    "Q": "Write a commentary language for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln/2_10_38.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) decides to speed play up by quickly sending the free kick into the box.",
+    "closeA": "O4",
+    "O1": "[PLAYER] ([TEAM]) is able to continue to play.",
+    "O2": "The referee blows his whistle and we are underway.",
+    "O3": "[PLAYER] ([TEAM]) shows off his individual ability with a jinking run into the box. Unfortunately, the finish lets him down as the ball flies well wide of the right post. The ball is off of the pitch and it's a goal kick for [TEAM].",
+    "O4": "[PLAYER] ([TEAM]) decides to speed play up by quickly sending the free kick into the box."
+  },
+  {
+    "Q": "Generate a commentary annotation for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2015-2016/2015-11-25 - 22-45 Shakhtar Donetsk 3 - 4 Real Madrid/2_04_02.mp4"
+    ],
+    "openA": "Goal - 0:2! [PLAYER] laid the ball off to [PLAYER] ([TEAM]), who slots it into the back of the net from close range, leaving the goalkeeper helpless.",
+    "closeA": "O4",
+    "O1": "[TEAM] are passing the ball across the pitch and keep possession. However, an opponent intercepts a pass and the situation changes. Corner kick. [TEAM] will have an opportunity.",
+    "O2": "Substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+    "O3": "[REFEREE] blows his whistle. [PLAYER] ([TEAM]) commits a foul after dangerous play.",
+    "O4": "Goal - 0:2! [PLAYER] laid the ball off to [PLAYER] ([TEAM]), who slots it into the back of the net from close range, leaving the goalkeeper helpless."
+  },
+  {
+    "Q": "Provide a commentary text for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen/2_26_13.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) is cautioned by the referee.",
+    "closeA": "O4",
+    "O1": "The referee stops play so that a substitution can be made and [PLAYER] departs the field of play to be replaced by [PLAYER] ([TEAM]).",
+    "O2": "The half-time break is over and the second half is about to start.",
+    "O3": "[PLAYER] ([TEAM]) plays a through ball but overhits it.",
+    "O4": "[PLAYER] ([TEAM]) is cautioned by the referee."
+  },
+  {
+    "Q": "Write a commentary language for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/germany_bundesliga_2020-2021/2021-05-26_1-fc-koln-holstein-kiel/1_07_20.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) takes the free kick but it is cleared by the first defender.",
+    "closeA": "O2",
+    "O1": "[PLAYER] ([TEAM]) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention. The ball is out of play. [TEAM] win a corner kick.",
+    "O2": "[PLAYER] ([TEAM]) takes the free kick but it is cleared by the first defender.",
+    "O3": "[PLAYER] ([TEAM]) commits an ugly tackle on his opponent, but there is no caution from the referee.",
+    "O4": "Here is a change. [PLAYER] is going off and [PLAYER] gives the last tactical orders to [PLAYER] ([TEAM])."
+  },
+  {
+    "Q": "Generate a commentary annotation for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SoccerReplay-1988/spain_laliga_2021-2022/2021-09-22_real-madrid-rcd-mallorca-liga-1-division-2021-2022/1_24_59.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) strikes the ball towards goal from the edge of the penalty box and it goes straight inside the left post!",
+    "closeA": "O2",
+    "O1": "The ball from the corner kick lands at the feet of [PLAYER] ([TEAM]) just outside the box, who takes a shot. The strike heads low towards the right post, but it's deflected away thanks to a wonderful intervention by one of the defenders.",
+    "O2": "[PLAYER] ([TEAM]) strikes the ball towards goal from the edge of the penalty box and it goes straight inside the left post!",
+    "O3": "[PLAYER] ([TEAM]) steadies himself and bends in a shot from the edge of the box towards the bottom right corner, but [PLAYER] has it covered and makes a comfortable save.",
+    "O4": "[PLAYER] Mohammed ([TEAM]) is booked after bringing down an opponent. Javier Alberola Rojas had an easy-decision to make."
+  },
+  {
+    "Q": "Generate commentary content for this football video clip.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/spain_laliga_2015-2016/2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF/1_42_31.mp4"
+    ],
+    "openA": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+    "closeA": "O3",
+    "O1": "[PLAYER] ([TEAM]) attempts to find one of his teammates with a fine lofted pass, but the defence reacts well to intercept the effort.",
+    "O2": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+    "O3": "This yellow card was deserved. The tackle by [PLAYER] ([TEAM]) was quite harsh and [REFEREE] didn't hesitate to show him a yellow card.",
+    "O4": "[PLAYER] ([TEAM]) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball. [TEAM] force a corner. They send men into the box."
+  },
+  {
+    "Q": "Generate commentary text for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea/1_22_16.mp4"
+    ],
+    "openA": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down.",
+    "closeA": "O1",
+    "O1": "A pass from [PLAYER] ([TEAM]) is intercepted by [PLAYER] and the move breaks down.",
+    "O2": "[PLAYER] ([TEAM]) commits a foul during an attacking move.",
+    "O3": "[PLAYER] ([TEAM]) hits a thunderbolt of a shot from the edge of the box, but it's a comfortable save for [PLAYER] as it's directed low at the middle of the goal.",
+    "O4": "[PLAYER] ([TEAM]) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul."
+  },
+  {
+    "Q": "Generate a matching comment for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea/2_05_23.mp4"
+    ],
+    "openA": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick.",
+    "closeA": "O4",
+    "O1": "A cross from [PLAYER] ([TEAM]) fails to reach the box as the defence clears the ball away to safety.",
+    "O2": "[PLAYER] ([TEAM]) beats the defender to the lofted pass inside the box, but can't control his shot and it flashes high over the bar.",
+    "O3": "[PLAYER] ([TEAM]) plays a through ball inside the box, but it's too strong and [PLAYER] comes off his line to intercept.",
+    "O4": "[PLAYER] ([TEAM]) will deliver the ball into the penalty box from a corner kick."
+  },
+  {
+    "Q": "Write a commentary description for this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q11/SN-Caption-test-align/england_epl_2016-2017/2016-08-27 - 14-30 Tottenham 1 - 1 Liverpool/1_27_09.mp4"
+    ],
+    "openA": "[COACH] is forced to make a change. [PLAYER] is unable to continue due to injury, [PLAYER] ([TEAM]) comes on.",
+    "closeA": "O4",
+    "O1": "The match has reached half-time.",
+    "O2": "The resulting set piece from [TEAM] is comfortably intercepted by one of the defending players.",
+    "O3": "The match has just started.",
+    "O4": "[COACH] is forced to make a change. [PLAYER] is unable to continue due to injury, [PLAYER] ([TEAM]) comes on."
+  }
+]

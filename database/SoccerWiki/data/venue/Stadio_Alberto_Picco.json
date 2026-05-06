@@ -1,0 +1,37 @@
+{
+    "VENUE": "Stadio Alberto Picco",
+    "CITY": "La Spezia",
+    "TEAM": "Spezia",
+    "CAPACITY": 11466,
+    "VENUE_URL": "https://wikipedia.org/wiki/Stadio_Alberto_Picco",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Stadio_Alberto_Picco_La_Spezia.jpg/120px-Stadio_Alberto_Picco_La_Spezia.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "MunicipalityofLaSpezia",
+            "Surface": "Grass105x65m",
+            "Capacity": "11,466",
+            "Location": "LaSpezia,Italy"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "1919",
+            "Architect": "Gregottiandassociates"
+        }
+    },
+    "CONTENT": {
+        "Gallery": "Image from Google Maps",
+        "References": {},
+        "External links": "Picco at Stadium Journey"
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a3/Colosseum-2003-07-09.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/25/Curva_Ferrovia_Picco.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/29/Curva_Piscina_Picco.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Distinti_Picco.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bb/La_Spezia_-_A.Picco.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0e/Stadio_Alberto_Picco_La_Spezia.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c6/Tribuna_Picco.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+    ],
+    "SUMMARY": "Stadio Alberto Picco is the main football stadium in La Spezia, Italy. Since 1919, it has been the home ground of Spezia Calcio. The stadium holds 11,466. It was named after Alberto Picco who was the first player of the club to score a goal, then died during World War I.\n\n"
+}

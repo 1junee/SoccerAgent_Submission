@@ -1,0 +1,1202 @@
+[
+  {
+    "Q": "Classify the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/europe_uefa-champions-league_2016-2017/2016-11-01 - 20-45 Besiktas 1 - 1 Napoli/1_12_57.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O4",
+    "O1": "goal",
+    "O2": "corner",
+    "O3": "injury",
+    "O4": "shot off target"
+  },
+  {
+    "Q": "What category should the football event in this clip be marked as?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/italy_serie-a_2016-2017/2017-02-26 - 22-45 Inter 1 - 3 AS Roma/1_36_14.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O3",
+    "O1": "lead to corner",
+    "O2": "yellow card",
+    "O3": "corner",
+    "O4": "var"
+  },
+  {
+    "Q": "Classify the football action in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/spain_laliga_2015-2016/2015-11-08 - 18-00 Barcelona 3 - 0 Villarreal/2_37_32.mp4"
+    ],
+    "openA": "free kick",
+    "closeA": "O2",
+    "O1": "foul lead to penalty",
+    "O2": "free kick",
+    "O3": "var",
+    "O4": "throw in"
+  },
+  {
+    "Q": "What kind of football event is depicted in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/spain_laliga_2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid/1_19_08.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O3",
+    "O1": "yellow card",
+    "O2": "injury",
+    "O3": "clearance",
+    "O4": "throw in"
+  },
+  {
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/spain_laliga_2016-2017/2016-09-21 - 21-00 Real Madrid 1 - 1 Villarreal/2_45_05.mp4"
+    ],
+    "openA": "foul with no card",
+    "closeA": "O4",
+    "O1": "saved by goal-keeper",
+    "O2": "goal",
+    "O3": "shot off target",
+    "O4": "foul with no card"
+  },
+  {
+    "Q": "Which category does the football event in this clip belong to?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-04-22 - 21-45 Real Madrid 1 - 0 Atl. Madrid/2_19_21.mp4"
+    ],
+    "openA": "substitution",
+    "closeA": "O1",
+    "O1": "substitution",
+    "O2": "red card",
+    "O3": "ball out of play",
+    "O4": "end of half game"
+  },
+  {
+    "Q": "What kind of football event is depicted in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/italy_serie-a_2022-2023/2023-03-19_fc-internazionale-juventus-fc-serie-a-2022-2023/2_29_00.mp4"
+    ],
+    "openA": "substitution",
+    "closeA": "O3",
+    "O1": "start of half game",
+    "O2": "corner",
+    "O3": "substitution",
+    "O4": "var"
+  },
+  {
+    "Q": "Can you classify the football event in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/italy_serie-a_2016-2017/2017-01-29 - 17-00 Sampdoria 3 - 2 AS Roma/2_09_16.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O3",
+    "O1": "red card",
+    "O2": "show added time",
+    "O3": "ball out of play",
+    "O4": "lead to corner"
+  },
+  {
+    "Q": "Could you assign a category to the football event in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/italy_serie-a_2015-2016/2015-09-20 - 16-00 Genoa 0 - 2 Juventus/1_11_38.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O4",
+    "O1": "saved by goal-keeper",
+    "O2": "yellow card",
+    "O3": "shot off target",
+    "O4": "clearance"
+  },
+  {
+    "Q": "What type of football event is shown in this video clip?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/england_epl_2016-2017/2016-08-27 - 14-30 Tottenham 1 - 1 Liverpool/1_12_05.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O2",
+    "O1": "end of half game",
+    "O2": "clearance",
+    "O3": "foul with no card",
+    "O4": "foul lead to penalty"
+  },
+  {
+    "Q": "What category does the football action in this video fall under?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-04-22 - 21-45 Real Madrid 1 - 0 Atl. Madrid/2_10_59.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O2",
+    "O1": "free kick",
+    "O2": "clearance",
+    "O3": "shot off target",
+    "O4": "foul lead to penalty"
+  },
+  {
+    "Q": "What category should the football event in this clip be marked as?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/europe_uefa-champions-league_2016-2017/2016-11-01 - 20-45 Besiktas 1 - 1 Napoli/2_15_31.mp4"
+    ],
+    "openA": "throw in",
+    "closeA": "O2",
+    "O1": "red card",
+    "O2": "throw in",
+    "O3": "lead to corner",
+    "O4": "ball out of play"
+  },
+  {
+    "Q": "Which category does the football event in this clip belong to?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/england_epl_2020-2021/2020-12-16_liverpool-fc-tottenham-hotspur-premier-league-2020-2021/2_00_20.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O3",
+    "O1": "goal",
+    "O2": "red card",
+    "O3": "shot off target",
+    "O4": "foul with no card"
+  },
+  {
+    "Q": "What type of football event is shown in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen/1_40_38.mp4"
+    ],
+    "openA": "foul with no card",
+    "closeA": "O3",
+    "O1": "free kick",
+    "O2": "red card",
+    "O3": "foul with no card",
+    "O4": "throw in"
+  },
+  {
+    "Q": "Choose a category for the football scene in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/italy_serie-a_2016-2017/2016-11-26 - 22-45 Empoli 1 - 4 AC Milan/2_17_51.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O2",
+    "O1": "off side",
+    "O2": "ball out of play",
+    "O3": "corner",
+    "O4": "var"
+  },
+  {
+    "Q": "What type of football event is shown in this video clip?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/italy_serie-a_2016-2017/2016-09-11 - 16-00 AC Milan 0 - 1 Udinese/2_38_15.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O4",
+    "O1": "yellow card",
+    "O2": "injury",
+    "O3": "off side",
+    "O4": "clearance"
+  },
+  {
+    "Q": "What kind of football event is depicted in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln/2_09_55.mp4"
+    ],
+    "openA": "yellow card",
+    "closeA": "O1",
+    "O1": "yellow card",
+    "O2": "goal",
+    "O3": "second yellow card",
+    "O4": "throw in"
+  },
+  {
+    "Q": "Choose a category for the football scene in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/spain_laliga_2015-2016/2015-08-29 - 23-30 Real Madrid 5 - 0 Betis/2_33_05.mp4"
+    ],
+    "openA": "foul (no card)",
+    "closeA": "O3",
+    "O1": "corner",
+    "O2": "end of half game",
+    "O3": "foul (no card)",
+    "O4": "injury"
+  },
+  {
+    "Q": "Which category should the football event in this video be placed in?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/europe_champions-league_2023-2024/2023-10-24_galatasaray-sk-bayern-munchen/1_38_41.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O2",
+    "O1": "off side",
+    "O2": "shot off target",
+    "O3": "penalty",
+    "O4": "foul with no card"
+  },
+  {
+    "Q": "Identify and classify the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke/2_02_36.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O3",
+    "O1": "substitution",
+    "O2": "second yellow card",
+    "O3": "corner",
+    "O4": "free kick"
+  },
+  {
+    "Q": "Can you classify the football event in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/italy_serie-a_2016-2017/2016-09-20 - 21-45 AC Milan 2 - 0 Lazio/2_13_10.mp4"
+    ],
+    "openA": "free kick",
+    "closeA": "O1",
+    "O1": "free kick",
+    "O2": "foul with no card",
+    "O3": "start of half game",
+    "O4": "saved by goal-keeper"
+  },
+  {
+    "Q": "Please label the football event in this video with a category.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/italy_serie-a_2020-2021/2021-04-17_cagliari-calcio-parma-calcio/1_14_56.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O4",
+    "O1": "substitution",
+    "O2": "free kick",
+    "O3": "second yellow card",
+    "O4": "corner"
+  },
+  {
+    "Q": "What category does the football scene in this video fall into?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/spain_laliga_2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid/2_36_07.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O2",
+    "O1": "start of half game",
+    "O2": "ball out of play",
+    "O3": "throw in",
+    "O4": "corner"
+  },
+  {
+    "Q": "What category can the football event in this video be classified into?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/england_epl_2015-2016/2015-08-16 - 18-00 Manchester City 3 - 0 Chelsea/2_19_18.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O1",
+    "O1": "shot off target",
+    "O2": "throw in",
+    "O3": "penalty",
+    "O4": "injury"
+  },
+  {
+    "Q": "Classify the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/spain_laliga_2015-2016/2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF/1_10_48.mp4"
+    ],
+    "openA": "lead to corner",
+    "closeA": "O4",
+    "O1": "goal",
+    "O2": "corner",
+    "O3": "saved by goal-keeper",
+    "O4": "lead to corner"
+  },
+  {
+    "Q": "Classify the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/england_epl_2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea/2_20_19.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O1",
+    "O1": "corner",
+    "O2": "foul lead to penalty",
+    "O3": "end of half game",
+    "O4": "yellow card"
+  },
+  {
+    "Q": "Please classify the scene in this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/england_epl_2015-2016/2015-11-08 - 19-00 Arsenal 1 - 1 Tottenham/2_12_38.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O4",
+    "O1": "show added time",
+    "O2": "red card",
+    "O3": "var",
+    "O4": "shot off target"
+  },
+  {
+    "Q": "Which category should the football event in this video be placed in?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/spain_laliga_2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid/1_29_24.mp4"
+    ],
+    "openA": "lead to corner",
+    "closeA": "O3",
+    "O1": "goal",
+    "O2": "substitution",
+    "O3": "lead to corner",
+    "O4": "ball out of play"
+  },
+  {
+    "Q": "Identify and classify the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2015-2016/2015-11-25 - 22-45 Shakhtar Donetsk 3 - 4 Real Madrid/1_22_10.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O1",
+    "O1": "corner",
+    "O2": "injury",
+    "O3": "throw in",
+    "O4": "penalty"
+  },
+  {
+    "Q": "Choose a category for the football scene in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/italy_serie-a_2015-2016/2015-08-29 - 21-45 AC Milan 2 - 1 Empoli/1_15_53.mp4"
+    ],
+    "openA": "goal",
+    "closeA": "O2",
+    "O1": "red card",
+    "O2": "goal",
+    "O3": "throw in",
+    "O4": "start of half game"
+  },
+  {
+    "Q": "Which category should the football event in this video be placed in?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/germany_bundesliga_2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln/2_16_30.mp4"
+    ],
+    "openA": "goal",
+    "closeA": "O4",
+    "O1": "foul lead to penalty",
+    "O2": "foul with no card",
+    "O3": "yellow card",
+    "O4": "goal"
+  },
+  {
+    "Q": "What type of football event is shown in this video clip?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/spain_laliga_2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid/1_35_18.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O4",
+    "O1": "red card",
+    "O2": "var",
+    "O3": "lead to corner",
+    "O4": "shot off target"
+  },
+  {
+    "Q": "What category can the football event in this video be classified as?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/europe_uefa-champions-league_2016-2017/2016-11-01 - 20-45 Besiktas 1 - 1 Napoli/2_05_16.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O4",
+    "O1": "goal",
+    "O2": "second yellow card",
+    "O3": "ball possession",
+    "O4": "ball out of play"
+  },
+  {
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln/2_23_53.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O2",
+    "O1": "ball possession",
+    "O2": "clearance",
+    "O3": "corner",
+    "O4": "ball out of play"
+  },
+  {
+    "Q": "What category can the football event in this video be classified into?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/england_epl_2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea/1_27_47.mp4"
+    ],
+    "openA": "saved by goal-keeper",
+    "closeA": "O3",
+    "O1": "throw in",
+    "O2": "foul with no card",
+    "O3": "saved by goal-keeper",
+    "O4": "var"
+  },
+  {
+    "Q": "Provide a classification for the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/europe_champions-league_2022-2023/2022-09-07_tottenham-hotspur-olympique-de-marseille/1_31_30.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O2",
+    "O1": "free kick",
+    "O2": "clearance",
+    "O3": "shot off target",
+    "O4": "ball out of play"
+  },
+  {
+    "Q": "Please label the football event in this video with a category.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/spain_laliga_2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid/2_17_22.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O2",
+    "O1": "end of half game",
+    "O2": "clearance",
+    "O3": "off side",
+    "O4": "injury"
+  },
+  {
+    "Q": "What category does the football action in this video fall under?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/england_epl_2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester/1_38_15.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O2",
+    "O1": "shot off target",
+    "O2": "corner",
+    "O3": "red card",
+    "O4": "foul lead to penalty"
+  },
+  {
+    "Q": "Please classify the scene in this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/spain_laliga_2015-2016/2016-02-27 - 18-00 Real Madrid 0 - 1 Atl. Madrid/2_25_21.mp4"
+    ],
+    "openA": "throw in",
+    "closeA": "O1",
+    "O1": "throw in",
+    "O2": "show added time",
+    "O3": "free kick",
+    "O4": "off side"
+  },
+  {
+    "Q": "Please categorize the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/italy_serie-a_2019-2020/2019-09-25_ssc-napoli-cagliari-calcio-serie-a-2019-2020/2_35_15.mp4"
+    ],
+    "openA": "ball possession",
+    "closeA": "O4",
+    "O1": "penalty",
+    "O2": "goal",
+    "O3": "clearance",
+    "O4": "ball possession"
+  },
+  {
+    "Q": "What type of football event is shown in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/europe_uefa-champions-league_2015-2016/2016-04-05 - 21-45 Bayern Munich 1 - 0 Benfica/2_44_19.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O1",
+    "O1": "ball out of play",
+    "O2": "red card",
+    "O3": "foul lead to penalty",
+    "O4": "var"
+  },
+  {
+    "Q": "What type of football match event is recorded in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2016-11-23 - 22-45 Arsenal 2 - 2 Paris SG/1_33_44.mp4"
+    ],
+    "openA": "yellow card",
+    "closeA": "O3",
+    "O1": "end of half game",
+    "O2": "off side",
+    "O3": "yellow card",
+    "O4": "lead to corner"
+  },
+  {
+    "Q": "Please categorize the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/spain_laliga_2016-2017/2016-12-18 - 22-45 Barcelona 4 - 1 Espanyol/2_40_55.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O1",
+    "O1": "shot off target",
+    "O2": "throw in",
+    "O3": "injury",
+    "O4": "show added time"
+  },
+  {
+    "Q": "Which category does the football event in this video belong to?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/spain_laliga_2015-2016/2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF/1_44_32.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O4",
+    "O1": "red card",
+    "O2": "ball possession",
+    "O3": "substitution",
+    "O4": "clearance"
+  },
+  {
+    "Q": "What type of football event is shown in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/england_epl_2015-2016/2015-09-20 - 18-00 Southampton 2 - 3 Manchester United/2_14_48.mp4"
+    ],
+    "openA": "substitution",
+    "closeA": "O3",
+    "O1": "throw in",
+    "O2": "lead to corner",
+    "O3": "substitution",
+    "O4": "off side"
+  },
+  {
+    "Q": "Please classify the scene in this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/england_epl_2015-2016/2015-11-08 - 19-00 Arsenal 1 - 1 Tottenham/2_36_41.mp4"
+    ],
+    "openA": "throw in",
+    "closeA": "O3",
+    "O1": "show added time",
+    "O2": "goal",
+    "O3": "throw in",
+    "O4": "off side"
+  },
+  {
+    "Q": "Please categorize the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/england_epl_2015-2016/2015-10-24 - 17-00 West Ham 2 - 1 Chelsea/1_24_50.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O1",
+    "O1": "ball out of play",
+    "O2": "foul with no card",
+    "O3": "free kick",
+    "O4": "penalty"
+  },
+  {
+    "Q": "Assign an appropriate category to the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2015-2016/2015-11-03 - 22-45 Sevilla 1 - 3 Manchester City/1_10_31.mp4"
+    ],
+    "openA": "goal",
+    "closeA": "O2",
+    "O1": "yellow card",
+    "O2": "goal",
+    "O3": "substitution",
+    "O4": "free kick"
+  },
+  {
+    "Q": "What category does the football scene in this video fall into?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/spain_laliga_2015-2016/2016-03-02 - 23-00 Levante 1 - 3 Real Madrid/1_36_01.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O2",
+    "O1": "lead to corner",
+    "O2": "shot off target",
+    "O3": "second yellow card",
+    "O4": "clearance"
+  },
+  {
+    "Q": "Classify the football action in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/england_epl_2022-2023/2023-02-05_tottenham-hotspur-manchester-city-premier-league-2022-2023/2_22_20.mp4"
+    ],
+    "openA": "off side",
+    "closeA": "O3",
+    "O1": "corner",
+    "O2": "foul with no card",
+    "O3": "off side",
+    "O4": "start of half game"
+  },
+  {
+    "Q": "What kind of football event is depicted in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/europe_uefa-champions-league_2015-2016/2015-11-03 - 22-45 Shakhtar Donetsk 4 - 0 Malmo FF/2_41_39.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O2",
+    "O1": "throw in",
+    "O2": "shot off target",
+    "O3": "goal",
+    "O4": "start of half game"
+  },
+  {
+    "Q": "What category can the football event in this video be classified into?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/italy_serie-a_2022-2023/2023-05-13_spezia-calcio-ac-milan-serie-a/2_34_00.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O4",
+    "O1": "foul with no card",
+    "O2": "second yellow card",
+    "O3": "off side",
+    "O4": "clearance"
+  },
+  {
+    "Q": "What category should the football event in this clip be marked as?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/france_ligue-1_2016-2017/2016-08-28 - 21-45 Monaco 3 - 1 Paris SG/1_38_00.mp4"
+    ],
+    "openA": "throw in",
+    "closeA": "O3",
+    "O1": "free kick",
+    "O2": "foul with no card",
+    "O3": "throw in",
+    "O4": "red card"
+  },
+  {
+    "Q": "What kind of football event is depicted in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-02-24 - 22-45 Manchester City 1 - 2 Barcelona/2_04_36.mp4"
+    ],
+    "openA": "foul with no card",
+    "closeA": "O3",
+    "O1": "foul lead to penalty",
+    "O2": "throw in",
+    "O3": "foul with no card",
+    "O4": "off side"
+  },
+  {
+    "Q": "What category can the football event in this video be classified as?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/england_epl_2016-2017/2017-05-06 - 17-00 Leicester 3 - 0 Watford/2_38_53.mp4"
+    ],
+    "openA": "off side",
+    "closeA": "O3",
+    "O1": "ball out of play",
+    "O2": "ball possession",
+    "O3": "off side",
+    "O4": "free kick"
+  },
+  {
+    "Q": "What category should the football event in this clip be marked as?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/italy_serie-a_2022-2023/2023-01-22_ac-monza-us-sassuolo/1_14_48.mp4"
+    ],
+    "openA": "lead to corner",
+    "closeA": "O4",
+    "O1": "second yellow card",
+    "O2": "yellow card",
+    "O3": "var",
+    "O4": "lead to corner"
+  },
+  {
+    "Q": "Please classify the scene in this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/spain_laliga_2016-2017/2017-02-11 - 22-45 Osasuna 1 - 3 Real Madrid/1_44_56.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O3",
+    "O1": "corner",
+    "O2": "yellow card",
+    "O3": "clearance",
+    "O4": "ball possession"
+  },
+  {
+    "Q": "What type of football event is shown in this video clip?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2016-11-01 - 20-45 Besiktas 1 - 1 Napoli/2_14_37.mp4"
+    ],
+    "openA": "off side",
+    "closeA": "O3",
+    "O1": "shot off target",
+    "O2": "ball possession",
+    "O3": "off side",
+    "O4": "yellow card"
+  },
+  {
+    "Q": "Please classify the scene in this football video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/italy_serie-a_2020-2021/2020-09-27_as-roma-juventus-fc-serie-a-2020-2021/1_28_45.mp4"
+    ],
+    "openA": "foul with no card",
+    "closeA": "O4",
+    "O1": "substitution",
+    "O2": "off side",
+    "O3": "goal",
+    "O4": "foul with no card"
+  },
+  {
+    "Q": "Provide a classification for the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/england_epl_2015-2016/2016-02-03 - 22-45 Watford 0 - 0 Chelsea/2_29_38.mp4"
+    ],
+    "openA": "foul with no card",
+    "closeA": "O2",
+    "O1": "lead to corner",
+    "O2": "foul with no card",
+    "O3": "end of half game",
+    "O4": "free kick"
+  },
+  {
+    "Q": "What category can the football event in this video be classified into?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/spain_laliga_2014-2015/2015-04-29 - 21-00 Real Madrid 3 - 0 Almeria/2_14_55.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O3",
+    "O1": "yellow card",
+    "O2": "second yellow card",
+    "O3": "ball out of play",
+    "O4": "show added time"
+  },
+  {
+    "Q": "Provide a classification for the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/england_epl_2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea/2_50_22.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O1",
+    "O1": "corner",
+    "O2": "saved by goal-keeper",
+    "O3": "penalty",
+    "O4": "shot off target"
+  },
+  {
+    "Q": "Which category does the football event in this video belong to?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/italy_serie-a_2016-2017/2017-01-29 - 17-00 Sampdoria 3 - 2 AS Roma/2_36_22.mp4"
+    ],
+    "openA": "saved by goal-keeper",
+    "closeA": "O2",
+    "O1": "injury",
+    "O2": "saved by goal-keeper",
+    "O3": "shot off target",
+    "O4": "goal"
+  },
+  {
+    "Q": "What kind of football event is depicted in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/europe_uefa-champions-league_2015-2016/2015-11-03 - 22-45 Shakhtar Donetsk 4 - 0 Malmo FF/1_24_33.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O3",
+    "O1": "shot off target",
+    "O2": "penalty",
+    "O3": "ball out of play",
+    "O4": "saved by goal-keeper"
+  },
+  {
+    "Q": "What category should the football event in this clip be marked as?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/england_epl_2015-2016/2015-08-16 - 18-00 Manchester City 3 - 0 Chelsea/1_46_55.mp4"
+    ],
+    "openA": "injury",
+    "closeA": "O1",
+    "O1": "injury",
+    "O2": "yellow card",
+    "O3": "free kick",
+    "O4": "foul lead to penalty"
+  },
+  {
+    "Q": "Please categorize the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/germany_bundesliga_2016-2017/2016-11-19 - 20-30 Dortmund 1 - 0 Bayern Munich/2_03_26.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O1",
+    "O1": "ball out of play",
+    "O2": "start of half game",
+    "O3": "clearance",
+    "O4": "show added time"
+  },
+  {
+    "Q": "Could you assign a category to the football event in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/england_epl_2019-2020/2019-12-14_liverpool-fc-watford-fc-premier-league/2_45_20.mp4"
+    ],
+    "openA": "var",
+    "closeA": "O2",
+    "O1": "red card",
+    "O2": "var",
+    "O3": "start of half game",
+    "O4": "free kick"
+  },
+  {
+    "Q": "Which category does the football event in this video belong to?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/england_epl_2015-2016/2015-10-03 - 19-30 Chelsea 1 - 3 Southampton/2_19_44.mp4"
+    ],
+    "openA": "foul with no card",
+    "closeA": "O4",
+    "O1": "off side",
+    "O2": "end of half game",
+    "O3": "foul lead to penalty",
+    "O4": "foul with no card"
+  },
+  {
+    "Q": "Can you classify the football event in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/england_epl_2015-2016/2015-11-08 - 19-00 Arsenal 1 - 1 Tottenham/2_14_40.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O4",
+    "O1": "ball possession",
+    "O2": "shot off target",
+    "O3": "saved by goal-keeper",
+    "O4": "corner"
+  },
+  {
+    "Q": "Please categorize the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/europe_uefa-champions-league_2016-2017/2016-11-01 - 22-45 Manchester City 3 - 1 Barcelona/1_32_20.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O1",
+    "O1": "clearance",
+    "O2": "ball out of play",
+    "O3": "yellow card",
+    "O4": "corner"
+  },
+  {
+    "Q": "Which category does the football event in this clip belong to?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/germany_bundesliga_2016-2017/2017-01-29 - 19-30 1. FSV Mainz 05 1 - 1 Dortmund/2_31_22.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O2",
+    "O1": "shot off target",
+    "O2": "ball out of play",
+    "O3": "clearance",
+    "O4": "lead to corner"
+  },
+  {
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-10-01 - 19-30 Bayer Leverkusen 2 - 0 Dortmund/1_43_56.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O1",
+    "O1": "shot off target",
+    "O2": "start of half game",
+    "O3": "clearance",
+    "O4": "end of half game"
+  },
+  {
+    "Q": "What category does the football scene in this video fall into?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/italy_serie-a_2022-2023/2023-01-22_ac-monza-us-sassuolo/2_32_19.mp4"
+    ],
+    "openA": "substitution",
+    "closeA": "O2",
+    "O1": "shot off target",
+    "O2": "substitution",
+    "O3": "end of half game",
+    "O4": "throw in"
+  },
+  {
+    "Q": "Could you assign a category to the football event in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/england_epl_2022-2023/2023-04-27_tottenham-hotspur-manchester-united-premier-league-2022-2023/2_40_30.mp4"
+    ],
+    "openA": "injury",
+    "closeA": "O2",
+    "O1": "throw in",
+    "O2": "injury",
+    "O3": "foul with no card",
+    "O4": "corner"
+  },
+  {
+    "Q": "Classify the football action in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/spain_laliga_2015-2016/2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF/1_30_23.mp4"
+    ],
+    "openA": "saved by goal-keeper",
+    "closeA": "O3",
+    "O1": "foul lead to penalty",
+    "O2": "throw in",
+    "O3": "saved by goal-keeper",
+    "O4": "red card"
+  },
+  {
+    "Q": "What kind of football event is depicted in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2016-11-01 - 20-45 Besiktas 1 - 1 Napoli/1_17_37.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O4",
+    "O1": "end of half game",
+    "O2": "start of half game",
+    "O3": "penalty",
+    "O4": "corner"
+  },
+  {
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/england_epl_2020-2021/2021-03-07_manchester-city-manchester-united-premier-league-2020-2021/1_37_44.mp4"
+    ],
+    "openA": "saved by goal-keeper",
+    "closeA": "O2",
+    "O1": "second yellow card",
+    "O2": "saved by goal-keeper",
+    "O3": "start of half game",
+    "O4": "goal"
+  },
+  {
+    "Q": "Which category does the football event in this clip belong to?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/spain_laliga_2020-2021/2021-05-16_villarreal-cf-sevilla-fc-liga-1-division-2020-2021/2_08_50.mp4"
+    ],
+    "openA": "free kick",
+    "closeA": "O2",
+    "O1": "second yellow card",
+    "O2": "free kick",
+    "O3": "clearance",
+    "O4": "saved by goal-keeper"
+  },
+  {
+    "Q": "Classify the football action in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/england_epl_2016-2017/2017-05-06 - 17-00 Leicester 3 - 0 Watford/2_05_50.mp4"
+    ],
+    "openA": "shot off target",
+    "closeA": "O2",
+    "O1": "foul lead to penalty",
+    "O2": "shot off target",
+    "O3": "off side",
+    "O4": "red card"
+  },
+  {
+    "Q": "Assign a category to the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich/1_33_26.mp4"
+    ],
+    "openA": "saved by goal-keeper",
+    "closeA": "O1",
+    "O1": "saved by goal-keeper",
+    "O2": "clearance",
+    "O3": "shot off target",
+    "O4": "off side"
+  },
+  {
+    "Q": "Classify the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-11-19 - 20-30 Dortmund 1 - 0 Bayern Munich/2_17_12.mp4"
+    ],
+    "openA": "lead to corner",
+    "closeA": "O1",
+    "O1": "lead to corner",
+    "O2": "red card",
+    "O3": "penalty",
+    "O4": "substitution"
+  },
+  {
+    "Q": "What category can the football event in this video be classified as?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/england_epl_2015-2016/2015-11-08 - 19-00 Arsenal 1 - 1 Tottenham/2_30_48.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O2",
+    "O1": "ball out of play",
+    "O2": "clearance",
+    "O3": "substitution",
+    "O4": "foul with no card"
+  },
+  {
+    "Q": "What type of football event is shown in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/england_epl_2019-2020/2019-10-21_sheffield-united-arsenal-fc/1_07_39.mp4"
+    ],
+    "openA": "injury",
+    "closeA": "O2",
+    "O1": "penalty",
+    "O2": "injury",
+    "O3": "free kick",
+    "O4": "start of half game"
+  },
+  {
+    "Q": "Which category does the football event in this video belong to?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/spain_laliga_2016-2017/2017-04-26 - 20-30 Barcelona 7 - 1 Osasuna/2_11_55.mp4"
+    ],
+    "openA": "goal",
+    "closeA": "O4",
+    "O1": "substitution",
+    "O2": "penalty",
+    "O3": "ball possession",
+    "O4": "goal"
+  },
+  {
+    "Q": "Which category should the football event in this video be placed in?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/spain_laliga_2016-2017/2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/2_43_53.mp4"
+    ],
+    "openA": "foul with no card",
+    "closeA": "O1",
+    "O1": "foul with no card",
+    "O2": "yellow card",
+    "O3": "off side",
+    "O4": "injury"
+  },
+  {
+    "Q": "Can you classify the football event in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/england_epl_2015-2016/2016-02-03 - 22-45 Watford 0 - 0 Chelsea/1_25_58.mp4"
+    ],
+    "openA": "lead to corner",
+    "closeA": "O3",
+    "O1": "yellow card",
+    "O2": "foul lead to penalty",
+    "O3": "lead to corner",
+    "O4": "end of half game"
+  },
+  {
+    "Q": "What category can the football event in this video be classified as?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/spain_laliga_2016-2017/2016-11-26 - 18-15 Real Madrid 2 - 1 Gijon/2_24_41.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O4",
+    "O1": "foul lead to penalty",
+    "O2": "yellow card",
+    "O3": "start of half game",
+    "O4": "clearance"
+  },
+  {
+    "Q": "What category can the football event in this video be classified into?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/england_epl_2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester/1_15_45.mp4"
+    ],
+    "openA": "free kick",
+    "closeA": "O3",
+    "O1": "lead to corner",
+    "O2": "clearance",
+    "O3": "free kick",
+    "O4": "injury"
+  },
+  {
+    "Q": "What kind of football event is depicted in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-04-22 - 21-45 Real Madrid 1 - 0 Atl. Madrid/2_27_35.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O1",
+    "O1": "clearance",
+    "O2": "corner",
+    "O3": "goal",
+    "O4": "var"
+  },
+  {
+    "Q": "Classify the football action in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke/2_11_51.mp4"
+    ],
+    "openA": "substitution",
+    "closeA": "O1",
+    "O1": "substitution",
+    "O2": "injury",
+    "O3": "foul with no card",
+    "O4": "var"
+  },
+  {
+    "Q": "Assign a category to the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-04-22 - 21-45 Real Madrid 1 - 0 Atl. Madrid/2_18_05.mp4"
+    ],
+    "openA": "corner",
+    "closeA": "O2",
+    "O1": "throw in",
+    "O2": "corner",
+    "O3": "foul with no card",
+    "O4": "foul lead to penalty"
+  },
+  {
+    "Q": "What category does the football action in this video fall under?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/europe_uefa-champions-league_2014-2015/2015-05-05 - 21-45 Juventus 2 - 1 Real Madrid/1_34_46.mp4"
+    ],
+    "openA": "throw in",
+    "closeA": "O4",
+    "O1": "substitution",
+    "O2": "ball out of play",
+    "O3": "start of half game",
+    "O4": "throw in"
+  },
+  {
+    "Q": "Provide a classification for the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2015-2016/2015-11-25 - 22-45 Shakhtar Donetsk 3 - 4 Real Madrid/1_19_45.mp4"
+    ],
+    "openA": "foul with no card",
+    "closeA": "O1",
+    "O1": "foul with no card",
+    "O2": "saved by goal-keeper",
+    "O3": "substitution",
+    "O4": "clearance"
+  },
+  {
+    "Q": "Which category does the football event in this clip belong to?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2016-11-23 - 22-45 Arsenal 2 - 2 Paris SG/2_10_56.mp4"
+    ],
+    "openA": "clearance",
+    "closeA": "O1",
+    "O1": "clearance",
+    "O2": "second yellow card",
+    "O3": "ball possession",
+    "O4": "lead to corner"
+  },
+  {
+    "Q": "Which category does the football event in this video belong to?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-10-01 - 19-30 Bayer Leverkusen 2 - 0 Dortmund/2_28_16.mp4"
+    ],
+    "openA": "yellow card",
+    "closeA": "O2",
+    "O1": "lead to corner",
+    "O2": "yellow card",
+    "O3": "shot off target",
+    "O4": "end of half game"
+  },
+  {
+    "Q": "Can you classify the football event in this video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/europe_uefa-champions-league_2015-2016/2015-09-29 - 21-45 Bayern Munich 5 - 0 D. Zagreb/2_15_04.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O1",
+    "O1": "ball out of play",
+    "O2": "free kick",
+    "O3": "lead to corner",
+    "O4": "penalty"
+  },
+  {
+    "Q": "Which category should the football event in this video be placed in?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerReplay-1988/france_league-1_2019-2020/2019-09-28_olympique-lyonnais-fc-nantes-ligue-1-2019-2020/2_45_00.mp4"
+    ],
+    "openA": "show added time",
+    "closeA": "O4",
+    "O1": "penalty",
+    "O2": "substitution",
+    "O3": "end of half game",
+    "O4": "show added time"
+  },
+  {
+    "Q": "What type of football event is shown in this video clip?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/england_epl_2016-2017/2016-08-27 - 14-30 Tottenham 1 - 1 Liverpool/2_12_28.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O1",
+    "O1": "ball out of play",
+    "O2": "goal",
+    "O3": "foul with no card",
+    "O4": "substitution"
+  },
+  {
+    "Q": "Assign a category to the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SoccerNet-v2/germany_bundesliga_2016-2017/2017-04-29 - 16-30 Dortmund 0 - 0 FC Koln/1_28_03.mp4"
+    ],
+    "openA": "ball out of play",
+    "closeA": "O1",
+    "O1": "ball out of play",
+    "O2": "foul lead to penalty",
+    "O3": "clearance",
+    "O4": "shot off target"
+  },
+  {
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q10/SN-Caption-test-align/spain_laliga_2015-2016/2016-03-02 - 23-00 Levante 1 - 3 Real Madrid/1_29_16.mp4"
+    ],
+    "openA": "lead to corner",
+    "closeA": "O3",
+    "O1": "yellow card",
+    "O2": "goal",
+    "O3": "lead to corner",
+    "O4": "foul lead to penalty"
+  }
+]

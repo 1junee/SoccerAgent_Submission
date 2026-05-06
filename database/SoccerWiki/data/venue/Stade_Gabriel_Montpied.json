@@ -1,0 +1,37 @@
+{
+    "VENUE": "Stade Gabriel Montpied",
+    "CITY": "Clermont-Ferrand",
+    "TEAM": "Clermont",
+    "CAPACITY": 10800,
+    "VENUE_URL": "https://wikipedia.org/wiki/Stade_Gabriel-Montpied",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Stade_g_montpied_clermont.jpg/120px-Stade_g_montpied_clermont.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "CityofClermont-Ferrand",
+            "Surface": "grass",
+            "Capacity": "10,800[1](2023–24)17,230(from2025–26)",
+            "Location": "Clermont-Ferrand,France",
+            "Field size": "105mx68m",
+            "Record attendance": "13,576(ClermontFoot63vsOlympiquedeMarseille,11February2023)"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "December 30, 1995 (1995-12-30)",
+            "Expanded": "2023–",
+            "Renovated": "2021",
+            "Construction cost": "77M€(renovation)"
+        }
+    },
+    "CONTENT": {
+        "History": "In the summer of 2023, the start of phase 1 of the work on the new Gabriel Montpied will start with a new configuration for the 2023–24 season without the Tribune Limagne. The stadium's capacity for the 2023–24 season is therefore approximately 10,700 seats.",
+        "See also": "List of football stadiums in FranceLists of stadiums",
+        "References": {},
+        "External links": "Stadium pictures at www.stadiumdb.com"
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Stade_g_montpied_clermont.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Sports_and_games.png"
+    ],
+    "SUMMARY": "The Stade Gabriel-Montpied (French pronunciation: [stad ɡabʁijɛl mɔ̃pje]) is a multi-use stadium in Clermont-Ferrand, France.  It is currently used mostly for football matches and is the home stadium of Clermont Foot.\nIt was also the venue for the inaugural edition of the France Women's Sevens in the World Rugby Women's Sevens Series in 2016, and it hosted the 2017 Clermont-Ferrand Sevens, the third leg of the 2017 Rugby Europe Grand Prix series.\nThe stadium is able to hold 11,980 people and was built in 1995.\n\n"
+}

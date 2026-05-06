@@ -1,0 +1,4802 @@
+[
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-12-10 - 20-30 Leicester 4 - 2 Manchester City/1_720p/1976.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O1",
+    "O1": "Inside the goal",
+    "O2": "Main camera left",
+    "O3": "Spider camera",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-08-27 - 14-30 Tottenham 1 - 1 Liverpool/2_720p/1899.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O2",
+    "O1": "Main behind the goal",
+    "O2": "Close-up player or field referee",
+    "O3": "Main camera right",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-09-12 - 17-00 Espanyol 0 - 6 Real Madrid/1_720p/2068.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O2",
+    "O1": "Main behind the goal",
+    "O2": "Close-up side staff",
+    "O3": "Close-up corner",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-29 - 14-30 Sunderland 1 - 4 Arsenal/2_720p/1702.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O3",
+    "O1": "Spider camera",
+    "O2": "Close-up side staff",
+    "O3": "Close-up corner",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-14 - 16-00 Torino 0 - 5 Napoli/2_720p/2217.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O1",
+    "O1": "Goal line technology camera",
+    "O2": "Close-up behind the goal",
+    "O3": "Close-up corner",
+    "O4": "Public"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-29 - 14-30 Sunderland 1 - 4 Arsenal/1_720p/135.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O1",
+    "O1": "Main camera center",
+    "O2": "Spider camera",
+    "O3": "Close-up behind the goal",
+    "O4": "Public"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-02-22 - 23-00 Elche 0 - 2 Real Madrid/1_720p/250.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O2",
+    "O1": "Other",
+    "O2": "Goal line technology camera",
+    "O3": "Close-up side staff",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-02-15 - 22-45 Real Madrid 3 - 1 Napoli/1_720p/2519.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O1",
+    "O1": "Inside the goal",
+    "O2": "Close-up player or field referee",
+    "O3": "Spider camera",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-09-16 - 22-00 Chelsea 1 - 2 Liverpool/1_720p/1904.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O4",
+    "O1": "Spider camera",
+    "O2": "Main behind the goal",
+    "O3": "Close-up player or field referee",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2014-2015/2015-04-19 - 21-45 Inter 0 - 0 AC Milan/1_720p/2561.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O4",
+    "O1": "Inside the goal",
+    "O2": "Close-up corner",
+    "O3": "Goal line technology camera",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-01-24 - 19-00 Arsenal 0 - 1 Chelsea/1_720p/205.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Main behind the goal",
+    "O3": "Close-up player or field referee",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Chelsea 4 - 0 Maccabi Tel Aviv/1_720p/1708.png"
+    ],
+    "openA": "Public",
+    "closeA": "O3",
+    "O1": "Inside the goal",
+    "O2": "Close-up behind the goal",
+    "O3": "Public",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-09-23 - 22-00 Ath Bilbao 1 - 2 Real Madrid/1_720p/2465.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O1",
+    "O1": "Close-up behind the goal",
+    "O2": "Inside the goal",
+    "O3": "Other",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/1_720p/393.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O3",
+    "O1": "Spider camera",
+    "O2": "Main camera center",
+    "O3": "Close-up corner",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-05-17 - 20-00 Atl. Madrid 0 - 1 Barcelona/1_720p/578.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O1",
+    "O1": "Main camera right",
+    "O2": "Spider camera",
+    "O3": "Public",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-10-20 - 21-45 Arsenal 2 - 0 Bayern Munich/1_720p/600.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O3",
+    "O1": "Public",
+    "O2": "Main behind the goal",
+    "O3": "Close-up behind the goal",
+    "O4": "Other"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-08-29 - 21-30 Barcelona 1 - 0 Malaga/1_720p/613.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O1",
+    "O1": "Close-up behind the goal",
+    "O2": "Main camera right",
+    "O3": "Close-up corner",
+    "O4": "Other"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-11-26 - 18-00 Liverpool 2 - 0 Sunderland/2_720p/1531.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O4",
+    "O1": "Other",
+    "O2": "Main camera right",
+    "O3": "Main camera center",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-04-25 - 16-30 Dortmund 2 - 0 Eintracht Frankfurt/1_720p/1897.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O3",
+    "O1": "Main camera center",
+    "O2": "Close-up player or field referee",
+    "O3": "Main camera right",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-06 - 19-00 Napoli 3 - 1 Cagliari/2_720p/257.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O3",
+    "O1": "Main behind the goal",
+    "O2": "Close-up side staff",
+    "O3": "Main camera right",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-04-09 - 21-45 Lazio 0 - 3 Napoli/2_720p/2069.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Inside the goal",
+    "O2": "Public",
+    "O3": "Main camera center",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-22 - 17-00 Arsenal 0 - 0 Middlesbrough/1_720p/2253.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O3",
+    "O1": "Goal line technology camera",
+    "O2": "Inside the goal",
+    "O3": "Main camera right",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-29 - 17-00 Tottenham 1 - 1 Leicester/1_720p/736.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O1",
+    "O1": "Main camera left",
+    "O2": "Spider camera",
+    "O3": "Main camera right",
+    "O4": "Public"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/france_ligue-1/2016-2017/2016-08-12 - 21-00 Bastia 0 - 1 Paris SG/1_720p/851.png"
+    ],
+    "openA": "Public",
+    "closeA": "O4",
+    "O1": "Inside the goal",
+    "O2": "Goal line technology camera",
+    "O3": "Other",
+    "O4": "Public"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2016-2017/2017-01-29 - 14-00 Betis 1 - 1 Barcelona/2_720p/2371.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O2",
+    "O1": "Public",
+    "O2": "Inside the goal",
+    "O3": "Close-up behind the goal",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-10-04 - 18-30 Bayern Munich 5 - 1 Dortmund/1_720p/1000.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O2",
+    "O1": "Public",
+    "O2": "Close-up player or field referee",
+    "O3": "Other",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea/1_720p/2274.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O1",
+    "O1": "Spider camera",
+    "O2": "Close-up player or field referee",
+    "O3": "Inside the goal",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-03-04 - 17-00 AS Roma 1 - 2 Napoli/1_720p/2435.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O3",
+    "O1": "Close-up corner",
+    "O2": "Close-up player or field referee",
+    "O3": "Main behind the goal",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/2_720p/2058.png"
+    ],
+    "openA": "Public",
+    "closeA": "O1",
+    "O1": "Public",
+    "O2": "Close-up behind the goal",
+    "O3": "Main behind the goal",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-01-29 - 17-00 Sampdoria 3 - 2 AS Roma/1_720p/2691.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O2",
+    "O1": "Close-up corner",
+    "O2": "Goal line technology camera",
+    "O3": "Close-up player or field referee",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-08-14 - 18-00 Arsenal 3 - 4 Liverpool/1_720p/1615.png"
+    ],
+    "openA": "Public",
+    "closeA": "O3",
+    "O1": "Main camera left",
+    "O2": "Main camera center",
+    "O3": "Public",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/france_ligue-1/2016-2017/2016-08-21 - 21-45 Paris SG 3 - 0 Metz/2_720p/124.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Close-up player or field referee",
+    "O2": "Main behind the goal",
+    "O3": "Main camera center",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2016-2017/2017-01-08 - 22-45 Villarreal 1 - 1 Barcelona/1_720p/2295.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O1",
+    "O1": "Main camera right",
+    "O2": "Inside the goal",
+    "O3": "Goal line technology camera",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 AS Roma 1 - 1 Barcelona/1_720p/810.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O2",
+    "O1": "Inside the goal",
+    "O2": "Spider camera",
+    "O3": "Close-up side staff",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt/1_720p/423.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O3",
+    "O1": "Inside the goal",
+    "O2": "Close-up corner",
+    "O3": "Main camera left",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2016-05-08 - 18-00 Real Madrid 3 - 2 Valencia/1_720p/1552.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O4",
+    "O1": "Spider camera",
+    "O2": "Public",
+    "O3": "Other",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/2_720p/930.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O4",
+    "O1": "Main behind the goal",
+    "O2": "Goal line technology camera",
+    "O3": "Spider camera",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-08-22 - 16-30 Hoffenheim 1 - 2 Bayern Munich/2_720p/793.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O1",
+    "O1": "Close-up side staff",
+    "O2": "Main camera right",
+    "O3": "Other",
+    "O4": "Public"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2016-11-05 - 22-45 Napoli 1 - 1 Lazio/2_720p/1681.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O1",
+    "O1": "Main camera center",
+    "O2": "Close-up corner",
+    "O3": "Other",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/1_720p/2402.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O1",
+    "O1": "Main camera right",
+    "O2": "Goal line technology camera",
+    "O3": "Main camera center",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-04-11 - 19-30 Burnley 0 - 1 Arsenal/1_720p/2267.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O3",
+    "O1": "Main camera center",
+    "O2": "Other",
+    "O3": "Main camera left",
+    "O4": "Public"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-02-14 - 19-15 Manchester City 1 - 2 Tottenham/2_720p/446.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O4",
+    "O1": "Main camera right",
+    "O2": "Main camera left",
+    "O3": "Close-up corner",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2016-11-06 - 22-45 AS Roma 3 - 0 Bologna/2_720p/2122.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O2",
+    "O1": "Spider camera",
+    "O2": "Goal line technology camera",
+    "O3": "Other",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln/2_720p/75.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O3",
+    "O1": "Close-up corner",
+    "O2": "Main behind the goal",
+    "O3": "Close-up player or field referee",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-04-11 - 16-30 Bayern Munich 3 - 0 Eintracht Frankfurt/1_720p/1954.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O4",
+    "O1": "Goal line technology camera",
+    "O2": "Close-up corner",
+    "O3": "Main behind the goal",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-05-09 - 16-30 Dortmund 2 - 0 Hertha Berlin/2_720p/2178.png"
+    ],
+    "openA": "Public",
+    "closeA": "O2",
+    "O1": "Close-up side staff",
+    "O2": "Public",
+    "O3": "Inside the goal",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2014-2015/2015-04-19 - 21-45 Inter 0 - 0 AC Milan/2_720p/1675.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O3",
+    "O1": "Spider camera",
+    "O2": "Other",
+    "O3": "Close-up player or field referee",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2016-05-08 - 18-00 Real Madrid 3 - 2 Valencia/1_720p/2546.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O2",
+    "O1": "Other",
+    "O2": "Main camera right",
+    "O3": "Spider camera",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/2_720p/210.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O1",
+    "O1": "Goal line technology camera",
+    "O2": "Close-up player or field referee",
+    "O3": "Main behind the goal",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Bayer Leverkusen 4 - 1 BATE/2_720p/309.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O1",
+    "O1": "Inside the goal",
+    "O2": "Close-up side staff",
+    "O3": "Close-up behind the goal",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-28 - 20-30 Manchester United 0 - 0 Chelsea/1_720p/870.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O3",
+    "O1": "Public",
+    "O2": "Goal line technology camera",
+    "O3": "Main camera left",
+    "O4": "Other"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2016-10-30 - 17-00 Empoli 0 - 0 AS Roma/1_720p/2001.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O4",
+    "O1": "Close-up player or field referee",
+    "O2": "Main camera left",
+    "O3": "Other",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland/1_720p/2604.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O2",
+    "O1": "Goal line technology camera",
+    "O2": "Main camera left",
+    "O3": "Close-up player or field referee",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 AS Roma 1 - 1 Barcelona/1_720p/2597.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O2",
+    "O1": "Close-up side staff",
+    "O2": "Main camera left",
+    "O3": "Close-up corner",
+    "O4": "Other"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Galatasaray 0 - 2 Atl. Madrid/1_720p/1163.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Inside the goal",
+    "O2": "Main behind the goal",
+    "O3": "Main camera center",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina/2_720p/925.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Inside the goal",
+    "O2": "Close-up behind the goal",
+    "O3": "Close-up player or field referee",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-28 - 20-30 Manchester United 0 - 0 Chelsea/1_720p/486.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O1",
+    "O1": "Close-up corner",
+    "O2": "Spider camera",
+    "O3": "Main camera center",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-01-29 - 17-00 Sampdoria 3 - 2 AS Roma/1_720p/295.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O4",
+    "O1": "Close-up corner",
+    "O2": "Spider camera",
+    "O3": "Goal line technology camera",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-12-10 - 20-30 Leicester 4 - 2 Manchester City/2_720p/2155.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O3",
+    "O1": "Main camera right",
+    "O2": "Other",
+    "O3": "Inside the goal",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2016-2017/2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad/1_720p/1209.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O2",
+    "O1": "Close-up player or field referee",
+    "O2": "Inside the goal",
+    "O3": "Other",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool/2_720p/1612.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O4",
+    "O1": "Main camera right",
+    "O2": "Other",
+    "O3": "Public",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-04-30 - 21-45 Inter 0 - 1 Napoli/1_720p/54.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O2",
+    "O1": "Close-up corner",
+    "O2": "Close-up player or field referee",
+    "O3": "Close-up side staff",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/1_720p/55.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O1",
+    "O1": "Main behind the goal",
+    "O2": "Close-up corner",
+    "O3": "Inside the goal",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-08-29 - 23-30 Real Madrid 5 - 0 Betis/2_720p/123.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O4",
+    "O1": "Public",
+    "O2": "Goal line technology camera",
+    "O3": "Close-up behind the goal",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-02-07 - 22-45 AS Roma 4 - 0 Fiorentina/2_720p/2318.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O2",
+    "O1": "Public",
+    "O2": "Main behind the goal",
+    "O3": "Main camera right",
+    "O4": "Other"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen/1_720p/2109.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O2",
+    "O1": "Inside the goal",
+    "O2": "Close-up behind the goal",
+    "O3": "Goal line technology camera",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-12-10 - 20-30 Leicester 4 - 2 Manchester City/1_720p/2384.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O1",
+    "O1": "Inside the goal",
+    "O2": "Close-up behind the goal",
+    "O3": "Close-up side staff",
+    "O4": "Other"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Celtic 0 - 2 Barcelona/2_720p/590.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O1",
+    "O1": "Close-up player or field referee",
+    "O2": "Main camera left",
+    "O3": "Other",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-01-21 - 22-45 AC Milan 1 - 2 Napoli/1_720p/866.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O1",
+    "O1": "Close-up behind the goal",
+    "O2": "Main camera center",
+    "O3": "Main camera left",
+    "O4": "Other"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/1_720p/1839.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O4",
+    "O1": "Goal line technology camera",
+    "O2": "Close-up behind the goal",
+    "O3": "Other",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Real Madrid 4 - 0 Shakhtar Donetsk/2_720p/603.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O2",
+    "O1": "Main camera center",
+    "O2": "Close-up side staff",
+    "O3": "Close-up player or field referee",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2016-2017/2017-01-14 - 18-15 Barcelona 5 - 0 Las Palmas/1_720p/1188.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O2",
+    "O1": "Public",
+    "O2": "Main camera right",
+    "O3": "Other",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-04-11 - 21-00 Sevilla 2 - 2 Barcelona/1_720p/569.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O1",
+    "O1": "Main camera center",
+    "O2": "Main behind the goal",
+    "O3": "Close-up corner",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-04-11 - 16-30 Bayern Munich 3 - 0 Eintracht Frankfurt/1_720p/1887.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O1",
+    "O1": "Close-up player or field referee",
+    "O2": "Main behind the goal",
+    "O3": "Close-up behind the goal",
+    "O4": "Public"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-02-19 - 20-00 AS Roma 4 - 1 Torino/1_720p/2486.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O1",
+    "O1": "Close-up side staff",
+    "O2": "Inside the goal",
+    "O3": "Goal line technology camera",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2016-08-20 - 19-00 AS Roma 4 - 0 Udinese/1_720p/2083.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O3",
+    "O1": "Public",
+    "O2": "Main behind the goal",
+    "O3": "Main camera left",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester/2_720p/1974.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O2",
+    "O1": "Main camera center",
+    "O2": "Close-up behind the goal",
+    "O3": "Other",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Dortmund 4 - 1 Galatasaray/2_720p/478.png"
+    ],
+    "openA": "Public",
+    "closeA": "O1",
+    "O1": "Public",
+    "O2": "Main behind the goal",
+    "O3": "Inside the goal",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 AS Roma 1 - 1 Barcelona/2_720p/1260.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Close-up player or field referee",
+    "O2": "Close-up side staff",
+    "O3": "Main behind the goal",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-05-02 - 17-00 Cordoba 0 - 8 Barcelona/1_720p/2541.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O4",
+    "O1": "Main camera left",
+    "O2": "Close-up player or field referee",
+    "O3": "Goal line technology camera",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-02-22 - 23-00 Elche 0 - 2 Real Madrid/1_720p/246.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O2",
+    "O1": "Other",
+    "O2": "Goal line technology camera",
+    "O3": "Main behind the goal",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2016-2017/2017-04-23 - 21-45 Real Madrid 2 - 3 Barcelona/1_720p/676.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O2",
+    "O1": "Public",
+    "O2": "Main camera center",
+    "O3": "Close-up side staff",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-05-17 - 18-00 Manchester United 1 - 1 Arsenal/1_720p/1555.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O4",
+    "O1": "Main camera center",
+    "O2": "Close-up corner",
+    "O3": "Main camera right",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal/1_720p/286.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O4",
+    "O1": "Public",
+    "O2": "Main camera right",
+    "O3": "Goal line technology camera",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-02 - 18-30 Burnley 0 - 1 Arsenal/1_720p/973.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O1",
+    "O1": "Main camera left",
+    "O2": "Close-up behind the goal",
+    "O3": "Main behind the goal",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland/1_720p/1246.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O2",
+    "O1": "Close-up player or field referee",
+    "O2": "Close-up side staff",
+    "O3": "Public",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool/1_720p/237.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O1",
+    "O1": "Close-up behind the goal",
+    "O2": "Other",
+    "O3": "Close-up player or field referee",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-01-23 - 20-30 West Ham 2 - 2 Manchester City/2_720p/1831.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O2",
+    "O1": "Main camera right",
+    "O2": "Close-up side staff",
+    "O3": "Close-up player or field referee",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland/1_720p/273.png"
+    ],
+    "openA": "Public",
+    "closeA": "O2",
+    "O1": "Main camera right",
+    "O2": "Public",
+    "O3": "Close-up side staff",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Paris SG 2 - 0 Malmo FF/1_720p/1152.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O2",
+    "O1": "Main camera left",
+    "O2": "Close-up behind the goal",
+    "O3": "Main camera center",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid/1_720p/1086.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Inside the goal",
+    "O3": "Close-up behind the goal",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth/2_720p/751.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O2",
+    "O1": "Spider camera",
+    "O2": "Close-up side staff",
+    "O3": "Main camera left",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal/1_720p/1178.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O4",
+    "O1": "Public",
+    "O2": "Main camera center",
+    "O3": "Close-up corner",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2016-12-06 - 22-45 Benfica 1 - 2 Napoli/1_720p/593.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O2",
+    "O1": "Main camera left",
+    "O2": "Close-up corner",
+    "O3": "Public",
+    "O4": "Other"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa/2_720p/473.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O3",
+    "O1": "Main camera center",
+    "O2": "Inside the goal",
+    "O3": "Spider camera",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-01-23 - 20-30 West Ham 2 - 2 Manchester City/1_720p/2109.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Close-up corner",
+    "O2": "Main behind the goal",
+    "O3": "Main camera center",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-01-29 - 17-00 Sampdoria 3 - 2 AS Roma/1_720p/2687.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O1",
+    "O1": "Goal line technology camera",
+    "O2": "Main behind the goal",
+    "O3": "Public",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-11-26 - 18-00 Liverpool 2 - 0 Sunderland/2_720p/451.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O4",
+    "O1": "Main camera center",
+    "O2": "Close-up player or field referee",
+    "O3": "Close-up corner",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley/1_720p/1527.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O3",
+    "O1": "Close-up behind the goal",
+    "O2": "Main behind the goal",
+    "O3": "Main camera right",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal/2_720p/1301.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O2",
+    "O1": "Close-up side staff",
+    "O2": "Main behind the goal",
+    "O3": "Inside the goal",
+    "O4": "Other"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2016-11-06 - 17-00 Palermo 1 - 2 AC Milan/2_720p/268.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O1",
+    "O1": "Main camera left",
+    "O2": "Close-up player or field referee",
+    "O3": "Goal line technology camera",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-09-12 - 21-30 Atl. Madrid 1 - 2 Barcelona/1_720p/1638.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O2",
+    "O1": "Close-up behind the goal",
+    "O2": "Close-up player or field referee",
+    "O3": "Other",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-09-16 - 22-00 Chelsea 1 - 2 Liverpool/1_720p/1040.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O2",
+    "O1": "Inside the goal",
+    "O2": "Close-up side staff",
+    "O3": "Other",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland/2_720p/971.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O3",
+    "O1": "Spider camera",
+    "O2": "Main camera center",
+    "O3": "Close-up side staff",
+    "O4": "Public"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-04-11 - 19-30 Burnley 0 - 1 Arsenal/2_720p/2406.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O3",
+    "O1": "Main camera center",
+    "O2": "Close-up player or field referee",
+    "O3": "Main camera right",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester/1_720p/311.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O4",
+    "O1": "Main camera right",
+    "O2": "Close-up behind the goal",
+    "O3": "Other",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-28 - 20-30 Manchester United 0 - 0 Chelsea/2_720p/852.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O2",
+    "O1": "Other",
+    "O2": "Close-up behind the goal",
+    "O3": "Main camera center",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-06 - 19-00 Napoli 3 - 1 Cagliari/1_720p/585.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O2",
+    "O1": "Main camera left",
+    "O2": "Goal line technology camera",
+    "O3": "Other",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2016-2017/2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad/1_720p/1354.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O1",
+    "O1": "Spider camera",
+    "O2": "Main camera right",
+    "O3": "Public",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Paris SG 2 - 0 Malmo FF/1_720p/46.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Main camera right",
+    "O2": "Close-up player or field referee",
+    "O3": "Main camera center",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-09-16 - 22-00 Chelsea 1 - 2 Liverpool/1_720p/1854.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O1",
+    "O1": "Main camera left",
+    "O2": "Close-up corner",
+    "O3": "Close-up player or field referee",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen/1_720p/339.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O2",
+    "O1": "Main camera left",
+    "O2": "Close-up player or field referee",
+    "O3": "Spider camera",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-04-24 - 21-45 Pescara 1 - 4 AS Roma/1_720p/2643.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O2",
+    "O1": "Main behind the goal",
+    "O2": "Close-up player or field referee",
+    "O3": "Other",
+    "O4": "Public"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-04-25 - 17-00 Espanyol 0 - 2 Barcelona/2_720p/1686.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Inside the goal",
+    "O2": "Public",
+    "O3": "Goal line technology camera",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-01-23 - 20-30 West Ham 2 - 2 Manchester City/1_720p/2325.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O4",
+    "O1": "Close-up behind the goal",
+    "O2": "Inside the goal",
+    "O3": "Goal line technology camera",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-03-12 - 22-45 Palermo 0 - 3 AS Roma/2_720p/1111.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O2",
+    "O1": "Spider camera",
+    "O2": "Close-up player or field referee",
+    "O3": "Goal line technology camera",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2016-2017/2017-04-23 - 21-45 Real Madrid 2 - 3 Barcelona/2_720p/793.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O1",
+    "O1": "Close-up behind the goal",
+    "O2": "Inside the goal",
+    "O3": "Close-up player or field referee",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-04-11 - 16-30 Bayern Munich 3 - 0 Eintracht Frankfurt/1_720p/2612.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Close-up player or field referee",
+    "O2": "Main camera right",
+    "O3": "Main camera center",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/1_720p/1279.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O2",
+    "O1": "Goal line technology camera",
+    "O2": "Main camera right",
+    "O3": "Other",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-02-15 - 22-45 Real Madrid 3 - 1 Napoli/1_720p/1971.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O4",
+    "O1": "Inside the goal",
+    "O2": "Main camera right",
+    "O3": "Main behind the goal",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2016-2017/2016-09-23 - 21-30 Dortmund 3 - 1 SC Freiburg/2_720p/1759.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O4",
+    "O1": "Spider camera",
+    "O2": "Other",
+    "O3": "Close-up side staff",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester/2_720p/536.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Goal line technology camera",
+    "O3": "Main camera right",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-09-17 - 17-00 Hull City 1 - 4 Arsenal/2_720p/1231.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O3",
+    "O1": "Main camera center",
+    "O2": "Close-up corner",
+    "O3": "Main camera right",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/france_ligue-1/2016-2017/2016-08-12 - 21-00 Bastia 0 - 1 Paris SG/2_720p/1094.png"
+    ],
+    "openA": "Public",
+    "closeA": "O3",
+    "O1": "Inside the goal",
+    "O2": "Main behind the goal",
+    "O3": "Public",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Olympiakos Piraeus 0 - 3 Bayern Munich/2_720p/1639.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O2",
+    "O1": "Main camera center",
+    "O2": "Close-up side staff",
+    "O3": "Goal line technology camera",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2016-10-30 - 17-00 Empoli 0 - 0 AS Roma/2_720p/130.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O4",
+    "O1": "Goal line technology camera",
+    "O2": "Close-up player or field referee",
+    "O3": "Close-up behind the goal",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-02-15 - 22-45 Real Madrid 3 - 1 Napoli/1_720p/2310.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O3",
+    "O1": "Main camera center",
+    "O2": "Close-up player or field referee",
+    "O3": "Main behind the goal",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland/1_720p/1404.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Goal line technology camera",
+    "O2": "Other",
+    "O3": "Main camera center",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-11-26 - 18-00 Liverpool 2 - 0 Sunderland/1_720p/2439.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O1",
+    "O1": "Close-up corner",
+    "O2": "Close-up player or field referee",
+    "O3": "Main behind the goal",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-06 - 19-00 Napoli 3 - 1 Cagliari/2_720p/1200.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O2",
+    "O1": "Close-up corner",
+    "O2": "Close-up behind the goal",
+    "O3": "Main behind the goal",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2016-2017/2016-09-23 - 21-30 Dortmund 3 - 1 SC Freiburg/1_720p/548.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O4",
+    "O1": "Main camera center",
+    "O2": "Main behind the goal",
+    "O3": "Main camera right",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/france_ligue-1/2016-2017/2016-08-21 - 21-45 Paris SG 3 - 0 Metz/1_720p/2230.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O1",
+    "O1": "Inside the goal",
+    "O2": "Close-up side staff",
+    "O3": "Main behind the goal",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-02-07 - 22-45 AS Roma 4 - 0 Fiorentina/2_720p/1838.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O1",
+    "O1": "Close-up player or field referee",
+    "O2": "Close-up side staff",
+    "O3": "Public",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2016-05-08 - 18-00 Real Madrid 3 - 2 Valencia/2_720p/2113.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O3",
+    "O1": "Public",
+    "O2": "Other",
+    "O3": "Close-up behind the goal",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-01-24 - 19-00 Arsenal 0 - 1 Chelsea/2_720p/461.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Main camera left",
+    "O2": "Close-up behind the goal",
+    "O3": "Main camera center",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Celtic 0 - 2 Barcelona/2_720p/2283.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O3",
+    "O1": "Inside the goal",
+    "O2": "Spider camera",
+    "O3": "Main behind the goal",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-04-09 - 21-45 Lazio 0 - 3 Napoli/1_720p/2600.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Goal line technology camera",
+    "O3": "Main camera left",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Galatasaray 0 - 2 Atl. Madrid/1_720p/1618.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O4",
+    "O1": "Public",
+    "O2": "Main camera center",
+    "O3": "Close-up player or field referee",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-09-10 - 17-00 Arsenal 2 - 1 Southampton/1_720p/707.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O2",
+    "O1": "Other",
+    "O2": "Close-up behind the goal",
+    "O3": "Goal line technology camera",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Manchester City 1 - 2 Juventus/1_720p/1898.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O1",
+    "O1": "Main behind the goal",
+    "O2": "Spider camera",
+    "O3": "Inside the goal",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-10-04 - 18-30 Bayern Munich 5 - 1 Dortmund/1_720p/610.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O3",
+    "O1": "Main behind the goal",
+    "O2": "Main camera center",
+    "O3": "Close-up corner",
+    "O4": "Public"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-09-26 - 19-15 Real Madrid 0 - 0 Malaga/1_720p/431.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O3",
+    "O1": "Inside the goal",
+    "O2": "Main camera left",
+    "O3": "Main camera right",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-03-02 - 23-00 Liverpool 3 - 0 Manchester City/2_720p/986.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Close-up behind the goal",
+    "O2": "Main camera right",
+    "O3": "Goal line technology camera",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-29 - 19-30 Crystal Palace 2 - 4 Liverpool/2_720p/107.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O4",
+    "O1": "Main camera left",
+    "O2": "Main camera right",
+    "O3": "Main camera center",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-04-24 - 21-45 Pescara 1 - 4 AS Roma/2_720p/871.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O3",
+    "O1": "Main camera left",
+    "O2": "Close-up side staff",
+    "O3": "Main behind the goal",
+    "O4": "Other"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-26 - 18-00 Chelsea 2 - 2 Watford/2_720p/1198.png"
+    ],
+    "openA": "Public",
+    "closeA": "O2",
+    "O1": "Main camera left",
+    "O2": "Public",
+    "O3": "Goal line technology camera",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Barcelona 2 - 1 Bayer Leverkusen/1_720p/694.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O3",
+    "O1": "Goal line technology camera",
+    "O2": "Inside the goal",
+    "O3": "Spider camera",
+    "O4": "Other"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal/2_720p/2465.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O3",
+    "O1": "Goal line technology camera",
+    "O2": "Main camera left",
+    "O3": "Main camera right",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Sevilla 3 - 0 B. Monchengladbach/1_720p/2422.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O1",
+    "O1": "Main camera center",
+    "O2": "Public",
+    "O3": "Main camera right",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-08-20 - 19-30 Leicester 0 - 0 Arsenal/1_720p/2460.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O2",
+    "O1": "Public",
+    "O2": "Inside the goal",
+    "O3": "Main camera center",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Napoli 0 - 0 Dyn. Kiev/2_720p/237.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O4",
+    "O1": "Inside the goal",
+    "O2": "Goal line technology camera",
+    "O3": "Other",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-04-11 - 21-00 Sevilla 2 - 2 Barcelona/1_720p/1790.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Close-up player or field referee",
+    "O3": "Inside the goal",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/1_720p/503.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O4",
+    "O1": "Public",
+    "O2": "Main camera left",
+    "O3": "Main camera center",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-05-09 - 16-30 Bayern Munich 0 - 1 FC Augsburg/2_720p/842.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O4",
+    "O1": "Close-up corner",
+    "O2": "Other",
+    "O3": "Spider camera",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool/2_720p/1638.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O2",
+    "O1": "Other",
+    "O2": "Goal line technology camera",
+    "O3": "Main camera right",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF/1_720p/2204.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O2",
+    "O1": "Close-up behind the goal",
+    "O2": "Main camera center",
+    "O3": "Close-up corner",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich/1_720p/1065.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O1",
+    "O1": "Close-up side staff",
+    "O2": "Main camera right",
+    "O3": "Close-up behind the goal",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-14 - 16-00 Torino 0 - 5 Napoli/2_720p/1456.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Public",
+    "O2": "Main camera left",
+    "O3": "Main camera center",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-08-22 - 16-30 Hoffenheim 1 - 2 Bayern Munich/1_720p/2412.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Public",
+    "O3": "Main camera center",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/france_ligue-1/2014-2015/2015-04-05 - 22-00 Marseille 2 - 3 Paris SG/1_720p/852.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O3",
+    "O1": "Inside the goal",
+    "O2": "Main camera left",
+    "O3": "Spider camera",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-02-27 - 18-00 Southampton 1 - 2 Chelsea/1_720p/2580.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O1",
+    "O1": "Main camera center",
+    "O2": "Close-up player or field referee",
+    "O3": "Spider camera",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta/2_720p/1746.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Public",
+    "O2": "Goal line technology camera",
+    "O3": "Main camera right",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland/2_720p/440.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O4",
+    "O1": "Main camera center",
+    "O2": "Public",
+    "O3": "Close-up player or field referee",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-08-20 - 17-00 Burnley 2 - 0 Liverpool/2_720p/1955.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O2",
+    "O1": "Inside the goal",
+    "O2": "Main camera center",
+    "O3": "Main behind the goal",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-02 - 18-30 Burnley 0 - 1 Arsenal/2_720p/1738.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O3",
+    "O1": "Main camera right",
+    "O2": "Public",
+    "O3": "Close-up player or field referee",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta/2_720p/2038.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O4",
+    "O1": "Close-up corner",
+    "O2": "Close-up player or field referee",
+    "O3": "Main camera right",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-02-19 - 17-00 Chievo 1 - 3 Napoli/2_720p/1189.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O4",
+    "O1": "Main camera right",
+    "O2": "Main camera center",
+    "O3": "Goal line technology camera",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-02-07 - 19-00 Chelsea 1 - 1 Manchester United/1_720p/2383.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O1",
+    "O1": "Spider camera",
+    "O2": "Other",
+    "O3": "Close-up side staff",
+    "O4": "Public"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa/1_720p/390.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O3",
+    "O1": "Inside the goal",
+    "O2": "Public",
+    "O3": "Main camera right",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-10-20 - 21-45 Arsenal 2 - 0 Bayern Munich/1_720p/1326.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Spider camera",
+    "O3": "Close-up player or field referee",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2016-2017/2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad/1_720p/2056.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O3",
+    "O1": "Close-up player or field referee",
+    "O2": "Spider camera",
+    "O3": "Main behind the goal",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/1_720p/1800.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Spider camera",
+    "O2": "Inside the goal",
+    "O3": "Main camera center",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-10-03 - 17-00 Manchester City 6 - 1 Newcastle Utd/1_720p/1062.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O1",
+    "O1": "Close-up behind the goal",
+    "O2": "Spider camera",
+    "O3": "Close-up player or field referee",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Benfica 2 - 1 Galatasaray/2_720p/1956.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O1",
+    "O1": "Main camera center",
+    "O2": "Spider camera",
+    "O3": "Inside the goal",
+    "O4": "Other"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland/1_720p/2673.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Close-up side staff",
+    "O2": "Other",
+    "O3": "Close-up behind the goal",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich/2_720p/1641.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O1",
+    "O1": "Close-up corner",
+    "O2": "Main camera right",
+    "O3": "Close-up behind the goal",
+    "O4": "Other"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2014-2015/2015-02-15 - 14-30 AC Milan 1 - 1 Empoli/2_720p/119.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O2",
+    "O1": "Close-up behind the goal",
+    "O2": "Spider camera",
+    "O3": "Close-up side staff",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-03-05 - 18-00 Manchester City 4 - 0 Aston Villa/1_720p/1199.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O1",
+    "O1": "Spider camera",
+    "O2": "Main behind the goal",
+    "O3": "Main camera center",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2014-2015/2015-04-11 - 21-45 Verona 0 - 3 Inter/2_720p/491.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Main camera right",
+    "O3": "Main camera center",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2016-2017/2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad/1_720p/1202.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O1",
+    "O1": "Inside the goal",
+    "O2": "Goal line technology camera",
+    "O3": "Other",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg/2_720p/427.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O1",
+    "O1": "Main camera left",
+    "O2": "Main behind the goal",
+    "O3": "Close-up behind the goal",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-03-19 - 14-30 Empoli 2 - 3 Napoli/1_720p/2220.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O4",
+    "O1": "Main camera center",
+    "O2": "Close-up behind the goal",
+    "O3": "Main camera right",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-04-25 - 17-00 Espanyol 0 - 2 Barcelona/2_720p/2521.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O1",
+    "O1": "Main behind the goal",
+    "O2": "Main camera center",
+    "O3": "Main camera left",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-02-25 - 20-00 Napoli 0 - 2 Atalanta/2_720p/2419.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Main camera left",
+    "O3": "Close-up side staff",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Arsenal 2 - 3 Olympiakos Piraeus/1_720p/2268.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O4",
+    "O1": "Spider camera",
+    "O2": "Other",
+    "O3": "Main behind the goal",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-02-19 - 17-00 Chievo 1 - 3 Napoli/1_720p/870.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Public",
+    "O2": "Main camera left",
+    "O3": "Close-up corner",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/1_720p/486.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O4",
+    "O1": "Main behind the goal",
+    "O2": "Inside the goal",
+    "O3": "Close-up behind the goal",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-29 - 19-30 Crystal Palace 2 - 4 Liverpool/1_720p/110.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O1",
+    "O1": "Main camera right",
+    "O2": "Close-up behind the goal",
+    "O3": "Close-up side staff",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland/1_720p/318.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O4",
+    "O1": "Close-up corner",
+    "O2": "Close-up side staff",
+    "O3": "Close-up behind the goal",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-11-03 - 18-00 FC Astana 0 - 0 Atl. Madrid/2_720p/342.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O3",
+    "O1": "Close-up corner",
+    "O2": "Main camera left",
+    "O3": "Close-up player or field referee",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-01-22 - 22-45 AS Roma 1 - 0 Cagliari/1_720p/1467.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O1",
+    "O1": "Goal line technology camera",
+    "O2": "Main camera center",
+    "O3": "Spider camera",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-03-01 - 22-45 Norwich 1 - 2 Chelsea/2_720p/1371.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O1",
+    "O1": "Main behind the goal",
+    "O2": "Spider camera",
+    "O3": "Main camera center",
+    "O4": "Public"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-05-09 - 19-00 Barcelona 2 - 0 Real Sociedad/1_720p/1613.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Main camera right",
+    "O2": "Main behind the goal",
+    "O3": "Close-up player or field referee",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-09-20 - 18-30 Dortmund 3 - 0 Bayer Leverkusen/1_720p/831.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O4",
+    "O1": "Close-up side staff",
+    "O2": "Other",
+    "O3": "Spider camera",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2016-08-27 - 21-45 Napoli 4 - 2 AC Milan/2_720p/1606.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O3",
+    "O1": "Close-up player or field referee",
+    "O2": "Inside the goal",
+    "O3": "Main camera right",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/france_ligue-1/2016-2017/2016-08-12 - 21-00 Bastia 0 - 1 Paris SG/2_720p/1461.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O1",
+    "O1": "Close-up corner",
+    "O2": "Inside the goal",
+    "O3": "Public",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/1_720p/1585.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O2",
+    "O1": "Close-up corner",
+    "O2": "Close-up player or field referee",
+    "O3": "Main camera left",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-02-19 - 20-00 AS Roma 4 - 1 Torino/1_720p/2282.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O2",
+    "O1": "Inside the goal",
+    "O2": "Close-up player or field referee",
+    "O3": "Goal line technology camera",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2016-2017/2016-09-23 - 21-30 Dortmund 3 - 1 SC Freiburg/1_720p/966.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O4",
+    "O1": "Goal line technology camera",
+    "O2": "Spider camera",
+    "O3": "Main behind the goal",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-12-10 - 20-30 Leicester 4 - 2 Manchester City/2_720p/1248.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O3",
+    "O1": "Main camera right",
+    "O2": "Close-up side staff",
+    "O3": "Inside the goal",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-01-15 - 17-00 Napoli 3 - 1 Pescara/1_720p/765.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O3",
+    "O1": "Close-up behind the goal",
+    "O2": "Other",
+    "O3": "Main camera left",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich/1_720p/2240.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O2",
+    "O1": "Main camera left",
+    "O2": "Close-up player or field referee",
+    "O3": "Public",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-05-02 - 16-30 Hoffenheim 1 - 1 Dortmund/2_720p/1744.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Goal line technology camera",
+    "O3": "Close-up side staff",
+    "O4": "Public"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2016-2017/2017-01-14 - 18-15 Barcelona 5 - 0 Las Palmas/1_720p/1239.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O4",
+    "O1": "Close-up side staff",
+    "O2": "Close-up player or field referee",
+    "O3": "Main camera center",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Gent 1 - 1 Lyon/1_720p/2280.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O4",
+    "O1": "Close-up side staff",
+    "O2": "Spider camera",
+    "O3": "Inside the goal",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United/1_720p/1374.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O4",
+    "O1": "Main camera left",
+    "O2": "Spider camera",
+    "O3": "Public",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Barcelona 7 - 0 Celtic/2_720p/2544.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O2",
+    "O1": "Goal line technology camera",
+    "O2": "Close-up corner",
+    "O3": "Other",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-02-14 - 19-15 Manchester City 1 - 2 Tottenham/2_720p/1150.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O4",
+    "O1": "Close-up behind the goal",
+    "O2": "Main camera center",
+    "O3": "Spider camera",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-02-13 - 20-30 Chelsea 5 - 1 Newcastle Utd/2_720p/1357.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O3",
+    "O1": "Main behind the goal",
+    "O2": "Goal line technology camera",
+    "O3": "Close-up side staff",
+    "O4": "Other"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-28 - 20-30 Manchester United 0 - 0 Chelsea/1_720p/483.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O4",
+    "O1": "Main camera center",
+    "O2": "Main behind the goal",
+    "O3": "Close-up side staff",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-10-03 - 19-30 Chelsea 1 - 3 Southampton/1_720p/1948.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Close-up side staff",
+    "O2": "Close-up behind the goal",
+    "O3": "Main behind the goal",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2016-05-08 - 18-00 Real Madrid 3 - 2 Valencia/1_720p/1265.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O2",
+    "O1": "Main behind the goal",
+    "O2": "Close-up side staff",
+    "O3": "Close-up behind the goal",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-05-09 - 16-30 Bayern Munich 0 - 1 FC Augsburg/2_720p/1150.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Goal line technology camera",
+    "O2": "Close-up player or field referee",
+    "O3": "Main camera center",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal/2_720p/2394.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O2",
+    "O1": "Close-up behind the goal",
+    "O2": "Main camera center",
+    "O3": "Other",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-08-14 - 18-00 Arsenal 3 - 4 Liverpool/2_720p/1888.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O2",
+    "O1": "Public",
+    "O2": "Main camera center",
+    "O3": "Close-up side staff",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Arsenal 2 - 3 Olympiakos Piraeus/1_720p/2397.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O1",
+    "O1": "Goal line technology camera",
+    "O2": "Main behind the goal",
+    "O3": "Spider camera",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-09-24 - 19-30 Arsenal 3 - 0 Chelsea/2_720p/229.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O1",
+    "O1": "Close-up player or field referee",
+    "O2": "Close-up behind the goal",
+    "O3": "Main camera left",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-03-02 - 23-00 Liverpool 3 - 0 Manchester City/2_720p/2030.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O2",
+    "O1": "Main camera right",
+    "O2": "Main camera center",
+    "O3": "Close-up behind the goal",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-29 - 17-00 Tottenham 1 - 1 Leicester/1_720p/2434.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O2",
+    "O1": "Main camera left",
+    "O2": "Main behind the goal",
+    "O3": "Close-up side staff",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2016-10-30 - 17-00 Empoli 0 - 0 AS Roma/2_720p/1026.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O1",
+    "O1": "Close-up player or field referee",
+    "O2": "Close-up side staff",
+    "O3": "Spider camera",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2015-2016/2015-09-20 - 16-00 Genoa 0 - 2 Juventus/1_720p/2269.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O2",
+    "O1": "Main behind the goal",
+    "O2": "Goal line technology camera",
+    "O3": "Close-up player or field referee",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina/1_720p/273.png"
+    ],
+    "openA": "Public",
+    "closeA": "O4",
+    "O1": "Spider camera",
+    "O2": "Main camera left",
+    "O3": "Close-up behind the goal",
+    "O4": "Public"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Sevilla 3 - 0 B. Monchengladbach/2_720p/531.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O1",
+    "O1": "Main camera left",
+    "O2": "Main behind the goal",
+    "O3": "Close-up corner",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Barcelona 7 - 0 Celtic/1_720p/1608.png"
+    ],
+    "openA": "Public",
+    "closeA": "O3",
+    "O1": "Close-up side staff",
+    "O2": "Close-up player or field referee",
+    "O3": "Public",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/france_ligue-1/2016-2017/2016-08-21 - 21-45 Paris SG 3 - 0 Metz/1_720p/2486.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O4",
+    "O1": "Close-up player or field referee",
+    "O2": "Spider camera",
+    "O3": "Main camera right",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 AS Roma 1 - 1 Barcelona/2_720p/1164.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O3",
+    "O1": "Main camera left",
+    "O2": "Main behind the goal",
+    "O3": "Spider camera",
+    "O4": "Other"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Benfica 2 - 1 Galatasaray/2_720p/227.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O4",
+    "O1": "Close-up player or field referee",
+    "O2": "Inside the goal",
+    "O3": "Main camera right",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-05-17 - 18-00 Manchester United 1 - 1 Arsenal/1_720p/1830.png"
+    ],
+    "openA": "Public",
+    "closeA": "O2",
+    "O1": "Main camera left",
+    "O2": "Public",
+    "O3": "Main behind the goal",
+    "O4": "Other"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt/1_720p/1960.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O3",
+    "O1": "Goal line technology camera",
+    "O2": "Spider camera",
+    "O3": "Close-up player or field referee",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United/1_720p/1793.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O2",
+    "O1": "Main camera center",
+    "O2": "Main behind the goal",
+    "O3": "Close-up behind the goal",
+    "O4": "Public"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal/1_720p/93.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Close-up corner",
+    "O2": "Main behind the goal",
+    "O3": "Goal line technology camera",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-10-04 - 18-30 Bayern Munich 5 - 1 Dortmund/1_720p/194.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O3",
+    "O1": "Main camera center",
+    "O2": "Main camera left",
+    "O3": "Main behind the goal",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-04-09 - 16-00 Bologna 0 - 3 AS Roma/1_720p/206.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O3",
+    "O1": "Goal line technology camera",
+    "O2": "Close-up corner",
+    "O3": "Main behind the goal",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United/2_720p/1954.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O2",
+    "O1": "Main camera right",
+    "O2": "Main camera center",
+    "O3": "Close-up player or field referee",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-01-24 - 19-00 Arsenal 0 - 1 Chelsea/1_720p/693.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O1",
+    "O1": "Main camera center",
+    "O2": "Close-up side staff",
+    "O3": "Public",
+    "O4": "Other"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-09-23 - 22-00 Ath Bilbao 1 - 2 Real Madrid/2_720p/174.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O3",
+    "O1": "Goal line technology camera",
+    "O2": "Close-up behind the goal",
+    "O3": "Main camera right",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2016-11-06 - 22-45 AS Roma 3 - 0 Bologna/2_720p/585.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O3",
+    "O1": "Close-up side staff",
+    "O2": "Main camera right",
+    "O3": "Goal line technology camera",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-04-25 - 16-30 Dortmund 2 - 0 Eintracht Frankfurt/2_720p/589.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O1",
+    "O1": "Close-up player or field referee",
+    "O2": "Close-up side staff",
+    "O3": "Public",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2016-11-20 - 17-00 Atalanta 2 - 1 AS Roma/1_720p/2061.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O3",
+    "O1": "Spider camera",
+    "O2": "Goal line technology camera",
+    "O3": "Main camera right",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Manchester City 1 - 2 Juventus/1_720p/1555.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O1",
+    "O1": "Main camera center",
+    "O2": "Main camera left",
+    "O3": "Close-up player or field referee",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Manchester City 1 - 2 Juventus/2_720p/1740.png"
+    ],
+    "openA": "Public",
+    "closeA": "O2",
+    "O1": "Other",
+    "O2": "Public",
+    "O3": "Close-up behind the goal",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-08-14 - 18-00 Arsenal 3 - 4 Liverpool/1_720p/1456.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O3",
+    "O1": "Close-up side staff",
+    "O2": "Main camera right",
+    "O3": "Main camera left",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-09-12 - 21-30 Atl. Madrid 1 - 2 Barcelona/1_720p/2091.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O4",
+    "O1": "Main camera right",
+    "O2": "Main camera center",
+    "O3": "Public",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/2_720p/2456.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O2",
+    "O1": "Main camera center",
+    "O2": "Spider camera",
+    "O3": "Close-up player or field referee",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-04-11 - 21-00 Sevilla 2 - 2 Barcelona/2_720p/2222.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O4",
+    "O1": "Main camera left",
+    "O2": "Main camera center",
+    "O3": "Main camera right",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-08-20 - 19-30 Leicester 0 - 0 Arsenal/2_720p/1480.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O1",
+    "O1": "Main camera left",
+    "O2": "Main behind the goal",
+    "O3": "Main camera right",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-01-24 - 19-00 Arsenal 0 - 1 Chelsea/1_720p/32.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O2",
+    "O1": "Close-up side staff",
+    "O2": "Close-up player or field referee",
+    "O3": "Inside the goal",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/2_720p/9.png"
+    ],
+    "openA": "Public",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Close-up player or field referee",
+    "O3": "Public",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2016-12-06 - 22-45 Benfica 1 - 2 Napoli/1_720p/999.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O2",
+    "O1": "Close-up side staff",
+    "O2": "Main behind the goal",
+    "O3": "Main camera left",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool/2_720p/2147.png"
+    ],
+    "openA": "Public",
+    "closeA": "O2",
+    "O1": "Main camera center",
+    "O2": "Public",
+    "O3": "Main behind the goal",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Dyn. Kiev 2 - 2 FC Porto/1_720p/1266.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O4",
+    "O1": "Main camera left",
+    "O2": "Spider camera",
+    "O3": "Inside the goal",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-12-10 - 20-30 Leicester 4 - 2 Manchester City/1_720p/1648.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O4",
+    "O1": "Inside the goal",
+    "O2": "Main camera left",
+    "O3": "Close-up behind the goal",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-12-11 - 19-30 Liverpool 2 - 2 West Ham/2_720p/2251.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O2",
+    "O1": "Public",
+    "O2": "Main behind the goal",
+    "O3": "Close-up side staff",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/1_720p/2486.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Inside the goal",
+    "O2": "Close-up side staff",
+    "O3": "Spider camera",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-08-20 - 17-00 Burnley 2 - 0 Liverpool/1_720p/1881.png"
+    ],
+    "openA": "Public",
+    "closeA": "O4",
+    "O1": "Close-up side staff",
+    "O2": "Inside the goal",
+    "O3": "Main camera right",
+    "O4": "Public"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 B. Monchengladbach 1 - 1 Juventus/1_720p/2342.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O2",
+    "O1": "Close-up behind the goal",
+    "O2": "Close-up corner",
+    "O3": "Main behind the goal",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-04-25 - 17-00 Espanyol 0 - 2 Barcelona/2_720p/845.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Main behind the goal",
+    "O2": "Main camera left",
+    "O3": "Main camera center",
+    "O4": "Public"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-08-30 - 16-30 Dortmund 3 - 1 Hertha Berlin/2_720p/2344.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O2",
+    "O1": "Inside the goal",
+    "O2": "Goal line technology camera",
+    "O3": "Main camera center",
+    "O4": "Other"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-01-29 - 17-00 Sampdoria 3 - 2 AS Roma/1_720p/292.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O2",
+    "O1": "Close-up corner",
+    "O2": "Main camera right",
+    "O3": "Close-up side staff",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-10-20 - 21-45 Arsenal 2 - 0 Bayern Munich/1_720p/1793.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O2",
+    "O1": "Main behind the goal",
+    "O2": "Close-up behind the goal",
+    "O3": "Main camera left",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-09-16 - 22-00 Chelsea 1 - 2 Liverpool/2_720p/1157.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O2",
+    "O1": "Goal line technology camera",
+    "O2": "Main camera center",
+    "O3": "Close-up corner",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich/1_720p/2379.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O4",
+    "O1": "Spider camera",
+    "O2": "Close-up behind the goal",
+    "O3": "Public",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-22 - 17-00 Arsenal 0 - 0 Middlesbrough/2_720p/912.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Close-up behind the goal",
+    "O2": "Main behind the goal",
+    "O3": "Inside the goal",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-02 - 18-30 Burnley 0 - 1 Arsenal/2_720p/143.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O2",
+    "O1": "Main behind the goal",
+    "O2": "Close-up behind the goal",
+    "O3": "Close-up player or field referee",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland/1_720p/2309.png"
+    ],
+    "openA": "Public",
+    "closeA": "O1",
+    "O1": "Public",
+    "O2": "Other",
+    "O3": "Inside the goal",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/1_720p/1549.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O1",
+    "O1": "Goal line technology camera",
+    "O2": "Close-up behind the goal",
+    "O3": "Other",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth/2_720p/2035.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O3",
+    "O1": "Close-up corner",
+    "O2": "Other",
+    "O3": "Spider camera",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-09-26 - 17-00 Barcelona 2 - 1 Las Palmas/2_720p/1274.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O3",
+    "O1": "Public",
+    "O2": "Close-up side staff",
+    "O3": "Main behind the goal",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-08-20 - 19-30 Leicester 0 - 0 Arsenal/1_720p/2279.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O1",
+    "O1": "Main behind the goal",
+    "O2": "Close-up behind the goal",
+    "O3": "Spider camera",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-02-13 - 20-30 Chelsea 5 - 1 Newcastle Utd/1_720p/2150.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Close-up corner",
+    "O2": "Other",
+    "O3": "Main camera left",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Barcelona 2 - 1 Bayer Leverkusen/2_720p/413.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O2",
+    "O1": "Spider camera",
+    "O2": "Close-up behind the goal",
+    "O3": "Main camera left",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-02-07 - 19-00 Chelsea 1 - 1 Manchester United/1_720p/1233.png"
+    ],
+    "openA": "Public",
+    "closeA": "O2",
+    "O1": "Inside the goal",
+    "O2": "Public",
+    "O3": "Main behind the goal",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen/1_720p/688.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O1",
+    "O1": "Main behind the goal",
+    "O2": "Main camera right",
+    "O3": "Close-up corner",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Paris SG 2 - 0 Malmo FF/1_720p/925.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Close-up side staff",
+    "O2": "Main camera left",
+    "O3": "Main camera center",
+    "O4": "Other"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-05-09 - 16-30 Dortmund 2 - 0 Hertha Berlin/1_720p/548.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O4",
+    "O1": "Main behind the goal",
+    "O2": "Goal line technology camera",
+    "O3": "Close-up corner",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-01-03 - 16-30 Crystal Palace 0 - 3 Chelsea/2_720p/1261.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O4",
+    "O1": "Other",
+    "O2": "Main camera left",
+    "O3": "Main camera center",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-11-03 - 18-00 FC Astana 0 - 0 Atl. Madrid/1_720p/87.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O1",
+    "O1": "Close-up side staff",
+    "O2": "Main camera left",
+    "O3": "Public",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Dyn. Kiev 2 - 2 FC Porto/2_720p/1786.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O2",
+    "O1": "Main camera center",
+    "O2": "Main behind the goal",
+    "O3": "Close-up side staff",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2016-2017/2017-04-23 - 21-45 Real Madrid 2 - 3 Barcelona/1_720p/2217.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O3",
+    "O1": "Main camera center",
+    "O2": "Main camera right",
+    "O3": "Close-up player or field referee",
+    "O4": "Public"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-10-20 - 21-45 Arsenal 2 - 0 Bayern Munich/2_720p/1475.png"
+    ],
+    "openA": "Public",
+    "closeA": "O3",
+    "O1": "Goal line technology camera",
+    "O2": "Close-up player or field referee",
+    "O3": "Public",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/2_720p/1404.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Close-up side staff",
+    "O2": "Close-up behind the goal",
+    "O3": "Main camera center",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta/2_720p/1001.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O2",
+    "O1": "Goal line technology camera",
+    "O2": "Main camera right",
+    "O3": "Close-up player or field referee",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2016-11-06 - 17-00 Palermo 1 - 2 AC Milan/1_720p/1603.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O4",
+    "O1": "Spider camera",
+    "O2": "Goal line technology camera",
+    "O3": "Public",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea/2_720p/2112.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O3",
+    "O1": "Close-up behind the goal",
+    "O2": "Goal line technology camera",
+    "O3": "Close-up corner",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-02-14 - 22-45 Paris SG 4 - 0 Barcelona/1_720p/655.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Main camera left",
+    "O2": "Main camera right",
+    "O3": "Main camera center",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-04-12 - 21-45 Bayern Munich 1 - 2 Real Madrid/1_720p/907.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O1",
+    "O1": "Spider camera",
+    "O2": "Close-up player or field referee",
+    "O3": "Close-up side staff",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool/1_720p/22.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Main behind the goal",
+    "O3": "Close-up player or field referee",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Dyn. Kiev 2 - 2 FC Porto/2_720p/814.png"
+    ],
+    "openA": "Public",
+    "closeA": "O1",
+    "O1": "Public",
+    "O2": "Main camera left",
+    "O3": "Other",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-01-15 - 17-00 Udinese 0 - 1 AS Roma/1_720p/1589.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Inside the goal",
+    "O3": "Main behind the goal",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-09-26 - 17-00 Barcelona 2 - 1 Las Palmas/2_720p/2371.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O1",
+    "O1": "Close-up side staff",
+    "O2": "Main camera right",
+    "O3": "Inside the goal",
+    "O4": "Public"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Gent 1 - 1 Lyon/1_720p/1268.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O4",
+    "O1": "Main behind the goal",
+    "O2": "Close-up player or field referee",
+    "O3": "Main camera right",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-05-02 - 16-30 Hoffenheim 1 - 1 Dortmund/2_720p/2291.png"
+    ],
+    "openA": "Public",
+    "closeA": "O1",
+    "O1": "Public",
+    "O2": "Other",
+    "O3": "Close-up behind the goal",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/1_720p/909.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O2",
+    "O1": "Close-up player or field referee",
+    "O2": "Close-up behind the goal",
+    "O3": "Goal line technology camera",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-08-20 - 17-00 Burnley 2 - 0 Liverpool/1_720p/2386.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O1",
+    "O1": "Main camera center",
+    "O2": "Main camera left",
+    "O3": "Close-up side staff",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-08-22 - 16-30 Hoffenheim 1 - 2 Bayern Munich/2_720p/1646.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O1",
+    "O1": "Main behind the goal",
+    "O2": "Main camera center",
+    "O3": "Close-up side staff",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-05-02 - 16-30 Hoffenheim 1 - 1 Dortmund/1_720p/2119.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Close-up player or field referee",
+    "O3": "Close-up corner",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2014-2015/2014-11-04 - 20-00 Zenit Petersburg 1 - 2 Bayer Leverkusen/2_720p/1336.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O2",
+    "O1": "Main camera right",
+    "O2": "Main camera left",
+    "O3": "Close-up corner",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-04-25 - 19-30 Bayern Munich 1 - 0 Hertha Berlin/2_720p/1767.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O2",
+    "O1": "Spider camera",
+    "O2": "Inside the goal",
+    "O3": "Main camera left",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-02-21 - 18-00 Barcelona 0 - 1 Malaga/2_720p/1016.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O3",
+    "O1": "Public",
+    "O2": "Close-up side staff",
+    "O3": "Close-up player or field referee",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Barcelona 7 - 0 Celtic/1_720p/1811.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O3",
+    "O1": "Close-up player or field referee",
+    "O2": "Public",
+    "O3": "Close-up corner",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley/2_720p/375.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O2",
+    "O1": "Main camera right",
+    "O2": "Close-up behind the goal",
+    "O3": "Close-up side staff",
+    "O4": "Public"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2014-2015/2015-04-11 - 21-45 Verona 0 - 3 Inter/1_720p/1317.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O4",
+    "O1": "Goal line technology camera",
+    "O2": "Close-up side staff",
+    "O3": "Main camera right",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2016-2017/2016-09-23 - 21-30 Dortmund 3 - 1 SC Freiburg/1_720p/1616.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O1",
+    "O1": "Close-up corner",
+    "O2": "Other",
+    "O3": "Goal line technology camera",
+    "O4": "Public"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-22 - 19-30 Liverpool 2 - 1 West Brom/1_720p/19.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Other",
+    "O2": "Main behind the goal",
+    "O3": "Close-up side staff",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-09-12 - 17-00 Espanyol 0 - 6 Real Madrid/1_720p/2156.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O1",
+    "O1": "Close-up behind the goal",
+    "O2": "Inside the goal",
+    "O3": "Close-up player or field referee",
+    "O4": "Public"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-08-22 - 16-30 Hoffenheim 1 - 2 Bayern Munich/1_720p/771.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O2",
+    "O1": "Close-up side staff",
+    "O2": "Inside the goal",
+    "O3": "Public",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa/1_720p/886.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O2",
+    "O1": "Close-up corner",
+    "O2": "Main camera left",
+    "O3": "Spider camera",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-03-01 - 22-45 Norwich 1 - 2 Chelsea/2_720p/2585.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O3",
+    "O1": "Main camera left",
+    "O2": "Close-up corner",
+    "O3": "Main behind the goal",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-09-26 - 19-15 Real Madrid 0 - 0 Malaga/2_720p/984.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O1",
+    "O1": "Main camera center",
+    "O2": "Main camera right",
+    "O3": "Close-up player or field referee",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-01-24 - 19-00 Arsenal 0 - 1 Chelsea/2_720p/1834.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O4",
+    "O1": "Main behind the goal",
+    "O2": "Main camera left",
+    "O3": "Close-up player or field referee",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2016-2017/2016-09-23 - 21-30 Dortmund 3 - 1 SC Freiburg/1_720p/2084.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O2",
+    "O1": "Main camera right",
+    "O2": "Goal line technology camera",
+    "O3": "Spider camera",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2016-08-21 - 21-45 Pescara 2 - 2 Napoli/2_720p/1156.png"
+    ],
+    "openA": "Public",
+    "closeA": "O3",
+    "O1": "Close-up behind the goal",
+    "O2": "Goal line technology camera",
+    "O3": "Public",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea/2_720p/2344.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O4",
+    "O1": "Main camera center",
+    "O2": "Main camera right",
+    "O3": "Inside the goal",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-29 - 17-00 Tottenham 1 - 1 Leicester/1_720p/1446.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O4",
+    "O1": "Main camera right",
+    "O2": "Main camera left",
+    "O3": "Close-up behind the goal",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-02-21 - 17-30 Paderborn 0 - 6 Bayern Munich/2_720p/355.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Close-up behind the goal",
+    "O2": "Other",
+    "O3": "Close-up corner",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-03-05 - 18-00 Manchester City 4 - 0 Aston Villa/2_720p/1299.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O3",
+    "O1": "Public",
+    "O2": "Close-up player or field referee",
+    "O3": "Main camera left",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 PSV 2 - 1 Manchester United/1_720p/1310.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O2",
+    "O1": "Main camera right",
+    "O2": "Close-up player or field referee",
+    "O3": "Main behind the goal",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg/2_720p/2084.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O1",
+    "O1": "Main camera center",
+    "O2": "Spider camera",
+    "O3": "Inside the goal",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-02-15 - 22-45 Real Madrid 3 - 1 Napoli/1_720p/2515.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O1",
+    "O1": "Spider camera",
+    "O2": "Public",
+    "O3": "Main behind the goal",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-29 - 17-00 Tottenham 1 - 1 Leicester/2_720p/1631.png"
+    ],
+    "openA": "Public",
+    "closeA": "O1",
+    "O1": "Public",
+    "O2": "Close-up corner",
+    "O3": "Other",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-08-29 - 21-30 Barcelona 1 - 0 Malaga/2_720p/912.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O1",
+    "O1": "Main camera left",
+    "O2": "Close-up player or field referee",
+    "O3": "Goal line technology camera",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 B. Monchengladbach 1 - 1 Juventus/2_720p/366.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O4",
+    "O1": "Main camera right",
+    "O2": "Other",
+    "O3": "Close-up behind the goal",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-01-13 - 22-45 Chelsea 2 - 2 West Brom/1_720p/1932.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O2",
+    "O1": "Inside the goal",
+    "O2": "Close-up player or field referee",
+    "O3": "Public",
+    "O4": "Main behind the goal"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/1_720p/2460.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O3",
+    "O1": "Main camera right",
+    "O2": "Goal line technology camera",
+    "O3": "Spider camera",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland/1_720p/1402.png"
+    ],
+    "openA": "Public",
+    "closeA": "O3",
+    "O1": "Main camera right",
+    "O2": "Main behind the goal",
+    "O3": "Public",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-11-06 - 17-15 Liverpool 6 - 1 Watford/1_720p/2367.png"
+    ],
+    "openA": "Public",
+    "closeA": "O1",
+    "O1": "Public",
+    "O2": "Main behind the goal",
+    "O3": "Spider camera",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-02-15 - 22-45 Real Madrid 3 - 1 Napoli/2_720p/2075.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O2",
+    "O1": "Goal line technology camera",
+    "O2": "Main camera center",
+    "O3": "Main camera right",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-08-30 - 16-30 Dortmund 3 - 1 Hertha Berlin/2_720p/2351.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O4",
+    "O1": "Main behind the goal",
+    "O2": "Other",
+    "O3": "Close-up player or field referee",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-04-24 - 21-45 Pescara 1 - 4 AS Roma/2_720p/1155.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Main behind the goal",
+    "O2": "Other",
+    "O3": "Main camera right",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-01-23 - 20-30 West Ham 2 - 2 Manchester City/2_720p/873.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O3",
+    "O1": "Main camera right",
+    "O2": "Inside the goal",
+    "O3": "Close-up player or field referee",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Benfica 2 - 1 Galatasaray/1_720p/2614.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O4",
+    "O1": "Main camera center",
+    "O2": "Close-up corner",
+    "O3": "Goal line technology camera",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland/1_720p/346.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O2",
+    "O1": "Close-up player or field referee",
+    "O2": "Main camera right",
+    "O3": "Close-up behind the goal",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa/1_720p/2427.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O4",
+    "O1": "Main camera center",
+    "O2": "Inside the goal",
+    "O3": "Other",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2016-11-01 - 22-45 Manchester City 3 - 1 Barcelona/2_720p/478.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O4",
+    "O1": "Main camera center",
+    "O2": "Public",
+    "O3": "Inside the goal",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Barcelona 2 - 1 Bayer Leverkusen/2_720p/1208.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O3",
+    "O1": "Public",
+    "O2": "Goal line technology camera",
+    "O3": "Close-up side staff",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester/2_720p/508.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Main camera left",
+    "O2": "Spider camera",
+    "O3": "Main behind the goal",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2014-2015/2015-04-11 - 21-45 Verona 0 - 3 Inter/2_720p/2465.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O2",
+    "O1": "Other",
+    "O2": "Main camera left",
+    "O3": "Main behind the goal",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-08-20 - 19-30 Leicester 0 - 0 Arsenal/1_720p/1859.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O2",
+    "O1": "Close-up player or field referee",
+    "O2": "Inside the goal",
+    "O3": "Goal line technology camera",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/1_720p/1235.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O4",
+    "O1": "Goal line technology camera",
+    "O2": "Main camera center",
+    "O3": "Spider camera",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Arsenal 2 - 2 Paris SG/1_720p/930.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O4",
+    "O1": "Spider camera",
+    "O2": "Close-up side staff",
+    "O3": "Close-up player or field referee",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid/2_720p/1578.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O4",
+    "O1": "Spider camera",
+    "O2": "Public",
+    "O3": "Close-up side staff",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester/2_720p/979.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O3",
+    "O1": "Close-up behind the goal",
+    "O2": "Close-up corner",
+    "O3": "Close-up side staff",
+    "O4": "Other"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2014-2015/2015-04-11 - 21-45 Verona 0 - 3 Inter/2_720p/1591.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O4",
+    "O1": "Main camera center",
+    "O2": "Goal line technology camera",
+    "O3": "Other",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/1_720p/2020.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Inside the goal",
+    "O2": "Main camera right",
+    "O3": "Main camera center",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-03-05 - 18-00 Manchester City 4 - 0 Aston Villa/1_720p/1873.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O2",
+    "O1": "Main camera right",
+    "O2": "Main camera center",
+    "O3": "Inside the goal",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-05-02 - 16-30 Hoffenheim 1 - 1 Dortmund/1_720p/2170.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O3",
+    "O1": "Goal line technology camera",
+    "O2": "Spider camera",
+    "O3": "Inside the goal",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-02 - 18-30 Burnley 0 - 1 Arsenal/2_720p/2007.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O4",
+    "O1": "Other",
+    "O2": "Public",
+    "O3": "Goal line technology camera",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-08-22 - 16-30 Hoffenheim 1 - 2 Bayern Munich/1_720p/770.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O4",
+    "O1": "Other",
+    "O2": "Main camera right",
+    "O3": "Spider camera",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-04-25 - 19-30 Bayern Munich 1 - 0 Hertha Berlin/1_720p/2572.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Close-up player or field referee",
+    "O2": "Other",
+    "O3": "Main camera center",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2016-04-30 - 17-00 Real Sociedad 0 - 1 Real Madrid/2_720p/2371.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O4",
+    "O1": "Goal line technology camera",
+    "O2": "Close-up player or field referee",
+    "O3": "Main behind the goal",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/france_ligue-1/2016-2017/2016-08-21 - 21-45 Paris SG 3 - 0 Metz/1_720p/2660.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O2",
+    "O1": "Goal line technology camera",
+    "O2": "Close-up corner",
+    "O3": "Close-up side staff",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-12-11 - 19-30 Liverpool 2 - 2 West Ham/2_720p/1032.png"
+    ],
+    "openA": "Public",
+    "closeA": "O1",
+    "O1": "Public",
+    "O2": "Main camera left",
+    "O3": "Main behind the goal",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-10-04 - 21-30 Atl. Madrid 1 - 1 Real Madrid/1_720p/2380.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O4",
+    "O1": "Main camera right",
+    "O2": "Main behind the goal",
+    "O3": "Public",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-02-21 - 17-30 Paderborn 0 - 6 Bayern Munich/2_720p/1640.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O1",
+    "O1": "Close-up side staff",
+    "O2": "Close-up player or field referee",
+    "O3": "Main behind the goal",
+    "O4": "Other"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-08-20 - 17-00 Burnley 2 - 0 Liverpool/2_720p/725.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O3",
+    "O1": "Close-up player or field referee",
+    "O2": "Spider camera",
+    "O3": "Main behind the goal",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea/1_720p/1120.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Close-up behind the goal",
+    "O2": "Spider camera",
+    "O3": "Main camera center",
+    "O4": "Public"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland/1_720p/829.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O3",
+    "O1": "Public",
+    "O2": "Main camera right",
+    "O3": "Main behind the goal",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 PSV 2 - 1 Manchester United/1_720p/1811.png"
+    ],
+    "openA": "Public",
+    "closeA": "O1",
+    "O1": "Public",
+    "O2": "Main camera left",
+    "O3": "Other",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2014-2015/2015-04-19 - 21-45 Inter 0 - 0 AC Milan/1_720p/338.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Public",
+    "O2": "Close-up player or field referee",
+    "O3": "Close-up corner",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg/2_720p/1646.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O1",
+    "O1": "Main camera center",
+    "O2": "Spider camera",
+    "O3": "Close-up player or field referee",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/france_ligue-1/2016-2017/2016-08-12 - 21-00 Bastia 0 - 1 Paris SG/1_720p/1602.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Close-up player or field referee",
+    "O2": "Close-up behind the goal",
+    "O3": "Main camera center",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Chelsea 4 - 0 Maccabi Tel Aviv/1_720p/1112.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O4",
+    "O1": "Inside the goal",
+    "O2": "Main behind the goal",
+    "O3": "Main camera right",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt/1_720p/2611.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O1",
+    "O1": "Close-up player or field referee",
+    "O2": "Main camera center",
+    "O3": "Spider camera",
+    "O4": "Other"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2016-02-13 - 20-30 Chelsea 5 - 1 Newcastle Utd/1_720p/98.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O1",
+    "O1": "Main behind the goal",
+    "O2": "Close-up player or field referee",
+    "O3": "Inside the goal",
+    "O4": "Public"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-04-11 - 21-00 Sevilla 2 - 2 Barcelona/2_720p/421.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O3",
+    "O1": "Main camera left",
+    "O2": "Main camera center",
+    "O3": "Spider camera",
+    "O4": "Public"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-09-19 - 16-30 Darmstadt 0 - 3 Bayern Munich/1_720p/2127.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O1",
+    "O1": "Close-up corner",
+    "O2": "Public",
+    "O3": "Goal line technology camera",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland/2_720p/2453.png"
+    ],
+    "openA": "Public",
+    "closeA": "O4",
+    "O1": "Spider camera",
+    "O2": "Close-up side staff",
+    "O3": "Main camera right",
+    "O4": "Public"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-11-06 - 17-15 Liverpool 6 - 1 Watford/1_720p/1562.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O2",
+    "O1": "Main camera left",
+    "O2": "Close-up corner",
+    "O3": "Main camera right",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool/1_720p/1469.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Main camera left",
+    "O3": "Close-up player or field referee",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina/1_720p/311.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Main camera left",
+    "O2": "Close-up corner",
+    "O3": "Main camera center",
+    "O4": "Public"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-08-29 - 21-30 Barcelona 1 - 0 Malaga/1_720p/598.png"
+    ],
+    "openA": "Main camera right",
+    "closeA": "O4",
+    "O1": "Close-up side staff",
+    "O2": "Main camera center",
+    "O3": "Main camera left",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-20 - 19-00 Chievo 3 - 5 AS Roma/2_720p/597.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O3",
+    "O1": "Close-up behind the goal",
+    "O2": "Goal line technology camera",
+    "O3": "Close-up side staff",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF/2_720p/2191.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O4",
+    "O1": "Close-up behind the goal",
+    "O2": "Main camera left",
+    "O3": "Goal line technology camera",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2016-2017/2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad/1_720p/1437.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O3",
+    "O1": "Close-up behind the goal",
+    "O2": "Spider camera",
+    "O3": "Close-up player or field referee",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/1_720p/2453.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O3",
+    "O1": "Main camera right",
+    "O2": "Close-up behind the goal",
+    "O3": "Spider camera",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Celtic 0 - 2 Barcelona/1_720p/1122.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O3",
+    "O1": "Inside the goal",
+    "O2": "Close-up side staff",
+    "O3": "Main camera left",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-12-10 - 20-30 Leicester 4 - 2 Manchester City/2_720p/443.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O2",
+    "O1": "Spider camera",
+    "O2": "Inside the goal",
+    "O3": "Main camera right",
+    "O4": "Main camera left"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Chelsea 4 - 0 Maccabi Tel Aviv/1_720p/1298.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O4",
+    "O1": "Close-up behind the goal",
+    "O2": "Close-up player or field referee",
+    "O3": "Spider camera",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/france_ligue-1/2014-2015/2015-04-05 - 22-00 Marseille 2 - 3 Paris SG/2_720p/2176.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O2",
+    "O1": "Inside the goal",
+    "O2": "Spider camera",
+    "O3": "Close-up player or field referee",
+    "O4": "Other"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 B. Monchengladbach 1 - 1 Juventus/1_720p/1675.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O3",
+    "O1": "Spider camera",
+    "O2": "Inside the goal",
+    "O3": "Close-up behind the goal",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-04-11 - 21-00 Sevilla 2 - 2 Barcelona/1_720p/413.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O4",
+    "O1": "Other",
+    "O2": "Close-up player or field referee",
+    "O3": "Main behind the goal",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester/2_720p/2089.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O3",
+    "O1": "Other",
+    "O2": "Close-up corner",
+    "O3": "Main behind the goal",
+    "O4": "Public"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2015-2016/2015-09-12 - 16-30 Bayern Munich 2 - 1 FC Augsburg/1_720p/431.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O1",
+    "O1": "Main camera center",
+    "O2": "Close-up side staff",
+    "O3": "Inside the goal",
+    "O4": "Other"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-05-02 - 16-30 Hoffenheim 1 - 1 Dortmund/1_720p/2171.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O4",
+    "O1": "Close-up behind the goal",
+    "O2": "Other",
+    "O3": "Main behind the goal",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2016-2017/2016-10-22 - 17-00 Arsenal 0 - 0 Middlesbrough/2_720p/2382.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Public",
+    "O2": "Other",
+    "O3": "Close-up corner",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2015-2016/2016-04-20 - 23-00 Real Madrid 3 - 0 Villarreal/2_720p/233.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O1",
+    "O1": "Close-up corner",
+    "O2": "Spider camera",
+    "O3": "Other",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-04-11 - 17-00 Real Madrid 3 - 0 Eibar/1_720p/353.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Inside the goal",
+    "O2": "Public",
+    "O3": "Main camera center",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 B. Monchengladbach 1 - 1 Juventus/1_720p/1513.png"
+    ],
+    "openA": "Public",
+    "closeA": "O2",
+    "O1": "Main camera left",
+    "O2": "Public",
+    "O3": "Close-up side staff",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2016-2017/2017-01-08 - 22-45 Villarreal 1 - 1 Barcelona/1_720p/2639.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O2",
+    "O1": "Close-up side staff",
+    "O2": "Inside the goal",
+    "O3": "Other",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "Q": "Could you describe the camera\u2019s status in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/1_720p/2682.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O4",
+    "O1": "Close-up side staff",
+    "O2": "Main camera left",
+    "O3": "Public",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-04-25 - 17-00 Espanyol 0 - 2 Barcelona/2_720p/1358.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O4",
+    "O1": "Spider camera",
+    "O2": "Close-up player or field referee",
+    "O3": "Inside the goal",
+    "O4": "Main camera center"
+  },
+  {
+    "Q": "What\u2019s the camera situation in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal/2_720p/1218.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O1",
+    "O1": "Close-up player or field referee",
+    "O2": "Close-up behind the goal",
+    "O3": "Other",
+    "O4": "Main camera right"
+  },
+  {
+    "Q": "What is the camera status in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2016-11-01 - 20-45 Besiktas 1 - 1 Napoli/2_720p/1986.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O1",
+    "O1": "Close-up player or field referee",
+    "O2": "Main behind the goal",
+    "O3": "Main camera left",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/england_epl/2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea/1_720p/1130.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O1",
+    "O1": "Main camera center",
+    "O2": "Spider camera",
+    "O3": "Goal line technology camera",
+    "O4": "Close-up corner"
+  },
+  {
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2014-2015/2014-11-04 - 20-00 Zenit Petersburg 1 - 2 Bayer Leverkusen/1_720p/1039.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O3",
+    "O1": "Main camera right",
+    "O2": "Spider camera",
+    "O3": "Close-up player or field referee",
+    "O4": "Inside the goal"
+  },
+  {
+    "Q": "What\u2019s the state of the camera in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-02-14 - 22-45 Paris SG 4 - 0 Barcelona/2_720p/1385.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O4",
+    "O1": "Spider camera",
+    "O2": "Inside the goal",
+    "O3": "Close-up behind the goal",
+    "O4": "Close-up side staff"
+  },
+  {
+    "Q": "What\u2019s the camera position like in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/2_720p/1896.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O2",
+    "O1": "Close-up behind the goal",
+    "O2": "Main camera left",
+    "O3": "Main camera center",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/italy_serie-a/2016-2017/2017-01-22 - 22-45 AS Roma 1 - 0 Cagliari/1_720p/1464.png"
+    ],
+    "openA": "Goal line technology camera",
+    "closeA": "O3",
+    "O1": "Close-up player or field referee",
+    "O2": "Main camera center",
+    "O3": "Goal line technology camera",
+    "O4": "Public"
+  },
+  {
+    "Q": "What is the camera\u2019s location in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/spain_laliga/2014-2015/2015-05-17 - 20-00 Atl. Madrid 0 - 1 Barcelona/2_720p/2159.png"
+    ],
+    "openA": "Public",
+    "closeA": "O2",
+    "O1": "Inside the goal",
+    "O2": "Public",
+    "O3": "Close-up side staff",
+    "O4": "Spider camera"
+  },
+  {
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q3/germany_bundesliga/2014-2015/2015-05-09 - 16-30 Dortmund 2 - 0 Hertha Berlin/2_720p/2311.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O2",
+    "O1": "Close-up behind the goal",
+    "O2": "Close-up side staff",
+    "O3": "Main camera right",
+    "O4": "Main camera center"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "Q": "What number is the player wearing in the picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/1201"
+    ],
+    "openA": 27,
+    "closeA": "O4",
+    "O1": 13,
+    "O2": 28,
+    "O3": 26,
+    "O4": 27
+  },
+  {
+    "Q": "Can you tell me the jersey number of the player shown in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/1176"
+    ],
+    "openA": 33,
+    "closeA": "O3",
+    "O1": 30,
+    "O2": 32,
+    "O3": 33,
+    "O4": 34
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/1016"
+    ],
+    "openA": 31,
+    "closeA": "O1",
+    "O1": 31,
+    "O2": 28,
+    "O3": 37,
+    "O4": 34
+  },
+  {
+    "Q": "Which jersey number is the player sporting in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/901"
+    ],
+    "openA": 2,
+    "closeA": "O4",
+    "O1": 1,
+    "O2": 4,
+    "O3": 3,
+    "O4": 2
+  },
+  {
+    "Q": "Can you tell me the number on the player's kit in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/64"
+    ],
+    "openA": 93,
+    "closeA": "O1",
+    "O1": 93,
+    "O2": 87,
+    "O3": 62,
+    "O4": 94
+  },
+  {
+    "Q": "Which jersey number is the player sporting in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/136"
+    ],
+    "openA": 33,
+    "closeA": "O2",
+    "O1": 32,
+    "O2": 33,
+    "O3": 34,
+    "O4": 22
+  },
+  {
+    "Q": "Which jersey number is the player sporting in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/605"
+    ],
+    "openA": 5,
+    "closeA": "O3",
+    "O1": 9,
+    "O2": 3,
+    "O3": 5,
+    "O4": 7
+  },
+  {
+    "Q": "What’s the shirt number of the player in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/888"
+    ],
+    "openA": 3,
+    "closeA": "O1",
+    "O1": 3,
+    "O2": 4,
+    "O3": 2,
+    "O4": 5
+  },
+  {
+    "Q": "What’s the number displayed on the player's shirt in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/963"
+    ],
+    "openA": 9,
+    "closeA": "O4",
+    "O1": 5,
+    "O2": 20,
+    "O3": 12,
+    "O4": 9
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/1039"
+    ],
+    "openA": 1,
+    "closeA": "O2",
+    "O1": 2,
+    "O2": 1,
+    "O3": 3,
+    "O4": 4
+  },
+  {
+    "Q": "Which jersey number is the player sporting in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/192"
+    ],
+    "openA": 36,
+    "closeA": "O1",
+    "O1": 36,
+    "O2": 35,
+    "O3": 37,
+    "O4": 72
+  },
+  {
+    "Q": "Which jersey number is the player sporting in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/414"
+    ],
+    "openA": 9,
+    "closeA": "O4",
+    "O1": 12,
+    "O2": 20,
+    "O3": 5,
+    "O4": 9
+  },
+  {
+    "Q": "What number is the player wearing in the picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/205"
+    ],
+    "openA": 44,
+    "closeA": "O1",
+    "O1": 44,
+    "O2": 45,
+    "O3": 43,
+    "O4": 22
+  },
+  {
+    "Q": "What number is the player wearing in the picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/930"
+    ],
+    "openA": 9,
+    "closeA": "O4",
+    "O1": 12,
+    "O2": 5,
+    "O3": 20,
+    "O4": 9
+  },
+  {
+    "Q": "Can you tell me the number on the player's kit in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/608"
+    ],
+    "openA": 30,
+    "closeA": "O3",
+    "O1": 28,
+    "O2": 35,
+    "O3": 30,
+    "O4": 25
+  },
+  {
+    "Q": "What’s the player's jersey number in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/252"
+    ],
+    "openA": 34,
+    "closeA": "O4",
+    "O1": 28,
+    "O2": 42,
+    "O3": 17,
+    "O4": 34
+  },
+  {
+    "Q": "What number is the player wearing in the picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/510"
+    ],
+    "openA": 17,
+    "closeA": "O1",
+    "O1": 17,
+    "O2": 12,
+    "O3": 34,
+    "O4": 23
+  },
+  {
+    "Q": "What number is the player wearing in the picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/603"
+    ],
+    "openA": 15,
+    "closeA": "O3",
+    "O1": 20,
+    "O2": 14,
+    "O3": 15,
+    "O4": 16
+  },
+  {
+    "Q": "What number is the player wearing in the picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/1128"
+    ],
+    "openA": 15,
+    "closeA": "O2",
+    "O1": 16,
+    "O2": 15,
+    "O3": 14,
+    "O4": 30
+  },
+  {
+    "Q": "What is the player’s shirt number in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/631"
+    ],
+    "openA": 10,
+    "closeA": "O3",
+    "O1": 9,
+    "O2": 11,
+    "O3": 10,
+    "O4": 20
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/1002"
+    ],
+    "openA": 10,
+    "closeA": "O1",
+    "O1": 10,
+    "O2": 5,
+    "O3": 20,
+    "O4": 15
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/163"
+    ],
+    "openA": 9,
+    "closeA": "O1",
+    "O1": 9,
+    "O2": 10,
+    "O3": 7,
+    "O4": 8
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/705"
+    ],
+    "openA": 7,
+    "closeA": "O1",
+    "O1": 7,
+    "O2": 14,
+    "O3": 6,
+    "O4": 8
+  },
+  {
+    "Q": "Can you tell me the jersey number of the player shown in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/918"
+    ],
+    "openA": 5,
+    "closeA": "O1",
+    "O1": 5,
+    "O2": 3,
+    "O3": 7,
+    "O4": 9
+  },
+  {
+    "Q": "What’s the number displayed on the player's shirt in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/924"
+    ],
+    "openA": 36,
+    "closeA": "O2",
+    "O1": 18,
+    "O2": 36,
+    "O3": 42,
+    "O4": 24
+  },
+  {
+    "Q": "What’s the number displayed on the player's shirt in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/161"
+    ],
+    "openA": 36,
+    "closeA": "O2",
+    "O1": 42,
+    "O2": 36,
+    "O3": 48,
+    "O4": 24
+  },
+  {
+    "Q": "Can you tell me the number on the player's kit in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/352"
+    ],
+    "openA": 1,
+    "closeA": "O4",
+    "O1": 2,
+    "O2": 3,
+    "O3": 4,
+    "O4": 1
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/1063"
+    ],
+    "openA": 1,
+    "closeA": "O3",
+    "O1": 2,
+    "O2": 3,
+    "O3": 1,
+    "O4": 4
+  },
+  {
+    "Q": "What is the player’s shirt number in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/670"
+    ],
+    "openA": 26,
+    "closeA": "O4",
+    "O1": 42,
+    "O2": 37,
+    "O3": 15,
+    "O4": 26
+  },
+  {
+    "Q": "Can you tell me the jersey number of the player shown in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/95"
+    ],
+    "openA": 31,
+    "closeA": "O1",
+    "O1": 31,
+    "O2": 35,
+    "O3": 28,
+    "O4": 42
+  },
+  {
+    "Q": "Can you tell me the jersey number of the player shown in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/712"
+    ],
+    "openA": 55,
+    "closeA": "O2",
+    "O1": 54,
+    "O2": 55,
+    "O3": 60,
+    "O4": 56
+  },
+  {
+    "Q": "What is the player’s shirt number in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/962"
+    ],
+    "openA": 31,
+    "closeA": "O4",
+    "O1": 35,
+    "O2": 28,
+    "O3": 42,
+    "O4": 31
+  },
+  {
+    "Q": "Can you tell me the jersey number of the player shown in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/300"
+    ],
+    "openA": 44,
+    "closeA": "O4",
+    "O1": 45,
+    "O2": 43,
+    "O3": 22,
+    "O4": 44
+  },
+  {
+    "Q": "Could you identify the jersey number of the player in the image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/45"
+    ],
+    "openA": 9,
+    "closeA": "O3",
+    "O1": 5,
+    "O2": 8,
+    "O3": 9,
+    "O4": 10
+  },
+  {
+    "Q": "Which jersey number is the player sporting in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/969"
+    ],
+    "openA": 7,
+    "closeA": "O3",
+    "O1": 8,
+    "O2": 6,
+    "O3": 7,
+    "O4": 14
+  },
+  {
+    "Q": "What’s the player's jersey number in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/557"
+    ],
+    "openA": 33,
+    "closeA": "O2",
+    "O1": 34,
+    "O2": 33,
+    "O3": 22,
+    "O4": 32
+  },
+  {
+    "Q": "Could you identify the jersey number of the player in the image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/662"
+    ],
+    "openA": 23,
+    "closeA": "O1",
+    "O1": 23,
+    "O2": 34,
+    "O3": 45,
+    "O4": 12
+  },
+  {
+    "Q": "Could you identify the jersey number of the player in the image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/197"
+    ],
+    "openA": 4,
+    "closeA": "O1",
+    "O1": 4,
+    "O2": 5,
+    "O3": 7,
+    "O4": 3
+  },
+  {
+    "Q": "What is the player’s shirt number in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/671"
+    ],
+    "openA": 16,
+    "closeA": "O2",
+    "O1": 20,
+    "O2": 16,
+    "O3": 24,
+    "O4": 12
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/273"
+    ],
+    "openA": 50,
+    "closeA": "O3",
+    "O1": 51,
+    "O2": 49,
+    "O3": 50,
+    "O4": 55
+  },
+  {
+    "Q": "Can you tell me the jersey number of the player shown in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/978"
+    ],
+    "openA": 15,
+    "closeA": "O4",
+    "O1": 18,
+    "O2": 20,
+    "O3": 12,
+    "O4": 15
+  },
+  {
+    "Q": "Can you tell me the number on the player's kit in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/1024"
+    ],
+    "openA": 5,
+    "closeA": "O1",
+    "O1": 5,
+    "O2": 3,
+    "O3": 7,
+    "O4": 9
+  },
+  {
+    "Q": "What is the player’s shirt number in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/734"
+    ],
+    "openA": 23,
+    "closeA": "O4",
+    "O1": 45,
+    "O2": 34,
+    "O3": 12,
+    "O4": 23
+  },
+  {
+    "Q": "Can you tell me the number on the player's kit in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/248"
+    ],
+    "openA": 44,
+    "closeA": "O4",
+    "O1": 42,
+    "O2": 46,
+    "O3": 45,
+    "O4": 44
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/1152"
+    ],
+    "openA": 3,
+    "closeA": "O2",
+    "O1": 2,
+    "O2": 3,
+    "O3": 1,
+    "O4": 4
+  },
+  {
+    "Q": "What number is the player wearing in the picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/377"
+    ],
+    "openA": 33,
+    "closeA": "O3",
+    "O1": 34,
+    "O2": 22,
+    "O3": 33,
+    "O4": 32
+  },
+  {
+    "Q": "Could you identify the jersey number of the player in the image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/498"
+    ],
+    "openA": 32,
+    "closeA": "O2",
+    "O1": 28,
+    "O2": 32,
+    "O3": 36,
+    "O4": 45
+  },
+  {
+    "Q": "What number is the player wearing in the picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/864"
+    ],
+    "openA": 20,
+    "closeA": "O1",
+    "O1": 20,
+    "O2": 25,
+    "O3": 15,
+    "O4": 10
+  },
+  {
+    "Q": "What’s the number displayed on the player's shirt in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/967"
+    ],
+    "openA": 36,
+    "closeA": "O1",
+    "O1": 36,
+    "O2": 24,
+    "O3": 48,
+    "O4": 42
+  },
+  {
+    "Q": "What’s the shirt number of the player in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/137"
+    ],
+    "openA": 8,
+    "closeA": "O2",
+    "O1": 9,
+    "O2": 8,
+    "O3": 7,
+    "O4": 10
+  },
+  {
+    "Q": "Which jersey number is the player sporting in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/726"
+    ],
+    "openA": 26,
+    "closeA": "O4",
+    "O1": 37,
+    "O2": 42,
+    "O3": 15,
+    "O4": 26
+  },
+  {
+    "Q": "What’s the player's jersey number in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/1142"
+    ],
+    "openA": 27,
+    "closeA": "O2",
+    "O1": 13,
+    "O2": 27,
+    "O3": 58,
+    "O4": 42
+  },
+  {
+    "Q": "Which jersey number is the player sporting in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/863"
+    ],
+    "openA": 3,
+    "closeA": "O2",
+    "O1": 4,
+    "O2": 3,
+    "O3": 2,
+    "O4": 1
+  },
+  {
+    "Q": "Can you tell me the number on the player's kit in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/435"
+    ],
+    "openA": 7,
+    "closeA": "O4",
+    "O1": 8,
+    "O2": 6,
+    "O3": 14,
+    "O4": 7
+  },
+  {
+    "Q": "Could you identify the jersey number of the player in the image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/425"
+    ],
+    "openA": 32,
+    "closeA": "O2",
+    "O1": 45,
+    "O2": 32,
+    "O3": 36,
+    "O4": 28
+  },
+  {
+    "Q": "Which jersey number is the player sporting in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/545"
+    ],
+    "openA": 11,
+    "closeA": "O1",
+    "O1": 11,
+    "O2": 22,
+    "O3": 10,
+    "O4": 12
+  },
+  {
+    "Q": "Can you tell me the number on the player's kit in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/331"
+    ],
+    "openA": 31,
+    "closeA": "O2",
+    "O1": 35,
+    "O2": 31,
+    "O3": 42,
+    "O4": 28
+  },
+  {
+    "Q": "What’s the number displayed on the player's shirt in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/385"
+    ],
+    "openA": 14,
+    "closeA": "O1",
+    "O1": 14,
+    "O2": 28,
+    "O3": 15,
+    "O4": 13
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/67"
+    ],
+    "openA": 1,
+    "closeA": "O4",
+    "O1": 2,
+    "O2": 4,
+    "O3": 3,
+    "O4": 1
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/80"
+    ],
+    "openA": 10,
+    "closeA": "O3",
+    "O1": 11,
+    "O2": 9,
+    "O3": 10,
+    "O4": 20
+  },
+  {
+    "Q": "What’s the player's jersey number in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/891"
+    ],
+    "openA": 30,
+    "closeA": "O4",
+    "O1": 25,
+    "O2": 35,
+    "O3": 40,
+    "O4": 30
+  },
+  {
+    "Q": "What’s the player's jersey number in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/538"
+    ],
+    "openA": 7,
+    "closeA": "O4",
+    "O1": 8,
+    "O2": 6,
+    "O3": 14,
+    "O4": 7
+  },
+  {
+    "Q": "What is the player’s shirt number in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/12"
+    ],
+    "openA": 14,
+    "closeA": "O3",
+    "O1": 15,
+    "O2": 28,
+    "O3": 14,
+    "O4": 13
+  },
+  {
+    "Q": "What is the player’s shirt number in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/369"
+    ],
+    "openA": 10,
+    "closeA": "O4",
+    "O1": 20,
+    "O2": 9,
+    "O3": 11,
+    "O4": 10
+  },
+  {
+    "Q": "What is the player’s shirt number in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/220"
+    ],
+    "openA": 44,
+    "closeA": "O1",
+    "O1": 44,
+    "O2": 43,
+    "O3": 22,
+    "O4": 45
+  },
+  {
+    "Q": "Can you tell me the number on the player's kit in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/1208"
+    ],
+    "openA": 10,
+    "closeA": "O1",
+    "O1": 10,
+    "O2": 20,
+    "O3": 11,
+    "O4": 9
+  },
+  {
+    "Q": "What is the player’s shirt number in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/957"
+    ],
+    "openA": 22,
+    "closeA": "O2",
+    "O1": 15,
+    "O2": 22,
+    "O3": 44,
+    "O4": 30
+  },
+  {
+    "Q": "What is the player’s shirt number in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/190"
+    ],
+    "openA": 8,
+    "closeA": "O1",
+    "O1": 8,
+    "O2": 10,
+    "O3": 7,
+    "O4": 9
+  },
+  {
+    "Q": "Could you identify the jersey number of the player in the image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/597"
+    ],
+    "openA": 50,
+    "closeA": "O2",
+    "O1": 49,
+    "O2": 50,
+    "O3": 55,
+    "O4": 51
+  },
+  {
+    "Q": "What’s the shirt number of the player in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/606"
+    ],
+    "openA": 14,
+    "closeA": "O4",
+    "O1": 7,
+    "O2": 12,
+    "O3": 15,
+    "O4": 14
+  },
+  {
+    "Q": "Can you tell me the jersey number of the player shown in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/1099"
+    ],
+    "openA": 33,
+    "closeA": "O3",
+    "O1": 34,
+    "O2": 30,
+    "O3": 33,
+    "O4": 32
+  },
+  {
+    "Q": "Which jersey number is the player sporting in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/1079"
+    ],
+    "openA": 22,
+    "closeA": "O2",
+    "O1": 30,
+    "O2": 22,
+    "O3": 15,
+    "O4": 44
+  },
+  {
+    "Q": "What’s the player's jersey number in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/944"
+    ],
+    "openA": 1,
+    "closeA": "O1",
+    "O1": 1,
+    "O2": 3,
+    "O3": 4,
+    "O4": 2
+  },
+  {
+    "Q": "What number is the player wearing in the picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/2"
+    ],
+    "openA": 25,
+    "closeA": "O2",
+    "O1": 24,
+    "O2": 25,
+    "O3": 26,
+    "O4": 30
+  },
+  {
+    "Q": "Can you tell me the number on the player's kit in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/253"
+    ],
+    "openA": 33,
+    "closeA": "O1",
+    "O1": 33,
+    "O2": 32,
+    "O3": 30,
+    "O4": 34
+  },
+  {
+    "Q": "What’s the shirt number of the player in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/936"
+    ],
+    "openA": 22,
+    "closeA": "O2",
+    "O1": 15,
+    "O2": 22,
+    "O3": 44,
+    "O4": 30
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/657"
+    ],
+    "openA": 26,
+    "closeA": "O2",
+    "O1": 24,
+    "O2": 26,
+    "O3": 31,
+    "O4": 28
+  },
+  {
+    "Q": "Can you tell me the number on the player's kit in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/540"
+    ],
+    "openA": 10,
+    "closeA": "O1",
+    "O1": 10,
+    "O2": 15,
+    "O3": 8,
+    "O4": 12
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/1104"
+    ],
+    "openA": 14,
+    "closeA": "O1",
+    "O1": 14,
+    "O2": 28,
+    "O3": 15,
+    "O4": 13
+  },
+  {
+    "Q": "What’s the shirt number of the player in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/264"
+    ],
+    "openA": 31,
+    "closeA": "O3",
+    "O1": 29,
+    "O2": 28,
+    "O3": 31,
+    "O4": 34
+  },
+  {
+    "Q": "Can you tell me the number on the player's kit in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/314"
+    ],
+    "openA": 4,
+    "closeA": "O2",
+    "O1": 7,
+    "O2": 4,
+    "O3": 3,
+    "O4": 5
+  },
+  {
+    "Q": "What’s the shirt number of the player in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/595"
+    ],
+    "openA": 4,
+    "closeA": "O2",
+    "O1": 7,
+    "O2": 4,
+    "O3": 5,
+    "O4": 3
+  },
+  {
+    "Q": "Could you identify the jersey number of the player in the image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/72"
+    ],
+    "openA": 8,
+    "closeA": "O3",
+    "O1": 12,
+    "O2": 7,
+    "O3": 8,
+    "O4": 9
+  },
+  {
+    "Q": "Which jersey number is the player sporting in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/344"
+    ],
+    "openA": 36,
+    "closeA": "O2",
+    "O1": 42,
+    "O2": 36,
+    "O3": 24,
+    "O4": 18
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/979"
+    ],
+    "openA": 24,
+    "closeA": "O2",
+    "O1": 36,
+    "O2": 24,
+    "O3": 12,
+    "O4": 48
+  },
+  {
+    "Q": "What’s the player's jersey number in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/709"
+    ],
+    "openA": 1,
+    "closeA": "O2",
+    "O1": 4,
+    "O2": 1,
+    "O3": 3,
+    "O4": 2
+  },
+  {
+    "Q": "What’s the number displayed on the player's shirt in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/232"
+    ],
+    "openA": 50,
+    "closeA": "O3",
+    "O1": 49,
+    "O2": 51,
+    "O3": 50,
+    "O4": 55
+  },
+  {
+    "Q": "Which jersey number is the player sporting in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/678"
+    ],
+    "openA": 33,
+    "closeA": "O4",
+    "O1": 44,
+    "O2": 34,
+    "O3": 32,
+    "O4": 33
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/299"
+    ],
+    "openA": 4,
+    "closeA": "O3",
+    "O1": 3,
+    "O2": 7,
+    "O3": 4,
+    "O4": 5
+  },
+  {
+    "Q": "Could you identify the jersey number of the player in the image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/310"
+    ],
+    "openA": 59,
+    "closeA": "O3",
+    "O1": 60,
+    "O2": 58,
+    "O3": 59,
+    "O4": 49
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/503"
+    ],
+    "openA": 26,
+    "closeA": "O1",
+    "O1": 26,
+    "O2": 13,
+    "O3": 28,
+    "O4": 24
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/466"
+    ],
+    "openA": 1,
+    "closeA": "O1",
+    "O1": 1,
+    "O2": 2,
+    "O3": 3,
+    "O4": 4
+  },
+  {
+    "Q": "Can you tell me the number on the player's kit in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/363"
+    ],
+    "openA": 36,
+    "closeA": "O3",
+    "O1": 18,
+    "O2": 42,
+    "O3": 36,
+    "O4": 24
+  },
+  {
+    "Q": "Which jersey number is the player sporting in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/458"
+    ],
+    "openA": 14,
+    "closeA": "O3",
+    "O1": 7,
+    "O2": 13,
+    "O3": 14,
+    "O4": 15
+  },
+  {
+    "Q": "What is the player’s shirt number in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/37"
+    ],
+    "openA": 1,
+    "closeA": "O3",
+    "O1": 4,
+    "O2": 3,
+    "O3": 1,
+    "O4": 2
+  },
+  {
+    "Q": "Can you tell me the number on the player's kit in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/598"
+    ],
+    "openA": 93,
+    "closeA": "O3",
+    "O1": 94,
+    "O2": 92,
+    "O3": 93,
+    "O4": 85
+  },
+  {
+    "Q": "What is the player’s shirt number in this photo?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/410"
+    ],
+    "openA": 10,
+    "closeA": "O3",
+    "O1": 9,
+    "O2": 20,
+    "O3": 10,
+    "O4": 11
+  },
+  {
+    "Q": "Can you tell me the number on the player's kit in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/882"
+    ],
+    "openA": 9,
+    "closeA": "O3",
+    "O1": 12,
+    "O2": 20,
+    "O3": 9,
+    "O4": 5
+  },
+  {
+    "Q": "What’s the player's jersey number in this picture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/1096"
+    ],
+    "openA": 31,
+    "closeA": "O4",
+    "O1": 34,
+    "O2": 19,
+    "O3": 28,
+    "O4": 31
+  },
+  {
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q5/images/31"
+    ],
+    "openA": 14,
+    "closeA": "O2",
+    "O1": 12,
+    "O2": 14,
+    "O3": 17,
+    "O4": 21
+  }
+]

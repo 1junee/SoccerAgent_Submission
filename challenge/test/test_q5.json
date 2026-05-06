@@ -1,0 +1,132 @@
+[
+  {
+    "id": 22,
+    "Q": "What’s the number displayed on the player's shirt in this picture?",
+    "materials": [
+      "materials/q5/3"
+    ],
+    "openA": 9,
+    "closeA": "O1",
+    "O1": 9,
+    "O2": 8,
+    "O3": 5,
+    "O4": 20
+  },
+  {
+    "id": 29,
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "materials/q5/8"
+    ],
+    "openA": 27,
+    "closeA": "O1",
+    "O1": 27,
+    "O2": 26,
+    "O3": 28,
+    "O4": 13
+  },
+  {
+    "id": 56,
+    "Q": "What’s the player's jersey number in this picture?",
+    "materials": [
+      "materials/q5/5"
+    ],
+    "openA": 35,
+    "closeA": "O4",
+    "O1": 36,
+    "O2": 5,
+    "O3": 25,
+    "O4": 35
+  },
+  {
+    "id": 139,
+    "Q": "What’s the number displayed on the player's shirt in this picture?",
+    "materials": [
+      "materials/q5/9"
+    ],
+    "openA": 11,
+    "closeA": "O4",
+    "O1": 10,
+    "O2": 12,
+    "O3": 9,
+    "O4": 11
+  },
+  {
+    "id": 186,
+    "Q": "What number is the player wearing in the picture?",
+    "materials": [
+      "materials/q5/12"
+    ],
+    "openA": 8,
+    "closeA": "O3",
+    "O1": 9,
+    "O2": 7,
+    "O3": 8,
+    "O4": 10
+  },
+  {
+    "id": 268,
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "materials/q5/14"
+    ],
+    "openA": 6,
+    "closeA": "O2",
+    "O1": 5,
+    "O2": 6,
+    "O3": 8,
+    "O4": 7
+  },
+  {
+    "id": 301,
+    "Q": "What’s the shirt number of the player in this photo?",
+    "materials": [
+      "materials/q5/10"
+    ],
+    "openA": 3,
+    "closeA": "O4",
+    "O1": 4,
+    "O2": 5,
+    "O3": 2,
+    "O4": 3
+  },
+  {
+    "id": 396,
+    "Q": "What’s the number displayed on the player's shirt in this picture?",
+    "materials": [
+      "materials/q5/18"
+    ],
+    "openA": 11,
+    "closeA": "O4",
+    "O1": 12,
+    "O2": 9,
+    "O3": 10,
+    "O4": 11
+  },
+  {
+    "id": 439,
+    "Q": "Can you tell me the jersey number of the player shown in this image?",
+    "materials": [
+      "materials/q5/16"
+    ],
+    "openA": 31,
+    "closeA": "O1",
+    "O1": 31,
+    "O2": 35,
+    "O3": 42,
+    "O4": 28
+  },
+  {
+    "id": 467,
+    "Q": "What is the number on the player's jersey in this image?",
+    "materials": [
+      "materials/q5/17"
+    ],
+    "openA": 25,
+    "closeA": "O2",
+    "O1": 24,
+    "O2": 25,
+    "O3": 5,
+    "O4": 26
+  }
+]

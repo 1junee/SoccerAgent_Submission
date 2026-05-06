@@ -1,0 +1,262 @@
+[
+  {
+    "id": 50,
+    "Q": "What’s the state of the camera in this image?",
+    "materials": [
+      "materials/q3/12.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Main camera right",
+    "O2": "Main behind the goal",
+    "O3": "Main camera center",
+    "O4": "Spider camera"
+  },
+  {
+    "id": 87,
+    "Q": "What’s the state of the camera in this image?",
+    "materials": [
+      "materials/q3/3.png"
+    ],
+    "openA": "Main behind the goal",
+    "closeA": "O3",
+    "O1": "Main camera center",
+    "O2": "Main camera left",
+    "O3": "Main behind the goal",
+    "O4": "Public"
+  },
+  {
+    "id": 112,
+    "Q": "Where is the camera situated in this image?",
+    "materials": [
+      "materials/q3/33.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O2",
+    "O1": "Public",
+    "O2": "Close-up behind the goal",
+    "O3": "Goal line technology camera",
+    "O4": "Main camera left"
+  },
+  {
+    "id": 142,
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "materials/q3/29.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O4",
+    "O1": "Other",
+    "O2": "Main behind the goal",
+    "O3": "Main camera left",
+    "O4": "Inside the goal"
+  },
+  {
+    "id": 169,
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "materials/q3/30.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O3",
+    "O1": "Close-up player or field referee",
+    "O2": "Close-up corner",
+    "O3": "Close-up behind the goal",
+    "O4": "Main camera right"
+  },
+  {
+    "id": 195,
+    "Q": "Could you describe the camera’s status in this image?",
+    "materials": [
+      "materials/q3/11.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O3",
+    "O1": "Inside the goal",
+    "O2": "Main camera left",
+    "O3": "Main camera center",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "id": 219,
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "materials/q3/19.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O2",
+    "O1": "Main camera right",
+    "O2": "Main camera left",
+    "O3": "Main behind the goal",
+    "O4": "Close-up corner"
+  },
+  {
+    "id": 241,
+    "Q": "What is the camera’s location in this picture?",
+    "materials": [
+      "materials/q3/23.png"
+    ],
+    "openA": "Public",
+    "closeA": "O2",
+    "O1": "Main camera center",
+    "O2": "Public",
+    "O3": "Close-up corner",
+    "O4": "Close-up player or field referee"
+  },
+  {
+    "id": 269,
+    "Q": "What’s the camera situation in this picture?",
+    "materials": [
+      "materials/q3/4.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O2",
+    "O1": "Goal line technology camera",
+    "O2": "Close-up player or field referee",
+    "O3": "Close-up corner",
+    "O4": "Main camera right"
+  },
+  {
+    "id": 279,
+    "Q": "What’s the camera position like in this photo?",
+    "materials": [
+      "materials/q3/22.png"
+    ],
+    "openA": "Close-up behind the goal",
+    "closeA": "O4",
+    "O1": "Other",
+    "O2": "Close-up player or field referee",
+    "O3": "Goal line technology camera",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "id": 303,
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "materials/q3/2.png"
+    ],
+    "openA": "Close-up player or field referee",
+    "closeA": "O1",
+    "O1": "Close-up player or field referee",
+    "O2": "Main camera center",
+    "O3": "Main camera left",
+    "O4": "Spider camera"
+  },
+  {
+    "id": 313,
+    "Q": "What’s the camera situation in this picture?",
+    "materials": [
+      "materials/q3/40.png"
+    ],
+    "openA": "Public",
+    "closeA": "O3",
+    "O1": "Main behind the goal",
+    "O2": "Other",
+    "O3": "Public",
+    "O4": "Main camera right"
+  },
+  {
+    "id": 364,
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "materials/q3/28.png"
+    ],
+    "openA": "Main camera left",
+    "closeA": "O4",
+    "O1": "Spider camera",
+    "O2": "Close-up corner",
+    "O3": "Other",
+    "O4": "Main camera left"
+  },
+  {
+    "id": 394,
+    "Q": "Could you describe the camera’s status in this image?",
+    "materials": [
+      "materials/q3/18.png"
+    ],
+    "openA": "Main camera center",
+    "closeA": "O1",
+    "O1": "Main camera center",
+    "O2": "Goal line technology camera",
+    "O3": "Other",
+    "O4": "Main behind the goal"
+  },
+  {
+    "id": 426,
+    "Q": "What is the camera’s location in this picture?",
+    "materials": [
+      "materials/q3/24.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O3",
+    "O1": "Close-up behind the goal",
+    "O2": "Main behind the goal",
+    "O3": "Close-up corner",
+    "O4": "Goal line technology camera"
+  },
+  {
+    "id": 427,
+    "Q": "Where is the camera placed in this image?",
+    "materials": [
+      "materials/q3/10.png"
+    ],
+    "openA": "Other",
+    "closeA": "O2",
+    "O1": "Main camera left",
+    "O2": "Other",
+    "O3": "Close-up side staff",
+    "O4": "Inside the goal"
+  },
+  {
+    "id": 436,
+    "Q": "What is the camera position in this picture?",
+    "materials": [
+      "materials/q3/5.png"
+    ],
+    "openA": "Inside the goal",
+    "closeA": "O1",
+    "O1": "Inside the goal",
+    "O2": "Public",
+    "O3": "Close-up side staff",
+    "O4": "Main camera center"
+  },
+  {
+    "id": 460,
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "materials/q3/8.png"
+    ],
+    "openA": "Close-up side staff",
+    "closeA": "O2",
+    "O1": "Main camera center",
+    "O2": "Close-up side staff",
+    "O3": "Close-up player or field referee",
+    "O4": "Close-up behind the goal"
+  },
+  {
+    "id": 477,
+    "Q": "How is the camera positioned in this photo?",
+    "materials": [
+      "materials/q3/36.png"
+    ],
+    "openA": "Spider camera",
+    "closeA": "O2",
+    "O1": "Close-up player or field referee",
+    "O2": "Spider camera",
+    "O3": "Goal line technology camera",
+    "O4": "Public"
+  },
+  {
+    "id": 488,
+    "Q": "Could you describe the camera’s status in this image?",
+    "materials": [
+      "materials/q3/15.png"
+    ],
+    "openA": "Close-up corner",
+    "closeA": "O4",
+    "O1": "Main camera center",
+    "O2": "Close-up player or field referee",
+    "O3": "Main camera right",
+    "O4": "Close-up corner"
+  }
+]

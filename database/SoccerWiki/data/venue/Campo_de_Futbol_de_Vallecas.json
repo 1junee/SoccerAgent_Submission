@@ -1,0 +1,44 @@
+{
+    "VENUE": "Campo de Futbol de Vallecas",
+    "CITY": "Madrid",
+    "TEAM": "Rayo Vallecano",
+    "CAPACITY": 14505,
+    "VENUE_URL": "https://wikipedia.org/wiki/Campo_de_F%C3%BAtbol_de_Vallecas",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Rayo0-1LegaCopa2018.jpg/120px-Rayo0-1LegaCopa2018.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "CommunityofMadrid",
+            "Surface": "Grass",
+            "Capacity": "14,708",
+            "Location": "PuentedeVallecas,Madrid,Spain",
+            "Operator": "CommunityofMadrid",
+            "Full name": "CampodeFútboldeVallecas",
+            "Field size": "100 m× 65 m(328 ft× 213 ft)",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}40°23′31″N3°39′32″W﻿/﻿40.39194°N3.65889°W﻿/40.39194;-3.65889",
+            "Former names": "NuevoEstadiodeVallecas(1976–1994)EstadioTeresaRivero(1994–2011)",
+            "Public transit": "atPortazgo"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Built": "1972–1976",
+            "Opened": "10 May 1976 (1976-05-10)"
+        }
+    },
+    "CONTENT": {
+        "References": {},
+        "Miscellaneous": "Campo de Fútbol de Vallecas was the venue for the 1940 Copa del Generalísimo Final, as the Copa del Rey was known during caudillo Franco's Francoist State. It was the home stadium of Racing de Madrid, from the neighboring city of Chamberí, and its successor, Agrupación Recreativa Chamberí. Atlético Madrid also played their home matches at the venue between 1939 and 1943 after the Spanish Civil War, as their stadium, the Metropolitan, was destroyed by the war.Rayo Vallecano stadiums over time:The chess federation of Madrid is based in the basements of the stadium. There is also a well known boxing gym called \"El Rayo\".On 3 August 1986, the British rock band Queen performed at the stadium as part of The Magic Tour. It was the third from last concert of the band with the original members.",
+        "External links": "Estadios de España (in English)Stadiumguide profile",
+        "2018 temporary closure": "On 27 August 2018 the stadium was temporarily prohibited from hosting football matches, until improvements had been made, as parts of the stadium were judged to be unsafe by its owners, the Community of Madrid."
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/Estadio_Teresa_Rivero_%28Madrid%29_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Estadio_de_Vallecas.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/76/Madrid-MetroLinea1.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/22/MetroMadridLogoSimplified.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d8/Metro_de_Madrid_-_Portazgo_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rayo0-1LegaCopa2018.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Sports_and_games.png"
+    ],
+    "SUMMARY": "Campo de Fútbol de Vallecas (originally Nuevo Estadio de Vallecas and previously Estadio Teresa Rivero) is a football stadium in the Madrid district of Puente de Vallecas, Spain. It currently hosts football matches and is the home of Primera Division club Rayo Vallecano. The stadium holds 14,708 spectators and was opened on 10 May 1976. It was constructed between 1972 and 1976, and it is also known by the names of Campo de Fútbol de Vallecas and Estadio Puente de Vallecas (The Bridge of Vallecas Stadium).\n\n"
+}

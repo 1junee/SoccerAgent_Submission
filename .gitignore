@@ -1,0 +1,74 @@
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# Python cache/build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Runtime outputs and logs
+outputs/
+log/
+logs/
+*.log
+*.tmp
+
+# Large binary/media artifacts should be distributed separately.
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.jpg
+*.jpeg
+*.png
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model weights and checkpoints
+models/*
+!models/README.md
+checkpoint/
+checkpoints/
+**/checkpoint/
+**/checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.onnx
+*.h5
+*.ot
+*.msgpack
+*.mlpackage/
+
+# Large local datasets/materials. Keep JSON manifests and lightweight metadata in git;
+# place these folders manually when reproducing.
+challenge/**/materials/
+database/Game_dataset/
+database/SoccerBench/materials/
+database/SoccerWiki/pic/
+
+# Large extracted database caches generated locally
+database/SoccerBench/.cache/
+database/SoccerBench/run_outputs/

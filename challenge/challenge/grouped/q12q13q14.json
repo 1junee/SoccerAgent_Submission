@@ -1,0 +1,988 @@
+[
+  {
+    "id": 12,
+    "Q": "What is the height of the Chelsea left-back who took the long-range shot that went over the bar in this video?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2018-2019/2019-01-02_chelsea-fc-southampton-fc-premier-league/2_45_44.mp4"
+    ],
+    "O1": "1.85 meters (6 feet 1 inch)",
+    "O2": "1.88 meters (6 feet 2 inches)",
+    "O3": "1.90 meters (6 feet 3 inches)",
+    "O4": "1.83 meters (6 feet 0 inches)"
+  },
+  {
+    "id": 23,
+    "Q": "Which shirt number did the Arsenal defender who delivered the fine lofted pass to Gabriel Jesus in this video wear upon returning to the club in 2020?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2022-2023/2022-08-05_crystal-palace-arsenal-fc-premier-league-2022-2023/2_25_50.mp4"
+    ],
+    "O1": "2",
+    "O2": "5",
+    "O3": "4",
+    "O4": "6"
+  },
+  {
+    "id": 27,
+    "Q": "When did the Liverpool attacking midfielder who was flagged offside during this attacking move make their Premier League debut?",
+    "materials": [
+      "materials/q12/SN-Caption-test-align/england_epl_2016-2017/2016-08-27 - 14-30 Tottenham 1 - 1 Liverpool/2_03_11.mp4"
+    ],
+    "O1": "On the opening day of the 2011–12 season",
+    "O2": "On the opening day of the 2012–13 season",
+    "O3": "On the opening day of the 2013–14 season",
+    "O4": "On the opening day of the 2010–11 season"
+  },
+  {
+    "id": 28,
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.0x speed. Did the foul occur with contact between players?",
+    "materials": [
+      "materials/q14/action_113/clip_0.mp4",
+      "materials/q14/action_113/clip_1.mp4"
+    ],
+    "O1": "With contact",
+    "O2": "Without contact"
+  },
+  {
+    "id": 30,
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed. Does this involve multiple fouls?",
+    "materials": [
+      "materials/q14/action_225/clip_0.mp4",
+      "materials/q14/action_225/clip_1.mp4"
+    ],
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "id": 32,
+    "Q": "In the video, which color jersey fails to complete the crossfield pass?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/europe_champions-league_2020-2021/2021-03-09_juventus-fc-fc-porto-champions-league-2020-2021/2_29_00.mp4"
+    ],
+    "O1": "error",
+    "O2": "blue",
+    "O3": "white",
+    "O4": "indigo"
+  },
+  {
+    "id": 39,
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 3.0x speed. Did the offence involve deliberate hand contact?",
+    "materials": [
+      "materials/q14/action_4/clip_0.mp4",
+      "materials/q14/action_4/clip_1.mp4"
+    ],
+    "O1": "No",
+    "O2": "No handball",
+    "O3": "Yes"
+  },
+  {
+    "id": 51,
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 4.4x speed. Was there contact between the players in this foul?",
+    "materials": [
+      "materials/q14/action_85/clip_0.mp4",
+      "materials/q14/action_85/clip_1.mp4"
+    ],
+    "O1": "Without contact",
+    "O2": "With contact"
+  },
+  {
+    "id": 55,
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.8x speed. Did this foul involve a handball?",
+    "materials": [
+      "materials/q14/action_103/clip_0.mp4",
+      "materials/q14/action_103/clip_1.mp4"
+    ],
+    "O1": "No handball",
+    "O2": "No",
+    "O3": "Yes"
+  },
+  {
+    "id": 57,
+    "Q": "In the video showing a foul, which color jersey commits the trip?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2022-2023/2022-08-05_crystal-palace-arsenal-fc-premier-league-2022-2023/2_04_48.mp4"
+    ],
+    "O1": "blue",
+    "O2": "turquoise",
+    "O3": "red",
+    "O4": "white"
+  },
+  {
+    "id": 65,
+    "Q": "How many games did the Newcastle United midfielder who delivered the intercepted crossfield pass in this video play for England U20?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2022-2023/2023-04-23_newcastle-united-tottenham-hotspur-premier-league-2022-2023/2_41_39.mp4"
+    ],
+    "O1": "5",
+    "O2": "7",
+    "O3": "9",
+    "O4": "11"
+  },
+  {
+    "id": 69,
+    "Q": "How many times has the manager who substituted Asier Illarramendi into this match won the UEFA Champions League with Chelsea?",
+    "materials": [
+      "materials/q12/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-04-22 - 21-45 Real Madrid 1 - 0 Atl. Madrid/2_47_55.mp4"
+    ],
+    "O1": "Twice",
+    "O2": "Once",
+    "O3": "Three times",
+    "O4": "Never"
+  },
+  {
+    "id": 77,
+    "Q": "In the video showing a substitution, which color jersey is worn by the incoming player?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-10-21_nottingham-forest-luton-town-premier-league/2_26_38.mp4"
+    ],
+    "O1": "blue",
+    "O2": "coral",
+    "O3": "white",
+    "O4": "red"
+  },
+  {
+    "id": 83,
+    "Q": "In the video, which color jersey takes the shot inside the box?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-12-09_aston-villa-arsenal-fc-premier-league-2023-2024/2_15_32.mp4"
+    ],
+    "O1": "yellow",
+    "O2": "white",
+    "O3": "red",
+    "O4": "teal"
+  },
+  {
+    "id": 85,
+    "Q": "In the video, which color jersey commits the foul that leads to a free kick?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2019-2020/2019-08-09_liverpool-fc-norwich-city/2_33_43.mp4"
+    ],
+    "O1": "lime",
+    "O2": "green",
+    "O3": "red",
+    "O4": "yellow"
+  },
+  {
+    "id": 104,
+    "Q": "There are 2 videos of the same football foul from different angles, respectively: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.6x speed. Did the offence involve deliberate hand contact?",
+    "materials": [
+      "materials/q14/action_37/clip_0.mp4",
+      "materials/q14/action_37/clip_1.mp4"
+    ],
+    "O1": "Yes",
+    "O2": "No handball",
+    "O3": "No"
+  },
+  {
+    "id": 107,
+    "Q": "4 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.4x speed, Close-up player or field referee lens at 2.4x speed, Close-up behind the goal lens at 2.0x speed. Is this a case of multiple fouls?",
+    "materials": [
+      "materials/q14/action_97/clip_0.mp4",
+      "materials/q14/action_97/clip_1.mp4",
+      "materials/q14/action_97/clip_2.mp4",
+      "materials/q14/action_97/clip_3.mp4"
+    ],
+    "O1": "Yes",
+    "O2": "No"
+  },
+  {
+    "id": 109,
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed. What type of foul action is demonstrated here?",
+    "materials": [
+      "materials/q14/action_36/clip_0.mp4",
+      "materials/q14/action_36/clip_1.mp4"
+    ],
+    "O1": "Pushing",
+    "O2": "Dive",
+    "O3": "Holding",
+    "O4": "High leg"
+  },
+  {
+    "id": 114,
+    "Q": "How long was the initial contract with Juventus for the Bologna winger who burst into the box, beat two defenders, and took a powerful shot from the penalty spot in this video?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/italy_serie-a_2021-2022/2022-05-08_venezia-fc-bologna-fc/2_21_30.mp4"
+    ],
+    "O1": "June 2020",
+    "O2": "June 2021",
+    "O3": "June 2022",
+    "O4": "June 2023"
+  },
+  {
+    "id": 125,
+    "Q": "In which season did the midfielder who assisted the low shot from the edge of the box in this video win the Ligue 1 Goal of the Year?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2019-2020/2019-08-21_olympiacos-fc-fc-krasnodar/2_39_50.mp4"
+    ],
+    "O1": "2005–06 season",
+    "O2": "2006–07 season",
+    "O3": "2008–09 season",
+    "O4": "2007–08 season"
+  },
+  {
+    "id": 127,
+    "Q": "Which team did the Monaco player who committed the overly-aggressive foul in this video join in 2024?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/france_league-1_2018-2019/2018-11-11_as-monaco-paris-saint-germain-ligue-1-2018-2019/2_12_50.mp4"
+    ],
+    "O1": "AS Monaco",
+    "O2": "Zenit Saint Petersburg",
+    "O3": "Olympique Lyonnais",
+    "O4": "FC Porto"
+  },
+  {
+    "id": 131,
+    "Q": "In the video, which color jersey receives the short corner pass?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-10-08_brighton-hove-albion-liverpool-fc-premier-league-2023-2024/2_37_20.mp4"
+    ],
+    "O1": "red",
+    "O2": "blue",
+    "O3": "gray",
+    "O4": "white"
+  },
+  {
+    "id": 134,
+    "Q": "Which team did France defeat in the 2021 UEFA Nations League final, when the forward caught offside in this video was part of the squad?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/spain_laliga_2021-2022/2021-10-24_atletico-de-madrid-real-sociedad-liga-1-division-2021-2022/1_42_37.mp4"
+    ],
+    "O1": "Germany",
+    "O2": "Spain",
+    "O3": "Italy",
+    "O4": "Portugal"
+  },
+  {
+    "id": 138,
+    "Q": "How many appearances did the Venezia player who stepped up to take the penalty in this video make for Salernitana in the 2021 season?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/italy_serie-a_2021-2022/2022-05-08_venezia-fc-bologna-fc/1_18_00.mp4"
+    ],
+    "O1": "10",
+    "O2": "15",
+    "O3": "8",
+    "O4": "13"
+  },
+  {
+    "id": 141,
+    "Q": "Where was the defender who scored with a powerful header from a corner inside the six-yard box born?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/italy_serie-a_2018-2019/2018-10-20_as-roma-s-p-a-l-2013/2_10_20.mp4"
+    ],
+    "O1": "Rome, Italy",
+    "O2": "Milan, Italy",
+    "O3": "Naples, Italy",
+    "O4": "Toffia, Italy"
+  },
+  {
+    "id": 154,
+    "Q": "Which team did the goalkeeper who wasn't challenged by Frenkie de Jong's off-target header join in 2019?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/spain_laliga_2021-2022/2022-04-21_real-sociedad-fc-barcelona-liga-1-division-2021-2022/1_17_24.mp4"
+    ],
+    "O1": "Athletic Bilbao",
+    "O2": "Real Sociedad",
+    "O3": "Sevilla FC",
+    "O4": "Valencia CF"
+  },
+  {
+    "id": 155,
+    "Q": "What shirt number did the Bayern Munich player who attempted to break free before being stopped by an opponent take after Thiago Alcântara's departure?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/germany_bundesliga_2018-2019/2018-09-22_schalke-04-bayern-munchen-bundesliga-2018-2019/1_01_20.mp4"
+    ],
+    "O1": "Number 8",
+    "O2": "Number 10",
+    "O3": "Number 6",
+    "O4": "Number 4"
+  },
+  {
+    "id": 159,
+    "Q": "In the video showing a substitution, which color jersey is the player coming onto the field wearing?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-09-30_everton-fc-luton-town/2_00_10.mp4"
+    ],
+    "O1": "red",
+    "O2": "white",
+    "O3": "blue",
+    "O4": "indigo"
+  },
+  {
+    "id": 164,
+    "Q": "Which clubs did the Southampton left-back who received a yellow card for the foul in this video play for during their senior career?",
+    "materials": [
+      "materials/q12/SN-Caption-test-align/england_epl_2015-2016/2015-10-03 - 19-30 Chelsea 1 - 3 Southampton/1_24_21.mp4"
+    ],
+    "O1": "Chelsea, Arsenal, Manchester City, Liverpool",
+    "O2": "Chelsea, AFC Bournemouth (loan), Norwich City (loan), Aston Villa (loan), Oldham Athletic (loan), Reading (loan), Nottingham Forest (loan), Southampton (loan and permanent), and Leicester City",
+    "O3": "Chelsea, Tottenham Hotspur, West Ham United, Everton",
+    "O4": "Chelsea, Leeds United, Newcastle United, Brighton & Hove Albion"
+  },
+  {
+    "id": 181,
+    "Q": "What did the winger who took the long-range shot wide of the left post in this video do in the 2021 UEFA Europa League group stage?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/germany_bundesliga_2017-2018/2017-12-09_borussia-dortmund-werder-bremen-bundesliga/1_39_03.mp4"
+    ],
+    "O1": "He assisted both goals in West Ham's 2–0 win against Rapid Wien.",
+    "O2": "He scored against Rapid Wien and provided the penalty for West Ham's 2–0 win.",
+    "O3": "He scored a hat-trick in West Ham's 3–1 victory over Rapid Wien.",
+    "O4": "He was named Man of the Match in West Ham's 2–0 win against Rapid Wien."
+  },
+  {
+    "id": 186,
+    "Q": "When and where was the Manchester United midfielder who received medical treatment after being tackled in this video born?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2019-2020/2020-01-19_liverpool-fc-manchester-united-premier-league-2019-2020/1_19_20.mp4"
+    ],
+    "O1": "1 January 1996 in Brussels, Belgium",
+    "O2": "1 January 1996 in Duffel, Belgium",
+    "O3": "5 February 1996 in Duffel, Belgium",
+    "O4": "1 January 1996 in Antwerp, Belgium"
+  },
+  {
+    "id": 199,
+    "Q": "In the video, which color jersey intercepts the corner?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-11-05_nottingham-forest-aston-villa-premier-league/2_34_10.mp4"
+    ],
+    "O1": "lime",
+    "O2": "blue",
+    "O3": "red",
+    "O4": "white"
+  },
+  {
+    "id": 219,
+    "Q": "How many goals did the left-back who delivered the corner kick in this video score in the 2013–14 season?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2021-2022/2021-08-23_west-ham-united-leicester-city-premier-league-2021-2022/2_21_12.mp4"
+    ],
+    "O1": "1",
+    "O2": "2",
+    "O3": "3",
+    "O4": "4"
+  },
+  {
+    "id": 221,
+    "Q": "Which Belgian manager dropped the Napoli player who took the corner in this video from the national team in 2023?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/italy_serie-a_2019-2020/2019-09-25_ssc-napoli-cagliari-calcio-serie-a-2019-2020/2_46_20.mp4"
+    ],
+    "O1": "Roberto Martínez",
+    "O2": "Thierry Henry",
+    "O3": "Marc Wilmots",
+    "O4": "Domenico Tedesco"
+  },
+  {
+    "id": 231,
+    "Q": "Which club did the forward who raced towards the box before assisting a Juventus teammate join after leaving Juventus?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2019-2020/2019-10-01_juventus-fc-bayer-leverkusen-champions-league/2_04_10.mp4"
+    ],
+    "O1": "Paris Saint-Germain",
+    "O2": "Real Madrid",
+    "O3": "Bayern Munich",
+    "O4": "Manchester United"
+  },
+  {
+    "id": 236,
+    "Q": "How many appearances did the Manchester United forward who attempted the key pass from the edge of the box in this video make for England U18?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2017-2018/2018-03-05_crystal-palace-manchester-united-premier-league/2_06_50.mp4"
+    ],
+    "O1": "1",
+    "O2": "2",
+    "O3": "3",
+    "O4": "4"
+  },
+  {
+    "id": 241,
+    "Q": "What is the record in the Premier League Golden Boot for the Tottenham attacker whose powerful long-range shot was saved at the bottom left corner in this video?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2022-2023/2023-02-05_tottenham-hotspur-manchester-city-premier-league-2022-2023/2_31_09.mp4"
+    ],
+    "O1": "2020–21 season",
+    "O2": "2021–22 season",
+    "O3": "2019–20 season",
+    "O4": "2022–23 season"
+  },
+  {
+    "id": 244,
+    "Q": "In the video, which color jersey does the substitute player wear when joining the action?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/italy_serie-a_2020-2021/2021-01-17_ssc-napoli-acf-fiorentina-serie-a-2020-2021/2_27_27.mp4"
+    ],
+    "O1": "red",
+    "O2": "white",
+    "O3": "lavender",
+    "O4": "blue"
+  },
+  {
+    "id": 246,
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.4x speed. Does this situation contain more than one foul?",
+    "materials": [
+      "materials/q14/action_77/clip_0.mp4",
+      "materials/q14/action_77/clip_1.mp4"
+    ],
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "id": 250,
+    "Q": "How many appearances did the left-back who escaped punishment for a forceful foul in this video make for Vilafranca?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/spain_laliga_2021-2022/2022-02-27_sevilla-fc-real-betis-liga-1-division-2021-2022/2_08_30.mp4"
+    ],
+    "O1": "3 appearances",
+    "O2": "1 appearance",
+    "O3": "2 appearances",
+    "O4": "0 appearances"
+  },
+  {
+    "id": 253,
+    "Q": "In the video, which color jersey is the team that scored the disallowed goal wearing?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2022-2023/2022-11-05_manchester-city-fulham-fc-premier-league/2_30_29.mp4"
+    ],
+    "O1": "white",
+    "O2": "black",
+    "O3": "gold",
+    "O4": "light blue"
+  },
+  {
+    "id": 255,
+    "Q": "How many assists did the Paris SG player heading to the penalty spot to take the kick provide in the 2005 FIFA U-17 World Cup?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/france_league-1_2018-2019/2018-11-11_as-monaco-paris-saint-germain-ligue-1-2018-2019/2_17_50.mp4"
+    ],
+    "O1": "3",
+    "O2": "1",
+    "O3": "2",
+    "O4": "0"
+  },
+  {
+    "id": 256,
+    "Q": "In the video, which color jersey clears the free kick?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-12-07_tottenham-hotspur-west-ham-united-premier-league-2023-2024/2_47_52.mp4"
+    ],
+    "O1": "red",
+    "O2": "blue",
+    "O3": "yellow",
+    "O4": "white"
+  },
+  {
+    "id": 267,
+    "Q": "Which club did the Arsenal defender who committed the foul in this video make their professional football debut with?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2022-2023/2022-08-05_crystal-palace-arsenal-fc-premier-league-2022-2023/1_40_34.mp4"
+    ],
+    "O1": "Leeds United",
+    "O2": "Brighton & Hove Albion",
+    "O3": "Southampton",
+    "O4": "Leicester City"
+  },
+  {
+    "id": 271,
+    "Q": "In the video, which color jersey prepares to take the corner kick?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2019-2020/2019-09-21_everton-fc-sheffield-united/2_15_50.mp4"
+    ],
+    "O1": "white",
+    "O2": "cyan",
+    "O3": "blue",
+    "O4": "red"
+  },
+  {
+    "id": 276,
+    "Q": "In the video showing a substitution, which color jersey is worn by the player entering the pitch?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2019-2020/2020-07-01_west-ham-united-chelsea-fc-premier-league-2019-2020/2_22_18.mp4"
+    ],
+    "O1": "white",
+    "O2": "red",
+    "O3": "blue",
+    "O4": "olive"
+  },
+  {
+    "id": 284,
+    "Q": "In the video, which color jersey heads the ball out of danger from the corner?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-11-25_newcastle-united-chelsea-fc-premier-league-2023-2024/1_39_15.mp4"
+    ],
+    "O1": "white",
+    "O2": "red",
+    "O3": "blue",
+    "O4": "olive"
+  },
+  {
+    "id": 297,
+    "Q": "In the video, which color jersey delivers the cross from the corner?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2019-2020/2019-08-09_liverpool-fc-norwich-city/2_07_22.mp4"
+    ],
+    "O1": "red",
+    "O2": "green",
+    "O3": "yellow",
+    "O4": "violet"
+  },
+  {
+    "id": 298,
+    "Q": "In the video, which color jersey makes the tackle resulting in a yellow card?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/germany_bundesliga_2020-2021/2021-02-27_rb-leipzig-borussia-monchengladbach-bundesliga-2020-2021/2_02_30.mp4"
+    ],
+    "O1": "brown",
+    "O2": "black",
+    "O3": "blue",
+    "O4": "white"
+  },
+  {
+    "id": 307,
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed. Which upper body part was the focus of the offence?",
+    "materials": [
+      "materials/q14/action_125/clip_0.mp4",
+      "materials/q14/action_125/clip_1.mp4"
+    ],
+    "O1": "Arms",
+    "O2": "Use of shoulder",
+    "O3": "Shoulder"
+  },
+  {
+    "id": 313,
+    "Q": "In which FIFA World Cup did the Cagliari midfielder whose shot was blocked by a defender in this video play for Uruguay?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/italy_serie-a_2020-2021/2021-04-17_cagliari-calcio-parma-calcio/1_19_03.mp4"
+    ],
+    "O1": "2014 FIFA World Cup",
+    "O2": "2018 FIFA World Cup",
+    "O3": "2010 FIFA World Cup",
+    "O4": "2022 FIFA World Cup"
+  },
+  {
+    "id": 319,
+    "Q": "In the video, which color jersey commits the foul near the sideline?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2019-2020/2020-06-25_chelsea-fc-manchester-city-premier-league-2019-2020/1_17_08.mp4"
+    ],
+    "O1": "red",
+    "O2": "purple",
+    "O3": "blue",
+    "O4": "white"
+  },
+  {
+    "id": 323,
+    "Q": "In the video, which color jersey misses the scoring chance inside the box?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2019-2020/2020-01-19_liverpool-fc-manchester-united-premier-league-2019-2020/2_30_57.mp4"
+    ],
+    "O1": "red",
+    "O2": "orange",
+    "O3": "blue",
+    "O4": "white"
+  },
+  {
+    "id": 324,
+    "Q": "In the video, which color jersey intercepts the cross in the box?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-08-26_arsenal-fc-fulham-fc-premier-league-2023-2024/2_09_43.mp4"
+    ],
+    "O1": "silver",
+    "O2": "red",
+    "O3": "black",
+    "O4": "white"
+  },
+  {
+    "id": 327,
+    "Q": "Which club did the midfielder who received a pass on the edge of the box and struck a shot toward the bottom right corner in this video join in 2020?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/spain_laliga_2019-2020/2020-07-05_villarreal-cf-fc-barcelona-liga-1-division-2019-2020/2_20_51.mp4"
+    ],
+    "O1": "Juventus",
+    "O2": "Inter Milan",
+    "O3": "Bayern Munich",
+    "O4": "Barcelona"
+  },
+  {
+    "id": 328,
+    "Q": "In the video, which color jersey scores from the edge of the penalty box?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/italy_serie-a_2022-2023/2023-03-18_udinese-ac-milan-serie-a-2022-2023/1_09_30.mp4"
+    ],
+    "O1": "white",
+    "O2": "lime",
+    "O3": "blue",
+    "O4": "red"
+  },
+  {
+    "id": 334,
+    "Q": "Which South Korean player did the Tottenham forward who escaped punishment after pulling an opponent's shirt surpass in Premier League assists?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2022-2023/2022-09-07_tottenham-hotspur-olympique-de-marseille/1_12_06.mp4"
+    ],
+    "O1": "Ki Sung-yueng",
+    "O2": "Park Ji-sung",
+    "O3": "Lee Chung-yong",
+    "O4": "Kim Bo-kyung"
+  },
+  {
+    "id": 340,
+    "Q": "What is the full name of the Bayern Munich player who was adjudged offside in this video?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/germany_bundesliga_2022-2023/2022-08-27_bayern-munchen-borussia-monchengladbach-bundesliga-2022-2023/1_07_53.mp4"
+    ],
+    "O1": "Benjamin Jean Michel Pavard",
+    "O2": "Benjamin Jacques Marcel Pavard",
+    "O3": "Benjamin Pierre Louis Pavard",
+    "O4": "Benjamin Alexandre Mathieu Pavard"
+  },
+  {
+    "id": 349,
+    "Q": "In the video, which color jersey clears the ball from the corner?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-12-03_liverpool-fc-fulham-fc-premier-league-2023-2024/1_45_41.mp4"
+    ],
+    "O1": "blue",
+    "O2": "white",
+    "O3": "red",
+    "O4": "brown"
+  },
+  {
+    "id": 351,
+    "Q": "In the video showing a cleared corner, which color jersey defends and clears the ball?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/spain_laliga_2022-2023/2023-06-04_real-betis-valencia-cf-liga-1-division-2022-2023/2_16_21.mp4"
+    ],
+    "O1": "green",
+    "O2": "white",
+    "O3": "yellow",
+    "O4": "gold"
+  },
+  {
+    "id": 363,
+    "Q": "How many goals and assists did the Club Brugge player who delivered the unsuccessful corner kick in this video contribute in their first campaign with the club?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2021-2022/2021-12-07_paris-saint-germain-club-brugge-champions-league/2_48_10.mp4"
+    ],
+    "O1": "15 goals and 9 assists",
+    "O2": "17 goals and 11 assists",
+    "O3": "12 goals and 14 assists",
+    "O4": "18 goals and 10 assists"
+  },
+  {
+    "id": 378,
+    "Q": "In the video, which color jersey successfully tackles the dribbling player?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-10-08_brighton-hove-albion-liverpool-fc-premier-league-2023-2024/2_12_10.mp4"
+    ],
+    "O1": "white",
+    "O2": "blue",
+    "O3": "red",
+    "O4": "pink"
+  },
+  {
+    "id": 379,
+    "Q": "Which club did the left-back who opted for a short corner instead of a cross in this video support as a child?",
+    "materials": [
+      "materials/q12/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-10-01 - 19-30 Bayer Leverkusen 2 - 0 Dortmund/1_22_59.mp4"
+    ],
+    "O1": "Porto",
+    "O2": "Benfica",
+    "O3": "Sporting CP",
+    "O4": "Braga"
+  },
+  {
+    "id": 383,
+    "Q": "In the video, which color jersey takes the long-range shot that misses wide?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2019-2020/2019-10-26_manchester-city-aston-villa-premier-league/2_14_30.mp4"
+    ],
+    "O1": "black",
+    "O2": "blue",
+    "O3": "magenta",
+    "O4": "white"
+  },
+  {
+    "id": 384,
+    "Q": "How many goals did the player who attempted the long-range bending free kick in this video score in the 2021–22 Copa del Rey?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2018-2019/2018-11-27_olympique-lyonnais-manchester-city/1_05_31.mp4"
+    ],
+    "O1": "1",
+    "O2": "3",
+    "O3": "2",
+    "O4": "4"
+  },
+  {
+    "id": 387,
+    "Q": "In the video, which color jersey takes the short corner kick?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-12-06_manchester-united-chelsea-fc-premier-league-2023-2024/2_28_58.mp4"
+    ],
+    "O1": "red",
+    "O2": "blue",
+    "O3": "gold",
+    "O4": "white"
+  },
+  {
+    "id": 390,
+    "Q": "In the video, which color jersey takes the corner kick that goes out of play?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2019-2020/2019-12-22_watford-fc-manchester-united-premier-league-2019-2020/1_27_33.mp4"
+    ],
+    "O1": "red",
+    "O2": "turquoise",
+    "O3": "yellow",
+    "O4": "blue"
+  },
+  {
+    "id": 393,
+    "Q": "How many Supercopa de España titles has the midfielder who took the short corner in this video won?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2021-2022/2021-11-23_sevilla-fc-vfl-wolfsburg/1_00_30.mp4"
+    ],
+    "O1": "One",
+    "O2": "Two",
+    "O3": "Three",
+    "O4": "Four"
+  },
+  {
+    "id": 399,
+    "Q": "2 multi-angle videos of a football foul are available, each showing: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.0x speed. Was the foul during an offensive play?",
+    "materials": [
+      "materials/q14/action_148/clip_0.mp4",
+      "materials/q14/action_148/clip_1.mp4"
+    ],
+    "O1": "Offence",
+    "O2": "Between",
+    "O3": "No offence"
+  },
+  {
+    "id": 401,
+    "Q": "In the video showing an offside call, which color jersey is the player wearing?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-08-19_wolverhampton-wanderers-brighton-hove-albion-premier-league-2023-2024/2_30_20.mp4"
+    ],
+    "O1": "green",
+    "O2": "blue",
+    "O3": "yellow",
+    "O4": "white"
+  },
+  {
+    "id": 404,
+    "Q": "In the video showing a foul with excessive force, which color jersey escapes punishment?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/france_league-1_2021-2022/2022-04-23_paris-saint-germain-rc-lens-ligue-1-2021-2022/2_34_00.mp4"
+    ],
+    "O1": "green",
+    "O2": "white",
+    "O3": "blue",
+    "O4": "yellow"
+  },
+  {
+    "id": 407,
+    "Q": "Which team did the manager who substituted Wataru Endo for Lilian Egloff in this match play for in 2004–2005?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/germany_bundesliga_2022-2023/2022-09-10_bayern-munchen-vfb-stuttgart-bundesliga-2022-2023/2_29_34.mp4"
+    ],
+    "O1": "1. FC Nürnberg",
+    "O2": "SV Wehen",
+    "O3": "VfB Stuttgart",
+    "O4": "SpVgg Greuther Fürth"
+  },
+  {
+    "id": 415,
+    "Q": "In the video, which color jersey takes the first-time shot over the bar?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/europe_champions-league_2021-2022/2022-04-12_real-madrid-chelsea-fc-champions-league-2021-2022/1_30_50.mp4"
+    ],
+    "O1": "blue",
+    "O2": "coral",
+    "O3": "white",
+    "O4": "yellow"
+  },
+  {
+    "id": 417,
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Main behind the goal lens at 1.0x speed. What body region was impacted by this offence?",
+    "materials": [
+      "materials/q14/action_153/clip_0.mp4",
+      "materials/q14/action_153/clip_1.mp4"
+    ],
+    "O1": "Upper body",
+    "O2": "Under body"
+  },
+  {
+    "id": 421,
+    "Q": "In the video, which color jersey takes the header from the corner kick?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/spain_laliga_2021-2022/2021-10-27_rayo-vallecano-fc-barcelona-liga-1-division-2021-2022/2_43_50.mp4"
+    ],
+    "O1": "white",
+    "O2": "blue",
+    "O3": "black",
+    "O4": "red"
+  },
+  {
+    "id": 433,
+    "Q": "How many goals did the midfielder who took the low long-range shot in this video score during his loan spell at Red Bull Salzburg?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/germany_bundesliga_2022-2023/2022-08-27_bayern-munchen-borussia-monchengladbach-bundesliga-2022-2023/1_24_02.mp4"
+    ],
+    "O1": "15",
+    "O2": "22",
+    "O3": "17",
+    "O4": "19"
+  },
+  {
+    "id": 443,
+    "Q": "2 camera angles captured this football foul: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed. Did the foul occur due to a handball?",
+    "materials": [
+      "materials/q14/action_175/clip_0.mp4",
+      "materials/q14/action_175/clip_1.mp4"
+    ],
+    "O1": "Yes",
+    "O2": "No",
+    "O3": "No handball"
+  },
+  {
+    "id": 455,
+    "Q": "In the video, which color jersey clears the corner kick?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-12-06_fulham-fc-nottingham-forest/1_39_23.mp4"
+    ],
+    "O1": "blue",
+    "O2": "white",
+    "O3": "red",
+    "O4": "black"
+  },
+  {
+    "id": 459,
+    "Q": "What was the achievement of the goalkeeper who blocked the first-time strike towards the right post in this video with KR in their first season?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2018-2019/2018-08-14_bate-borisov-qarabag-fk/1_27_51.mp4"
+    ],
+    "O1": "He won the league title only",
+    "O2": "He won the double with KR in his first season",
+    "O3": "He reached the domestic cup final",
+    "O4": "He was named the league's best goalkeeper"
+  },
+  {
+    "id": 465,
+    "Q": "In the video, which color jersey receives the yellow card?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-11-12_chelsea-fc-manchester-city-premier-league-2023-2024/1_22_59.mp4"
+    ],
+    "O1": "lightblue",
+    "O2": "teal",
+    "O3": "darkblue",
+    "O4": "white"
+  },
+  {
+    "id": 470,
+    "Q": "There are 2 video replays of the same foul, including: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 2.6x speed. Did the player handle the ball deliberately?",
+    "materials": [
+      "materials/q14/action_217/clip_0.mp4",
+      "materials/q14/action_217/clip_1.mp4"
+    ],
+    "O1": "No",
+    "O2": "Yes",
+    "O3": "No handball"
+  },
+  {
+    "id": 471,
+    "Q": "How many goals has the midfielder who delivered the free-kick cross leading to Arsenal's corner scored for Bayer Leverkusen as of now?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2017-2018/2017-11-18_arsenal-fc-tottenham-hotspur-premier-league-2017-2018/1_21_08.mp4"
+    ],
+    "O1": "1",
+    "O2": "3",
+    "O3": "5",
+    "O4": "7"
+  },
+  {
+    "id": 472,
+    "Q": "This football foul has been captured from 2 different angles: Main camera center lens at 1.0x speed, Close-up player or field referee lens at 1.0x speed. Are multiple rule violations occurring here?",
+    "materials": [
+      "materials/q14/action_290/clip_0.mp4",
+      "materials/q14/action_290/clip_1.mp4"
+    ],
+    "O1": "No",
+    "O2": "Yes"
+  },
+  {
+    "id": 474,
+    "Q": "In the video showing a handball, which color jersey commits the foul?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2022-2023/2023-02-15_arsenal-fc-manchester-city-premier-league-2022-2023/1_35_16.mp4"
+    ],
+    "O1": "blue",
+    "O2": "white",
+    "O3": "teal",
+    "O4": "red"
+  },
+  {
+    "id": 476,
+    "Q": "In the video, which color jersey commits the foul with a slide tackle?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2023-2024/2023-09-23_arsenal-fc-tottenham-hotspur-premier-league-2023-2024/2_23_27.mp4"
+    ],
+    "O1": "white",
+    "O2": "red",
+    "O3": "blue",
+    "O4": "turquoise"
+  },
+  {
+    "id": 481,
+    "Q": "How many goals did the Tottenham player who conceded a dangerous free kick after a tackle in this video score in the 2010–11 Belgian Pro League season?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/england_epl_2022-2023/2023-04-23_newcastle-united-tottenham-hotspur-premier-league-2022-2023/2_11_40.mp4"
+    ],
+    "O1": "18",
+    "O2": "20",
+    "O3": "22",
+    "O4": "24"
+  },
+  {
+    "id": 482,
+    "Q": "In the video, which color jersey fails to deliver the cross from the free kick?",
+    "materials": [
+      "materials/q13/SoccerReplay-1988/england_epl_2022-2023/2023-04-16_west-ham-united-arsenal-fc-premier-league-2022-2023/1_18_54.mp4"
+    ],
+    "O1": "gray",
+    "O2": "red",
+    "O3": "black",
+    "O4": "blue"
+  },
+  {
+    "id": 487,
+    "Q": "When did the left-back who delivered the lofted cross into the box in this video join Borussia Mönchengladbach?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2019-2020/2019-10-23_fc-internazionale-borussia-dortmund-champions-league/1_37_13.mp4"
+    ],
+    "O1": "On 12 July 2014",
+    "O2": "On 18 August 2015",
+    "O3": "On 25 June 2016",
+    "O4": "On 30 January 2017"
+  },
+  {
+    "id": 493,
+    "Q": "When was the manager who substituted Julian Brandt for Thorgan Hazard in this match appointed as Borussia Dortmund manager?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/europe_champions-league_2019-2020/2019-09-17_borussia-dortmund-fc-barcelona-champions-league/2_27_31.mp4"
+    ],
+    "O1": "15 April 2017",
+    "O2": "22 May 2018",
+    "O3": "10 June 2019",
+    "O4": "3 December 2020"
+  },
+  {
+    "id": 497,
+    "Q": "Which club did the right-back who attempted the pass from outside the box in this video play for before joining Wolverhampton Wanderers?",
+    "materials": [
+      "materials/q12/SoccerReplay-1988/spain_laliga_2019-2020/2020-06-23_fc-barcelona-athletic-de-bilbao-liga-1-division-2019-2020/2_01_20.mp4"
+    ],
+    "O1": "Benfica",
+    "O2": "Barcelona",
+    "O3": "Sevilla",
+    "O4": "Porto"
+  }
+]

@@ -1,0 +1,40 @@
+{
+    "VENUE": "Krasnodar Stadium",
+    "CITY": "Krasnodar",
+    "TEAM": "Krasnodar",
+    "CAPACITY": 35179,
+    "VENUE_URL": "https://wikipedia.org/wiki/Krasnodar_Stadium",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2022._%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80_DSC_9465.jpg/150px-2022._%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80_DSC_9465.jpg",
+    "INFOBOX": {
+        "": {
+            "Surface": "Grass",
+            "Capacity": "35,179[2]",
+            "Location": "Krasnodar,Russia",
+            "Field size": "105x68m",
+            "Record attendance": "35,249(KrasnodarvZenit,13April2024)"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Built": "2016",
+            "Opened": "9October2016[1]",
+            "Architect": "ESTAConstruction",
+            "Broke ground": "2013",
+            "Construction cost": "20billionRUB"
+        }
+    },
+    "CONTENT": {
+        "Gallery": {},
+        "See also": "List of football stadiums in RussiaLists of stadiums",
+        "References": {}
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/Fk_Krasnodar_stadion.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b1/Krasnodar-tosno_%281%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7b/Krasnodar_u19-_RMu19_%2810%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c6/Moscow_Hippodrome.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Park_near_the_stadium_in_Krasnodar_%282%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg"
+    ],
+    "SUMMARY": "Krasnodar Stadium is a football stadium in Krasnodar, Russia. It hosts FC Krasnodar of the Russian Premier League. It has a capacity of 35,179 spectators.\nThe stadium was designed by von Gerkan, Marg and Partners (gmp) together with SPEECH architectural office and built by Contractor Esta Construction. The stadium's interior project was developed by Maxim Rymar Architectural Studio.\nThe stadium is surrounded by the Krasnodar park (popularly known as Galitsky Park), a large regular park that has become one of the city's sights. The park was built at the expense of entrepreneur Sergey Galitsky and opened on September 28, 2017. The area is 22.7 hectares. More than 2.5 thousand trees are planted in the park: oak, hornbeam, alder, bonsai, poplar, pine, tulip tree, maple, thuja, decorative plum."
+}

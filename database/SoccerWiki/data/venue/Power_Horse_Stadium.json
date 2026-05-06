@@ -1,0 +1,44 @@
+{
+    "VENUE": "Power Horse Stadium",
+    "CITY": "Almería",
+    "TEAM": "Almeria",
+    "CAPACITY": 17400,
+    "VENUE_URL": "https://wikipedia.org/wiki/Power_Horse_Stadium",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PowerHorseStadium.jpg/120px-PowerHorseStadium.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "AyuntamientodeAlmería [es]",
+            "Opened": "2004",
+            "Capacity": "21,350(athletics)17,400(football)[2]",
+            "Location": "Almería,Spain",
+            "Operator": "UDAlmería",
+            "Field size": "105metres(115 yd)x68metres(74 yd)",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}36°50′24″N2°26′07″W﻿/﻿36.84000°N2.43528°W﻿/36.84000;-2.43528",
+            "Former names": "EstadiodelosJuegosMediterráneos(2004–2022)PowerHorseStadium(2022–2024)[1]"
+        },
+        "Tenants": {}
+    },
+    "CONTENT": {
+        "Access": "Located two kilometers near the main railway station of the city and a little further of the centre, the stadium can be accessed through the station or the bus Line 7, despite car access.",
+        "Gallery": {},
+        "History": "Inaugurated on 31 July 2004 and originally built for the 2005 Mediterranean Games, the stadium cost around €21 million, which was paid by the Ayuntamiento de Almería. It subsequently became UD Almería's home stadium, replacing Estadio Municipal Juan Rojas, with the latter being used by the reserve team.The stadium was expanded from 15,000 to 21,350 after Almería's promotion to La Liga. Since 2012, the club uses extra seats behind the goals to avoid the use of the part of the stadium which is the furthest of the pitch. With this configuration, the capacity is reduced to 15,274. In August 2021, the Ayuntamiento de Almería agreed to grant the operation of the stadium to UD Almería for a 25-year period.On 11 August 2022, the stadium was renamed to Power Horse Stadium after Almería reached a sponsorship agreement with Power Horse Energy Drinks GmbH. On 7 August 2024, after the partnership ended, it was renamed to UD Almería Stadium.",
+        "Panorama": {},
+        "References": {},
+        "External links": "Patronato Municipal de Deportes de Almería profile  (in Spanish)Estadios de España profile",
+        "Spain national team matches": "On 9 February 2005, it hosted Spain's 5–0 win over San Marino in qualification for the 2006 FIFA World Cup."
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/Almeria_Osasuna_0708.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ac/Estad.almeria.mediterraneum.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/02/Estadio_de_los_Juegos_Mediterr%C3%A1neos.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/Estadio_de_los_Juegos_Mediterr%C3%A1neos_Almeria_Andalusien_Spanien_-_Foto_Wolfgang_Pehlemann_P1110329.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/81/Estadio_de_los_Juegos_Mediterr%C3%A1neos_Almeria_Andalusien_Spanien_-_Foto_Wolfgang_Pehlemann_P1110335.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a6/Estadiomediterrenioe.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/30/PXL_20230211_Power_Horse_Stadium_02.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5d/PXL_20230211_Power_Horse_Stadium_04.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/77/PowerHorseStadium.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg"
+    ],
+    "SUMMARY": "UD Almería Stadium is a multi-purpose stadium in Almería, Spain. It is the home ground of UD Almería, and holds 17,400 people.\n\n"
+}

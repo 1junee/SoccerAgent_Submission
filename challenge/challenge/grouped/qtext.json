@@ -1,0 +1,1217 @@
+[
+  {
+    "id": 4,
+    "Q": "How many goals did Maksim Kanunnikov score for Tom Tomsk in 2011?",
+    "materials": null,
+    "O1": "3 goals",
+    "O2": "5 goals",
+    "O3": "7 goals",
+    "O4": "9 goals"
+  },
+  {
+    "id": 6,
+    "Q": "What time did the Atalanta vs. Napoli Serie A match kick off on January 21, 2018?",
+    "materials": null,
+    "O1": "18:45:00",
+    "O2": "20:15:00",
+    "O3": "19:30:00",
+    "O4": "17:00:00"
+  },
+  {
+    "id": 10,
+    "Q": "What was the attendance at Stadio Olimpico di Torino for Napoli's 5-0 victory on May 14, 2017?",
+    "materials": null,
+    "O1": "32,541",
+    "O2": "18,905",
+    "O3": "24,267",
+    "O4": "27,619"
+  },
+  {
+    "id": 13,
+    "Q": "What was the final score in the Champions League match between Paris SG and RB Leipzig on August 18, 2020?",
+    "materials": null,
+    "O1": "2-1 (Paris SG won)",
+    "O2": "1-1 (Draw)",
+    "O3": "3-0 (Paris SG won)",
+    "O4": "2-0 (RB Leipzig won)"
+  },
+  {
+    "id": 17,
+    "Q": "Which team did Jorge Molina help achieve promotion in July 2023?",
+    "materials": null,
+    "O1": "Real Zaragoza",
+    "O2": "Granada CF",
+    "O3": "Levante UD",
+    "O4": "UD Almería"
+  },
+  {
+    "id": 18,
+    "Q": "Until when is Iker Alvarez's contract with Villarreal B valid?",
+    "materials": null,
+    "O1": "2024",
+    "O2": "2026",
+    "O3": "2025",
+    "O4": "2027"
+  },
+  {
+    "id": 25,
+    "Q": "Which competition did Alvaro Odriozola help Spain U21 reach the final of in 2017?",
+    "materials": null,
+    "O1": "2017 FIFA U-20 World Cup",
+    "O2": "2017 UEFA European Under-21 Championship",
+    "O3": "2017 Toulon Tournament",
+    "O4": "2017 Mediterranean Games"
+  },
+  {
+    "id": 31,
+    "Q": "How many Premier League titles has Bernardo Silva won with Manchester City as of 2024?",
+    "materials": null,
+    "O1": "4",
+    "O2": "6",
+    "O3": "5",
+    "O4": "7"
+  },
+  {
+    "id": 37,
+    "Q": "How many substitutions did Mainz make during their Bundesliga match against Bayern Munich on April 24, 2021?",
+    "materials": null,
+    "O1": "3 substitutions",
+    "O2": "4 substitutions",
+    "O3": "5 substitutions",
+    "O4": "6 substitutions"
+  },
+  {
+    "id": 38,
+    "Q": "When was Santiago Arias born?",
+    "materials": null,
+    "O1": "January 15, 1991",
+    "O2": "December 13, 1992",
+    "O3": "January 13, 1992",
+    "O4": "February 10, 1993"
+  },
+  {
+    "id": 41,
+    "Q": "Which national team did Jorge manage in 1990?",
+    "materials": null,
+    "O1": "Spain",
+    "O2": "Argentina",
+    "O3": "Brazil",
+    "O4": "Portugal"
+  },
+  {
+    "id": 44,
+    "Q": "In the Bundesliga match between Bayern Munich and Schalke on September 18, 2020, how many corner kicks did Bayern Munich take in total during the game?",
+    "materials": null,
+    "O1": "5 corner kicks",
+    "O2": "9 corner kicks",
+    "O3": "7 corner kicks",
+    "O4": "3 corner kicks"
+  },
+  {
+    "id": 47,
+    "Q": "In which position(s) did Hal Robson-Kanu play during his career?",
+    "materials": null,
+    "O1": "Defender and midfielder",
+    "O2": "Goalkeeper and sweeper",
+    "O3": "Central midfielder and attacking midfielder",
+    "O4": "Winger and forward"
+  },
+  {
+    "id": 49,
+    "Q": "How many penalty kicks were awarded in the Lazio vs Empoli Serie A match on August 21, 2021, and who converted it?",
+    "materials": null,
+    "O1": "2 penalties, converted by Luis Alberto",
+    "O2": "No penalties were awarded in the match",
+    "O3": "1 penalty, converted by Ciro Immobile",
+    "O4": "1 penalty, converted by Francesco Caputo"
+  },
+  {
+    "id": 52,
+    "Q": "Which club did Logan Costa join in August 2021?",
+    "materials": null,
+    "O1": "Lille",
+    "O2": "Nice",
+    "O3": "Bordeaux",
+    "O4": "Toulouse"
+  },
+  {
+    "id": 53,
+    "Q": "In which competition did Myziane Maolida score his first goal for Lyon?",
+    "materials": null,
+    "O1": "Ligue 1",
+    "O2": "Coupe de France",
+    "O3": "UEFA Champions League",
+    "O4": "UEFA Europa League"
+  },
+  {
+    "id": 60,
+    "Q": "What is Lionel Messi's most successful club in terms of titles?",
+    "materials": null,
+    "O1": "Paris Saint-Germain",
+    "O2": "FC Barcelona",
+    "O3": "Inter Miami",
+    "O4": "Manchester City"
+  },
+  {
+    "id": 61,
+    "Q": "How many appearances did Niels Nkounkou make for Cardiff City during his loan spell?",
+    "materials": null,
+    "O1": "15 appearances",
+    "O2": "18 appearances",
+    "O3": "20 appearances",
+    "O4": "12 appearances"
+  },
+  {
+    "id": 62,
+    "Q": "What was the result of Javier Llabres' professional and La Liga debut?",
+    "materials": null,
+    "O1": "A 2–1 home win against Real Madrid",
+    "O2": "A 1–0 home loss to FC Barcelona",
+    "O3": "A 0–0 draw with Atlético Madrid",
+    "O4": "A 3–2 away victory over Valencia"
+  },
+  {
+    "id": 63,
+    "Q": "What did Mohamed Salah do after the Abu Sefein Church fire in 2022?",
+    "materials": null,
+    "O1": "Organized a charity match to raise funds",
+    "O2": "Expressed condolences and donated three million Egyptian pounds",
+    "O3": "Visited the church to offer support in person",
+    "O4": "Launched a social media campaign to raise awareness"
+  },
+  {
+    "id": 66,
+    "Q": "When and where was Tomas Esteves born?",
+    "materials": null,
+    "O1": "April 5, 2002, in Braga, Portugal",
+    "O2": "April 3, 2002, in Arcos de Valdevez, Portugal",
+    "O3": "March 3, 2002, in Viana do Castelo, Portugal",
+    "O4": "April 3, 2002, in Ponte de Lima, Portugal"
+  },
+  {
+    "id": 67,
+    "Q": "How many appearances did Mateo Susic make for Sheriff Tiraspol?",
+    "materials": null,
+    "O1": "98",
+    "O2": "106",
+    "O3": "112",
+    "O4": "120"
+  },
+  {
+    "id": 73,
+    "Q": "What is Stephen Odey's full name?",
+    "materials": null,
+    "O1": "Stephen Michael Odey",
+    "O2": "Stephen Pius Odey",
+    "O3": "Stephen James Odey",
+    "O4": "Stephen David Odey"
+  },
+  {
+    "id": 74,
+    "Q": "Which youth club did Wesley join in 2011?",
+    "materials": null,
+    "O1": "Santos FC",
+    "O2": "Bel Air",
+    "O3": "Ajax Cape Town",
+    "O4": "ASEC Mimosas"
+  },
+  {
+    "id": 78,
+    "Q": "Which award did Gianluigi Buffon win in 2017?",
+    "materials": null,
+    "O1": "UEFA Men's Player of the Year",
+    "O2": "The Best FIFA Goalkeeper",
+    "O3": "Golden Foot Award",
+    "O4": "FIFA World Player of the Year"
+  },
+  {
+    "id": 79,
+    "Q": "Which tournament did Justin Bijlow participate in with the Netherlands U21 team?",
+    "materials": null,
+    "O1": "FIFA U-20 World Cup",
+    "O2": "UEFA European Under-21 Championship",
+    "O3": "UEFA Nations League",
+    "O4": "Olympic Games Football Tournament"
+  },
+  {
+    "id": 82,
+    "Q": "Which team did Franci Bouebari play for before joining SCFreiburgII?",
+    "materials": null,
+    "O1": "Lyon II",
+    "O2": "Strasbourg II",
+    "O3": "Monaco II",
+    "O4": "Nice II"
+  },
+  {
+    "id": 84,
+    "Q": "How many times has Thibaut Courtois been named in the La Liga Team of the Season?",
+    "materials": null,
+    "O1": "Twice",
+    "O2": "Three times",
+    "O3": "Once",
+    "O4": "Four times"
+  },
+  {
+    "id": 86,
+    "Q": "Which B. Monchengladbach players were shown yellow cards for dissent or fouls in the first half of the August 26, 2023 Bundesliga match?",
+    "materials": null,
+    "O1": "Alassane Plea and Florian Neuhaus",
+    "O2": "Nico Elvedi and Julian Weigl",
+    "O3": "Tomas Cvancara and Ko Itakura",
+    "O4": "Jonas Hofmann and Lars Stindl"
+  },
+  {
+    "id": 92,
+    "Q": "Which Dinamo Zagreb player was injured and required medical treatment in the second half of their Champions League match against Bodo/Glimt on August 16, 2022?",
+    "materials": null,
+    "O1": "Mislav Orsic",
+    "O2": "Josip Sutalo",
+    "O3": "Bruno Petkovic",
+    "O4": "Dominik Livakovic"
+  },
+  {
+    "id": 93,
+    "Q": "What nationality was Bayern Munich's head coach Hansi Flick during the 2019-20 season?",
+    "materials": null,
+    "O1": "Austrian",
+    "O2": "Dutch",
+    "O3": "German",
+    "O4": "Swiss"
+  },
+  {
+    "id": 94,
+    "Q": "Why did Jaroslav Drobny fail to play for Fulham?",
+    "materials": null,
+    "O1": "He was transferred to another club before the season started.",
+    "O2": "He chose to retire from professional soccer shortly after joining.",
+    "O3": "He had visa issues preventing him from playing in the UK.",
+    "O4": "He was injured shortly after his arrival and later failed to get into the team."
+  },
+  {
+    "id": 95,
+    "Q": "How many substitutions did Watford make in their October 6, 2018 Premier League match against Bournemouth?",
+    "materials": null,
+    "O1": "2 (Adrian Mariappa, Isaac Success)",
+    "O2": "4 (Adrian Mariappa, Isaac Success, Gerard Deulofeu, Roberto Pereyra)",
+    "O3": "3 (Adrian Mariappa, Isaac Success, Gerard Deulofeu)",
+    "O4": "1 (Gerard Deulofeu)"
+  },
+  {
+    "id": 111,
+    "Q": "What was the final score when Chelsea hosted Liverpool at Stamford Bridge on September 22, 2019?",
+    "materials": null,
+    "O1": "Chelsea won 2-1 against Liverpool",
+    "O2": "The match ended in a 1-1 draw",
+    "O3": "Liverpool won 2-1 against Chelsea",
+    "O4": "Chelsea won 3-0 against Liverpool"
+  },
+  {
+    "id": 112,
+    "Q": "What was the final score in the May 5, 2018 Premier League match between Southampton and Everton, and who scored the equalizing goal for Everton?",
+    "materials": null,
+    "O1": "The final score was 2-1, with Theo Walcott scoring the equalizing goal for Everton.",
+    "O2": "The final score was 1-0, with Gylfi Sigurdsson scoring the winning goal for Everton.",
+    "O3": "The final score was 1-1, with Tom Davies scoring the equalizing goal for Everton.",
+    "O4": "The final score was 1-1, with Wayne Rooney scoring the equalizing goal for Everton."
+  },
+  {
+    "id": 118,
+    "Q": "How many yellow cards were shown to Real Madrid players during the February 26, 2020 Champions League match against Manchester City?",
+    "materials": null,
+    "O1": "2 yellow cards",
+    "O2": "4 yellow cards",
+    "O3": "3 yellow cards",
+    "O4": "1 yellow card"
+  },
+  {
+    "id": 119,
+    "Q": "When did Kasim Adams play his first match as a professional?",
+    "materials": null,
+    "O1": "15 August 2013",
+    "O2": "28 September 2014",
+    "O3": "12 March 2015",
+    "O4": "5 July 2012"
+  },
+  {
+    "id": 130,
+    "Q": "Which Juventus player assisted Miralem Pjanic's winning goal against Bologna in the October 19, 2019 Serie A match?",
+    "materials": null,
+    "O1": "Cristiano Ronaldo",
+    "O2": "Paulo Dybala",
+    "O3": "The assist isn't explicitly mentioned in the commentary.",
+    "O4": "Gonzalo Higuaín"
+  },
+  {
+    "id": 136,
+    "Q": "What was the sequence of goals scored in the first half of the Fulham vs Burnley match on August 26, 2018, including the minute of each goal?",
+    "materials": null,
+    "O1": "Jean Michael Seri (Fulham) at 03:08, Jeff Hendrick (Burnley) at 10:17, Aleksandar Mitrovic (Fulham) at 37:38, Mitrovic again at 35:30, and James Tarkowski (Burnley) at 41:08",
+    "O2": "Jeff Hendrick (Burnley) at 03:08, Jean Michael Seri (Fulham) at 10:17, James Tarkowski (Burnley) at 35:30, Aleksandar Mitrovic (Fulham) at 37:38, and Mitrovic again at 41:08",
+    "O3": "Jean Michael Seri (Fulham) at 03:08, Jeff Hendrick (Burnley) at 10:17, Aleksandar Mitrovic (Fulham) at 35:30, Mitrovic again at 37:38, and James Tarkowski (Burnley) at 41:08",
+    "O4": "Jean Michael Seri (Fulham) at 03:08, Aleksandar Mitrovic (Fulham) at 10:17, Jeff Hendrick (Burnley) at 35:30, James Tarkowski (Burnley) at 37:38, and Mitrovic again at 41:08"
+  },
+  {
+    "id": 137,
+    "Q": "Which Aston Villa player received the only yellow card in their November 5, 2023 Premier League match against Nottingham, and in what minute?",
+    "materials": null,
+    "O1": "John McGinn (Aston Villa) received a yellow card in the 23rd minute of the first half.",
+    "O2": "Douglas Luiz (Aston Villa) received a yellow card in the 62nd minute of the match.",
+    "O3": "Boubacar Kamara (Aston Villa) received a yellow card in the 17th minute of the second half.",
+    "O4": "Ollie Watkins (Aston Villa) received a yellow card in the 89th minute of the match."
+  },
+  {
+    "id": 140,
+    "Q": "How many corner kicks did Napoli have in total during their Serie A match against Juventus on September 29, 2018?",
+    "materials": null,
+    "O1": "2",
+    "O2": "5",
+    "O3": "4",
+    "O4": "3"
+  },
+  {
+    "id": 143,
+    "Q": "Which Bayer Leverkusen player was substituted at halftime in the April 6, 2019 Bundesliga match against RB Leipzig?",
+    "materials": null,
+    "O1": "Kevin Volland",
+    "O2": "Charles Aránguiz",
+    "O3": "Julian Baumgartlinger",
+    "O4": "Kai Havertz"
+  },
+  {
+    "id": 145,
+    "Q": "Which youth clubs did Sofiane Feghouli play for during his early career?",
+    "materials": null,
+    "O1": "Lyon, Saint-Étienne, and Marseille",
+    "O2": "Red Star Paris, Paris FC, and Grenoble",
+    "O3": "Nantes, Rennes, and Bordeaux",
+    "O4": "Lille, Lens, and Valenciennes"
+  },
+  {
+    "id": 148,
+    "Q": "What is Andrea Consigli's height?",
+    "materials": null,
+    "O1": "1.85 m (6 ft 1 in)",
+    "O2": "1.89 m (6 ft 2 in)",
+    "O3": "1.92 m (6 ft 3 in)",
+    "O4": "1.80 m (5 ft 11 in)"
+  },
+  {
+    "id": 152,
+    "Q": "Which club did Ezequiel Garay play for during the 2021–22 season?",
+    "materials": null,
+    "O1": "Valencia CF",
+    "O2": "SL Benfica",
+    "O3": "Zenit Saint Petersburg",
+    "O4": "None"
+  },
+  {
+    "id": 160,
+    "Q": "When was Arnor Sigurdsson born?",
+    "materials": null,
+    "O1": "12 June 1998",
+    "O2": "15 May 1999",
+    "O3": "20 April 2000",
+    "O4": "10 July 1997"
+  },
+  {
+    "id": 161,
+    "Q": "How many goals did Lasse Vibe score in the 2014–15 Svenska Cupen campaign?",
+    "materials": null,
+    "O1": "5",
+    "O2": "7",
+    "O3": "9",
+    "O4": "11"
+  },
+  {
+    "id": 170,
+    "Q": "Which West Brom player wearing number 14 started against Manchester United in their November 7th defeat?",
+    "materials": null,
+    "O1": "Jake Livermore",
+    "O2": "Matheus Pereira",
+    "O3": "James McClean",
+    "O4": "Darnell Furlong"
+  },
+  {
+    "id": 177,
+    "Q": "Which AS Roma player was booked for a hard tackle in the second half of their March 12, 2017 Serie A match against Palermo?",
+    "materials": null,
+    "O1": "Radja Nainggolan",
+    "O2": "Kevin Strootman",
+    "O3": "Leandro Paredes",
+    "O4": "Daniele De Rossi"
+  },
+  {
+    "id": 190,
+    "Q": "How many spectators attended the Ligue 1 clash between Toulouse and Troyes in February 2023?",
+    "materials": null,
+    "O1": "15,842 at Stadium Municipal",
+    "O2": "19,310 at Stadium Municipal",
+    "O3": "17,725 at Stadium Municipal",
+    "O4": "16,500 at Stadium Municipal"
+  },
+  {
+    "id": 193,
+    "Q": "How many goals did Martin Skrtel score in his international career?",
+    "materials": null,
+    "O1": "4",
+    "O2": "8",
+    "O3": "10",
+    "O4": "6"
+  },
+  {
+    "id": 194,
+    "Q": "What was the final score when Watford hosted Tottenham at Vicarage Road on September 2, 2018?",
+    "materials": null,
+    "O1": "Tottenham won 2-1 against Watford",
+    "O2": "The match ended in a 1-1 draw",
+    "O3": "Watford won 2-1 against Tottenham",
+    "O4": "Watford won 3-0 against Tottenham"
+  },
+  {
+    "id": 205,
+    "Q": "What formation did Sampdoria use when they drew 3-3 with Fiorentina in the 2018-19 season?",
+    "materials": null,
+    "O1": "4-4-2 formation",
+    "O2": "3-5-2 formation",
+    "O3": "4-3-1-2 formation",
+    "O4": "4-2-3-1 formation"
+  },
+  {
+    "id": 212,
+    "Q": "What was the final score when Granada CF hosted Barcelona at Estadio Nuevo Los Cármenes on October 8, 2023?",
+    "materials": null,
+    "O1": "Barcelona won 3-1",
+    "O2": "Granada CF won 1-0",
+    "O3": "The match ended in a 2-2 draw",
+    "O4": "Barcelona won 2-0"
+  },
+  {
+    "id": 214,
+    "Q": "How many shots on target were recorded in the first half of the Napoli vs. Inter Serie A match on January 4, 2023?",
+    "materials": null,
+    "O1": "2",
+    "O2": "1",
+    "O3": "0",
+    "O4": "3"
+  },
+  {
+    "id": 216,
+    "Q": "When did Saul Niguez start his senior career with Atlético Madrid?",
+    "materials": null,
+    "O1": "2010",
+    "O2": "2011",
+    "O3": "2013",
+    "O4": "2012"
+  },
+  {
+    "id": 217,
+    "Q": "Which team did Matias Vecino play for on loan during the 2014-2015 season?",
+    "materials": null,
+    "O1": "Fiorentina",
+    "O2": "Empoli",
+    "O3": "Cagliari",
+    "O4": "Sampdoria"
+  },
+  {
+    "id": 220,
+    "Q": "When did Danil Krugovoy make his debut for the Russia national football team?",
+    "materials": null,
+    "O1": "15 August 2022",
+    "O2": "10 November 2022",
+    "O3": "5 July 2022",
+    "O4": "24 September 2022"
+  },
+  {
+    "id": 227,
+    "Q": "How many shots were recorded in total by both teams during the Liverpool vs Brighton EPL match on October 30, 2021?",
+    "materials": null,
+    "O1": "15 total shots (7 for Liverpool and 8 for Brighton)",
+    "O2": "20 total shots (12 for Liverpool and 8 for Brighton)",
+    "O3": "17 total shots (9 for Liverpool and 8 for Brighton)",
+    "O4": "18 total shots (10 for Liverpool and 8 for Brighton)"
+  },
+  {
+    "id": 234,
+    "Q": "Which Monaco starting defender had the highest market value in the April 2023 Lens match?",
+    "materials": null,
+    "O1": "Guillermo Maripán, valued at €28.5 million",
+    "O2": "Caio Henrique, valued at €35.7 million",
+    "O3": "Axel Disasi, valued at €42.3 million",
+    "O4": "Malang Sarr, valued at €20.1 million"
+  },
+  {
+    "id": 235,
+    "Q": "In the 2017-2018 UEFA Champions League match between Bayern Munich and Besiktas on March 14, 2018, how many yellow cards were shown in total and to which players?",
+    "materials": null,
+    "O1": "4 yellow cards total: Mats Hummels (Bayern Munich), Jerome Boateng (Bayern Munich), Rafinha (Bayern Munich), Atiba Hutchinson (Besiktas)",
+    "O2": "6 yellow cards total: Mats Hummels (Bayern Munich), Jerome Boateng (Bayern Munich), Rafinha (Bayern Munich), Atiba Hutchinson (Besiktas), Oguzhan Ozyakup (Besiktas), Vagner Love (Besiktas)",
+    "O3": "5 yellow cards total: Mats Hummels (Bayern Munich), Jerome Boateng (Bayern Munich), Rafinha (Bayern Munich), Atiba Hutchinson (Besiktas), Oguzhan Ozyakup (Besiktas)",
+    "O4": "5 yellow cards total: Mats Hummels (Bayern Munich), Jerome Boateng (Bayern Munich), Rafinha (Bayern Munich), Atiba Hutchinson (Besiktas), Adriano (Besiktas)"
+  },
+  {
+    "id": 237,
+    "Q": "How many appearances did Tim Siersleben make for VfL Wolfsburg's senior team?",
+    "materials": null,
+    "O1": "0",
+    "O2": "1",
+    "O3": "2",
+    "O4": "3"
+  },
+  {
+    "id": 245,
+    "Q": "Where was Dong-Jun Lee born?",
+    "materials": null,
+    "O1": "Seoul, South Korea",
+    "O2": "Busan, South Korea",
+    "O3": "Daegu, South Korea",
+    "O4": "Incheon, South Korea"
+  },
+  {
+    "id": 247,
+    "Q": "What is Georgiy Tsitaishvili's position on the field?",
+    "materials": null,
+    "O1": "Striker",
+    "O2": "Central Midfielder",
+    "O3": "Full-back",
+    "O4": "Winger"
+  },
+  {
+    "id": 254,
+    "Q": "Which West Ham player assisted Tomas Soucek's goal against Tottenham on August 31, 2022?",
+    "materials": null,
+    "O1": "Jarrod Bowen",
+    "O2": "Declan Rice",
+    "O3": "Michail Antonio",
+    "O4": "Pablo Fornals"
+  },
+  {
+    "id": 257,
+    "Q": "What was the attendance for the Real Madrid vs Alaves La Liga match on April 2, 2017?",
+    "materials": null,
+    "O1": "68,942",
+    "O2": "81,327",
+    "O3": "76,875",
+    "O4": "72,519"
+  },
+  {
+    "id": 260,
+    "Q": "Which youth teams did Pol Lirola play for before his senior career?",
+    "materials": null,
+    "O1": "Barcelona (2012–2014) and Sevilla (2014–2016)",
+    "O2": "Real Madrid (2013–2015) and Atletico Madrid (2015–2016)",
+    "O3": "Valencia (2013–2015) and Villarreal (2015–2016)",
+    "O4": "Espanyol (2013–2015) and Juventus (2015–2016, including a loan spell in 2015)"
+  },
+  {
+    "id": 262,
+    "Q": "What was the final score when Bayern Munich faced Schalke 04 in their Bundesliga opener on September 18, 2020?",
+    "materials": null,
+    "O1": "Bayern Munich won 5-2 against Schalke 04.",
+    "O2": "Schalke 04 won 3-1 against Bayern Munich.",
+    "O3": "Bayern Munich won 8-0 against Schalke 04.",
+    "O4": "The match ended in a 2-2 draw."
+  },
+  {
+    "id": 264,
+    "Q": "Did Aleksandr Vasyutin score any goals for Sarpsborg 08?",
+    "materials": null,
+    "O1": "Yes, he scored 5 goals in the league.",
+    "O2": "No, Aleksandr Vasyutin did not score any goals for Sarpsborg 08.",
+    "O3": "Yes, he scored a single goal in a cup match.",
+    "O4": "Yes, he scored 3 goals in the Europa League qualifiers."
+  },
+  {
+    "id": 273,
+    "Q": "How many goals did Inaki Williams score for Spain U21?",
+    "materials": null,
+    "O1": "2",
+    "O2": "3",
+    "O3": "4",
+    "O4": "5"
+  },
+  {
+    "id": 274,
+    "Q": "Which Croatian club did Marin Leovac join in 2018 on loan?",
+    "materials": null,
+    "O1": "Dinamo Zagreb",
+    "O2": "Rijeka",
+    "O3": "Hajduk Split",
+    "O4": "Osijek"
+  },
+  {
+    "id": 277,
+    "Q": "Who won The Best FIFA Men's Coach Award in 2023?",
+    "materials": null,
+    "O1": "Carlo Ancelotti",
+    "O2": "Pep Guardiola",
+    "O3": "Jurgen Klopp",
+    "O4": "Zinedine Zidane"
+  },
+  {
+    "id": 279,
+    "Q": "What is Dennis Appiah's height?",
+    "materials": null,
+    "O1": "1.85 m (6 ft 1 in)",
+    "O2": "1.79 m (5 ft 10 in)",
+    "O3": "1.82 m (6 ft 0 in)",
+    "O4": "1.76 m (5 ft 9 in)"
+  },
+  {
+    "id": 282,
+    "Q": "Which Genoa player was substituted in the 28th minute of the second half after receiving a yellow card in the Serie A match against Cagliari on September 20, 2019?",
+    "materials": null,
+    "O1": "Domenico Criscito",
+    "O2": "Christian Kouamé",
+    "O3": "Riccardo Saponara",
+    "O4": "Lasse Schöne"
+  },
+  {
+    "id": 283,
+    "Q": "Which team did Mohammad Al Sahlawi play for from 2020 to 2021?",
+    "materials": null,
+    "O1": "Al-Nassr",
+    "O2": "Al-Hilal",
+    "O3": "Al-Shabab",
+    "O4": "Al-Taawoun"
+  },
+  {
+    "id": 285,
+    "Q": "What was the final score in this Bundesliga match between Eintracht Frankfurt and VfB Stuttgart on February 5, 2022?",
+    "materials": null,
+    "O1": "2-2",
+    "O2": "1-3 to VfB Stuttgart",
+    "O3": "3-2 to Eintracht Frankfurt",
+    "O4": "4-1 to Eintracht Frankfurt"
+  },
+  {
+    "id": 288,
+    "Q": "Which Slavia Prague player replaced Nicolae Stanciu in the 2nd half of their Champions League match against Barcelona on November 5, 2019?",
+    "materials": null,
+    "O1": "Tomas Soucek",
+    "O2": "Petr Sevcik",
+    "O3": "Josef Husbauer",
+    "O4": "Jan Boril"
+  },
+  {
+    "id": 292,
+    "Q": "Which Manchester City player received a yellow card in the first half of their match against Leicester City on May 6, 2019?",
+    "materials": null,
+    "O1": "Sergio Agüero and Raheem Sterling",
+    "O2": "Fernandinho and Kevin De Bruyne",
+    "O3": "David Silva and Vincent Kompany",
+    "O4": "Kyle Walker and İlkay Gündoğan"
+  },
+  {
+    "id": 293,
+    "Q": "Does the text mention Florian Kohfeldt's family members?",
+    "materials": null,
+    "O1": "The text mentions Florian Kohfeldt's wife and children.",
+    "O2": "The text discusses Florian Kohfeldt's parents and siblings.",
+    "O3": "The text includes details about Florian Kohfeldt's extended family.",
+    "O4": "The text does not mention any family members of Florian Kohfeldt."
+  },
+  {
+    "id": 296,
+    "Q": "Which Wolves player was substituted in the 9th minute of the second half during their December 29, 2020 match against Manchester United?",
+    "materials": null,
+    "O1": "Pedro Neto",
+    "O2": "Ruben Neves",
+    "O3": "Vitinha",
+    "O4": "Daniel Podence"
+  },
+  {
+    "id": 301,
+    "Q": "Which Liverpool player was involved in the most crosses against Crystal Palace on August 15, 2022?",
+    "materials": null,
+    "O1": "Andrew Robertson",
+    "O2": "Mohamed Salah",
+    "O3": "Trent Alexander-Arnold",
+    "O4": "Virgil van Dijk"
+  },
+  {
+    "id": 304,
+    "Q": "What formation did Louis van Gaal deploy for Manchester United in their 2-1 loss to PSV on September 15, 2015?",
+    "materials": null,
+    "O1": "4-3-3",
+    "O2": "3-5-2",
+    "O3": "4-2-3-1",
+    "O4": "4-4-2"
+  },
+  {
+    "id": 306,
+    "Q": "Which team did Dmytro Chygrynskiy play for in 2015–2016?",
+    "materials": null,
+    "O1": "Shakhtar Donetsk",
+    "O2": "Dnipro Dnipropetrovsk",
+    "O3": "Dynamo Kyiv",
+    "O4": "Zorya Luhansk"
+  },
+  {
+    "id": 308,
+    "Q": "Where was Fabio Vanni born?",
+    "materials": null,
+    "O1": "Buenos Aires, Argentina",
+    "O2": "Bahía Blanca, Argentina",
+    "O3": "Rosario, Argentina",
+    "O4": "Córdoba, Argentina"
+  },
+  {
+    "id": 311,
+    "Q": "Which Real Madrid player was substituted for Luka Jovic in the December 19, 2021 La Liga match against Cadiz CF?",
+    "materials": null,
+    "O1": "Isco",
+    "O2": "Marco Asensio",
+    "O3": "Federico Valverde",
+    "O4": "Dani Ceballos"
+  },
+  {
+    "id": 318,
+    "Q": "Which team did Guy N'Gosso play for in 2014–2016?",
+    "materials": null,
+    "O1": "Nantes",
+    "O2": "Angers",
+    "O3": "Le Havre",
+    "O4": "Sochaux"
+  },
+  {
+    "id": 320,
+    "Q": "How many goals did Ahmad Nourollahi score for Iran U17?",
+    "materials": null,
+    "O1": "1",
+    "O2": "2",
+    "O3": "3",
+    "O4": "4"
+  },
+  {
+    "id": 322,
+    "Q": "Which club did Jasur Yakhshiboev represent when he scored two goals on his debut?",
+    "materials": null,
+    "O1": "FC Pakhtakor",
+    "O2": "Energetik-BGU",
+    "O3": "FC Navbahor",
+    "O4": "FC Bunyodkor"
+  },
+  {
+    "id": 325,
+    "Q": "What was the nationality of Rayo Vallecano's head coach during their April 2019 match against Athletic Bilbao?",
+    "materials": null,
+    "O1": "French",
+    "O2": "Portuguese",
+    "O3": "Spanish",
+    "O4": "Italian"
+  },
+  {
+    "id": 329,
+    "Q": "What was the final score in the La Liga match between Las Palmas and Real Madrid on September 24, 2016?",
+    "materials": null,
+    "O1": "Real Madrid won 3-1",
+    "O2": "Las Palmas won 1-0",
+    "O3": "The match ended in a 2-2 draw",
+    "O4": "Real Madrid won 2-0"
+  },
+  {
+    "id": 331,
+    "Q": "Which team did Antoine Kombouare manage from 2013 to 2016?",
+    "materials": null,
+    "O1": "Bordeaux",
+    "O2": "Lens",
+    "O3": "Nantes",
+    "O4": "Saint-Étienne"
+  },
+  {
+    "id": 333,
+    "Q": "How many Italian outfield players started for Inter in their July 2020 win against Napoli?",
+    "materials": null,
+    "O1": "4 (Barella, Bastoni, Candreva, D'Ambrosio)",
+    "O2": "5 (Barella, Bastoni, Biraghi, Candreva, Valero)",
+    "O3": "6 (Barella, Bastoni, Biraghi, Candreva, D'Ambrosio, Valero)",
+    "O4": "3 (Bastoni, Biraghi, Candreva)"
+  },
+  {
+    "id": 339,
+    "Q": "In the Serie A 2020-2021 match between Juventus and Cagliari on March 14, 2021, how many corner kicks did Cagliari attempt in total during the game?",
+    "materials": null,
+    "O1": "6 corner kicks",
+    "O2": "12 corner kicks",
+    "O3": "9 corner kicks",
+    "O4": "3 corner kicks"
+  },
+  {
+    "id": 341,
+    "Q": "What is Karl-Johan Johnsson's current team as of the provided information?",
+    "materials": null,
+    "O1": "Nice",
+    "O2": "Rennes",
+    "O3": "Lyon",
+    "O4": "Bordeaux"
+  },
+  {
+    "id": 345,
+    "Q": "How many yellow cards were shown in total during the Manchester City vs Norwich match on February 12, 2022?",
+    "materials": null,
+    "O1": "1 yellow card",
+    "O2": "3 yellow cards",
+    "O3": "2 yellow cards",
+    "O4": "No yellow cards were shown"
+  },
+  {
+    "id": 346,
+    "Q": "How many goals did Maor Levi score for Maccabi Petah Tikva?",
+    "materials": null,
+    "O1": "4",
+    "O2": "6",
+    "O3": "8",
+    "O4": "10"
+  },
+  {
+    "id": 347,
+    "Q": "When did Iker Muniain make his senior Spain debut?",
+    "materials": null,
+    "O1": "15 November 2011",
+    "O2": "29 February 2012",
+    "O3": "10 September 2012",
+    "O4": "6 October 2013"
+  },
+  {
+    "id": 355,
+    "Q": "How many Japanese players featured in the starting lineups when Dortmund faced Hertha Berlin on August 30, 2015?",
+    "materials": null,
+    "O1": "One - Shinji Kagawa (Dortmund)",
+    "O2": "Three - Shinji Kagawa (Dortmund), Genki Haraguchi (Hertha), and Makoto Hasebe (Hertha)",
+    "O3": "Two - Shinji Kagawa (Dortmund) and Genki Haraguchi (Hertha)",
+    "O4": "None - neither team had Japanese starters"
+  },
+  {
+    "id": 359,
+    "Q": "When did Hans Nicolussi Caviglia return to play after his ACL and meniscus injuries?",
+    "materials": null,
+    "O1": "15 October 2021",
+    "O2": "3 November 2021",
+    "O3": "20 November 2021",
+    "O4": "1 December 2021"
+  },
+  {
+    "id": 362,
+    "Q": "How many yellow cards were shown in total during Olympiakos Piraeus vs Bayern Munich on September 16, 2015?",
+    "materials": null,
+    "O1": "Three yellow cards were shown (two to Olympiakos, one to Bayern).",
+    "O2": "Five yellow cards were shown (four to Olympiakos, one to Bayern).",
+    "O3": "Four yellow cards were shown (three to Olympiakos, one to Bayern).",
+    "O4": "Two yellow cards were shown (one to Olympiakos, one to Bayern)."
+  },
+  {
+    "id": 365,
+    "Q": "Which Spanish club did Aleksandar Sedlar join after his contract with Mallorca expired?",
+    "materials": null,
+    "O1": "Real Zaragoza",
+    "O2": "Deportivo Alavés",
+    "O3": "Granada CF",
+    "O4": "CD Leganés"
+  },
+  {
+    "id": 367,
+    "Q": "What was the scoreline when Trincao scored his first goal for Barcelona?",
+    "materials": null,
+    "O1": "2–1 home win against Valencia",
+    "O2": "4–0 away win against Alavés",
+    "O3": "1–1 draw against Atlético Madrid",
+    "O4": "3–2 away win against Real Betis"
+  },
+  {
+    "id": 368,
+    "Q": "How many goals did Arnaut Danjuma score in the UEFA Champions League quarter-finals for Villarreal?",
+    "materials": null,
+    "O1": "2",
+    "O2": "1",
+    "O3": "3",
+    "O4": "0"
+  },
+  {
+    "id": 371,
+    "Q": "Which Napoli player assisted Fabian Ruiz's goal in the 17:48 minute of their November 29, 2020 Serie A match against AS Roma?",
+    "materials": null,
+    "O1": "Lorenzo Insigne",
+    "O2": "Dries Mertens",
+    "O3": "No assist was mentioned in the commentary",
+    "O4": "Piotr Zielinski"
+  },
+  {
+    "id": 372,
+    "Q": "What was the final score when Cagliari hosted Genoa at Unipol Domus on September 20, 2019?",
+    "materials": null,
+    "O1": "Genoa won 2-1 against Cagliari",
+    "O2": "The match ended in a 2-2 draw",
+    "O3": "Cagliari won 3-1 against Genoa",
+    "O4": "Genoa won 1-0 against Cagliari"
+  },
+  {
+    "id": 382,
+    "Q": "In the Premier League match between Brighton and Southampton on May 21, 2023, how many yellow cards were shown to Southampton players and who received them?",
+    "materials": null,
+    "O1": "3 yellow cards: Jan Bednarek, Carlos Alcaraz, and Mohamed Elyounoussi",
+    "O2": "4 yellow cards: Jan Bednarek, Carlos Alcaraz, Mohamed Elyounoussi, and Kyle Walker-Peters",
+    "O3": "4 yellow cards: Jan Bednarek, Carlos Alcaraz, Mohamed Elyounoussi, and James Bree",
+    "O4": "5 yellow cards: Jan Bednarek, Carlos Alcaraz, Mohamed Elyounoussi, James Bree, and Romeo Lavia"
+  },
+  {
+    "id": 391,
+    "Q": "Who was the Italian referee that officiated Chelsea's dramatic 4-4 draw with Ajax in November 2019?",
+    "materials": null,
+    "O1": "Daniele Orsato",
+    "O2": "Paolo Valeri",
+    "O3": "Gianluca Rocchi",
+    "O4": "Davide Massa"
+  },
+  {
+    "id": 392,
+    "Q": "Which club did James Chester join on 1 September 2023?",
+    "materials": null,
+    "O1": "Salford City",
+    "O2": "Barrow",
+    "O3": "Forest Green Rovers",
+    "O4": "Tranmere Rovers"
+  },
+  {
+    "id": 397,
+    "Q": "In which year did Gustavo Daniel Cabral win the FIFA U-20 World Cup?",
+    "materials": null,
+    "O1": "2003",
+    "O2": "2005",
+    "O3": "2007",
+    "O4": "2009"
+  },
+  {
+    "id": 398,
+    "Q": "What position does Dennis Man primarily play?",
+    "materials": null,
+    "O1": "Central midfielder",
+    "O2": "Left-back",
+    "O3": "Goalkeeper",
+    "O4": "Right-winger, second striker"
+  },
+  {
+    "id": 403,
+    "Q": "Which national youth teams did Nikolai Rasskazov represent?",
+    "materials": null,
+    "O1": "Russia U-15, Russia U-16, Russia U-18, Russia U-20, Russia U-21",
+    "O2": "Russia U-16, Russia U-17, Russia U-18, Russia U-19, Russia U-20",
+    "O3": "Russia U-14, Russia U-15, Russia U-16, Russia U-17, Russia U-18",
+    "O4": "Russia U-15, Russia U-16, Russia U-17, Russia U-19, Russia U-21"
+  },
+  {
+    "id": 405,
+    "Q": "How many goals did Senad Lulic score for Lazio?",
+    "materials": null,
+    "O1": "35 goals",
+    "O2": "21 goals",
+    "O3": "28 goals",
+    "O4": "42 goals"
+  },
+  {
+    "id": 410,
+    "Q": "How many appearances did Valere Germain make for Marseille?",
+    "materials": null,
+    "O1": "95",
+    "O2": "120",
+    "O3": "110",
+    "O4": "130"
+  },
+  {
+    "id": 414,
+    "Q": "What color jerseys did the teams wear when Tottenham scored six against Everton in December 2018?",
+    "materials": null,
+    "O1": "Everton wore white, Tottenham wore blue",
+    "O2": "Everton wore yellow, Tottenham wore green",
+    "O3": "Everton wore blue, Tottenham wore white",
+    "O4": "Everton wore red, Tottenham wore black"
+  },
+  {
+    "id": 416,
+    "Q": "Which team is Gokhan Inler currently associated with?",
+    "materials": null,
+    "O1": "Galatasaray",
+    "O2": "Udinese",
+    "O3": "Napoli",
+    "O4": "Besiktas"
+  },
+  {
+    "id": 432,
+    "Q": "Who was Napoli's captain in their 1-1 draw with Lazio during the 2016-17 Serie A season?",
+    "materials": null,
+    "O1": "Lorenzo Insigne",
+    "O2": "Kalidou Koulibaly",
+    "O3": "Marek Hamsik",
+    "O4": "Pepe Reina"
+  },
+  {
+    "id": 435,
+    "Q": "How many appearances has Timothy Weah made for the United States national team?",
+    "materials": null,
+    "O1": "35",
+    "O2": "41",
+    "O3": "38",
+    "O4": "45"
+  },
+  {
+    "id": 436,
+    "Q": "What was the attendance at Stadio Luigi Ferraris when Sampdoria lost 1-3 to Lazio in December 2021?",
+    "materials": null,
+    "O1": "12,450 spectators",
+    "O2": "7,621 spectators",
+    "O3": "5,883 spectators",
+    "O4": "9,156 spectators"
+  },
+  {
+    "id": 437,
+    "Q": "How many appearances has Samuel Soares made for Portugal U21?",
+    "materials": null,
+    "O1": "8",
+    "O2": "12",
+    "O3": "10",
+    "O4": "15"
+  },
+  {
+    "id": 445,
+    "Q": "What was significant about Cuco Martina's goal against Arsenal on 26 December 2015?",
+    "materials": null,
+    "O1": "It was his first Premier League goal and helped Southampton secure a draw.",
+    "O2": "It was the fastest goal scored by a Southampton player in Premier League history.",
+    "O3": "It marked the first time a defender scored against Arsenal that season.",
+    "O4": "It was his only goal for Southampton and made him the first Curaçaoan to score in the Premier League."
+  },
+  {
+    "id": 446,
+    "Q": "Which Everton player took the most corner kicks in their Premier League match against Sheffield United on September 21, 2019?",
+    "materials": null,
+    "O1": "Lucas Digne",
+    "O2": "Richarlison",
+    "O3": "Gylfi Sigurdsson",
+    "O4": "Dominic Calvert-Lewin"
+  },
+  {
+    "id": 448,
+    "Q": "Which club did Salvatore Sirigu join after leaving Fiorentina?",
+    "materials": null,
+    "O1": "AS Monaco",
+    "O2": "OGC Nice",
+    "O3": "Lille OSC",
+    "O4": "Olympique de Marseille"
+  },
+  {
+    "id": 450,
+    "Q": "What was the jersey color combination when Bayern Munich hosted Eintracht Frankfurt in their Bundesliga clash on January 28, 2023?",
+    "materials": null,
+    "O1": "Bayern Munich wore white jerseys while Eintracht Frankfurt wore red jerseys.",
+    "O2": "Bayern Munich wore blue jerseys while Eintracht Frankfurt wore white jerseys.",
+    "O3": "Bayern Munich wore red jerseys while Eintracht Frankfurt wore black jerseys.",
+    "O4": "Bayern Munich wore black jerseys while Eintracht Frankfurt wore red jerseys."
+  },
+  {
+    "id": 460,
+    "Q": "Which Bayern Munich player scored a goal in the 26th minute of the second half after skipping past challenges against Eintracht Frankfurt on May 18, 2019?",
+    "materials": null,
+    "O1": "Arjen Robben",
+    "O2": "Thomas Müller",
+    "O3": "Franck Ribery",
+    "O4": "Robert Lewandowski"
+  },
+  {
+    "id": 461,
+    "Q": "Which team did Mikel Rico play for from 2010 to 2013?",
+    "materials": null,
+    "O1": "Real Valladolid",
+    "O2": "Granada",
+    "O3": "Levante",
+    "O4": "Getafe"
+  },
+  {
+    "id": 463,
+    "Q": "Which Belgian club did Sambou Soumano join on loan in 2022?",
+    "materials": null,
+    "O1": "Genk",
+    "O2": "Anderlecht",
+    "O3": "Club Brugge",
+    "O4": "Eupen"
+  },
+  {
+    "id": 464,
+    "Q": "What time did the Bundesliga match between Dortmund and Leverkusen kick off on 14 September 2019?",
+    "materials": null,
+    "O1": "18:30 local time",
+    "O2": "20:00 local time",
+    "O3": "21:30 local time",
+    "O4": "19:45 local time"
+  },
+  {
+    "id": 469,
+    "Q": "How many yellow cards were shown in total during the Leicester vs Manchester United match on December 26, 2020, and to which players?",
+    "materials": null,
+    "O1": "2 yellow cards: Jamie Vardy (Leicester), Marcus Rashford (Manchester United)",
+    "O2": "4 yellow cards: Bruno Fernandes (Manchester United), James Maddison (Leicester), Wilfred Ndidi (Leicester), Harry Maguire (Manchester United)",
+    "O3": "3 yellow cards: Bruno Fernandes (Manchester United), James Maddison (Leicester), Wilfred Ndidi (Leicester)",
+    "O4": "1 yellow card: Youri Tielemans (Leicester)"
+  },
+  {
+    "id": 473,
+    "Q": "Where was Edison Flores born?",
+    "materials": null,
+    "O1": "Callao, Lima, Peru",
+    "O2": "Comas, Lima, Peru",
+    "O3": "Arequipa, Arequipa, Peru",
+    "O4": "Trujillo, La Libertad, Peru"
+  },
+  {
+    "id": 478,
+    "Q": "Which award did Pep Guardiola win in 1992?",
+    "materials": null,
+    "O1": "Ballon d'Or",
+    "O2": "Bravo Award",
+    "O3": "UEFA Best Player in Europe Award",
+    "O4": "FIFA World Player of the Year"
+  },
+  {
+    "id": 480,
+    "Q": "Which Juventus player had a penalty saved but scored on the rebound to make it 2-2 in the 47th minute against Salernitana in September 2022?",
+    "materials": null,
+    "O1": "Paulo Dybala",
+    "O2": "Dusan Vlahovic",
+    "O3": "Leonardo Bonucci",
+    "O4": "Juan Cuadrado"
+  },
+  {
+    "id": 485,
+    "Q": "How many goals did Andriy Yarmolenko score for Borussia Dortmund?",
+    "materials": null,
+    "O1": "5 goals",
+    "O2": "3 goals",
+    "O3": "4 goals",
+    "O4": "2 goals"
+  },
+  {
+    "id": 491,
+    "Q": "Which club did Sebastian Walukiewicz join on a permanent basis on 14 June 2023?",
+    "materials": null,
+    "O1": "Fiorentina",
+    "O2": "Empoli",
+    "O3": "Sassuolo",
+    "O4": "Cagliari"
+  },
+  {
+    "id": 496,
+    "Q": "Who was the referee for the North London derby between Arsenal and Tottenham on October 1, 2022?",
+    "materials": null,
+    "O1": "Michael Oliver from England",
+    "O2": "Paul Tierney from England",
+    "O3": "Anthony Taylor from England",
+    "O4": "Craig Pawson from England"
+  },
+  {
+    "id": 500,
+    "Q": "What was the result of the match where Vincent Laban scored against Ermis on 30 December 2011?",
+    "materials": null,
+    "O1": "Ermis won 1–0 against Anorthosis",
+    "O2": "Anorthosis won 2–0 against Ermis",
+    "O3": "The match ended in a 1–1 draw",
+    "O4": "Anorthosis won 3–1 against Ermis"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "Q": "How many goals did Gary O'Neil score for Middlesbrough?",
+    "materials": null,
+    "openA": "Gary O'Neil scored seven goals for Middlesbrough.",
+    "closeA": "O4",
+    "O1": "5",
+    "O2": "10",
+    "O3": "3",
+    "O4": "7"
+  }
+]

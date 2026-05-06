@@ -1,0 +1,135 @@
+[
+  {
+    "Q": "How many goals did this player score during his loan spell at Zaragoza?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/AqAnv17H/1.jpg",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/AqAnv17H/2.jpg"
+    ],
+    "openA": "Inigo Ruiz de Galarreta scored 1 goal during his loan spell at Zaragoza.",
+    "closeA": "O2",
+    "O1": "2",
+    "O2": "1",
+    "O3": "3",
+    "O4": "0"
+  },
+  {
+    "Q": "How many goals did this player score for Lens?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/GGxzFMB7/1.jpg",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/GGxzFMB7/2.jpg"
+    ],
+    "openA": "Mathias Autret scored 7 goals for Lens.",
+    "closeA": "O4",
+    "O1": "5",
+    "O2": "10",
+    "O3": "3",
+    "O4": "7"
+  },
+  {
+    "Q": "How long was this player's recovery time estimated after his cruciate ligament rupture?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/pnHmRSC9/1.jpg",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/pnHmRSC9/2.jpg"
+    ],
+    "openA": "Valentin Stocker's recovery time was estimated at six to seven months.",
+    "closeA": "O2",
+    "O1": "Three to four months",
+    "O2": "Six to seven months",
+    "O3": "Eight to nine months",
+    "O4": "Ten to twelve months"
+  },
+  {
+    "Q": "How tall is this player?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/n9zqoehC/1.jpg",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/n9zqoehC/2.jpg",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/n9zqoehC/3.jpg",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/n9zqoehC/4.jpg"
+    ],
+    "openA": "Sebastian Rudy is 1.80 meters (5 feet 11 inches) tall.",
+    "closeA": "O2",
+    "O1": "1.75 meters (5 feet 9 inches)",
+    "O2": "1.80 meters (5 feet 11 inches)",
+    "O3": "1.85 meters (6 feet 1 inch)",
+    "O4": "1.78 meters (5 feet 10 inches)"
+  },
+  {
+    "Q": "How many goals did this player score for Brentford as of the provided information?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/UyeRftbc/1.jpg"
+    ],
+    "openA": "3",
+    "closeA": "O4",
+    "O1": "5",
+    "O2": "1",
+    "O3": "7",
+    "O4": "3"
+  },
+  {
+    "Q": "In which year was this player loaned to Juventus?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/4jyY67mb/1.jpg",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/4jyY67mb/2.jpg"
+    ],
+    "openA": "2018",
+    "closeA": "O2",
+    "O1": "2017",
+    "O2": "2018",
+    "O3": "2019",
+    "O4": "2020"
+  },
+  {
+    "Q": "Against which team did this player make his debut for the Nigerian national team?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/djyKSDT9/1.jpg",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/djyKSDT9/2.jpg",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/djyKSDT9/3.jpg"
+    ],
+    "openA": "Bryan Idowu made his debut for the Nigerian national team against Argentina.",
+    "closeA": "O4",
+    "O1": "Brazil",
+    "O2": "Germany",
+    "O3": "Spain",
+    "O4": "Argentina"
+  },
+  {
+    "Q": "What position(s) did this player play?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/Kfwz53ZI/1.jpg"
+    ],
+    "openA": "Juan Valencia played as an attacking midfielder and winger.",
+    "closeA": "O4",
+    "O1": "Central defender and goalkeeper",
+    "O2": "Striker and central midfielder",
+    "O3": "Defensive midfielder and full-back",
+    "O4": "Attacking midfielder and winger"
+  },
+  {
+    "Q": "Which national team did this player manage after his second stint with Costa Rica?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/hMCFvhTM/1.jpg",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/hMCFvhTM/2.jpg"
+    ],
+    "openA": "After his second stint with Costa Rica, Jorge Luis Pinto managed the Honduras national team.",
+    "closeA": "O2",
+    "O1": "El Salvador",
+    "O2": "Honduras",
+    "O3": "Panama",
+    "O4": "Guatemala"
+  },
+  {
+    "Q": "Which tournament did this player win with Lanús in 2013?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/lY2ZVTwp/1.jpg",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/lY2ZVTwp/2.jpg",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/lY2ZVTwp/3.jpg",
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q4/pic/lY2ZVTwp/4.jpg"
+    ],
+    "openA": "Agustin Marchesin won the Copa Sudamericana with Lanús in 2013.",
+    "closeA": "O2",
+    "O1": "Copa Libertadores",
+    "O2": "Copa Sudamericana",
+    "O3": "Recopa Sudamericana",
+    "O4": "Supercopa Argentina"
+  }
+]

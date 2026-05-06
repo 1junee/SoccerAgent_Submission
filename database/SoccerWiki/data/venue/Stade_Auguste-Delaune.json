@@ -1,0 +1,53 @@
+{
+    "VENUE": "Stade Auguste-Delaune",
+    "CITY": "Reims",
+    "TEAM": "Reims",
+    "CAPACITY": 21029,
+    "VENUE_URL": "https://wikipedia.org/wiki/Stade_Auguste-Delaune",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Tribune_Jonquet.JPG/120px-Tribune_Jonquet.JPG",
+    "INFOBOX": {
+        "": {
+            "Owner": "VilledeReims",
+            "Surface": "GrassMasterbyTarkettSports",
+            "Capacity": "21,029[1]",
+            "Location": "33,ChausséeBocquaine51100Reims",
+            "Field size": "105m×68m",
+            "Former names": "StadeMunicipal(1935–1945)"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "2 June1935;89yearsago (1935-06-02)",
+            "Architect": "MichelRémon(2004–2008renovation)",
+            "Renovated": "1955,2004–2008",
+            "Construction cost": "~60millionEUR"
+        }
+    },
+    "CONTENT": {
+        "Gallery": {},
+        "See also": "List of football stadiums in FranceLists of stadiums",
+        "References": {},
+        "External links": "Stadium Guide ProfileWorld Stadiums ProfileStadiumdb ProfileSoccerway Stats for the stadium",
+        "1938 FIFA World Cup": {},
+        "2019 FIFA Women's World Cup": {}
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/62/Reims_-_stade_Delaune.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c4/Stade_Auguste_Delaune.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8c/Stade_Delaune_857.JPG",
+        "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Sports_and_games.png"
+    ],
+    "SUMMARY": "The Stade Auguste-Delaune (French pronunciation: [stad oɡyst dəlon]) is a multi-use stadium in Reims, France. It is used mostly for football matches and hosts the home matches of Stade Reims. The stadium was a venue for both the 1938 FIFA World Cup and the 2019 FIFA Women's World Cup.\n\n"
+}

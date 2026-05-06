@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 2,
+    "Q": "Describe the content of this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/italy_serie-a_2020-2021/2021-02-06_genoa-cfc-ssc-napoli-serie-a-2020-2021/1_05_32.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The referee and one of his assistants signal for a corner kick to [TEAM].",
+    "O2": "The [TEAM] players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",
+    "O3": "[PLAYER] ([TEAM]) gets into a good scoring position. He creates some space for himself and tries his luck from distance. His decent effort towards the bottom right corner is, however, superbly saved by [PLAYER]!",
+    "O4": "[PLAYER] ([TEAM]) tricks his way to the edge of the box where he shoots at goal. The keeper scrambles to cover the effort, but it goes just wide of the left post."
+  },
+  {
+    "id": 8,
+    "Q": "What category does the football scene in this video fall into?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/spain_laliga_2018-2019/2019-04-14_athletic-de-bilbao-rayo-vallecano/2_19_47.mp4"
+    ],
+    "O1": "saved by goal-keeper",
+    "O2": "goal",
+    "O3": "lead to corner",
+    "O4": "off side"
+  },
+  {
+    "id": 9,
+    "Q": "Generate a matching commentary for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/italy_serie-a_2022-2023/2023-04-07_us-salernitana-fc-internazionale-serie-a/1_00_01.mp4"
+    ],
+    "O1": "The referee blows his whistle and we are underway.",
+    "O2": "The defence is alert as they clear a dangerous cross from [PLAYER] Alcantara ([TEAM]). The ball has crossed the sideline. [TEAM] are taking a throw-in.",
+    "O3": "[PLAYER] ([TEAM]) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety.",
+    "O4": "Substitution. [PLAYER] ([TEAM]) in, [PLAYER] out."
+  },
+  {
+    "id": 11,
+    "Q": "Write commentary content for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/italy_serie-a_2020-2021/2020-12-15_benevento-calcio-ss-lazio/2_02_31.mp4"
+    ],
+    "O1": "What a goal! [PLAYER] plays it to [PLAYER] ([TEAM]), who finds himself unmarked inside the box and slots a first-time shot past [PLAYER] into the right side of the goal. 3:0.",
+    "O2": "[PLAYER] Gabarron ([TEAM]) picks up a yellow card for an infringement.",
+    "O3": "[PLAYER] ([TEAM]) steps up to take the corner, but the ball just sails in among the defenders.",
+    "O4": "The referee blows his whistle after [PLAYER] ([TEAM]) does a good impression of a basketball player and handles the ball. That's a penalty to [TEAM]! They have a good chance to score now."
+  },
+  {
+    "id": 16,
+    "Q": "What kind of football event is depicted in this video?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/italy_serie-a_2022-2023/2023-05-13_spezia-calcio-ac-milan-serie-a/2_25_21.mp4"
+    ],
+    "O1": "corner",
+    "O2": "injury",
+    "O3": "end of half game",
+    "O4": "penalty"
+  },
+  {
+    "id": 24,
+    "Q": "Identify and classify the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/italy_serie-a_2022-2023/2023-05-27_acf-fiorentina-as-roma-serie-a-2022-2023/2_15_46.mp4"
+    ],
+    "O1": "substitution",
+    "O2": "free kick",
+    "O3": "red card",
+    "O4": "start of half game"
+  },
+  {
+    "id": 26,
+    "Q": "What category does the football scene in this video fall into?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2022-2023/2023-03-18_southampton-fc-tottenham-hotspur-premier-league-2022-2023/2_00_01.mp4"
+    ],
+    "O1": "off side",
+    "O2": "start of half game",
+    "O3": "show added time",
+    "O4": "ball out of play"
+  },
+  {
+    "id": 29,
+    "Q": "Generate a comment for this football video.",
+    "materials": [
+      "materials/q11/SN-Caption-test-align/germany_bundesliga_2016-2017/2016-09-10 - 19-30 RB Leipzig 1 - 0 Dortmund/2_06_27.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) gets in a good position inside the box and is only inches away from getting on the end of a through ball from the edge of the area.",
+    "O2": "[PLAYER] ([TEAM]) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders.",
+    "O3": "[PLAYER] ([TEAM]) gets to the rebound and shoots, but the effort is blocked.",
+    "O4": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick, but the defender gets there first."
+  },
+  {
+    "id": 33,
+    "Q": "The first video clip is a replay. From the remaining four clips, please choose which one is being replayed.",
+    "materials": [
+      "materials/q9/replay/20.mp4",
+      "materials/q9/action/20/1.mp4",
+      "materials/q9/action/20/2.mp4",
+      "materials/q9/action/20/3.mp4",
+      "materials/q9/action/20/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 34,
+    "Q": "Generate a commentary content description for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/england_epl_2018-2019/2019-01-12_chelsea-fc-newcastle-united-premier-league/1_08_20.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) swings in a cross, but the ball is cleared to safety by one of the defending players.",
+    "O2": "GOAL - 1:0! [PLAYER] found [PLAYER] ([TEAM]) inside the box, he spotted goalkeeper [PLAYER] off his line and chipped the ball into the net. What a cheeky lob!",
+    "O3": "[TEAM] are showing great team chemistry. They are passing the ball around seamlessly.",
+    "O4": "[PLAYER] ([TEAM]) is rightly booked by the referee because it could not have been anything other than a yellow card."
+  },
+  {
+    "id": 36,
+    "Q": "Which category does the football event in this clip belong to?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2020-2021/2020-12-16_liverpool-fc-tottenham-hotspur-premier-league-2020-2021/1_46_03.mp4"
+    ],
+    "O1": "red card",
+    "O2": "end of half game",
+    "O3": "throw in",
+    "O4": "off side"
+  },
+  {
+    "id": 42,
+    "Q": "Write a matching commentary text for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/europe_champions-league_2019-2020/2019-10-22_juventus-fc-lokomotiv-moskva-champions-league/2_18_40.mp4"
+    ],
+    "O1": "The first half has started.",
+    "O2": "[PLAYER] ([TEAM]) fails to produce a decent enough free kick for a player of his ability and the only target that he finds is the wall of defenders in front of him.",
+    "O3": "[PLAYER] ([TEAM]) will take the corner.",
+    "O4": "A fine lofted pass into the box, sent by [PLAYER] ([TEAM]), is intercepted by the opposition's defence. Now [TEAM] have a corner."
+  },
+  {
+    "id": 48,
+    "Q": "Classify the football action in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/england_epl_2015-2016/2016-02-03 - 22-45 Watford 0 - 0 Chelsea/2_14_54.mp4"
+    ],
+    "O1": "red card",
+    "O2": "free kick",
+    "O3": "saved by goal-keeper",
+    "O4": "injury"
+  },
+  {
+    "id": 58,
+    "Q": "Provide a commentary text for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/europe_champions-league_2018-2019/2018-11-27_olympique-lyonnais-manchester-city/1_33_04.mp4"
+    ],
+    "O1": "[REFEREE] shows a yellow card to [PLAYER] ([TEAM]) for a tough tackle.",
+    "O2": "The linesman raises his flag for offside before [PLAYER] ([TEAM]) heads on.",
+    "O3": "3 min. of stoppage-time to be played.",
+    "O4": "The attendance for today's match is 55781."
+  },
+  {
+    "id": 59,
+    "Q": "In the set of five video clips, the first clip is a replay. Identify which of the remaining four clips it replays.",
+    "materials": [
+      "materials/q9/replay/32.mp4",
+      "materials/q9/action/32/1.mp4",
+      "materials/q9/action/32/2.mp4",
+      "materials/q9/action/32/3.mp4",
+      "materials/q9/action/32/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 68,
+    "Q": "What category can the football event in this video be classified into?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/italy_serie-a_2018-2019/2018-08-25_ssc-napoli-ac-milan-serie-a-2018-2019/1_29_51.mp4"
+    ],
+    "O1": "goal",
+    "O2": "second yellow card",
+    "O3": "foul lead to penalty",
+    "O4": "yellow card"
+  },
+  {
+    "id": 72,
+    "Q": "Write a commentary text description for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/italy_serie-a_2020-2021/2020-12-15_benevento-calcio-ss-lazio/2_15_41.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) makes a driving run into the box but he cannot work any space for a shot.",
+    "O2": "Here comes the VAR decision: PENALTY to [TEAM]!",
+    "O3": "Corner kick. [TEAM] will have an opportunity.",
+    "O4": "[PLAYER] decides to make a substitution. [PLAYER] will be replaced by [PLAYER] ([TEAM])."
+  },
+  {
+    "id": 75,
+    "Q": "Assign an appropriate category to the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/spain_laliga_2016-2017/2016-09-21 - 21-00 Real Madrid 1 - 1 Villarreal/2_11_48.mp4"
+    ],
+    "O1": "ball out of play",
+    "O2": "injury",
+    "O3": "corner",
+    "O4": "red card"
+  },
+  {
+    "id": 76,
+    "Q": "Which category does the football event in this video belong to?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2017-2018/2017-11-18_arsenal-fc-tottenham-hotspur-premier-league-2017-2018/2_14_58.mp4"
+    ],
+    "O1": "end of half game",
+    "O2": "saved by goal-keeper",
+    "O3": "corner",
+    "O4": "start of half game"
+  },
+  {
+    "id": 80,
+    "Q": "Write a commentary text description for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/europe_champions-league_2019-2020/2019-10-23_fc-internazionale-borussia-dortmund-champions-league/2_35_30.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) is about to take a corner kick.",
+    "O2": "[PLAYER] ([TEAM]) commits an ugly tackle on his opponent, but there is no caution from the referee. The referee's verdict is crystal clear. A penalty is awarded to [TEAM]!",
+    "O3": "[PLAYER] ([TEAM]) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",
+    "O4": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER]."
+  },
+  {
+    "id": 87,
+    "Q": "Write a commentary text description for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/italy_serie-a_2022-2023/2023-06-03_torino-fc-fc-internazionale-serie-a-2022-2023/1_36_48.mp4"
+    ],
+    "O1": "Half-time substitution. [PLAYER] will not participate anymore and [PLAYER] ([TEAM]) is coming on.",
+    "O2": "[PLAYER] ([TEAM]) puts a cross into the box from the free kick, but the defender gets there first.",
+    "O3": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+    "O4": "[PLAYER] ([TEAM]) doesn't hesitate to lash home from just outside the box. Although the shot low to the middle of the goal isn't very precise, it ends up in the net."
+  },
+  {
+    "id": 88,
+    "Q": "What category can the football event in this video be classified as?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/england_epl_2015-2016/2015-10-24 - 17-00 West Ham 2 - 1 Chelsea/2_49_22.mp4"
+    ],
+    "O1": "foul (no card)",
+    "O2": "off side",
+    "O3": "var",
+    "O4": "substitution"
+  },
+  {
+    "id": 89,
+    "Q": "You are provided with five video clips, the first of which is a replay clip. Please determine which of the following four video clips it is a replay of?",
+    "materials": [
+      "materials/q9/replay/18.mp4",
+      "materials/q9/action/18/1.mp4",
+      "materials/q9/action/18/2.mp4",
+      "materials/q9/action/18/3.mp4",
+      "materials/q9/action/18/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 97,
+    "Q": "Write a commentary text description for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/england_epl_2018-2019/2019-01-03_manchester-city-liverpool-fc-premier-league-2018-2019/2_17_08.mp4"
+    ],
+    "O1": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+    "O2": "[PLAYER] ([TEAM]) is yellow-carded for breaking the rules of the game.",
+    "O3": "[TEAM] have a chance to score from a corner kick, but the ball is cleared by a defender.",
+    "O4": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul."
+  },
+  {
+    "id": 98,
+    "Q": "Could you assign a category to the football event in this video?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/europe_champions-league_2019-2020/2020-02-26_real-madrid-manchester-city-champions-league/2_43_52.mp4"
+    ],
+    "O1": "clearance",
+    "O2": "throw in",
+    "O3": "substitution",
+    "O4": "var"
+  },
+  {
+    "id": 100,
+    "Q": "Write a comment for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/europe_champions-league_2023-2024/2023-09-20_real-madrid-union-berlin/1_45_00.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) was trying to get to the ball but clattered into the legs of the opponent as well. Carlos [PLAYER]l Cerro blows his whistle for an infringement.",
+    "O2": "The linesman signals that [PLAYER] ([TEAM]) is offside and the referee confirms the decision.",
+    "O3": "The fourth official shows 2 min. of added time.",
+    "O4": "[PLAYER] ([TEAM]) volleys the ball towards goal from the edge of the penalty box, but one of the defenders blocks his shot. The ball goes out of play and [TEAM] have been awarded a corner kick."
+  },
+  {
+    "id": 101,
+    "Q": "Provide a commentary text for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/italy_serie-a_2023-2024/2023-09-02_ssc-napoli-ss-lazio-serie-a-2023-2024/1_29_36.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) goes over to take a corner kick after one of the defenders makes a good clearance.",
+    "O2": "[PLAYER] ([TEAM]) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",
+    "O3": "Goal! [PLAYER] ([TEAM]) pounced on a loose ball inside the penalty area and beats the goalkeeper with a shot into the bottom right corner. He makes it 0:1.",
+    "O4": "Referee [REFEREE] has finally had enough of [PLAYER] and brandishes a yellow card at him!"
+  },
+  {
+    "id": 105,
+    "Q": "Generate a commentary content description for this football video clip.",
+    "materials": [
+      "materials/q11/SN-Caption-test-align/germany_bundesliga_2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln/1_17_51.mp4"
+    ],
+    "O1": "A free kick is awarded from a very dangerous distance. It's situated just a few metres from outside the box. Several players gather around the ball, but it seems like [PLAYER] ([TEAM]) is going to have a crack himself.",
+    "O2": "[PLAYER] ([TEAM]) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",
+    "O3": "[PLAYER] ([TEAM]) is penalised for a foul. [REFEREE] had a clear view and blows his whistle.",
+    "O4": "[PLAYER] ([TEAM]) sends a sweet pass into the penalty area, but one of the defenders averts the danger."
+  },
+  {
+    "id": 113,
+    "Q": "Generate a commentary annotation for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/france_league-1_2018-2019/2018-11-11_as-monaco-paris-saint-germain-ligue-1-2018-2019/1_29_37.mp4"
+    ],
+    "O1": "A crossfield pass from [PLAYER] ([TEAM]) fails to find any of his teammates.",
+    "O2": "Baris [PLAYER] ([TEAM]) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch.",
+    "O3": "A long pass finds Alejandro Gomez ([TEAM]) unmarked, he looks up and hits a weak shot from mid-range which drifts well wide of the left post.",
+    "O4": "The match has reached half-time."
+  },
+  {
+    "id": 120,
+    "Q": "Write a matching commentary text for this football video.",
+    "materials": [
+      "materials/q11/SN-Caption-test-align/italy_serie-a_2016-2017/2016-11-20 - 17-00 Atalanta 2 - 1 AS Roma/2_46_17.mp4"
+    ],
+    "O1": "A clumsy foul by [PLAYER] ([TEAM]) and [REFEREE] blows his whistle.",
+    "O2": "[PLAYER] ([TEAM]) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",
+    "O3": "[PLAYER] ([TEAM]) hits a shot well wide of the right post from the edge of the box.",
+    "O4": "[TEAM] have been awarded a corner kick. Kike ([TEAM]) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender."
+  },
+  {
+    "id": 122,
+    "Q": "Out of the five video clips provided, the first is a replay. Can you determine which one of the following four clips is being replayed?",
+    "materials": [
+      "materials/q9/replay/31.mp4",
+      "materials/q9/action/31/1.mp4",
+      "materials/q9/action/31/2.mp4",
+      "materials/q9/action/31/3.mp4",
+      "materials/q9/action/31/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 129,
+    "Q": "Out of the five video clips provided, the first is a replay. Can you determine which one of the following four clips is being replayed?",
+    "materials": [
+      "materials/q9/replay/7.mp4",
+      "materials/q9/action/7/1.mp4",
+      "materials/q9/action/7/2.mp4",
+      "materials/q9/action/7/3.mp4",
+      "materials/q9/action/7/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 133,
+    "Q": "What type of football match event is recorded in this video?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2017-2018/2017-12-28_crystal-palace-arsenal-fc-premier-league/1_32_37.mp4"
+    ],
+    "O1": "ball possession",
+    "O2": "substitution",
+    "O3": "clearance",
+    "O4": "red card"
+  },
+  {
+    "id": 139,
+    "Q": "Please categorize the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/germany_bundesliga_2023-2024/2023-10-29_eintracht-frankfurt-borussia-dortmund-bundesliga-2023-2024/2_50_17.mp4"
+    ],
+    "O1": "penalty",
+    "O2": "lead to corner",
+    "O3": "end of half game",
+    "O4": "foul with no card"
+  },
+  {
+    "id": 144,
+    "Q": "Generate a commentary script for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/germany_bundesliga_2023-2024/2023-10-29_eintracht-frankfurt-borussia-dortmund-bundesliga-2023-2024/2_00_01.mp4"
+    ],
+    "O1": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+    "O2": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul.",
+    "O3": "Substitution. [PLAYER] makes his way off the pitch and [PLAYER] ([TEAM]) comes on as his replacement.",
+    "O4": "Goal! A rebound wrong foots everyone except [PLAYER] ([TEAM]), and he slams the ball into the open net from close range. 1:0."
+  },
+  {
+    "id": 146,
+    "Q": "What kind of football event is depicted in this video?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/italy_serie-a_2016-2017/2017-02-26 - 22-45 Inter 1 - 3 AS Roma/2_17_28.mp4"
+    ],
+    "O1": "var",
+    "O2": "second yellow card",
+    "O3": "penalty",
+    "O4": "off side"
+  },
+  {
+    "id": 147,
+    "Q": "The first video clip in the list is a replay. Please determine which of the next four clips is the one being played again.",
+    "materials": [
+      "materials/q9/replay/13.mp4",
+      "materials/q9/action/13/1.mp4",
+      "materials/q9/action/13/2.mp4",
+      "materials/q9/action/13/3.mp4",
+      "materials/q9/action/13/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 150,
+    "Q": "Write a commentary text description for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/europe_champions-league_2021-2022/2021-10-19_shakhtar-donetsk-real-madrid-champions-league-2021-2022/2_45_30.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",
+    "O2": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball.",
+    "O3": "Goal! [PLAYER] puts a cross into the box and finds [PLAYER] ([TEAM]), who latches on to it and strikes the ball inside the right post. He makes it 0:5.",
+    "O4": "[PLAYER] ([TEAM]) tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes out of play. [TEAM] are awarded a corner kick."
+  },
+  {
+    "id": 151,
+    "Q": "Which category does the football event in this video belong to?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/spain_laliga_2016-2017/2016-11-26 - 18-15 Real Madrid 2 - 1 Gijon/1_20_05.mp4"
+    ],
+    "O1": "substitution",
+    "O2": "red card",
+    "O3": "off side",
+    "O4": "foul with no card"
+  },
+  {
+    "id": 162,
+    "Q": "Write a commentary for this football video clip.",
+    "materials": [
+      "materials/q11/SN-Caption-test-align/spain_laliga_2016-2017/2016-09-24 - 21-45 Las Palmas 2 - 2 Real Madrid/2_43_08.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) gets his head on the corner, but he can't find the target as his header flies high over the crossbar.",
+    "O2": "[PLAYER] ([TEAM]) leaps high to meet a lofted pass inside the six-yard box, but his header flies yards over the crossbar.",
+    "O3": "An unsuccessful long-range effort by [PLAYER] ([TEAM]) after he collected a pass and unleashed a shot. The ball was directed into the middle of the goal, but the goalkeeper made an easy save.",
+    "O4": "[PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety."
+  },
+  {
+    "id": 169,
+    "Q": "What category does the football scene in this video fall into?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/europe_uefa-champions-league_2016-2017/2016-11-01 - 20-45 Besiktas 1 - 1 Napoli/1_31_56.mp4"
+    ],
+    "O1": "throw in",
+    "O2": "off side",
+    "O3": "corner",
+    "O4": "shot off target"
+  },
+  {
+    "id": 171,
+    "Q": "Generate a commentary script for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/spain_laliga_2019-2020/2020-07-05_villarreal-cf-fc-barcelona-liga-1-division-2019-2020/2_10_09.mp4"
+    ],
+    "O1": "Goal - 1:0! [PLAYER] ([TEAM]) gets a low shot away from the edge of the box and scores into the middle of the net. [PLAYER] provided an assist for the goal.",
+    "O2": "[PLAYER] ([TEAM]) hits a first-time shot from the edge of the box low towards the middle of the goal, but [PLAYER] is equal to the task and makes a comfortable save.",
+    "O3": "It will be a substitution. Manuel [PLAYER] ([TEAM]) is ready to enter the pitch as [PLAYER] walks off.",
+    "O4": "[PLAYER] ([TEAM]) commits a foul and is shown a yellow card without any hesitation from the referee."
+  },
+  {
+    "id": 172,
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/italy_serie-a_2016-2017/2016-11-26 - 22-45 Empoli 1 - 4 AC Milan/1_16_14.mp4"
+    ],
+    "O1": "penalty",
+    "O2": "goal",
+    "O3": "lead to corner",
+    "O4": "substitution"
+  },
+  {
+    "id": 173,
+    "Q": "Provide a classification for the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/italy_serie-a_2016-2017/2016-11-20 - 17-00 Atalanta 2 - 1 AS Roma/1_25_48.mp4"
+    ],
+    "O1": "ball out of play",
+    "O2": "throw in",
+    "O3": "second yellow card",
+    "O4": "lead to corner"
+  },
+  {
+    "id": 175,
+    "Q": "Generate a commentary annotation for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/italy_serie-a_2022-2023/2023-01-29_ssc-napoli-as-roma-serie-a-2022-2023/2_23_12.mp4"
+    ],
+    "O1": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on.",
+    "O2": "[PLAYER] ([TEAM]) is being forced to leave the pitch in order to receive medical treatment and his team will play with a man short for a few minutes.",
+    "O3": "[PLAYER] ([TEAM]) latches onto a lofted pass near the penalty spot, but sends his header miles wide of the right post.",
+    "O4": "[PLAYER] ([TEAM]) gets into a good scoring position. He creates some space for himself and tries his luck from distance. His decent effort towards the bottom left corner is, however, superbly saved by [PLAYER]!"
+  },
+  {
+    "id": 176,
+    "Q": "The first video clip is a replay. From the remaining four clips, please choose which one is being replayed.",
+    "materials": [
+      "materials/q9/replay/16.mp4",
+      "materials/q9/action/16/1.mp4",
+      "materials/q9/action/16/2.mp4",
+      "materials/q9/action/16/3.mp4",
+      "materials/q9/action/16/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 179,
+    "Q": "The first video clip in the list is a replay. Please determine which of the next four clips is the one being played again.",
+    "materials": [
+      "materials/q9/replay/35.mp4",
+      "materials/q9/action/35/1.mp4",
+      "materials/q9/action/35/2.mp4",
+      "materials/q9/action/35/3.mp4",
+      "materials/q9/action/35/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 180,
+    "Q": "Generate commentary content for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/europe_champions-league_2021-2022/2022-05-04_real-madrid-manchester-city-champions-league-2021-2022/1_33_07.mp4"
+    ],
+    "O1": "[REFEREE] blows his whistle after [PLAYER] ([TEAM]) brings one of his opponents down with a strong tackle. [TEAM] have a free kick from a promising distance.",
+    "O2": "[PLAYER] ([TEAM]) receives a red card after his awful challenge. He completely lost his temper and referee [REFEREE] sends him off the pitch. [TEAM] win a free kick. It's a promising situation for a direct shot.",
+    "O3": "[PLAYER] ([TEAM]) is moving okay again after that injury scare.",
+    "O4": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away."
+  },
+  {
+    "id": 182,
+    "Q": "You have five video clips. The first one is a replay. Identify which of the next four clips is the one being replayed.",
+    "materials": [
+      "materials/q9/replay/39.mp4",
+      "materials/q9/action/39/1.mp4",
+      "materials/q9/action/39/2.mp4",
+      "materials/q9/action/39/3.mp4",
+      "materials/q9/action/39/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 183,
+    "Q": "What category should the football event in this clip be marked as?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2018-2019/2019-01-12_chelsea-fc-newcastle-united-premier-league/1_25_43.mp4"
+    ],
+    "O1": "ball possession",
+    "O2": "corner",
+    "O3": "show added time",
+    "O4": "var"
+  },
+  {
+    "id": 187,
+    "Q": "Choose a category for the football scene in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/europe_uefa-champions-league_2015-2016/2015-11-25 - 22-45 Shakhtar Donetsk 3 - 4 Real Madrid/1_13_48.mp4"
+    ],
+    "O1": "substitution",
+    "O2": "foul (no card)",
+    "O3": "yellow card",
+    "O4": "saved by goal-keeper"
+  },
+  {
+    "id": 188,
+    "Q": "Generate a commentary content description for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/spain_laliga_2018-2019/2019-03-03_real-betis-getafe-cf-liga-1-division-2018-2019/2_36_05.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge. The referee signals a corner kick to [TEAM].",
+    "O2": "[PLAYER] ([TEAM]) takes the corner, but the opposition's defence is ready and clears the ball to safety.",
+    "O3": "Nice move, nice attempt! [PLAYER] ([TEAM]) is teed up with a simple pass after a nice flowing move. His first time shot from mid-range looks like it's going in but curls just wide of the right post.",
+    "O4": "[PLAYER] ([TEAM]) shoots from the edge of the penalty area. The ball travels towards the right side of the target, but [PLAYER] easily deals with the threat."
+  },
+  {
+    "id": 192,
+    "Q": "Describe the content of this football video.",
+    "materials": [
+      "materials/q11/SN-Caption-test-align/italy_serie-a_2016-2017/2016-10-02 - 21-45 AS Roma 2 - 1 Inter/1_11_18.mp4"
+    ],
+    "O1": "Juan Luca Sacchi blows for a foul after [PLAYER] ([TEAM]) was too aggressive in the battle for the ball.",
+    "O2": "Rough tackle by [PLAYER] ([TEAM]). The referee blows his whistle for a foul.",
+    "O3": "The goalkeeper is not tested by the free kick from 25 metres out by [PLAYER] ([TEAM]) as his effort only hit the wall. [TEAM] have been awarded a corner kick.",
+    "O4": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. The ball is off of the pitch and it's a goal kick for [TEAM]."
+  },
+  {
+    "id": 203,
+    "Q": "Generate a commentary for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/england_epl_2020-2021/2020-09-26_west-bromwich-albion-chelsea-fc-premier-league/2_50_09.mp4"
+    ],
+    "O1": "The resulting corner, taken by [PLAYER] ([TEAM]), comes to nothing.",
+    "O2": "[PLAYER] ([TEAM]) collects a pass and has an effort from distance which is blocked.",
+    "O3": "Dangerous play by [PLAYER] ([TEAM]). Javier Alberola Rojas blows his whistle for a foul. Free kick. [TEAM] will probably just try to cross the ball in from here.",
+    "O4": "[PLAYER] ([TEAM]) sees a yellow! His tackle wasn't that harsh, but he probably talked himself into [REFEREE]'s book."
+  },
+  {
+    "id": 208,
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2019-2020/2019-11-24_sheffield-united-manchester-united/2_22_49.mp4"
+    ],
+    "O1": "injury",
+    "O2": "shot off target",
+    "O3": "substitution",
+    "O4": "ball possession"
+  },
+  {
+    "id": 211,
+    "Q": "Choose a category for the football scene in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/italy_serie-a_2016-2017/2016-09-25 - 13-30 Torino 3 - 1 AS Roma/2_29_04.mp4"
+    ],
+    "O1": "ball out of play",
+    "O2": "off side",
+    "O3": "foul lead to penalty",
+    "O4": "second yellow card"
+  },
+  {
+    "id": 215,
+    "Q": "You are given five video clips, with the first being a replay. Your task is to identify the clip being replayed from the next four.",
+    "materials": [
+      "materials/q9/replay/1.mp4",
+      "materials/q9/action/1/1.mp4",
+      "materials/q9/action/1/2.mp4",
+      "materials/q9/action/1/3.mp4",
+      "materials/q9/action/1/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 224,
+    "Q": "Generate commentary content for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/england_epl_2018-2019/2019-02-27_chelsea-fc-tottenham-hotspur-premier-league-2018-2019/1_40_50.mp4"
+    ],
+    "O1": "The referee blows his whistle after [PLAYER] ([TEAM]) does a good impression of a basketball player and handles the ball. That's a penalty to [TEAM]! They have a good chance to score now.",
+    "O2": "[PLAYER] ([TEAM]) evades challenges and shoots from the edge of the box. It's a good effort, but flies just wide of the left post. The ball goes out of play and [TEAM] will have a goal kick.",
+    "O3": "[PLAYER] ([TEAM]) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",
+    "O4": "There will be a minimum of 4 min. of added time."
+  },
+  {
+    "id": 229,
+    "Q": "What kind of football event is depicted in this video?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/spain_laliga_2015-2016/2015-12-30 - 18-00 Real Madrid 3 - 1 Real Sociedad/1_10_58.mp4"
+    ],
+    "O1": "shot off target",
+    "O2": "ball out of play",
+    "O3": "penalty",
+    "O4": "substitution"
+  },
+  {
+    "id": 230,
+    "Q": "There are five video clips in total. The first clip is a replay. Which of the other four clips is the one it is replaying?",
+    "materials": [
+      "materials/q9/replay/33.mp4",
+      "materials/q9/action/33/1.mp4",
+      "materials/q9/action/33/2.mp4",
+      "materials/q9/action/33/3.mp4",
+      "materials/q9/action/33/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 232,
+    "Q": "Write commentary content for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/europe_champions-league_2020-2021/2020-12-08_rb-leipzig-manchester-united/2_21_03.mp4"
+    ],
+    "O1": "It's time for a substitution. [PLAYER] ([TEAM]) comes on in place of Charles de Ketelaere.",
+    "O2": "[PLAYER] ([TEAM]) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition. The ball goes out for a corner. [TEAM] can continue in their attacking effort.",
+    "O3": "[PLAYER] ([TEAM]) makes an overly-aggressive challenge and [REFEREE] blows his whistle for a foul.",
+    "O4": "A dangerous looking corner kick from [PLAYER] ([TEAM]) is cleared to safety by the defence."
+  },
+  {
+    "id": 239,
+    "Q": "Describe the content of this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/italy_serie-a_2021-2022/2021-12-12_ssc-napoli-empoli-fc-serie-a-2021-2022/1_29_04.mp4"
+    ],
+    "O1": "The resulting corner from [PLAYER] ([TEAM]) is cleared.",
+    "O2": "[PLAYER] ([TEAM]) fails to pick a body out in the box with an over-hit chip pass.",
+    "O3": "[PLAYER] ([TEAM]) produces an effort from the edge of the box, but doesn't hit the ball properly and sends it yards over the bar. The ball goes out of play and [TEAM] will have a goal kick.",
+    "O4": "[PLAYER] ([TEAM]) races towards goal but the defender gets back well to make a challenge."
+  },
+  {
+    "id": 248,
+    "Q": "You have five video clips. The first one is a replay. Identify which of the next four clips is the one being replayed.",
+    "materials": [
+      "materials/q9/replay/36.mp4",
+      "materials/q9/action/36/1.mp4",
+      "materials/q9/action/36/2.mp4",
+      "materials/q9/action/36/3.mp4",
+      "materials/q9/action/36/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 249,
+    "Q": "Which category should the football event in this video be placed in?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/italy_serie-a_2018-2019/2018-12-08_cagliari-calcio-as-roma/2_23_37.mp4"
+    ],
+    "O1": "off side",
+    "O2": "var",
+    "O3": "corner",
+    "O4": "substitution"
+  },
+  {
+    "id": 259,
+    "Q": "Provide a classification for the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/england_epl_2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea/1_35_00.mp4"
+    ],
+    "O1": "injury",
+    "O2": "clearance",
+    "O3": "free kick",
+    "O4": "ball possession"
+  },
+  {
+    "id": 263,
+    "Q": "Generate commentary lines for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/england_epl_2018-2019/2018-08-25_liverpool-fc-brighton-hove-albion-premier-league/2_31_04.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) violates the rules and gets a yellow card.",
+    "O2": "That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",
+    "O3": "[PLAYER] displays his ability to read the game and clears the danger after [PLAYER] ([TEAM]) threatened to latch onto a through ball from just outside the box.",
+    "O4": "[REFEREE] blows his whistle and signals a foul after [PLAYER] ([TEAM]) brought his opponent down. [TEAM] have a free kick from a promising distance."
+  },
+  {
+    "id": 268,
+    "Q": "Write a commentary language for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/europe_champions-league_2021-2022/2021-09-28_rb-leipzig-club-brugge-champions-league/1_37_27.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) commits an ugly challenge. The referee sees it and immediately blows his whistle. [TEAM] have a free kick.",
+    "O2": "[PLAYER] goes off the pitch and [PLAYER] ([TEAM]) comes on.",
+    "O3": "A spell of possession for [TEAM] in an attempt to control the game.",
+    "O4": "Alex Nicolao [PLAYER] ([TEAM]) will take the responsibility and he is already preparing the ball."
+  },
+  {
+    "id": 269,
+    "Q": "You are provided with five video clips, the first of which is a replay clip. Please determine which of the following four video clips it is a replay of?",
+    "materials": [
+      "materials/q9/replay/3.mp4",
+      "materials/q9/action/3/1.mp4",
+      "materials/q9/action/3/2.mp4",
+      "materials/q9/action/3/3.mp4",
+      "materials/q9/action/3/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 270,
+    "Q": "Write a commentary text description for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/italy_serie-a_2022-2023/2023-03-19_fc-internazionale-juventus-fc-serie-a-2022-2023/2_11_39.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) brings his opponent down. [REFEREE] has a clear sight of it and blows his whistle for a foul. [TEAM] earn a free kick.",
+    "O2": "[PLAYER] ([TEAM]) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",
+    "O3": "The first half of this match is about to start.",
+    "O4": "The second half has just started."
+  },
+  {
+    "id": 275,
+    "Q": "Write commentary content for this football video.",
+    "materials": [
+      "materials/q11/SN-Caption-test-align/spain_laliga_2016-2017/2016-09-21 - 21-00 Real Madrid 1 - 1 Villarreal/2_15_22.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) tries to find [PLAYER], but he puts too much power on the through ball. The ball is off of the pitch and it's a goal kick for [TEAM].",
+    "O2": "[PLAYER] ([TEAM]) picks up an injury.",
+    "O3": "[PLAYER] ([TEAM]) receives a yellow card.",
+    "O4": "[PLAYER] ([TEAM]) receives the ball inside the box, reacts quickly and without any problems stabs the ball low inside the left post."
+  },
+  {
+    "id": 278,
+    "Q": "Generate a commentary note for this football video clip.",
+    "materials": [
+      "materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2014-2015/2015-02-24 - 22-45 Manchester City 1 - 2 Barcelona/2_34_10.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) hits a shot towards the bottom right corner from the edge of the box, but it's a weak attempt and is easily saved by [PLAYER].",
+    "O2": "[PLAYER] ([TEAM]) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",
+    "O3": "[PLAYER] ([TEAM]) commits a foul after unfairly battling his opponent for the ball.",
+    "O4": "[TEAM] quickly take a corner kick with a short pass."
+  },
+  {
+    "id": 280,
+    "Q": "Write a commentary text description for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/england_epl_2020-2021/2020-12-16_liverpool-fc-tottenham-hotspur-premier-league-2020-2021/2_06_15.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) does well to dispossess the attacker with a slide tackle, but the referee blows his whistle for a foul.",
+    "O2": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul. [TEAM] are awarded a free kick. Let's see what they create from this.",
+    "O3": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon.",
+    "O4": "[PLAYER] ([TEAM]) was close to scoring after he unleashed a powerful shot which went a whisker over the crossbar."
+  },
+  {
+    "id": 281,
+    "Q": "Please categorize the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/spain_laliga_2015-2016/2016-03-02 - 23-00 Levante 1 - 3 Real Madrid/2_14_05.mp4"
+    ],
+    "O1": "foul with no card",
+    "O2": "throw in",
+    "O3": "substitution",
+    "O4": "show added time"
+  },
+  {
+    "id": 286,
+    "Q": "Generate commentary text for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/europe_champions-league_2017-2018/2017-11-01_besiktas-jk-as-monaco/1_39_23.mp4"
+    ],
+    "O1": "Corner kicks – 1:5.",
+    "O2": "We are about to witness a substitution. [PLAYER] ([TEAM]) is replacing [PLAYER].",
+    "O3": "[PLAYER] ([TEAM]) receives a low pass just outside the box and unleashes a fine strike towards the middle of the goal. [PLAYER] pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed.",
+    "O4": "The referee stops play so that a substitution can be made and [PLAYER] ([TEAM]) departs the field of play to be replaced by [PLAYER]."
+  },
+  {
+    "id": 287,
+    "Q": "Which category does the football event in this clip belong to?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/italy_serie-a_2016-2017/2016-09-25 - 21-45 Fiorentina 0 - 0 AC Milan/1_35_17.mp4"
+    ],
+    "O1": "goal",
+    "O2": "foul (no card)",
+    "O3": "penalty",
+    "O4": "ball possession"
+  },
+  {
+    "id": 291,
+    "Q": "You are given five video clips, with the first being a replay. Your task is to identify the clip being replayed from the next four.",
+    "materials": [
+      "materials/q9/replay/21.mp4",
+      "materials/q9/action/21/1.mp4",
+      "materials/q9/action/21/2.mp4",
+      "materials/q9/action/21/3.mp4",
+      "materials/q9/action/21/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 302,
+    "Q": "Which category does the football event in this clip belong to?",
+    "materials": [
+      "materials/q10/SN-Caption-test-align/italy_serie-a_2016-2017/2016-11-20 - 17-00 Atalanta 2 - 1 AS Roma/1_10_02.mp4"
+    ],
+    "O1": "start of half game",
+    "O2": "saved by goal-keeper",
+    "O3": "corner",
+    "O4": "ball out of play"
+  },
+  {
+    "id": 309,
+    "Q": "What type of football match event is recorded in this video?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/germany_bundesliga_2016-2017/2016-12-16 - 22-30 Hoffenheim 2 - 2 Dortmund/2_11_09.mp4"
+    ],
+    "O1": "lead to corner",
+    "O2": "off side",
+    "O3": "throw in",
+    "O4": "saved by goal-keeper"
+  },
+  {
+    "id": 310,
+    "Q": "You are given five video clips, with the first being a replay. Your task is to identify the clip being replayed from the next four.",
+    "materials": [
+      "materials/q9/replay/19.mp4",
+      "materials/q9/action/19/1.mp4",
+      "materials/q9/action/19/2.mp4",
+      "materials/q9/action/19/3.mp4",
+      "materials/q9/action/19/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 330,
+    "Q": "Generate commentary lines for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/germany_bundesliga_2018-2019/2018-09-22_schalke-04-bayern-munchen-bundesliga-2018-2019/1_42_03.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. [REFEREE] had an easy-decision to make.",
+    "O2": "[PLAYER] ([TEAM]) gets on the end of the free kick, but somehow sends his header high over the bar from close in.",
+    "O3": "[PLAYER] ([TEAM]) commits a rough challenge and [REFEREE] blows his whistle for an infringement.",
+    "O4": "[PLAYER] ([TEAM]) looks to break free, but an opposing player clears the ball away. [TEAM] have been awarded a corner kick."
+  },
+  {
+    "id": 336,
+    "Q": "What type of football match event is recorded in this video?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/europe_champions-league_2023-2024/2023-10-24_galatasaray-sk-bayern-munchen/2_10_10.mp4"
+    ],
+    "O1": "shot off target",
+    "O2": "ball out of play",
+    "O3": "saved by goal-keeper",
+    "O4": "penalty"
+  },
+  {
+    "id": 344,
+    "Q": "Which category should the football event in this video be placed in?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/germany_bundesliga_2016-2017/2017-04-29 - 16-30 Dortmund 0 - 0 FC Koln/2_34_43.mp4"
+    ],
+    "O1": "foul with no card",
+    "O2": "saved by goal-keeper",
+    "O3": "corner",
+    "O4": "lead to corner"
+  },
+  {
+    "id": 352,
+    "Q": "Which category does the football event in this video belong to?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/italy_serie-a_2022-2023/2022-10-02_ss-lazio-spezia-calcio-serie-a/2_45_45.mp4"
+    ],
+    "O1": "penalty",
+    "O2": "start of half game",
+    "O3": "goal",
+    "O4": "off side"
+  },
+  {
+    "id": 354,
+    "Q": "Create a commentary script for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/germany_bundesliga_2023-2024/2023-08-26_borussia-monchengladbach-bayer-leverkusen-bundesliga-2023-2024/1_05_52.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) was too forceful with his tackle and [REFEREE] interrupted the game to signal a free kick.",
+    "O2": "The ball is cleared after [PLAYER] ([TEAM]) attempted to dribble past an opposing player.",
+    "O3": "Flag up against [PLAYER] ([TEAM]). He had space to move into behind the defence, but he went too soon.",
+    "O4": "[PLAYER] ([TEAM]) slaloms his way past challenges, but an opposing player does well to get the ball away. The referee blows his whistle, [TEAM] are awarded a corner kick."
+  },
+  {
+    "id": 356,
+    "Q": "Which category does the football event in this clip belong to?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/spain_laliga_2015-2016/2015-12-30 - 18-00 Real Madrid 3 - 1 Real Sociedad/1_28_05.mp4"
+    ],
+    "O1": "ball possession",
+    "O2": "ball out of play",
+    "O3": "injury",
+    "O4": "free kick"
+  },
+  {
+    "id": 360,
+    "Q": "Classify the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2020-2021/2020-09-26_west-bromwich-albion-chelsea-fc-premier-league/1_19_56.mp4"
+    ],
+    "O1": "corner",
+    "O2": "end of half game",
+    "O3": "start of half game",
+    "O4": "clearance"
+  },
+  {
+    "id": 364,
+    "Q": "What category can the football event in this video be classified as?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/europe_champions-league_2018-2019/2018-10-03_psv-fc-internazionale/2_29_20.mp4"
+    ],
+    "O1": "substitution",
+    "O2": "off side",
+    "O3": "goal",
+    "O4": "clearance"
+  },
+  {
+    "id": 374,
+    "Q": "Which category should the football event in this video be placed in?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/england_epl_2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester/1_44_24.mp4"
+    ],
+    "O1": "start of half game",
+    "O2": "ball out of play",
+    "O3": "shot off target",
+    "O4": "off side"
+  },
+  {
+    "id": 375,
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/france_league-1_2023-2024/2023-08-26_paris-saint-germain-rc-lens-ligue-1-2023-2024/1_49_04.mp4"
+    ],
+    "O1": "penalty",
+    "O2": "end of half game",
+    "O3": "foul with no card",
+    "O4": "clearance"
+  },
+  {
+    "id": 376,
+    "Q": "You are given five video clips, with the first being a replay. Your task is to identify the clip being replayed from the next four.",
+    "materials": [
+      "materials/q9/replay/6.mp4",
+      "materials/q9/action/6/1.mp4",
+      "materials/q9/action/6/2.mp4",
+      "materials/q9/action/6/3.mp4",
+      "materials/q9/action/6/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 377,
+    "Q": "Please categorize the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/italy_serie-a_2019-2020/2019-09-25_ssc-napoli-cagliari-calcio-serie-a-2019-2020/1_24_44.mp4"
+    ],
+    "O1": "throw in",
+    "O2": "shot off target",
+    "O3": "goal",
+    "O4": "corner"
+  },
+  {
+    "id": 380,
+    "Q": "Choose a category for the football scene in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2022-2023/2023-04-23_newcastle-united-tottenham-hotspur-premier-league-2022-2023/1_23_25.mp4"
+    ],
+    "O1": "corner",
+    "O2": "foul lead to penalty",
+    "O3": "saved by goal-keeper",
+    "O4": "show added time"
+  },
+  {
+    "id": 381,
+    "Q": "What category does the football action in this video fall under?",
+    "materials": [
+      "materials/q10/SoccerNet-v2/spain_laliga_2015-2016/2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF/2_30_03.mp4"
+    ],
+    "O1": "ball out of play",
+    "O2": "show added time",
+    "O3": "substitution",
+    "O4": "penalty"
+  },
+  {
+    "id": 386,
+    "Q": "What type of football match event is recorded in this video?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2018-2019/2019-03-09_manchester-city-watford-fc-premier-league-2018-2019/2_29_59.mp4"
+    ],
+    "O1": "clearance",
+    "O2": "shot off target",
+    "O3": "end of half game",
+    "O4": "injury"
+  },
+  {
+    "id": 389,
+    "Q": "Generate a commentary annotation for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/england_epl_2021-2022/2021-08-23_west-ham-united-leicester-city-premier-league-2021-2022/1_00_01.mp4"
+    ],
+    "O1": "Here we go, today's match is starting right now.",
+    "O2": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+    "O3": "A free kick from long distance is going to be taken by [TEAM].",
+    "O4": "[PLAYER] ([TEAM]) tackles a bit over-zealously and [REFEREE] blows for a foul."
+  },
+  {
+    "id": 402,
+    "Q": "The first video clip is a replay. From the remaining four clips, please choose which one is being replayed.",
+    "materials": [
+      "materials/q9/replay/12.mp4",
+      "materials/q9/action/12/1.mp4",
+      "materials/q9/action/12/2.mp4",
+      "materials/q9/action/12/3.mp4",
+      "materials/q9/action/12/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 408,
+    "Q": "You are given five clips, with the first one being a replay. Which of the following four clips corresponds to the replay?",
+    "materials": [
+      "materials/q9/replay/5.mp4",
+      "materials/q9/action/5/1.mp4",
+      "materials/q9/action/5/2.mp4",
+      "materials/q9/action/5/3.mp4",
+      "materials/q9/action/5/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 412,
+    "Q": "Classify the football action in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/england_epl_2015-2016/2015-11-08 - 19-00 Arsenal 1 - 1 Tottenham/1_30_30.mp4"
+    ],
+    "O1": "second yellow card",
+    "O2": "shot off target",
+    "O3": "throw in",
+    "O4": "ball possession"
+  },
+  {
+    "id": 423,
+    "Q": "Identify and classify the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerNet-v2/europe_uefa-champions-league_2014-2015/2015-04-22 - 21-45 Real Madrid 1 - 0 Atl. Madrid/1_14_01.mp4"
+    ],
+    "O1": "start of half game",
+    "O2": "free kick",
+    "O3": "saved by goal-keeper",
+    "O4": "substitution"
+  },
+  {
+    "id": 424,
+    "Q": "Which category does the football event in this clip belong to?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/france_league-1_2023-2024/2023-08-25_fc-nantes-as-monaco-ligue-1-2023-2024/2_05_10.mp4"
+    ],
+    "O1": "yellow card",
+    "O2": "lead to corner",
+    "O3": "off side",
+    "O4": "goal"
+  },
+  {
+    "id": 425,
+    "Q": "Write a matching commentary text for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/england_epl_2019-2020/2020-01-23_wolverhampton-wanderers-liverpool-fc-premier-league/1_29_22.mp4"
+    ],
+    "O1": "5 additional min. will be played.",
+    "O2": "[PLAYER] ([TEAM]) slides a pass forward, but one of the defenders cuts it out. [TEAM] force their opponents to concede a corner.",
+    "O3": "[PLAYER] ([TEAM]) skips past his man but can't keep the ball in play.",
+    "O4": "[PLAYER] ([TEAM]) loses his marker in the box from the resulting corner, times his jump well but flashes his close-range header well wide of the right post."
+  },
+  {
+    "id": 429,
+    "Q": "In the set of five video clips, the first clip is a replay. Identify which of the remaining four clips it replays.",
+    "materials": [
+      "materials/q9/replay/2.mp4",
+      "materials/q9/action/2/1.mp4",
+      "materials/q9/action/2/2.mp4",
+      "materials/q9/action/2/3.mp4",
+      "materials/q9/action/2/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 430,
+    "Q": "Generate a commentary script for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/italy_serie-a_2021-2022/2021-10-31_as-roma-ac-milan-serie-a-2021-2022/2_43_03.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) is awarded a yellow card.",
+    "O2": "[PLAYER] ([TEAM]) clips an inviting cross into the box, but there's no one in a position to get on the end of it. The ball goes out of play and [TEAM] will have a goal kick.",
+    "O3": "[TEAM] quickly take a corner kick with a short pass.",
+    "O4": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat. The ball goes behind for a corner. [TEAM] will have an opportunity to threaten the opposition's goal."
+  },
+  {
+    "id": 431,
+    "Q": "Generate a matching comment for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/spain_laliga_2020-2021/2021-05-16_villarreal-cf-sevilla-fc-liga-1-division-2020-2021/2_23_49.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) crosses the ball into the box, but one of the defending players averts the threat. [TEAM] have been awarded a corner kick.",
+    "O2": "[PLAYER] picks out [PLAYER] ([TEAM]) unmarked inside the box, but he blazes the ball well over the bar.",
+    "O3": "Here comes a substitution. [PLAYER] ([TEAM]) is brought on as a substitute for [PLAYER].",
+    "O4": "The game restarts for the second half."
+  },
+  {
+    "id": 434,
+    "Q": "Write commentary content for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/europe_champions-league_2021-2022/2021-09-28_rb-leipzig-club-brugge-champions-league/2_44_29.mp4"
+    ],
+    "O1": "[TEAM] take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",
+    "O2": "The attendance is 53279.",
+    "O3": "[PLAYER] ([TEAM]) is booked after bringing down an opponent. Tasos Sidiropoulos had an easy-decision to make.",
+    "O4": "[PLAYER] ([TEAM]) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper shows himself in a good light as he leaps high to intercept the ball."
+  },
+  {
+    "id": 441,
+    "Q": "Generate a commentary script for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/italy_serie-a_2022-2023/2023-03-11_ssc-napoli-atalanta-bc-serie-a-2022-2023/2_19_28.mp4"
+    ],
+    "O1": "Flag goes up against [PLAYER] ([TEAM]) and the referee blows his whistle for offside.",
+    "O2": "Goal! [PLAYER] ([TEAM]) picks up a pass and gets to the edge of the box before clipping a brilliant lob over the goalkeeper and into the empty net. He makes it 3:0.",
+    "O3": "[PLAYER] ([TEAM]) sprays a pass out to [PLAYER], but he can't beat his man to get to the ball. The referee points to the corner flag. It's a corner to [TEAM].",
+    "O4": "[PLAYER] ([TEAM]) was too fierce in his attempt to get the ball from his opponent and [REFEREE] blows for a foul."
+  },
+  {
+    "id": 444,
+    "Q": "What category should the football event in this clip be marked as?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/europe_champions-league_2023-2024/2023-11-07_ss-lazio-feyenoord-champions-league/1_13_38.mp4"
+    ],
+    "O1": "injury",
+    "O2": "yellow card",
+    "O3": "foul with no card",
+    "O4": "off side"
+  },
+  {
+    "id": 447,
+    "Q": "What category should the football event in this clip be marked as?",
+    "materials": [
+      "materials/q10/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/1_15_30.mp4"
+    ],
+    "O1": "off side",
+    "O2": "show added time",
+    "O3": "var",
+    "O4": "foul with no card"
+  },
+  {
+    "id": 452,
+    "Q": "Generate a commentary annotation for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/england_epl_2020-2021/2021-03-19_fulham-fc-leeds-united/2_21_19.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",
+    "O2": "It seemed like [PLAYER] ([TEAM]) was going to take a quick free kick, but instead he is going to send the ball inside the penalty box for his teammates.",
+    "O3": "[PLAYER] ([TEAM]) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. [TEAM] force their opponents to concede a corner.",
+    "O4": "[TEAM] hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break."
+  },
+  {
+    "id": 453,
+    "Q": "Generate a commentary for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/europe_champions-league_2018-2019/2018-11-27_bayern-munchen-sl-benfica-champions-league/1_32_50.mp4"
+    ],
+    "O1": "The linesman raises his flag. [PLAYER] ([TEAM]) is adjudged offside.",
+    "O2": "[PLAYER] ([TEAM]) takes the corner which is cleared.",
+    "O3": "A direct free kick from a promising position, taken by [PLAYER] ([TEAM]), is struck into one of the defending players who deals with the threat.",
+    "O4": "[PLAYER] swings in the free kick towards [PLAYER] ([TEAM]), who powers a header high over the bar from close in."
+  },
+  {
+    "id": 454,
+    "Q": "Please choose an appropriate category for the football event in this video.",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2019-2020/2020-01-21_sheffield-united-manchester-city/1_25_40.mp4"
+    ],
+    "O1": "corner",
+    "O2": "yellow card",
+    "O3": "show added time",
+    "O4": "free kick"
+  },
+  {
+    "id": 462,
+    "Q": "What category can the football event in this video be classified as?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2023-2024/2023-08-18_nottingham-forest-sheffield-united-premier-league/2_40_20.mp4"
+    ],
+    "O1": "yellow card",
+    "O2": "show added time",
+    "O3": "free kick",
+    "O4": "ball possession"
+  },
+  {
+    "id": 466,
+    "Q": "What category can the football event in this video be classified into?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/france_league-1_2023-2024/2023-08-25_fc-nantes-as-monaco-ligue-1-2023-2024/1_35_34.mp4"
+    ],
+    "O1": "throw in",
+    "O2": "clearance",
+    "O3": "red card",
+    "O4": "penalty"
+  },
+  {
+    "id": 468,
+    "Q": "Generate a commentary content description for this football video clip.",
+    "materials": [
+      "materials/q11/SN-Caption-test-align/europe_uefa-champions-league_2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/2_42_53.mp4"
+    ],
+    "O1": "The resulting set piece, sent into the penalty area by [PLAYER] ([TEAM]), was easily dealt with by one of the defenders.",
+    "O2": "[TEAM] failed to take advantage of the corner as the opposition's defence was alert and averted the threat.",
+    "O3": "The referee blows for the end of today's match.",
+    "O4": "Close! [PLAYER] ([TEAM]) picks up the ball in space and from inside the penalty area sends a shot inches wide of the right post."
+  },
+  {
+    "id": 484,
+    "Q": "Generate a commentary for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/europe_champions-league_2022-2023/2022-09-06_sl-benfica-maccabi-haifa/2_21_35.mp4"
+    ],
+    "O1": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+    "O2": "[PLAYER] ([TEAM]) is about to take a corner kick.",
+    "O3": "A lofted cross from [PLAYER] ([TEAM]) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",
+    "O4": "[PLAYER] ([TEAM]) robs an opponent of the ball and explodes in anger when [REFEREE] blows for a foul."
+  },
+  {
+    "id": 486,
+    "Q": "Write a commentary for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/italy_serie-a_2020-2021/2020-09-20_juventus-fc-uc-sampdoria-serie-a-2020-2021/2_08_23.mp4"
+    ],
+    "O1": "[PLAYER] has decided to make a change. [PLAYER] ([TEAM]) replaces [PLAYER].",
+    "O2": "[PLAYER] ([TEAM]) hammers the ball from far out, but his shot is blocked by an opposition player.",
+    "O3": "[TEAM] take a short corner instead of sending the ball into the penalty area.",
+    "O4": "[PLAYER] ([TEAM]) swings a cross into the box, but it's far too close to [PLAYER], who smothers the ball."
+  },
+  {
+    "id": 489,
+    "Q": "You are given five clips, with the first one being a replay. Which of the following four clips corresponds to the replay?",
+    "materials": [
+      "materials/q9/replay/24.mp4",
+      "materials/q9/action/24/1.mp4",
+      "materials/q9/action/24/2.mp4",
+      "materials/q9/action/24/3.mp4",
+      "materials/q9/action/24/4.mp4"
+    ],
+    "O1": "The 1st one.",
+    "O2": "The 2nd one.",
+    "O3": "The 3rd one.",
+    "O4": "The 4th one."
+  },
+  {
+    "id": 492,
+    "Q": "Write a commentary text description for this football video clip.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/europe_champions-league_2017-2018/2018-05-02_as-roma-liverpool-fc-champions-league/2_00_01.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",
+    "O2": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM]).",
+    "O3": "Referee [REFEREE] blows his whistle to start the second half.",
+    "O4": "[PLAYER] prepares a substitution. [PLAYER] is replaced by [PLAYER] ([TEAM])."
+  },
+  {
+    "id": 494,
+    "Q": "What type of football event is shown in this video?",
+    "materials": [
+      "materials/q10/SoccerReplay-1988/england_epl_2023-2024/2023-08-18_nottingham-forest-sheffield-united-premier-league/2_30_56.mp4"
+    ],
+    "O1": "ball possession",
+    "O2": "corner",
+    "O3": "throw in",
+    "O4": "clearance"
+  },
+  {
+    "id": 498,
+    "Q": "Provide a commentary text for this football video.",
+    "materials": [
+      "materials/q11/SoccerReplay-1988/italy_serie-a_2022-2023/2023-05-13_spezia-calcio-ac-milan-serie-a/1_34_59.mp4"
+    ],
+    "O1": "[PLAYER] ([TEAM]) tries to find [PLAYER], but he puts too much power on the through ball.",
+    "O2": "The referee blows for the end of today's match.",
+    "O3": "The shot by [PLAYER] ([TEAM]) from the edge of the box low towards the middle of the goal lacks power and is easily saved by [PLAYER].",
+    "O4": "A short through ball almost allows [PLAYER] ([TEAM]) to get in a good shooting position, but he loses it to one of the defenders."
+  }
+]

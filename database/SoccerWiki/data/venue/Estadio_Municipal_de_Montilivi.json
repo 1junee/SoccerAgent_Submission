@@ -1,0 +1,45 @@
+{
+    "VENUE": "Estadio Municipal de Montilivi",
+    "CITY": "Girona",
+    "TEAM": "Girona",
+    "CAPACITY": 14624,
+    "VENUE_URL": "https://wikipedia.org/wiki/Estadi_Montilivi",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Montilivi280611.jpg/180px-Montilivi280611.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "AjuntamentdeGirona",
+            "Surface": "Naturalturf",
+            "Capacity": "14,624[1]",
+            "Location": "Girona,Catalonia,Spain",
+            "Operator": "AjuntamentdeGirona",
+            "Field size": "100metres(109 yd)x68metres(74 yd)",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}41°57′41″N2°49′43″E﻿/﻿41.96139°N2.82861°E﻿/41.96139;2.82861",
+            "Record attendance": "14,158(GironavRealMadrid,31January2019)"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "1970",
+            "Expanded": "2017,2022"
+        }
+    },
+    "CONTENT": {
+        "History": "The side stand of the Montilivi Stadium was completed in June 2010, seven months behind schedule. Since the entrances were still not finished, the stadium was not open for public use in the 2009–10 season. On March 2, 2011, it was able to hold the first match with the side stands, and 9,285 spectators attended.On March 12, 2012, Girona City Council ceded the field to Girona FC for 30 years, renewable to 50 in total.After their first ever promotion to La Liga, Girona expanded the stadium for hosting 13,450 spectators. Later, its capacity was reduced to 11,810.Girona added the Montilivi Stadium to the list of stadia as part of the Iberian candidacy for the 2018 World Cup; however, months before the official list of football stadia that would make up the candidacy was published, Girona FC withdrew it, understanding that it had little chance of being chosen.",
+        "References": {},
+        "External links": "Stadium informationEstadios de Espana (in English)",
+        "Notable matches": {}
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/62/Estadio_montilivi_02-12-2018.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7b/Flag_of_Venezuela_%28state%29.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a1/Montilivi280611.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg"
+    ],
+    "SUMMARY": "Estadi Montilivi is a multi-use stadium in Girona, Catalonia, Spain. It is used mostly for football matches and serves as the home ground of Girona FC. It was built and opened in 1970. Montilivi has a capacity of 14,624."
+}

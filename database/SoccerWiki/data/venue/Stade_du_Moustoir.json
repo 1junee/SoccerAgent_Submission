@@ -1,0 +1,35 @@
+{
+    "VENUE": "Stade du Moustoir",
+    "CITY": "Lorient",
+    "TEAM": "Lorient",
+    "CAPACITY": 16787,
+    "VENUE_URL": "https://wikipedia.org/wiki/Stade_du_Moustoir",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Stade_du_Moustoir.jpg/120px-Stade_du_Moustoir.jpg",
+    "INFOBOX": {
+        "": {
+            "Surface": "AirFibr(hybridgrass)",
+            "Capacity": "18,110",
+            "Location": "RueduTourdesPortes,Lorient,France",
+            "Field size": "105 m× 70 m(344 ft× 230 ft)",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}47°44′56″N3°22′10″W﻿/﻿47.74889°N3.36944°W﻿/47.74889;-3.36944",
+            "Record attendance": "(August,2011,FCLorient-GirondinsdeBordeaux)"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "July,1959",
+            "Renovated": "1998,2010"
+        }
+    },
+    "CONTENT": {
+        "References": {},
+        "2020 accident": "After a match between Lorient and Rennes at the Stade du Moustoir on 20 December 2020, a lighting ramp fell on a groundsman. The accident occurred at 19:00 local time, right after Les Merlus had been defeated 3–0 by Les Rennais in a Derby Breton. The 38-year old victim was rushed to Scorff Hospital, and was in a critical condition. Working as a volunteer, the groundsman eventually died of his injuries. He was a father of three children.Two other groundskeeper volunteers were taken to the hospital due to being shocked by the accident, but were not physically injured. Four other people who were also in shock made their way to the hospital themselves.",
+        "External links": "http://www.fclweb.fr/fr/info/club/stade-yves-allainmat-le-moustoir (in French)"
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b1/Stade_du_Moustoir.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Sports_and_games.png"
+    ],
+    "SUMMARY": "The Stade du Moustoir - Yves Allainmat, known as the Stade du Moustoir (French pronunciation: [stad dy mustwaʁ]), is a multi-use stadium in Lorient, France. It is currently used mostly for football matches and is the home stadium of FC Lorient. The stadium can hold up to 18,110 with the new south stand.\n\n"
+}

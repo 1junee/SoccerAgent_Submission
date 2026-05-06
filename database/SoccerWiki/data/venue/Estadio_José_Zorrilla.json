@@ -1,0 +1,49 @@
+{
+    "VENUE": "Estadio José Zorrilla",
+    "CITY": "Valladolid",
+    "TEAM": "Valladolid",
+    "CAPACITY": 27618,
+    "VENUE_URL": "https://wikipedia.org/wiki/Estadio_Jos%C3%A9_Zorrilla",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Valladolid-Lugo_02-05-2022.jpg/180px-Valladolid-Lugo_02-05-2022.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "AyuntamientodeValladolid",
+            "Surface": "Grass",
+            "Capacity": "27,618",
+            "Location": "AvenidadelMundial82,s/n47014,Valladolid,CastileandLeón,Spain",
+            "Operator": "RealValladolid",
+            "Full name": "EstadioMunicipalJoséZorrilla",
+            "Field size": "105 m× 68 m(344 ft× 223 ft)",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}41°38′40″N4°45′40″W﻿/﻿41.64444°N4.76111°W﻿/41.64444;-4.76111",
+            "Executive suites": "120"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "20February1982",
+            "Architect": "RicardoSoria",
+            "Renovated": "1986,1995,2012–2013",
+            "Construction cost": "700millionPts(estimated)"
+        }
+    },
+    "CONTENT": {
+        "History": "The stadium was built in 1982 and is named after poet José Zorrilla (1817–1893). Prior to this, they played in the old Estadio José Zorrilla.The first match to be played at the stadium was a Spanish Liga match 20 February 1982 between Real Valladolid and Athletic Bilbao which ended in a 1–0 victory for Valladolid, the only goal being scored in the 84th minute by Jorge Alonso. The 1982 Copa del Rey Final was played at the stadium on 13 April, with Real Madrid defeating Sporting de Gijón 2–1.During the 1982 FIFA World Cup, three Group D matches (Czechoslovakia–Kuwait, France–Kuwait and France–Czechoslovakia) were played at the Estadio Zorrilla.Pop Superstar Michael Jackson performed a sold-out show on September 6, 1997, during his HIStory World Tour and concluded his European leg of the tour.On 3 June 1997, the Ayuntamiento de Valladolid and Real Valladolid agreed on a new 40-year lease, which also envisioned a potential use by the football club of \"hospitality, entertainment and commercial activities\" near the stadium, giving way years later to the so-called \"Valladolid Arena\" project. The construction of a shopping mall was thus given green light in 2008 but the project was suspended by the High Court of Justice of Castile and León in 2012.In 2016, the stadium hosted the Copa del Rey de Rugby final between SilverStorm El Salvador and VRAC Entrepinares. 26,500 spectators attended to the game beating the record of attendance to a rugby union match in Spain.The venue underwent refurbishing works in 2019, removing the dry moat and adding three new rows of seats (increasing the capacity to 26,451).",
+        "See also": "List of football stadiums in SpainLists of stadiums",
+        "References": {},
+        "Rugby union": "The stadium also hosts the national team in rugby union, most recently in the 2024 autumn international against 2023 Rugby World Cup quarter finalist Fiji, losing 19–33.",
+        "External links": "Estadio José Zorrilla at Estadios de Espana",
+        "1982 FIFA World Cup": "The stadium was one of the venues of the 1982 FIFA World Cup, and held the following matches:"
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Star_full.svg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/23/Valladolid-Lugo_02-05-2022.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "https://upload.wikimedia.org/wikipedia/en/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Sports_and_games.png"
+    ],
+    "SUMMARY": "Estadio José Zorrilla ([esˈtaðjo xoˈse θoˈriʎa]) is a municipally-owned football stadium in Valladolid, Spain. The capacity of the stadium is 27,618 seats, making it the 22nd-largest stadium in Spain and the largest in Castile and León.\n\n"
+}

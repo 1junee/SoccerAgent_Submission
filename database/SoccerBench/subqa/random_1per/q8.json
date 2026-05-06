@@ -1,0 +1,50 @@
+[
+  {
+    "Q": "What type of shot changes occur with the camera in the video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q8/europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/1_2246.mp4"
+    ],
+    "openA": "From Close-up behind the goal to Main camera center.",
+    "closeA": "O4",
+    "O1": "From Main camera left to Goal line technology camera.",
+    "O2": "From Main camera center to Main camera left.",
+    "O3": "From Close-up player or field referee to Public.",
+    "O4": "From Close-up behind the goal to Main camera center."
+  },
+  {
+    "Q": "What type of shot changes occur with the camera in the video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q8/italy_serie-a/2016-2017/2016-12-12 - 23-00 AS Roma 1 - 0 AC Milan/1_393.mp4"
+    ],
+    "openA": "From Close-up player or field referee to Goal line technology camera.",
+    "closeA": "O2",
+    "O1": "From Close-up side staff to Inside the goal.",
+    "O2": "From Close-up player or field referee to Goal line technology camera.",
+    "O3": "From Public to Inside the goal.",
+    "O4": "From Main camera right to Inside the goal."
+  },
+  {
+    "Q": "What kind of camera transitions are used in the video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q8/spain_laliga/2014-2015/2015-05-02 - 17-00 Cordoba 0 - 8 Barcelona/2_1446.mp4"
+    ],
+    "openA": "From Main behind the goal to Main camera center.",
+    "closeA": "O3",
+    "O1": "From Close-up player or field referee to Goal line technology camera.",
+    "O2": "From Main behind the goal to Inside the goal.",
+    "O3": "From Main behind the goal to Main camera center.",
+    "O4": "From Goal line technology camera to Inside the goal."
+  },
+  {
+    "Q": "How does the viewpoint of the camera shift in the video?",
+    "materials": [
+      "/home/heodnjswns/SoccerAgent/database/SoccerBench/materials/q8/spain_laliga/2014-2015/2015-05-02 - 17-00 Cordoba 0 - 8 Barcelona/1_1429.mp4"
+    ],
+    "openA": "From Main behind the goal to Main camera center.",
+    "closeA": "O3",
+    "O1": "From Spider camera to Goal line technology camera.",
+    "O2": "From Spider camera to Main behind the goal.",
+    "O3": "From Main behind the goal to Main camera center.",
+    "O4": "From Main camera left to Inside the goal."
+  }
+]

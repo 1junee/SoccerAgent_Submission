@@ -1,0 +1,392 @@
+[
+  {
+    "id": 10,
+    "Q": "From this image, what is the score of the football match?",
+    "materials": [
+      "materials/q6/005111.jpg"
+    ],
+    "openA": "0-1",
+    "closeA": "O4",
+    "O1": "2-1",
+    "O2": "0-3",
+    "O3": "2-3",
+    "O4": "0-1"
+  },
+  {
+    "id": 37,
+    "Q": "What time (MM:SS) does this football moment show?",
+    "materials": [
+      "materials/q6/007349.jpg"
+    ],
+    "openA": "64:06",
+    "closeA": "O3",
+    "O1": "61:50",
+    "O2": "78:00",
+    "O3": "64:06",
+    "O4": "69:03"
+  },
+  {
+    "id": 39,
+    "Q": "What's the current match time in MM:SS format?",
+    "materials": [
+      "materials/q6/023409.jpg"
+    ],
+    "openA": "86:15",
+    "closeA": "O2",
+    "O1": "83:47",
+    "O2": "86:15",
+    "O3": "82:42",
+    "O4": "84:03"
+  },
+  {
+    "id": 58,
+    "Q": "What's the exact time (minutes:seconds) shown in this image?",
+    "materials": [
+      "materials/q6/018337.jpg"
+    ],
+    "openA": "79:06",
+    "closeA": "O2",
+    "O1": "71:41",
+    "O2": "79:06",
+    "O3": "86:04",
+    "O4": "70:33"
+  },
+  {
+    "id": 68,
+    "Q": "Which minute of the match is shown here?",
+    "materials": [
+      "materials/q6/018422.jpg"
+    ],
+    "openA": "75 minutes",
+    "closeA": "O1",
+    "O1": "75 minutes",
+    "O2": "85 minutes",
+    "O3": "80 minutes",
+    "O4": "88 minutes"
+  },
+  {
+    "id": 78,
+    "Q": "What time (minutes and seconds) is shown in this image?",
+    "materials": [
+      "materials/q6/014219.jpg"
+    ],
+    "openA": "67:22",
+    "closeA": "O1",
+    "O1": "67:22",
+    "O2": "62:57",
+    "O3": "61:09",
+    "O4": "80:57"
+  },
+  {
+    "id": 96,
+    "Q": "What is the current score so far in the image shows of the match between Manchester City and Brighton in the 2017-18 season where Fernandinho scored?",
+    "materials": [
+      "materials/q6/009707.jpg"
+    ],
+    "openA": "Manchester City 3 - 1 Brighton",
+    "closeA": "O3",
+    "O1": "Manchester City 2 - 0 Brighton",
+    "O2": "Manchester City 5 - 2 Brighton",
+    "O3": "Manchester City 3 - 1 Brighton",
+    "O4": "Manchester City 2 - 2 Brighton"
+  },
+  {
+    "id": 104,
+    "Q": "What's the precise time displayed in the screenshot?",
+    "materials": [
+      "materials/q6/020950.jpg"
+    ],
+    "openA": "36:52",
+    "closeA": "O4",
+    "O1": "25:08",
+    "O2": "46:45",
+    "O3": "48:39",
+    "O4": "36:52"
+  },
+  {
+    "id": 118,
+    "Q": "What is the current score of the match displayed in this image?",
+    "materials": [
+      "materials/q6/010090.jpg"
+    ],
+    "openA": "1-2",
+    "closeA": "O3",
+    "O1": "3-0",
+    "O2": "3-1",
+    "O3": "1-2",
+    "O4": "0-3"
+  },
+  {
+    "id": 129,
+    "Q": "What minute is the game in according to the image?",
+    "materials": [
+      "materials/q6/004883.jpg"
+    ],
+    "openA": "68 minutes",
+    "closeA": "O4",
+    "O1": "67 minutes",
+    "O2": "78 minutes",
+    "O3": "79 minutes",
+    "O4": "68 minutes"
+  },
+  {
+    "id": 145,
+    "Q": "What time (MM:SS) does this football moment show?",
+    "materials": [
+      "materials/q6/007041.jpg"
+    ],
+    "openA": "27:50",
+    "closeA": "O4",
+    "O1": "18:31",
+    "O2": "33:04",
+    "O3": "29:19",
+    "O4": "27:50"
+  },
+  {
+    "id": 165,
+    "Q": "Based on this image, what is the current score of the match?",
+    "materials": [
+      "materials/q6/015205.jpg"
+    ],
+    "openA": "0-1",
+    "closeA": "O4",
+    "O1": "1-3",
+    "O2": "2-0",
+    "O3": "2-1",
+    "O4": "0-1"
+  },
+  {
+    "id": 176,
+    "Q": "How many corners have Liverpool taken so far in the image shows during their match against Aston Villa in the 2019-20 season?",
+    "materials": [
+      "materials/q6/002293.jpg"
+    ],
+    "openA": "3",
+    "closeA": "O1",
+    "O1": "3",
+    "O2": "4",
+    "O3": "1",
+    "O4": "2"
+  },
+  {
+    "id": 227,
+    "Q": "Based on this image, what is the score of the match?",
+    "materials": [
+      "materials/q6/016495.jpg"
+    ],
+    "openA": "0-3",
+    "closeA": "O2",
+    "O1": "0-4",
+    "O2": "0-3",
+    "O3": "1-2",
+    "O4": "0-5"
+  },
+  {
+    "id": 228,
+    "Q": "What's the time (minutes and seconds) in this screenshot?",
+    "materials": [
+      "materials/q6/005373.jpg"
+    ],
+    "openA": "62:46",
+    "closeA": "O1",
+    "O1": "62:46",
+    "O2": "56:32",
+    "O3": "76:11",
+    "O4": "72:36"
+  },
+  {
+    "id": 266,
+    "Q": "What time (minutes and seconds) is shown in this image?",
+    "materials": [
+      "materials/q6/002926.jpg"
+    ],
+    "openA": "13:06",
+    "closeA": "O1",
+    "O1": "13:06",
+    "O2": "10:37",
+    "O3": "17:25",
+    "O4": "19:03"
+  },
+  {
+    "id": 274,
+    "Q": "What's the current time in minutes:seconds format?",
+    "materials": [
+      "materials/q6/018637.jpg"
+    ],
+    "openA": "21:58",
+    "closeA": "O1",
+    "O1": "21:58",
+    "O2": "31:20",
+    "O3": "14:29",
+    "O4": "29:12"
+  },
+  {
+    "id": 276,
+    "Q": "What's the current time in minutes:seconds format?",
+    "materials": [
+      "materials/q6/004415.jpg"
+    ],
+    "openA": "55:47",
+    "closeA": "O4",
+    "O1": "45:08",
+    "O2": "47:58",
+    "O3": "52:33",
+    "O4": "55:47"
+  },
+  {
+    "id": 282,
+    "Q": "How many shots on target has Monaco had so far in the image shows of their Ligue 1 match against Paris SG where Wissam Ben Yedder scored the opener?",
+    "materials": [
+      "materials/q6/021065.jpg"
+    ],
+    "openA": "2 shots on target.",
+    "closeA": "O3",
+    "O1": "3 shots on target.",
+    "O2": "4 shots on target.",
+    "O3": "2 shots on target.",
+    "O4": "1 shots on target."
+  },
+  {
+    "id": 290,
+    "Q": "What minute is displayed in the image?",
+    "materials": [
+      "materials/q6/000774.jpg"
+    ],
+    "openA": "43 minutes",
+    "closeA": "O3",
+    "O1": "32 minutes",
+    "O2": "39 minutes",
+    "O3": "43 minutes",
+    "O4": "52 minutes"
+  },
+  {
+    "id": 314,
+    "Q": "What is the current score of the match shown in this broadcast image?",
+    "materials": [
+      "materials/q6/010823.jpg"
+    ],
+    "openA": "3-0",
+    "closeA": "O4",
+    "O1": "4-2",
+    "O2": "5-2",
+    "O3": "5-0",
+    "O4": "3-0"
+  },
+  {
+    "id": 325,
+    "Q": "What is the score displayed in this image of the match?",
+    "materials": [
+      "materials/q6/019139.jpg"
+    ],
+    "openA": "1-0",
+    "closeA": "O3",
+    "O1": "3-2",
+    "O2": "0-1",
+    "O3": "1-0",
+    "O4": "0-2"
+  },
+  {
+    "id": 332,
+    "Q": "What is the score shown in this image of the match?",
+    "materials": [
+      "materials/q6/016919.jpg"
+    ],
+    "openA": "0-0",
+    "closeA": "O4",
+    "O1": "2-0",
+    "O2": "2-1",
+    "O3": "0-2",
+    "O4": "0-0"
+  },
+  {
+    "id": 361,
+    "Q": "What is the score visible in this image of the match?",
+    "materials": [
+      "materials/q6/013257.jpg"
+    ],
+    "openA": "0-0",
+    "closeA": "O4",
+    "O1": "2-1",
+    "O2": "2-0",
+    "O3": "1-2",
+    "O4": "0-0"
+  },
+  {
+    "id": 381,
+    "Q": "What's the time in MM:SS format shown here?",
+    "materials": [
+      "materials/q6/002010.jpg"
+    ],
+    "openA": "89:40",
+    "closeA": "O2",
+    "O1": "82:26",
+    "O2": "89:40",
+    "O3": "82:02",
+    "O4": "83:11"
+  },
+  {
+    "id": 399,
+    "Q": "What's the current match time in MM:SS format?",
+    "materials": [
+      "materials/q6/017588.jpg"
+    ],
+    "openA": "19:22",
+    "closeA": "O4",
+    "O1": "16:04",
+    "O2": "23:32",
+    "O3": "26:15",
+    "O4": "19:22"
+  },
+  {
+    "id": 401,
+    "Q": "What is the current score between Newcastle Utd and Tottenham so far in the image shows, and how many goals has Jacob Murphy scored?",
+    "materials": [
+      "materials/q6/014349.jpg"
+    ],
+    "openA": "Newcastle Utd 5 - 0 Tottenham. Jacob Murphy has scored 2 goals.",
+    "closeA": "O4",
+    "O1": "Newcastle Utd 6 - 4 Tottenham. Jacob Murphy has scored 2 goals.",
+    "O2": "Newcastle Utd 4 - 1 Tottenham. Jacob Murphy has scored 2 goals.",
+    "O3": "Newcastle Utd 7 - 1 Tottenham. Jacob Murphy has scored 4 goals.",
+    "O4": "Newcastle Utd 5 - 0 Tottenham. Jacob Murphy has scored 2 goals."
+  },
+  {
+    "id": 410,
+    "Q": "Could you tell me the score of the match from this image?",
+    "materials": [
+      "materials/q6/022556.jpg"
+    ],
+    "openA": "0-0",
+    "closeA": "O4",
+    "O1": "2-1",
+    "O2": "1-0",
+    "O3": "1-2",
+    "O4": "0-0"
+  },
+  {
+    "id": 487,
+    "Q": "Could you tell me the score of the match from this image?",
+    "materials": [
+      "materials/q6/023733.jpg"
+    ],
+    "openA": "0-1",
+    "closeA": "O3",
+    "O1": "1-3",
+    "O2": "2-1",
+    "O3": "0-1",
+    "O4": "2-0"
+  },
+  {
+    "id": 490,
+    "Q": "What's the time in MM:SS format shown here?",
+    "materials": [
+      "materials/q6/013975.jpg"
+    ],
+    "openA": "76:06",
+    "closeA": "O4",
+    "O1": "74:57",
+    "O2": "64:44",
+    "O3": "83:02",
+    "O4": "76:06"
+  }
+]

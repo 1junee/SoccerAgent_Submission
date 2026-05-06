@@ -1,0 +1,1002 @@
+[
+  {
+    "Q": "Which national team did Lluis Lopez represent at the U19 level?",
+    "materials": null,
+    "openA": "Spain U19",
+    "closeA": "O2",
+    "O1": "France U19",
+    "O2": "Spain U19",
+    "O3": "Portugal U19",
+    "O4": "Italy U19"
+  },
+  {
+    "Q": "Which club did Eroll Zejnullahu play for in 2021?",
+    "materials": null,
+    "openA": "Eroll Zejnullahu played for Nitra in 2021.",
+    "closeA": "O2",
+    "O1": "Žilina",
+    "O2": "Nitra",
+    "O3": "Trenčín",
+    "O4": "Ružomberok"
+  },
+  {
+    "Q": "How many goals did Marcus Ingvartsen score for Nordsjælland during his second stint with the club?",
+    "materials": null,
+    "openA": "9 goals.",
+    "closeA": "O2",
+    "O1": "12 goals",
+    "O2": "9 goals",
+    "O3": "7 goals",
+    "O4": "15 goals"
+  },
+  {
+    "Q": "Until when was Antonio Sanabria's loan to Genoa valid?",
+    "materials": null,
+    "openA": "Antonio Sanabria's loan to Genoa was until 30 June 2020.",
+    "closeA": "O2",
+    "O1": "30 June 2019",
+    "O2": "30 June 2020",
+    "O3": "31 December 2019",
+    "O4": "31 December 2020"
+  },
+  {
+    "Q": "How did Mainz 05 secure their place in the 2005–06 UEFA Cup?",
+    "materials": null,
+    "openA": "Mainz 05 qualified for the 2005–06 UEFA Cup as Germany's nominee in the Fair Play draw.",
+    "closeA": "O2",
+    "O1": "By winning the DFB-Pokal",
+    "O2": "As Germany's nominee in the Fair Play draw",
+    "O3": "Through a top-four finish in the Bundesliga",
+    "O4": "By winning the UEFA Intertoto Cup"
+  },
+  {
+    "Q": "How many times has Greece participated in the UEFA European Championship?",
+    "materials": null,
+    "openA": "Greece has appeared in the UEFA European Championship 4 times.",
+    "closeA": "O4",
+    "O1": "3",
+    "O2": "5",
+    "O3": "6",
+    "O4": "4"
+  },
+  {
+    "Q": "Which trophy did Ragnar Sigurdsson win with F.C. Copenhagen in the 2011–12 season?",
+    "materials": null,
+    "openA": "The Danish Cup.",
+    "closeA": "O2",
+    "O1": "The Danish Superliga",
+    "O2": "The Danish Cup",
+    "O3": "The UEFA Europa League",
+    "O4": "The Danish League Cup"
+  },
+  {
+    "Q": "What was Juan Villar's role in the Royal Spanish Football Federation?",
+    "materials": null,
+    "openA": "Juan Villar served as the president of the Royal Spanish Football Federation.",
+    "closeA": "O2",
+    "O1": "Head Coach of the National Team",
+    "O2": "President of the Royal Spanish Football Federation",
+    "O3": "Director of Youth Development",
+    "O4": "Chief Financial Officer"
+  },
+  {
+    "Q": "What is Varazdat Haroyan's current jersey number?",
+    "materials": null,
+    "openA": "33.",
+    "closeA": "O4",
+    "O1": "23",
+    "O2": "12",
+    "O3": "9",
+    "O4": "33"
+  },
+  {
+    "Q": "What is the name of Alex Fernandez's younger brother who is also a footballer?",
+    "materials": null,
+    "openA": "Alex Fernandez's younger brother is named Álex.",
+    "closeA": "O4",
+    "O1": "Diego",
+    "O2": "Javier",
+    "O3": "Sergio",
+    "O4": "Álex"
+  },
+  {
+    "Q": "Which competitions did Essaid Belkalem participate in during his loan spell at Trabzonspor?",
+    "materials": null,
+    "openA": "Essaid Belkalem played in the Turkish Süper Lig and the Europa League during his loan spell at Trabzonspor.",
+    "closeA": "O2",
+    "O1": "Turkish Süper Lig and the Champions League",
+    "O2": "Turkish Süper Lig and the Europa League",
+    "O3": "Turkish First League and the Europa League",
+    "O4": "Turkish Süper Lig and the Turkish Cup"
+  },
+  {
+    "Q": "What position does Paul Nebel play on the field?",
+    "materials": null,
+    "openA": "Paul Nebel plays as a winger.",
+    "closeA": "O2",
+    "O1": "Striker",
+    "O2": "Winger",
+    "O3": "Midfielder",
+    "O4": "Defender"
+  },
+  {
+    "Q": "What is Sebastian Dewaest's birth date?",
+    "materials": null,
+    "openA": "Sebastian Dewaest was born on 27 May 1991.",
+    "closeA": "O2",
+    "O1": "27 May 1990",
+    "O2": "27 May 1991",
+    "O3": "27 June 1991",
+    "O4": "28 May 1991"
+  },
+  {
+    "Q": "Who was the manager of Club Brugge KV when they reached the 1978 European Cup Final?",
+    "materials": null,
+    "openA": "Ernst Happel was the manager when Club Brugge KV reached the 1978 European Cup Final.",
+    "closeA": "O2",
+    "O1": "Raymond Goethals",
+    "O2": "Ernst Happel",
+    "O3": "Georges Leekens",
+    "O4": "Hugo Broos"
+  },
+  {
+    "Q": "What was the final result of the 2013 Coupe de France Final in which Jaroslav Plasil captained Bordeaux?",
+    "materials": null,
+    "openA": "Bordeaux defeated Evian 3–2 in the 2013 Coupe de France Final.",
+    "closeA": "O4",
+    "O1": "Bordeaux defeated Lyon 2–1",
+    "O2": "Evian defeated Bordeaux 3–2",
+    "O3": "Bordeaux and Evian drew 2–2",
+    "O4": "Bordeaux defeated Evian 3–2"
+  },
+  {
+    "Q": "Who is the head of the medical services at Real Betis?",
+    "materials": null,
+    "openA": "The head of the medical services at Betis is Tomás Calero.",
+    "closeA": "O4",
+    "O1": "Juan Carlos Álvarez",
+    "O2": "Manuel Peña",
+    "O3": "Antonio López",
+    "O4": "Tomás Calero"
+  },
+  {
+    "Q": "How many appearances did Hauke Wahl make for FC Ingolstadt between 2016 and 2018?",
+    "materials": null,
+    "openA": "27",
+    "closeA": "O4",
+    "O1": "35",
+    "O2": "42",
+    "O3": "19",
+    "O4": "27"
+  },
+  {
+    "Q": "How many goals did Ignacio Pussetto score during his second stint with Huracán?",
+    "materials": null,
+    "openA": "11",
+    "closeA": "O4",
+    "O1": "9",
+    "O2": "12",
+    "O3": "15",
+    "O4": "11"
+  },
+  {
+    "Q": "Which players did Slaven Bilic promote from the Croatia under-21 squad to the senior team?",
+    "materials": null,
+    "openA": "Eduardo, Luka Modrić, and Vedran Ćorluka.",
+    "closeA": "O4",
+    "O1": "Ivan Rakitić, Mateo Kovačić, and Dejan Lovren",
+    "O2": "Mario Mandžukić, Ivan Perišić, and Domagoj Vida",
+    "O3": "Nikola Kalinić, Danijel Pranjić, and Josip Šimunić",
+    "O4": "Eduardo, Luka Modrić, and Vedran Ćorluka"
+  },
+  {
+    "Q": "Which team did Jesse Lingard join after Nottingham Forest?",
+    "materials": null,
+    "openA": "Jesse Lingard joined FC Seoul after Nottingham Forest.",
+    "closeA": "O2",
+    "O1": "Al-Ettifaq",
+    "O2": "FC Seoul",
+    "O3": "Al-Nassr",
+    "O4": "LA Galaxy"
+  },
+  {
+    "Q": "Which team did Jayson Molumby face when he scored his first international goal for Ireland U17?",
+    "materials": null,
+    "openA": "Finland.",
+    "closeA": "O4",
+    "O1": "Sweden",
+    "O2": "Norway",
+    "O3": "Denmark",
+    "O4": "Finland"
+  },
+  {
+    "Q": "Which team did David Junca play for in the 2011–2012 season?",
+    "materials": null,
+    "openA": "David Junca played for Riudellots in the 2011–2012 season.",
+    "closeA": "O2",
+    "O1": "Girona",
+    "O2": "Riudellots",
+    "O3": "Llagostera",
+    "O4": "Olot"
+  },
+  {
+    "Q": "How many goals did Yohan Cabaye score in the 2007–08 season?",
+    "materials": null,
+    "openA": "Yohan Cabaye scored seven goals in the 2007–08 season.",
+    "closeA": "O4",
+    "O1": "5",
+    "O2": "9",
+    "O3": "11",
+    "O4": "7"
+  },
+  {
+    "Q": "When did Srdjan Grahovac win his first trophy with Astana?",
+    "materials": null,
+    "openA": "Srdjan Grahovac won his first trophy with Astana on 5 November 2017.",
+    "closeA": "O2",
+    "O1": "15 October 2016",
+    "O2": "5 November 2017",
+    "O3": "20 December 2018",
+    "O4": "10 September 2019"
+  },
+  {
+    "Q": "How many goals did Manjrekar James score for Fredericia during his loan spell?",
+    "materials": null,
+    "openA": "Manjrekar James scored 1 goal for Fredericia during his loan spell.",
+    "closeA": "O2",
+    "O1": "0",
+    "O2": "1",
+    "O3": "2",
+    "O4": "3"
+  },
+  {
+    "Q": "Which team did Mikel Balenziaga join after leaving Athletic Bilbao in 2023?",
+    "materials": null,
+    "openA": "Deportivo La Coruña",
+    "closeA": "O4",
+    "O1": "Real Zaragoza",
+    "O2": "SD Eibar",
+    "O3": "CD Tenerife",
+    "O4": "Deportivo La Coruña"
+  },
+  {
+    "Q": "Which team did Noah Eile join on loan in January 2022?",
+    "materials": null,
+    "openA": "Noah Eile was loaned to Mjällby AIF in January 2022.",
+    "closeA": "O2",
+    "O1": "IFK Göteborg",
+    "O2": "Mjällby AIF",
+    "O3": "Hammarby IF",
+    "O4": "Malmö FF"
+  },
+  {
+    "Q": "Which team did Evgeni Postnikov play for before joining Shakhtyor Soligorsk?",
+    "materials": null,
+    "openA": "Evgeni Postnikov played for Ventspils before joining Shakhtyor Soligorsk.",
+    "closeA": "O2",
+    "O1": "Dinamo Minsk",
+    "O2": "Ventspils",
+    "O3": "BATE Borisov",
+    "O4": "FC Gomel"
+  },
+  {
+    "Q": "What was Leicester City's final position in the 2013–14 season under Nigel Pearson?",
+    "materials": null,
+    "openA": "Leicester City finished as champions in the 2013–14 season under Nigel Pearson.",
+    "closeA": "O2",
+    "O1": "They were relegated to League One",
+    "O2": "They finished as champions",
+    "O3": "They secured a playoff spot",
+    "O4": "They finished mid-table"
+  },
+  {
+    "Q": "How many appearances did Neto Borges make for Vasco da Gama?",
+    "materials": null,
+    "openA": "23",
+    "closeA": "O2",
+    "O1": "18",
+    "O2": "23",
+    "O3": "27",
+    "O4": "30"
+  },
+  {
+    "Q": "Which club did Pavel Mogilevets join after leaving FC Rubin Kazan?",
+    "materials": null,
+    "openA": "Pavel Mogilevets joined FC Khimki after leaving FC Rubin Kazan.",
+    "closeA": "O2",
+    "O1": "FC Rostov",
+    "O2": "FC Khimki",
+    "O3": "FC Ural Yekaterinburg",
+    "O4": "FC Dynamo Moscow"
+  },
+  {
+    "Q": "Where was Michael Obafemi born?",
+    "materials": null,
+    "openA": "Dublin, Ireland.",
+    "closeA": "O2",
+    "O1": "London, England",
+    "O2": "Dublin, Ireland",
+    "O3": "Lagos, Nigeria",
+    "O4": "Paris, France"
+  },
+  {
+    "Q": "How many appearances did Thore Jacobsen make for SV Elversberg?",
+    "materials": null,
+    "openA": "Thore Jacobsen made 67 appearances for SV Elversberg.",
+    "closeA": "O2",
+    "O1": "54",
+    "O2": "67",
+    "O3": "72",
+    "O4": "63"
+  },
+  {
+    "Q": "How many goals has Denis Zakaria scored for the Switzerland national team?",
+    "materials": null,
+    "openA": "3",
+    "closeA": "O2",
+    "O1": "5",
+    "O2": "3",
+    "O3": "7",
+    "O4": "1"
+  },
+  {
+    "Q": "Where did Freiburg finish in the 2023–24 Bundesliga season?",
+    "materials": null,
+    "openA": "Freiburg finished 10th out of 18 teams in the 2023–24 Bundesliga season.",
+    "closeA": "O2",
+    "O1": "7th out of 18 teams",
+    "O2": "10th out of 18 teams",
+    "O3": "12th out of 18 teams",
+    "O4": "15th out of 18 teams"
+  },
+  {
+    "Q": "In which year did Guillaume Faivre join Young Boys?",
+    "materials": null,
+    "openA": "2020.",
+    "closeA": "O3",
+    "O1": "2018",
+    "O2": "2019",
+    "O3": "2020",
+    "O4": "2021"
+  },
+  {
+    "Q": "How old is Simon Hooper as of 2024?",
+    "materials": null,
+    "openA": "Simon Hooper is 42 years old as of 2024.",
+    "closeA": "O4",
+    "O1": "40",
+    "O2": "45",
+    "O3": "38",
+    "O4": "42"
+  },
+  {
+    "Q": "When was FC Porto founded?",
+    "materials": null,
+    "openA": "28 September 1893.",
+    "closeA": "O2",
+    "O1": "15 August 1895",
+    "O2": "28 September 1893",
+    "O3": "12 November 1890",
+    "O4": "3 March 1898"
+  },
+  {
+    "Q": "When did Roman Bezus make his debut for the senior Ukraine national team?",
+    "materials": null,
+    "openA": "Roman Bezus made his debut for the senior Ukraine national team on 11 November 2011.",
+    "closeA": "O2",
+    "O1": "15 October 2010",
+    "O2": "11 November 2011",
+    "O3": "5 September 2012",
+    "O4": "20 March 2013"
+  },
+  {
+    "Q": "What did Rani Khedira’s goal on the final matchday of the 2022–23 season secure for Union Berlin?",
+    "materials": null,
+    "openA": "Rani Khedira’s goal secured fourth place in the league and qualification for the Champions League.",
+    "closeA": "O2",
+    "O1": "Relegation to the second division",
+    "O2": "Fourth place in the league and qualification for the Champions League",
+    "O3": "A spot in the Europa League",
+    "O4": "The Bundesliga title"
+  },
+  {
+    "Q": "What was the construction cost of Arena da Amazonia?",
+    "materials": null,
+    "openA": "The construction cost of Arena da Amazonia was R$605 million (approximately US$270 million or €200 million).",
+    "closeA": "O2",
+    "O1": "R$500 million (approximately US$225 million or €170 million)",
+    "O2": "R$605 million (approximately US$270 million or €200 million)",
+    "O3": "R$700 million (approximately US$315 million or €235 million)",
+    "O4": "R$450 million (approximately US$200 million or €150 million)"
+  },
+  {
+    "Q": "Which country is Craig Pawson from?",
+    "materials": null,
+    "openA": "Craig Pawson is from England.",
+    "closeA": "O4",
+    "O1": "Scotland",
+    "O2": "Wales",
+    "O3": "Northern Ireland",
+    "O4": "England"
+  },
+  {
+    "Q": "In which year did Maccabi Haifa win its first Toto Cup?",
+    "materials": null,
+    "openA": "Maccabi Haifa won its first Toto Cup in 1994.",
+    "closeA": "O4",
+    "O1": "1992",
+    "O2": "1996",
+    "O3": "1998",
+    "O4": "1994"
+  },
+  {
+    "Q": "On which date was Lamine Yamal's father discharged from the hospital?",
+    "materials": null,
+    "openA": "Lamine Yamal's father was discharged from the hospital on 17 August 2024.",
+    "closeA": "O2",
+    "O1": "15 August 2024",
+    "O2": "17 August 2024",
+    "O3": "20 August 2024",
+    "O4": "10 August 2024"
+  },
+  {
+    "Q": "In which league did Bochum compete during World War II?",
+    "materials": null,
+    "openA": "Bochum competed in the Gauliga Westfalen during World War II.",
+    "closeA": "O2",
+    "O1": "Gauliga Bayern",
+    "O2": "Gauliga Westfalen",
+    "O3": "Gauliga Niederrhein",
+    "O4": "Gauliga Mitte"
+  },
+  {
+    "Q": "When did Aleksey Rios make his debut for Belarus?",
+    "materials": null,
+    "openA": "Aleksey Rios made his debut for Belarus on 31 August 2016.",
+    "closeA": "O4",
+    "O1": "15 June 2015",
+    "O2": "12 March 2017",
+    "O3": "22 November 2016",
+    "O4": "31 August 2016"
+  },
+  {
+    "Q": "Which architectural firm designed Stadium 974?",
+    "materials": null,
+    "openA": "Fenwick Iribarren Architects.",
+    "closeA": "O2",
+    "O1": "Populous",
+    "O2": "Fenwick Iribarren Architects",
+    "O3": "Herzog & de Meuron",
+    "O4": "HOK"
+  },
+  {
+    "Q": "Why was Kasper Hjulmand sacked from Mainz 05?",
+    "materials": null,
+    "openA": "Kasper Hjulmand was sacked from Mainz 05 after the team won only one of their 13 matches and dropped to 14th place.",
+    "closeA": "O4",
+    "O1": "Due to disagreements with the club's management over transfer policies",
+    "O2": "After the team was relegated to the second division",
+    "O3": "Because of poor performance in the DFB-Pokal tournament",
+    "O4": "After the team won only one of their 13 matches and dropped to 14th place"
+  },
+  {
+    "Q": "Who promoted the fight between Miguel Cotto and Ricardo Mayorga?",
+    "materials": null,
+    "openA": "Don King.",
+    "closeA": "O2",
+    "O1": "Bob Arum",
+    "O2": "Don King",
+    "O3": "Oscar De La Hoya",
+    "O4": "Floyd Mayweather Sr."
+  },
+  {
+    "Q": "Which team did Daniel Villahermosa play for before joining Castellón?",
+    "materials": null,
+    "openA": "Espanyol B",
+    "closeA": "O2",
+    "O1": "Gimnàstic",
+    "O2": "Espanyol B",
+    "O3": "Levante B",
+    "O4": "Reus Deportiu"
+  },
+  {
+    "Q": "Which club showed interest in loaning Marcello Trotta after his FA Cup debut?",
+    "materials": null,
+    "openA": "Rangers showed interest in loaning Marcello Trotta after his FA Cup debut.",
+    "closeA": "O4",
+    "O1": "Celtic",
+    "O2": "Fulham",
+    "O3": "Watford",
+    "O4": "Rangers"
+  },
+  {
+    "Q": "What was Troy Deeney's first managerial role?",
+    "materials": null,
+    "openA": "Troy Deeney's first managerial role was as head coach of Forest Green Rovers.",
+    "closeA": "O2",
+    "O1": "Assistant coach at Walsall",
+    "O2": "Head coach of Forest Green Rovers",
+    "O3": "Manager of Birmingham City",
+    "O4": "Interim coach at Watford"
+  },
+  {
+    "Q": "Which team did Jose Gaya join for his youth career?",
+    "materials": null,
+    "openA": "Valencia",
+    "closeA": "O2",
+    "O1": "Real Madrid",
+    "O2": "Valencia",
+    "O3": "Barcelona",
+    "O4": "Atletico Madrid"
+  },
+  {
+    "Q": "What was Yusuf Yazici's first trophy with Lille OSC?",
+    "materials": null,
+    "openA": "Yusuf Yazici's first trophy with Lille OSC was the Ligue 1 title in the 2020–21 season.",
+    "closeA": "O2",
+    "O1": "The Coupe de France in the 2019–20 season",
+    "O2": "The Ligue 1 title in the 2020–21 season",
+    "O3": "The Trophée des Champions in the 2021–22 season",
+    "O4": "The UEFA Europa League in the 2020–21 season"
+  },
+  {
+    "Q": "When was Kamory Doumbia born?",
+    "materials": null,
+    "openA": "February 18, 2003",
+    "closeA": "O2",
+    "O1": "March 12, 2002",
+    "O2": "February 18, 2003",
+    "O3": "January 5, 2004",
+    "O4": "December 20, 2001"
+  },
+  {
+    "Q": "How many appearances did Dejan Kulusevski make for Parma during his loan spell in 2020?",
+    "materials": null,
+    "openA": "19 appearances",
+    "closeA": "O2",
+    "O1": "15 appearances",
+    "O2": "19 appearances",
+    "O3": "22 appearances",
+    "O4": "17 appearances"
+  },
+  {
+    "Q": "Which manager called Francisco Conceicao to the senior national team in March 2024?",
+    "materials": null,
+    "openA": "Roberto Martínez called Francisco Conceicao to the senior national team in March 2024.",
+    "closeA": "O4",
+    "O1": "Fernando Santos",
+    "O2": "Luis Enrique",
+    "O3": "Didier Deschamps",
+    "O4": "Roberto Martínez"
+  },
+  {
+    "Q": "What is Antonio Mirante's position on the field?",
+    "materials": null,
+    "openA": "Goalkeeper",
+    "closeA": "O4",
+    "O1": "Defender",
+    "O2": "Midfielder",
+    "O3": "Forward",
+    "O4": "Goalkeeper"
+  },
+  {
+    "Q": "In which year did Aleksei Kulbakov officiate his first top league match in Belarus?",
+    "materials": null,
+    "openA": "Aleksei Kulbakov officiated his first top league match in Belarus in 2003.",
+    "closeA": "O2",
+    "O1": "2001",
+    "O2": "2003",
+    "O3": "2005",
+    "O4": "2007"
+  },
+  {
+    "Q": "Which Chinese Super League club does Lei Wu currently play for?",
+    "materials": null,
+    "openA": "Lei Wu currently plays for Shanghai Port.",
+    "closeA": "O2",
+    "O1": "Beijing Guoan",
+    "O2": "Shanghai Port",
+    "O3": "Guangzhou Evergrande",
+    "O4": "Shandong Taishan"
+  },
+  {
+    "Q": "During which season did Karlo Lulic make his professional debut?",
+    "materials": null,
+    "openA": "Karlo Lulic made his professional debut during the 2012/13 season.",
+    "closeA": "O2",
+    "O1": "2010/11",
+    "O2": "2012/13",
+    "O3": "2011/12",
+    "O4": "2013/14"
+  },
+  {
+    "Q": "What is Sergio Costa's full name?",
+    "materials": null,
+    "openA": "Sergio Costa's full name is Diego da Silva Costa.",
+    "closeA": "O2",
+    "O1": "Sergio Ramos Costa",
+    "O2": "Diego da Silva Costa",
+    "O3": "Sergio Oliveira Costa",
+    "O4": "Diego Maradona Costa"
+  },
+  {
+    "Q": "Which youth club did Giacomo Quagliata play for?",
+    "materials": null,
+    "openA": "Calcio Sicilia.",
+    "closeA": "O2",
+    "O1": "AC Milan",
+    "O2": "Calcio Sicilia",
+    "O3": "Inter Milan",
+    "O4": "Juventus"
+  },
+  {
+    "Q": "When did Mees Kreekels make his professional debut for Jong PSV?",
+    "materials": null,
+    "openA": "Mees Kreekels made his professional debut for Jong PSV on 13 January 2020.",
+    "closeA": "O4",
+    "O1": "10 December 2019",
+    "O2": "25 February 2020",
+    "O3": "5 January 2020",
+    "O4": "13 January 2020"
+  },
+  {
+    "Q": "In which match did Ismaila Sarr score his first goal for Senegal in the 2022 FIFA World Cup?",
+    "materials": null,
+    "openA": "In a 2–1 win over Ecuador.",
+    "closeA": "O2",
+    "O1": "In a 3–1 win over Qatar",
+    "O2": "In a 2–1 win over Ecuador",
+    "O3": "In a 1–0 win over the Netherlands",
+    "O4": "In a 3–3 draw with Cameroon"
+  },
+  {
+    "Q": "In which year was Andre Marriner promoted to the Select Group of professional referees?",
+    "materials": null,
+    "openA": "Andre Marriner was promoted to the Select Group of professional referees in 2005.",
+    "closeA": "O2",
+    "O1": "2003",
+    "O2": "2005",
+    "O3": "2007",
+    "O4": "2009"
+  },
+  {
+    "Q": "Which teams were involved in Carlos Del Cerro's first international match as a referee?",
+    "materials": null,
+    "openA": "The teams involved in Carlos Del Cerro's first international match were the under-19 teams of Scotland and Georgia.",
+    "closeA": "O2",
+    "O1": "The under-21 teams of Spain and Portugal",
+    "O2": "The under-19 teams of Scotland and Georgia",
+    "O3": "The senior national teams of France and Belgium",
+    "O4": "The under-20 teams of England and Germany"
+  },
+  {
+    "Q": "In which city was Fabio Gonzalez born?",
+    "materials": null,
+    "openA": "Naples, Italy",
+    "closeA": "O2",
+    "O1": "Rome, Italy",
+    "O2": "Naples, Italy",
+    "O3": "Milan, Italy",
+    "O4": "Turin, Italy"
+  },
+  {
+    "Q": "How many appearances did Etrit Berisha make for Torino during his loan spell?",
+    "materials": null,
+    "openA": "Etrit Berisha made 10 appearances for Torino during his loan spell.",
+    "closeA": "O4",
+    "O1": "15",
+    "O2": "5",
+    "O3": "20",
+    "O4": "10"
+  },
+  {
+    "Q": "Does Fabrizio Pasqua have any specific areas of expertise mentioned in the available information?",
+    "materials": null,
+    "openA": "No specific areas of expertise are mentioned for Fabrizio Pasqua.",
+    "closeA": "O2",
+    "O1": "Yes, he specializes in youth development and coaching.",
+    "O2": "No specific areas of expertise are mentioned for Fabrizio Pasqua.",
+    "O3": "Yes, he is known for his expertise in sports psychology.",
+    "O4": "Yes, he focuses on tactical analysis and match preparation."
+  },
+  {
+    "Q": "Which club did Jonathan Klinsmann join after departing from Hertha BSC?",
+    "materials": null,
+    "openA": "LA Galaxy.",
+    "closeA": "O2",
+    "O1": "Inter Miami",
+    "O2": "LA Galaxy",
+    "O3": "Seattle Sounders",
+    "O4": "Chicago Fire"
+  },
+  {
+    "Q": "In which year did Aleandro Rosi make his final appearance for the Italy under-19 football team?",
+    "materials": null,
+    "openA": "Aleandro Rosi made his last appearance for the Italy under-19 football team in 2005.",
+    "closeA": "O2",
+    "O1": "2003",
+    "O2": "2005",
+    "O3": "2007",
+    "O4": "2009"
+  },
+  {
+    "Q": "Which national youth teams did Thomas Ouwejan represent?",
+    "materials": null,
+    "openA": "Thomas Ouwejan represented the Netherlands U17, Netherlands U19, Netherlands U20, and Netherlands U21 teams.",
+    "closeA": "O2",
+    "O1": "Netherlands U16, Netherlands U18, Netherlands U19, and Netherlands U20",
+    "O2": "Netherlands U17, Netherlands U19, Netherlands U20, and Netherlands U21",
+    "O3": "Netherlands U18, Netherlands U19, Netherlands U20, and Netherlands U22",
+    "O4": "Netherlands U17, Netherlands U18, Netherlands U19, and Netherlands U20"
+  },
+  {
+    "Q": "How many goals did Edgar Prib score for Hannover 96 II?",
+    "materials": null,
+    "openA": "Edgar Prib scored 3 goals for Hannover 96 II.",
+    "closeA": "O4",
+    "O1": "5",
+    "O2": "1",
+    "O3": "7",
+    "O4": "3"
+  },
+  {
+    "Q": "Which Cypriot club did Saido Berahino join in 2022?",
+    "materials": null,
+    "openA": "Saido Berahino joined AEL Limassol in 2022.",
+    "closeA": "O2",
+    "O1": "APOEL Nicosia",
+    "O2": "AEL Limassol",
+    "O3": "Omonia Nicosia",
+    "O4": "Anorthosis Famagusta"
+  },
+  {
+    "Q": "Which club did Serhou Guirassy join on loan in 2019?",
+    "materials": null,
+    "openA": "Amiens.",
+    "closeA": "O2",
+    "O1": "Dijon",
+    "O2": "Amiens",
+    "O3": "Strasbourg",
+    "O4": "Caen"
+  },
+  {
+    "Q": "What position did Wes Morgan play as a professional footballer?",
+    "materials": null,
+    "openA": "Wes Morgan played as a defender.",
+    "closeA": "O3",
+    "O1": "Midfielder",
+    "O2": "Forward",
+    "O3": "Defender",
+    "O4": "Goalkeeper"
+  },
+  {
+    "Q": "When did Thiago Motta make his debut for Brazil?",
+    "materials": null,
+    "openA": "Thiago Motta made his debut for Brazil in the 2003 CONCACAF Gold Cup.",
+    "closeA": "O2",
+    "O1": "In the 2001 Copa América",
+    "O2": "In the 2003 CONCACAF Gold Cup",
+    "O3": "In the 2005 FIFA Confederations Cup",
+    "O4": "In the 2007 Copa América"
+  },
+  {
+    "Q": "Was Eugen Galekovic part of Australia's 2014 FIFA World Cup squad?",
+    "materials": null,
+    "openA": "Yes.",
+    "closeA": "O1",
+    "O1": "Yes",
+    "O2": "No, he was part of the 2010 squad",
+    "O3": "No, he retired before 2014",
+    "O4": "No, he was injured and replaced"
+  },
+  {
+    "Q": "What was the construction cost of Wembley Stadium?",
+    "materials": null,
+    "openA": "The construction cost of Wembley Stadium was £789 million (£1.51 billion today).",
+    "closeA": "O2",
+    "O1": "£500 million (£950 million today)",
+    "O2": "£789 million (£1.51 billion today)",
+    "O3": "£1 billion (£1.8 billion today)",
+    "O4": "£650 million (£1.2 billion today)"
+  },
+  {
+    "Q": "Which club did Michael Bradley play for before joining Toronto FC?",
+    "materials": null,
+    "openA": "Roma.",
+    "closeA": "O2",
+    "O1": "Borussia Mönchengladbach",
+    "O2": "Roma",
+    "O3": "Aston Villa",
+    "O4": "Chievo Verona"
+  },
+  {
+    "Q": "Where was Anton Skipper born?",
+    "materials": null,
+    "openA": "Anton Skipper was born in Brøndbyøster, Denmark.",
+    "closeA": "O4",
+    "O1": "Copenhagen, Denmark",
+    "O2": "Aarhus, Denmark",
+    "O3": "Odense, Denmark",
+    "O4": "Brøndbyøster, Denmark"
+  },
+  {
+    "Q": "How many goals did Marvin Compper score for Fiorentina in the 2012–13 season?",
+    "materials": null,
+    "openA": "The number of goals Marvin Compper scored for Fiorentina in the 2012–13 season is not specified in the text.",
+    "closeA": "O2",
+    "O1": "1",
+    "O2": "The number of goals Marvin Compper scored for Fiorentina in the 2012–13 season is not specified in the text.",
+    "O3": "3",
+    "O4": "0"
+  },
+  {
+    "Q": "How many goals did Racing Club score under Eduardo Coudet during the 2018–19 Argentine Primera División season?",
+    "materials": null,
+    "openA": "42.",
+    "closeA": "O2",
+    "O1": "38",
+    "O2": "42",
+    "O3": "45",
+    "O4": "40"
+  },
+  {
+    "Q": "Which team does Ondrej Karafiat currently play for as of 2024?",
+    "materials": null,
+    "openA": "1. FC Nürnberg.",
+    "closeA": "O4",
+    "O1": "FC Augsburg",
+    "O2": "VfB Stuttgart",
+    "O3": "Hertha BSC",
+    "O4": "1. FC Nürnberg"
+  },
+  {
+    "Q": "How many goals did Nicolas Otamendi score during his time at Manchester City?",
+    "materials": null,
+    "openA": "8 goals.",
+    "closeA": "O2",
+    "O1": "5 goals",
+    "O2": "8 goals",
+    "O3": "10 goals",
+    "O4": "12 goals"
+  },
+  {
+    "Q": "What was the primary reason for converting the West Stand and the north-east corner of the Brentford Community Stadium in 2022?",
+    "materials": null,
+    "openA": "To allow safe-standing during matches.",
+    "closeA": "O2",
+    "O1": "To increase the total seating capacity",
+    "O2": "To allow safe-standing during matches",
+    "O3": "To install a new video screen for replays",
+    "O4": "To create additional hospitality suites"
+  },
+  {
+    "Q": "In which city and county is Turf Moor located?",
+    "materials": null,
+    "openA": "Turf Moor is located in Burnley, Lancashire, England.",
+    "closeA": "O4",
+    "O1": "Manchester, Greater Manchester, England",
+    "O2": "Liverpool, Merseyside, England",
+    "O3": "Birmingham, West Midlands, England",
+    "O4": "Burnley, Lancashire, England"
+  },
+  {
+    "Q": "What is Fredrik Gulbrandsen's height?",
+    "materials": null,
+    "openA": "Fredrik Gulbrandsen is 1.75 meters (5 feet 9 inches) tall.",
+    "closeA": "O2",
+    "O1": "1.80 meters (5 feet 11 inches)",
+    "O2": "1.75 meters (5 feet 9 inches)",
+    "O3": "1.70 meters (5 feet 7 inches)",
+    "O4": "1.85 meters (6 feet 1 inch)"
+  },
+  {
+    "Q": "What was the result of Ghana's opening match in the 2014 FIFA World Cup?",
+    "materials": null,
+    "openA": "Ghana lost 2–1 to the United States in their opening match of the 2014 FIFA World Cup.",
+    "closeA": "O4",
+    "O1": "Ghana won 1–0 against Portugal",
+    "O2": "Ghana drew 2–2 with Germany",
+    "O3": "Ghana lost 3–1 to Argentina",
+    "O4": "Ghana lost 2–1 to the United States"
+  },
+  {
+    "Q": "Which youth team did Sebastien De Maio grow up in?",
+    "materials": null,
+    "openA": "Sebastien De Maio grew up in Nancy youth team.",
+    "closeA": "O4",
+    "O1": "Lyon youth team",
+    "O2": "Marseille youth team",
+    "O3": "Saint-Etienne youth team",
+    "O4": "Nancy youth team"
+  },
+  {
+    "Q": "What is the seating capacity of Stadio Alberto Picco?",
+    "materials": null,
+    "openA": "Stadio Alberto Picco has a seating capacity of 11,466.",
+    "closeA": "O2",
+    "O1": "10,000",
+    "O2": "11,466",
+    "O3": "12,500",
+    "O4": "9,800"
+  },
+  {
+    "Q": "How many goals did Ryan Babel score during his time at Galatasaray?",
+    "materials": null,
+    "openA": "Ryan Babel scored 15 goals for Galatasaray.",
+    "closeA": "O4",
+    "O1": "10",
+    "O2": "12",
+    "O3": "18",
+    "O4": "15"
+  },
+  {
+    "Q": "Which youth club did Pedro Teixeira play for?",
+    "materials": null,
+    "openA": "Xamax.",
+    "closeA": "O4",
+    "O1": "Basel",
+    "O2": "Grasshopper",
+    "O3": "Servette",
+    "O4": "Xamax"
+  },
+  {
+    "Q": "How many goals did John Anthony Brooks score for Hertha BSC?",
+    "materials": null,
+    "openA": "Nine goals.",
+    "closeA": "O4",
+    "O1": "Seven goals",
+    "O2": "Ten goals",
+    "O3": "Eight goals",
+    "O4": "Nine goals"
+  },
+  {
+    "Q": "How many league matches did Peter Gulacsi play for Hereford United?",
+    "materials": null,
+    "openA": "Peter Gulacsi played 18 league matches for Hereford United.",
+    "closeA": "O2",
+    "O1": "12",
+    "O2": "18",
+    "O3": "22",
+    "O4": "15"
+  },
+  {
+    "Q": "Which team serves as the farm team for Salzburg?",
+    "materials": null,
+    "openA": "Salzburg's farm team is FC Liefering.",
+    "closeA": "O2",
+    "O1": "Red Bull Bragantino",
+    "O2": "FC Liefering",
+    "O3": "RB Leipzig",
+    "O4": "SV Austria Salzburg"
+  },
+  {
+    "Q": "Against which club did Che Adams score in the EFL Cup in July 2020?",
+    "materials": null,
+    "openA": "Che Adams scored against Manchester City in the EFL Cup in July 2020.",
+    "closeA": "O2",
+    "O1": "Liverpool",
+    "O2": "Manchester City",
+    "O3": "Chelsea",
+    "O4": "Tottenham Hotspur"
+  },
+  {
+    "Q": "When and where was Viktor Goncharenko born?",
+    "materials": null,
+    "openA": "Viktor Goncharenko was born on 10 June 1977 in Khoiniki, Belarus.",
+    "closeA": "O4",
+    "O1": "12 May 1975 in Minsk, Belarus",
+    "O2": "15 August 1978 in Gomel, Belarus",
+    "O3": "10 June 1977 in Brest, Belarus",
+    "O4": "10 June 1977 in Khoiniki, Belarus"
+  },
+  {
+    "Q": "What is the significance of the name \"Krestovsky Stadium\"?",
+    "materials": null,
+    "openA": "The name \"Krestovsky Stadium\" refers to the location of the stadium on Krestovsky Island in Saint Petersburg.",
+    "closeA": "O4",
+    "O1": "It is named after a famous Russian soccer player.",
+    "O2": "It refers to the architectural style of the stadium.",
+    "O3": "It honors a historical event in Saint Petersburg.",
+    "O4": "The name refers to the location of the stadium on Krestovsky Island in Saint Petersburg."
+  }
+]

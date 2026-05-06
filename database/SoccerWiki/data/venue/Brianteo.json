@@ -1,0 +1,45 @@
+{
+    "VENUE": "Brianteo",
+    "CITY": "Monza",
+    "TEAM": "Monza",
+    "CAPACITY": 16917,
+    "VENUE_URL": "https://wikipedia.org/wiki/Stadio_Brianteo",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Stadio_Brianteo_2024.jpg/120px-Stadio_Brianteo_2024.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "MunicipalityofMonza",
+            "Address": "ViaFrancoTognini4,20900",
+            "Surface": "Grass",
+            "Capacity": "17,102",
+            "Location": "Monza,Italy",
+            "Operator": "ACMonza",
+            "Field size": "105 m× 68 m(344 ft× 223 ft)",
+            "Coordinates": ".mw-parser-output.geo-default,.mw-parser-output.geo-dms,.mw-parser-output.geo-dec{display:inline}.mw-parser-output.geo-nondefault,.mw-parser-output.geo-multi-punct,.mw-parser-output.geo-inline-hidden{display:none}.mw-parser-output.longitude,.mw-parser-output.latitude{white-space:nowrap}45°34′58″N9°18′29″E﻿/﻿45.58278°N9.30806°E﻿/45.58278;9.30806",
+            "Record attendance": "16,917vsACMilan(8August2023,TrofeoSilvioBerlusconi)"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "1988",
+            "Broke ground": "1982",
+            "Project manager": "GiorgioBattistoni"
+        }
+    },
+    "CONTENT": {
+        "Events": "In 2016, the stadium held the 2017 Rugby League World Cup Qualifier between Italy and Wales.Michael Jackson performed, on two consecutive nights, at the stadium during his Dangerous World Tour on 6–7 July 1992 in front of 46,000 people.Elton John performed at the Brianteo during his The One Tour, on 10 July 1992.",
+        "History": "Stadio Brianteo, located on the north-eastern outskirts of Monza, was built as a replacement for the Stadio Gino Alfonso Sada, located in the city center near the station. The construction works started after a long debate and lasted a long time due to the technical difficulties in the construction of the structure that supports the coverage of the grandstand and the changes to the project in progress. Initially an athletics track was planned, but it was eliminated during the works.The stadium was inaugurated on 28 August 1988 during the Coppa Italia match against Roma, which ended with a score of 2–1 for Monza, with goals by Casiraghi, Giannini, and Mancuso.Since 4 September 2020, the stadium is known commercially as the U-Power Stadium for the 2020–21 Serie B season.",
+        "See also": "List of football stadiums in ItalyLists of stadiums",
+        "References": {}
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a3/Colosseum-2003-07-09.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e7/Stadio_Brianteo_2014.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a1/Stadio_Brianteo_2024.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/56/Stadio_brianteo_monza_2022.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Translation_to_english_arrow.svg",
+        "https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg",
+        "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/96/Symbol_category_class.svg"
+    ],
+    "SUMMARY": "Stadio Brianteo, known for sponsorship reasons as the U-Power Stadium since September 2020, is a multi-purpose stadium in Monza, Italy, and the home of AC Monza. Mostly used for football matches, the stadium was built in 1988 and has a capacity of 17,102. The stadium is also used for rugby matches, concerts and other events.\n\n"
+}

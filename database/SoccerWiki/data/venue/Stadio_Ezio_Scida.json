@@ -1,0 +1,33 @@
+{
+    "VENUE": "Stadio Ezio Scida",
+    "CITY": "Crotone",
+    "TEAM": "Crotone",
+    "CAPACITY": 16547,
+    "VENUE_URL": "https://wikipedia.org/wiki/Stadio_Ezio_Scida",
+    "VENUE_IMAGE_URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Stadio_EZIO_SCIDA.jpg/300px-Stadio_EZIO_SCIDA.jpg",
+    "INFOBOX": {
+        "": {
+            "Owner": "MunicipalityofCrotone",
+            "Surface": "Grass100x65m",
+            "Capacity": "16,547",
+            "Location": "Crotone,Italy"
+        },
+        "Tenants": {},
+        "Construction": {
+            "Opened": "1946",
+            "Renovated": "2000,2016",
+            "Broke ground": "1935"
+        }
+    },
+    "CONTENT": {
+        "History": "Stadio Ezio Scida opened in 1946 after having been under construction for 11 years. The stadium was named after ex-player Ezio Scida, who died during a team trip in 1946.Until 1999, Stadio Ezio Scida was a very modest structure that could hold no more than 5,000 people. Redevelopment works involving works of all stand around the turn of the millennium almost doubled capacity to just under 10,000 seats.Following Crotone's promotion to the Serie A in 2016, the stadium got further expanded with temporary bleachers on top of the main stand and Curva Sud, raising the capacity of over 16,000.",
+        "References": {}
+    },
+    "IMAGES": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a3/Colosseum-2003-07-09.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/66/Stadio_EZIO_SCIDA.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+        "https://upload.wikimedia.org/wikipedia/en/9/99/Question_book-new.svg"
+    ],
+    "SUMMARY": "Stadio Ezio Scida is a football stadium in Crotone, Italy.  It is currently the home of F.C. Crotone. The stadium holds 16,547 people.\n\n"
+}
